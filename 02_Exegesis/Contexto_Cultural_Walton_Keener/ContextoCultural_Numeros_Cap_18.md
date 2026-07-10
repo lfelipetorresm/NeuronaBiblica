@@ -1,0 +1,33 @@
+---
+titulo: Contexto Cultural de Números 18
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Numeros"]
+---
+
+# Contexto Cultural de [[Números]] - Capítulo 18
+
+### Números 18:1-7
+El concepto y el cuidado del ámbito sagrado. El centro del espacio sagrado era el lugar santísimo, donde estaba el arca. Partiendo de ese punto, había zonas concéntricas de santidad, cada una de las cuales tenía sus niveles de *pureza. Una de las principales tareas de los sacerdotes era hacer cumplir las reglas que mantenían el nivel adecuado de santidad para cada zona. Como la tribu de Leví había sido separada para que sirvieran como sacerdotes, era necesario asignarles deberes y responsabilidades, y crear una jerarquía dentro del grupo encabezada por Aarón y sus hijos. Todos los levitas estaban a cargo de la familia de Aarón. Debían cumplir las tareas triviales necesarias para mantener la tienda de reunión, cuidar sus recintos y ayudar a los adoradores que llevaban ofrendas para los sacrificios. Pero no podía permitirse que nadie, fuera de Aarón, sus hijos y sus descendientes, realizara concretamente los sacrificios o ministrara ante el arca del testimonio. Cualquier violación de estas restricciones por parte de un levita provocaría tanto la muerte del levita como la de Aarón. Cualquiera que no fuera levita y entrara en los recintos vedados del santuario era condenado a muerte. Por medio de estas restricciones impuestas a la comunidad, y la imposición de tan pesadas responsabilidades sobre la familia de Aarón, se magnificaban y protegían el misterio y el poder que se asociaban con el servicio a Dios, y los elementos relacionados con él.
+
+### Números 18:1-32
+Los deberes y las prerrogativas sacerdotales
+
+### Números 18:8-10
+Las porciones de los sacrificios. Las porciones más sagradas de los sacrificios estaban destinadas para el consumo de Aarón y sus hijos como recompensa por sus pesadas responsabilidades. Consistían en los elementos que eran llevados a los recintos más sagrados de la tienda de reunión (ver Lev 6:1-30; Lev 7:1-10). No se las podía compartir, como otras porciones, con sus familias sino que debían ser comidas por los sacerdotes que eran ritualmente puros y por lo mismo santos en grado tal como para consumir dones sagrados. Esto incluía el grano, las ofrendas por el pecado y la culpa, algunas de las cuales debían ser quemadas en el altar al tiempo que el resto quedaba como comida sagrada para los sacerdotes. Los textos sagrados heteos también expresaban la preocupación por el consumo de la “comida de los dioses” por parte de los príncipes y otros funcionarios seculares. La seriedad de la propiedad sagrada también se encuentra en la ley de Mesopotamia, donde había penas estrictas (multas pesadas o pena capital) prescritas por el robo de propiedad del templo.
+
+### Números 18:11
+La ofrenda mecida. Luego de la lista de porciones de sacrificios apartadas para los sacerdotes y sus familias, están las ofrendas mecidas. Estas consistían en elementos llevados al santuario a los que se daba una distinción especial por medio de una elevación *ritual delante del altar (ver el comentario sobre Lev 8:22-30). Esto no incluía todas las ofrendas mecidas, dado que algunas eran consumidas totalmente en el fuego (Éxo 29:22-25) y otras eran reservadas exclusivamente para los sacerdotes (Lev 14:12-14).
+
+### Números 18:12-19
+Prerrogativas sacerdotales. Completando la lista de elementos apartados perpetuamente para los sacerdotes y sus familias (excluyendo a las nueras y a los obreros), aparecen los primeros frutos de la cosecha (grano, aceite y vino) y la carne de los primogénitos de los animales. Son impuestas algunas regulaciones. Los animales inmundos podían ser redimidos por sus dueños por un precio prefijado y los bebés humanos podían ser redimidos por sus padres (ver Éxo 13:12, Éxo 13:13; Éxo 34:19, Éxo 34:20). Toda la sangre, la grasa y ciertos órganos internos debían ser quemados en el altar como ofrenda de paz (ver Lev 3:9; Lev 7:3). Como estos productos animales contenían la esencia simbólica de la vida, era adecuado que se los diera por completo a Dios en lugar de que fueran apartados para el consumo de los sacerdotes.
+
+### Números 18:16
+El siclo del santuario. El peso del siclo usado para redención de los hijos y los animales inmundos equivale a 20 geras de plata (11,5 g). No sería acuñado como moneda hasta el siglo IV a. de J.C. Para las consideraciones sobre pesos, ver el comentario sobre Éxo 30:13.
+
+### Números 18:19
+El pacto de sal. La sal era ampliamente usada como símbolo de preservación. Cuando se hacían tratados o alianzas, era empleada para simbolizar que sus términos serían preservados por mucho tiempo. Todos los contextos babilónicos, persas, árabes y griegos dan testimonio de este uso simbólico. Del mismo modo, en la Biblia el pacto entre el Señor e Israel es identificado como un pacto de sal, un pacto que sería largamente mantenido. Los aliados que llegaban a esos acuerdos generalmente compartían una comida comunitaria en la que figuraba la carne salada. De ese modo, el uso de la sal en los sacrificios era un recordatorio adecuado de la relación de pacto. Además, la sal impedía la acción de la levadura y, como ésta era un símbolo de rebelión, aquélla podía representar claramente algo que inhibía la rebelión (ver Lev 2:13).
+
+### Números 18:21-32
+Los diezmos como sostén de los sacerdotes en el antiguo Cercano Oriente. Aparentemente, la práctica de destinar una décima parte de todo lo producido (granos, frutas o animales) como sostén del sacerdocio era exclusiva de los israelitas. Aunque los templos de Mesopotamia tenían rentas exactas sobre las tierras de los campesinos arrendatarios, no se podía poner impuestos a toda la población. En consecuencia, los ingresos necesarios para mantener el templo y el sacerdocio provenían de individuos y de la realeza. Los reyes también tenían tierras de las que obtenían ingresos en Egipto y Mesopotamia, pero esto no tenía el mismo significado que el diezmo. En la cultura cananea, el diezmo era muy similar al de Israel pero estaba destinado al rey y a su administración y no al sacerdocio, aunque a veces los sacerdotes eran incluidos en el personal administrativo. Como los levitas no habían recibido tierras en la distribución después de la conquista, debían ser sostenidos por todo el pueblo por medio del diezmo. Sin embargo, debe hacerse notar que de lo que recibían los levitas, ellos también pagaban un diezmo para Aarón y su familia; de ese modo, se podía notar una clara distinción entre los levitas y los sacerdotes.

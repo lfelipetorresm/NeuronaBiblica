@@ -1,0 +1,60 @@
+---
+titulo: Contexto Cultural de Esdras 6
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Esdras"]
+---
+
+# Contexto Cultural de [[Esdras]] - Capítulo 6
+
+### Esdras 6:1
+Los archivos en la tesorería de Babilonia. Ver el comentario sobre Esd 4:15 en cuanto al mantenimiento de los archivos en el Imperio persa. Durante el reinado de Darío, Babilonia seguía siendo la capital de la satrapía del Transéufrates, y por lo tanto, habría sido el depósito de todos los registros de sus provincias. Muchos de estos documentos han de haber sido cilindros o tablillas de arcilla, aunque algunos podrían haber sido escritos en papiro o rollos de cuero.
+
+### Esdras 6:1-12
+Darío da permiso
+
+### Esdras 6:2
+La ciudadela de Acmeta. Acmeta, o Ecbatana, había sido la capital de los medos hasta el 550 a. de J.C. Estaba ubicada en las montañas de Zagros en el noroeste de Irán, al pie del monte Orontes. Tras su captura por Ciro se convirtió en la residencia de verano de los reyes persas, quienes trasladaban su corte de Susa a Acmeta para aprovechar el clima más templado. Se amplió la búsqueda del registro del trato de Ciro con los israelitas exiliados a este archivo real cuando no se halló nada en el centro regional de Babilonia. Estaba muy difundido el uso de rollos de cuero para este tipo de documento en el Imperio persa.
+
+### Esdras 6:3
+Las dimensiones. Por lo general se considera que un escriba confundió las cifras dadas para las dimensiones, ya que el templo de Salomón sólo había medido 60 codos de largo, 20 codos de ancho y 30 codos de alto. Ya que este templo iba a construirse sobre los cimientos del anterior, se esperaría que tuviera las mismas dimensiones. Como alternativa, los números del texto del decreto posiblemente representen cifras ideales o las máximas dimensiones posibles. Es interesante que Ciro y Darío se hayan interesado tanto en patrocinar la edificación de templos, ya que no hay testimonios (ni en la literatura ni en la arqueología) de que desempeñara un rol significativo en el zoroastrismo, la religión de la Persia aqueménida. Heródoto también indica la ausencia de los templos en la práctica religiosa de los persas.
+
+### Esdras 6:7
+Reedificado en su lugar. Una de las tareas registradas con mayor frecuencia en los anales reales mesopotámicos era la restauración de los templos (p. ej., los de Ur-Nammu de Ur III y el rey casita Kurigalzu). Una vez que un espacio sagrado había sido identificado y usado para fines religiosos, era esencial que se siguiera empleando. Por lo tanto, los reyes como Ciro habrían supuesto que el único lugar apropiado para la restauración de un templo habría sido donde estaban los cimientos del anterior (ver el comentario sobre Esd 3:3 y Esd 3:10). Esta práctica también explica por qué las naciones o religiones vencedoras solían construir sus propias casas de adoración sobre los sitios de templos anteriores.
+
+### Esdras 6:8
+Pago de la tesorería real. La inclusión de las dimensiones del templo restaurado (ver el v. Esd 6:3) implica una inquietud en cuanto a sobrecostos para el gobierno persa. Es posible que se haya impuesto un tributo especial al sátrapa del Transéufrates para ayudar a pagar el proyecto de restauración, pero estos fondos habrían sido enviados primero a la tesorería general y luego distribuidos a los contratistas de Jerusalén a medida que hicieran falta. También hay un sello oficial para el proyecto ya que tiene un renglón en el presupuesto real. El Cilindro de Ciro (ver el comentario sobre Esd 1:2-4) no es claro en cuanto a la medida en la cual la tesorería real contribuyó a los proyectos de reedificación mencionados, aunque las excavaciones en varios lugares a lo largo de Babilonia han recuperado ladrillos utilizados para la reedificación de santuarios que están estampados con el nombre de Ciro. Esto sugiere que la tesorería real financió el proyecto.
+
+### Esdras 6:9
+El uso de los bienes provistos como sacrificio. La generosidad de Darío que está reflejada aquí también está evidenciada en inscripciones a lo largo del imperio. De hecho, los egipcios, que fueron beneficiarios de su magnanimidad, lo llamaron “amigo de todos los dioses”. Los animales mencionados están designados específicamente para holocaustos (ver el comentario sobre Lev 1:3, Lev 1:4). Es posible que la ración de trigo, sal, vino y aceite haya sido dividida entre los sacerdotes y los trabajadores de la construcción, ya que es una porción diaria; pero tal vez también haya sido utilizada en ofrendas. Con frecuencia se acompañaban otras ofrendas con ofrendas de grano (hechas de aceite y sémola) y se le daban porciones al sacerdote que oficiaba (para el uso de trigo, aceite y sal en estas ofrendas, ver los comentarios sobre Lev 2:1-16). Para el uso de vino para libaciones, ver el comentario sobre Lev 23:12, Lev 23:13. Josefo informa sobre la provisión de fondos para la edificación del templo y de estos mismos ingredientes para sacrificios para los judíos varios siglos más tarde por Antíoco el Grande.
+
+### Esdras 6:10
+El uso de los bienes provistos como sacrificio. La generosidad de Darío que está reflejada aquí también está evidenciada en inscripciones a lo largo del imperio. De hecho, los egipcios, que fueron beneficiarios de su magnanimidad, lo llamaron “amigo de todos los dioses”. Los animales mencionados están designados específicamente para holocaustos (ver el comentario sobre Lev 1:3, Lev 1:4). Es posible que la ración de trigo, sal, vino y aceite haya sido dividida entre los sacerdotes y los trabajadores de la construcción, ya que es una porción diaria; pero tal vez también haya sido utilizada en ofrendas. Con frecuencia se acompañaban otras ofrendas con ofrendas de grano (hechas de aceite y sémola) y se le daban porciones al sacerdote que oficiaba (para el uso de trigo, aceite y sal en estas ofrendas, ver los comentarios sobre Lev 2:1-16). Para el uso de vino para libaciones, ver el comentario sobre Lev 23:12, Lev 23:13. Josefo informa sobre la provisión de fondos para la edificación del templo y de estos mismos ingredientes para sacrificios para los judíos varios siglos más tarde por Antíoco el Grande.
+
+### Esdras 6:10
+Oraciones por el bienestar del rey. Este pedido es paralelo a comentarios similares en el Cilindro de Ciro, que pide a los dioses, y supuestamente a sus adoradores, que “recomienden” a Ciro y a su hijo al dios Marduc para que les conceda “larga vida”. Aunque esto tal vez represente un simple deseo de recibir la bendición del dios, como alternativa podría estar diseñado para evitar que se pidiera a los dioses que derrocaran o maldijeran al rey. De hecho, Heródoto informa que todos los sacrificios debían ir acompañados de oraciones a favor del rey. Los papiros elefantinos también ofrecen oraciones a un funcionario persa por su ayuda en la reedificación de su templo destruido. La Carta de Janto demuestra la elaboración de un decreto para mostrar el conocimiento del rey y su preocupación por la práctica religiosa de los súbditos en cuestión. Este documento de Licia (en la actual Turquía) data del 358 a. de J.C. y formaliza el apoyo persa del culto en ese lugar con algunas de las mismas cuestiones tratadas aquí.
+
+### Esdras 6:11
+El castigo por la desobediencia. Era común que los tratados y los decretos reales terminaran con una maldición o una cláusula que amenazaba castigo si se desobedecían las disposiciones del documento. Se podría comparar la maldición de Josué para el hombre que reedificara a Jericó en Jos 6:26 y la maldición de cualquier príncipe que reemplazara la puerta construida por el rey Azitawadd de Karatepe con esta admonición. También hay un enunciado parecido en el epílogo del código de Hamurabi, que encarga a los gobernantes futuros proveer justicia o enfrentar una maldición de los dioses. Se ilustra el castigo del empalamiento en los relieves asirios de Laquis y se lo menciona en varios archivos reales. Se acostumbraba empalar el cuerpo de la víctima ejecutada en una estaca puntiaguda a plena vista del público. Hubo empalamientos en Persia, por ejemplo tras la ejecución de Inaros (líder de una revuelta libia) por parte de Amestris durante el reinado de su hijo Artajerjes. Se le negaba la sepultura correcta, ya que las aves y los insectos devoraban los restos. Una de las maldiciones utilizadas por Darío en sus inscripciones es la siguiente: “Si borras estas palabras, que Ahura-Mazda te mate y que sea destruida tu casa”, mientras que otra dice “Que Ahura-Mazda tire abajo lo que construyas”.
+
+### Esdras 6:12
+Maldición en nombre del dios local. Ya que muchos de los pueblos del mundo antiguo creían que los dioses eran locales, es decir que estaban vinculados con personas y lugares específicos, les parecería apropiado que la deidad local se encargara de los acontecimientos dentro de su “jurisdicción” divina.
+
+### Esdras 6:13-22
+Conclusión, dedicación y celebración de la Pascua
+
+### Esdras 6:15
+La fecha de la conclusión. Un acontecimiento tan importante como la conclusión del segundo templo exigía una documentación cuidadosa. La fecha provista la coloca en el duodécimo mes del calendario babilonio, Adar, que debió haber sido febrero-marzo. El sexto año de Darío sería el 515 a. de J.C. y el tercer día del mes de Adar fijaría la fecha de la conclusión en el 12 de marzo del 515. Debería notarse que tanto 1Es 7:5 como Josefo fijan la fecha en el vigésimo tercer día de Adar y algunos la han preferido ya que el tercero era sábado.
+
+### Esdras 6:17
+Comparación del sacrificio de dedicación con 1 Reyes. Ver el comentario sobre 2Cr 7:5-7 para la actividad dedicatoria en torno al templo de Salomón. El número de animales sacrificados en la ceremonia de dedicación del segundo templo era mucho menor que el de la época de Salomón (1Re 8:63): 22.000 toros contra 100 toros; 120.000 ovejas contra 200 carneros y 400 corderos. La ofrenda de 12 machos cabríos por los pecados obedece al ritual sacerdotal (Lev 4:22-26; ver el comentario sobre Lev 4:13-32) y encaja en el intento de Esdras por establecer la idea de una coalición de 12 tribus, renacida ahora mediante la experiencia del exilio y lista para retomar la relación del pacto con Yahvé en Judá y Jerusalén.
+
+### Esdras 6:19
+La Pascua. No había habido ninguna mención de la celebración de la Pascua desde la época de Josías (más de 100 años atrás; ver el comentario sobre 2Cr 35:18). Ahora, como parte del rejuvenecimiento de la comunidad judía restaurada en Judá, había que volver a instituir este ritual (ver el comentario sobre Éxo 12:1-28), que es paralelo al escape de la esclavitud recién experimentada por los exiliados que regresaron. La fecha del decimocuarto día de Nisán (el primer mes) se basa en el calendario religioso (Éxo 12:2-6; Lev 23:5). Nótense las celebraciones previas de la Pascua después de la purificación o renovación del templo (ver los comentarios sobre 2Cr 30:1-27).
+
+### Esdras 6:21
+Apartados de la inmundicia de las naciones. Existen varias posibilidades para este grupo de personas. Es posible que hayan sido remanentes del pueblo del reino del norte o de los de Judá que no fueron llevados al exilio (ver 2Cr 30:17-21). Se podría haber percibido su contacto con los no israelitas durante el período del exilio como una contaminación de la cual tendrían que separarse conscientemente. También es posible que la ceremonia de la Pascua haya sido extendida, como lo fue en Éxo 12:48, a los prosélitos (gerim) que se habían convertido a la adoración exclusiva a Yahvé.
+
+### Esdras 6:22
+La fiesta de los Panes sin levadura. Ver los comentarios sobre Éxo 12:14-20 y Lev 23:6-8. Ya que la celebración de esta fiesta también está vinculada a la celebración de la Pascua por Ezequías (2Cr 30:13) y Josías (2Cr 35:16, 2Cr 35:17), también es apropiada aquí. La alegría expresada en esta celebración de 7 días está vinculada al hecho de que Dios haya “predispuesto hacia ellos el corazón del rey de Asiria” (símbolo de los gobernadores persas de Mesopotamia), lo cual posibilitó la restauración.

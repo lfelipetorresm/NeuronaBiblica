@@ -1,0 +1,69 @@
+---
+titulo: Contexto Cultural de 2 Pedro 1
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#2_Pedro"]
+---
+
+# Contexto Cultural de [[2 Pedro]] - Capítulo 1
+
+### 2 Pedro 1:1
+IntroducciónAquí en el texto griego se lee “Simeón” (PB), en vez de “Simón” Pedro, esta forma del nombre es menos común pero más apegada a la forma original semítica del nombre que “Simón” (también en Hch 15:14). Aunque *“Salvador” era un título divino en el judaísmo y en la antigüedad como un todo, pudiera aplicarse de forma más general. Pero aplicar el título “Dios y Salvador” (la traducción más natural, PB) a Jesús era una clara declaración de su divinidad, y debe haber ofendido a la mayoría de los lectores judíos que no eran cristianos. Los escritores a menudo establecían una íntima relación con sus lectores al inicio de una carta (de ahí la frase: “fe como la nuestra”). “Gracia y paz” adopta una forma de saludo normal de antaño, pero con *Cristo en el centro; ver el comentario sobre Rom 1:7.
+
+### 2 Pedro 1:2
+IntroducciónAquí en el texto griego se lee “Simeón” (PB), en vez de “Simón” Pedro, esta forma del nombre es menos común pero más apegada a la forma original semítica del nombre que “Simón” (también en Hch 15:14). Aunque *“Salvador” era un título divino en el judaísmo y en la antigüedad como un todo, pudiera aplicarse de forma más general. Pero aplicar el título “Dios y Salvador” (la traducción más natural, PB) a Jesús era una clara declaración de su divinidad, y debe haber ofendido a la mayoría de los lectores judíos que no eran cristianos. Los escritores a menudo establecían una íntima relación con sus lectores al inicio de una carta (de ahí la frase: “fe como la nuestra”). “Gracia y paz” adopta una forma de saludo normal de antaño, pero con *Cristo en el centro; ver el comentario sobre Rom 1:7.
+
+### 2 Pedro 1:3
+“Divino poder” y “naturaleza divina” han sido frases importantes en el pensamiento griego por siglos, los mismos habían llegado a ser de uso regular entre los escritores judíos de la *diáspora. Muchos griegos de este período deseaban escaparse del mundo material de podredumbre que los rodeaba, creyendo que su alma era divina e inmortal, y que pertenecía a los cielos arriba, puros y perfectos. Algunos pensadores y cultos griegos compartían esta idea como una esperanza para las masas.Muchos escritores griegos, al igual que algunos escritores judíos como *Filón y en forma general los *gnósticos posteriores, argumentaban que uno podía llegar a ser “divinizado”, un dios, ya fuera en vida o después de muerto. En algunos sistemas esta divinización involucraba absorción en la divinidad. Pero la mayoría del judaísmo antiguo rechazaba la idea de divinización, hay un solo Dios (cf. Gén 3:5; e inclusive Filón se refería a la divinización en un sentido restringido). Muchos escritos judíos de la *diáspora utilizaban lenguaje similar al de Pedro, pero casi siempre solo para indicar recepción de inmortalidad, no divinización. Pedro aplica este lenguaje a la perspectiva cristiana de que un creyente en Jesús recibe una nueva naturaleza; ver el comentario sobre 1Pe 1:23. En el contexto del cristianismo primitivo monoteísta, bombardeado por una cultura politeísta, el lenguaje controlado de Pedro podría servir para refutar los reclamos de quienes esperaban una divinización total.Que el contexto cultural inmediato de Pedro es el judaísmo de la *diáspora y no del paganismo griego, pudiera estar indicado por la manera en que él define la “corrupción” física o “podredumbre”: su origen es las bajas pasiones (v. 2Pe 1:4; cf. 2Pe 2:14; 2Pe 3:3). La inmortalidad estaba disponible, como deseaban los griegos, pero solo por medio de la purificación del pecado (2Pe 1:9); y el concepto griego de inmortalidad es modificado por la esperanza bíblica en el *reino y, por lo mismo, la futura *resurrección (cf. 2Pe 1:11).
+
+### 2 Pedro 1:3-11
+Cómo perseverar para salvaciónA veces se ha dicho que esta sección se adapta a la forma literaria de un decreto cívico, de los cuales se tiene conocimiento gracias a inscripciones que se han descubierto donde se honra a benefactores, pero la evidencia para esta tesis es difícilmente convincente. Aunque los paralelos demuestran ideas en común entre este pasaje y algunos decretos, tales ideas estaban relativamente propagadas y también pueden ser identificadas en otras formas literarias.
+
+### 2 Pedro 1:4
+“Divino poder” y “naturaleza divina” han sido frases importantes en el pensamiento griego por siglos, los mismos habían llegado a ser de uso regular entre los escritores judíos de la *diáspora. Muchos griegos de este período deseaban escaparse del mundo material de podredumbre que los rodeaba, creyendo que su alma era divina e inmortal, y que pertenecía a los cielos arriba, puros y perfectos. Algunos pensadores y cultos griegos compartían esta idea como una esperanza para las masas.Muchos escritores griegos, al igual que algunos escritores judíos como *Filón y en forma general los *gnósticos posteriores, argumentaban que uno podía llegar a ser “divinizado”, un dios, ya fuera en vida o después de muerto. En algunos sistemas esta divinización involucraba absorción en la divinidad. Pero la mayoría del judaísmo antiguo rechazaba la idea de divinización, hay un solo Dios (cf. Gén 3:5; e inclusive Filón se refería a la divinización en un sentido restringido). Muchos escritos judíos de la *diáspora utilizaban lenguaje similar al de Pedro, pero casi siempre solo para indicar recepción de inmortalidad, no divinización. Pedro aplica este lenguaje a la perspectiva cristiana de que un creyente en Jesús recibe una nueva naturaleza; ver el comentario sobre 1Pe 1:23. En el contexto del cristianismo primitivo monoteísta, bombardeado por una cultura politeísta, el lenguaje controlado de Pedro podría servir para refutar los reclamos de quienes esperaban una divinización total.Que el contexto cultural inmediato de Pedro es el judaísmo de la *diáspora y no del paganismo griego, pudiera estar indicado por la manera en que él define la “corrupción” física o “podredumbre”: su origen es las bajas pasiones (v. 2Pe 1:4; cf. 2Pe 2:14; 2Pe 3:3). La inmortalidad estaba disponible, como deseaban los griegos, pero solo por medio de la purificación del pecado (2Pe 1:9); y el concepto griego de inmortalidad es modificado por la esperanza bíblica en el *reino y, por lo mismo, la futura *resurrección (cf. 2Pe 1:11).
+
+### 2 Pedro 1:5-7
+Listas de vicios y virtudes aparecen en otros lugares en la literatura antigua. Agregar una virtud, un vicio o el siguiente paso a uno anterior, como sucede aquí, también era un procedimiento literario regular que aparece en escritos judíos, griegos y romanos (dichas progresiones eran conocidas como sorites). “Virtud” incluía un sinnúmero de cosas y representaba nobleza de carácter.
+
+### 2 Pedro 1:8
+Los filósofos griegos consideraban que el conocimiento filosófico era la clave para cambiar la conducta de la gente. Sin embargo, Pedro pudiera haber utilizado “conocimiento” para incluir el sentido de una relación personal, como sucede a menudo en el AT.
+
+### 2 Pedro 1:9
+Los escritos judíos también hablan de la corrupción moral y la contaminación de las cuales uno debe ser “purificado” (cf. 2Pe 2:20).
+
+### 2 Pedro 1:10-11
+El judaísmo a menudo se refería al “llamamiento” y la “elección” de Israel. Pedro aplica estos términos a todos los que habrían de perseverar para *vida eterna. La transformación futura del mundo y un *reino eterno establecido en el futuro eran ideas judías y cristianas, extrañas para el pensamiento pagano griego.
+
+### 2 Pedro 1:12
+“Recordaros” (BA) era una parte regular en las exhortaciones morales de antaño, especialmente cuando se suavizaban con la modificación “aunque vosotros las sabéis ”.
+
+### 2 Pedro 1:12-21
+Tradiciones: testigos de Pedro
+
+### 2 Pedro 1:13
+Varios escritos antiguos comparaban el cuerpo con una tienda (“morada”, RVA), como se hace aquí; Pedro escoge una imagen que sus lectores podrían captar rápidamente.
+
+### 2 Pedro 1:14
+Los escritores judíos generalmente creían que a los justos frecuentemente se les advertía de su inminente muerte con anterioridad. En los relatos judíos de antaño, al acercarse su muerte los héroes a menudo impartían sus últimas exhortaciones a sus herederos en “testamentos”. Al anunciar su inminente muerte (indudablemente su ejecución en Roma), Pedro informa a sus lectores: estas son mis últimas instrucciones para ustedes, así que escuchen atentamente; cf. con Jua 21:18, Jua 21:19.
+
+### 2 Pedro 1:15
+Los recordatorios eran algo común en los testamentos (2Pe 1:14), aunque también lo eran en las exhortaciones morales en general (2Pe 1:12). Aquí “partida” es literalmente “éxodo”, un término ocasionalmente utilizado en los escritos judíos y cristianos para referirse a la muerte (p. ej., Luc 9:31).
+
+### 2 Pedro 1:16
+El término traducido “fábulas” (RVA; “cuentos supersticiosos, NVI), comúnmente se usaba negativamente para referirse a relatos falsos, como los difamadores y falsos cuentos acerca de los dioses. Las “fábulas” (o cuentos) tenían un marcado contraste con los relatos verídicos. El testimonio ocular era importante para establecer un caso histórico o legal, aunque para los *retóricos griegos y romanos no siempre era de mucho peso como lo es actualmente. (Algunos eruditos han llamado la atención al asunto que el mismo término que Pedro utiliza para “testigos” aquí, se usaba para los iniciados en la etapa final de su iniciación en algunos cultos paganos de las *religiones de misterio, tales como los misterios eleusianos y samotracios. Pero un término parecido también se aplicaba a la alta filosofía de *Platón y *Aristóteles, y era un término regularmente usado para testimonio, aplicado inclusive a Dios mismo en el judaísmo de la *diáspora. Dado que Pedro no describe su iniciación en la fe sino una experiencia como testigo, muy diferente a la de una iniciación, el punto central lo constituye el elemento de testimonio. Al igual que Pedro lo hace aquí, los Evangelios se esmeran en señalar que la gloria que habrían de ver los acompañantes de Jesús antes de que él muriera, era la transfiguración, no la segunda venida. La transfiguración prefiguraba la segunda venida; cf. 2Pe 1:19.)
+
+### 2 Pedro 1:17
+Algunos “testamentos” (2Pe 1:14) acotaban revelaciones especiales (a menudo jornadas celestiales) del héroe; Pedro provee una revelación más práctica: lo que él experimentó en la transfiguración (Mar 9:2-13). El judaísmo primitivo frecuentemente se refería a Dios como que hablaba desde el cielo (ver el comentario sobre Mar 1:11 para los textos aquí citados). La “gloria” a veces era una circunlocución judía para referirse a Dios. Pedro quizá tenga la intención de aludir al Sinaí, donde Dios reveló su gloria a Moisés.
+
+### 2 Pedro 1:18
+Israel también experimentó una revelación de Dios en un monte “santo”, y Pedro quizá presenta un paralelo entre su propio testimonio de la gloria de Jesús con el testimonio de Moisés acerca de la gloria de Dios en el monte Sinaí. (El AT usualmente aplica este título a Sion, pero Sion sería el sitio del nuevo Sinaí, o donde se daría la ley, al final de los tiempos; cf. Isa 2:2-4.) Ambas revelaciones produjeron Escrituras divinas (cf. 2Pe 1:20 con 2Pe 3:16), aunque los maestros judíos generalmente convenían en que la *ley tenía más autoridad que una mera voz del cielo.
+
+### 2 Pedro 1:19
+La revelación apostólica en *Cristo confirmó la revelación de los profetas en el AT. Algunos escritos de los *Rollos MM presentan la “estrella” de Núm 24:17 como *mesiánica, y un texto *veterotestamentario describe la venida del día del Señor en términos de la salida del sol (Mal 4:2) ya que Dios vendría como el sol (cf. Sal 84:11). El asunto aquí parece ser que el lucero de la mañana (Venus) anuncia el advenimiento del amanecer. Una nueva era estaba por comenzar (cf. 2Pe 1:11), pero el AT, juntamente con lo que fue revelado en la primera venida de Jesús, constituía la más grande revelación que el mundo experimentaría hasta su retorno en el día del Señor. “Hacéis bien” era una manera común de sugerir que una persona hiciera algo (p. ej., “Tú debes hacer esto”).
+
+### 2 Pedro 1:20
+El judaísmo antiguo y los pensadores griegos generalmente consideraban la inspiración profética como una posesión divina o un frenesí, en la cual el poder racional del profeta era reemplazado con la divina palabra. (La observación sobre la perspectiva judía es especialmente verdadera de los judíos extáticos de la *diáspora, como *Filón y los escritores de los *Oráculos Sibilinos.) Los diferentes estilos literarios de los profetas del AT indican que este no era realmente el caso; la inspiración utiliza facultades y vocabulario humanos (cf. 1Pe 1:10-12; 1Co 7:40; 1Co 14:1, 1Co 14:2, 1Co 14:14-19), aunque puede haber habido diferentes niveles y clases de éxtasis (cf. 1Co 14:2; 2Co 5:13; 2Co 12:4). Sin embargo, en cualquiera de los modelos la inspiración podía proteger del error al agente inspirado; ver el contraste en 2Pe 2:1.
+
+### 2 Pedro 1:21
+El judaísmo antiguo y los pensadores griegos generalmente consideraban la inspiración profética como una posesión divina o un frenesí, en la cual el poder racional del profeta era reemplazado con la divina palabra. (La observación sobre la perspectiva judía es especialmente verdadera de los judíos extáticos de la *diáspora, como *Filón y los escritores de los *Oráculos Sibilinos.) Los diferentes estilos literarios de los profetas del AT indican que este no era realmente el caso; la inspiración utiliza facultades y vocabulario humanos (cf. 1Pe 1:10-12; 1Co 7:40; 1Co 14:1, 1Co 14:2, 1Co 14:14-19), aunque puede haber habido diferentes niveles y clases de éxtasis (cf. 1Co 14:2; 2Co 5:13; 2Co 12:4). Sin embargo, en cualquiera de los modelos la inspiración podía proteger del error al agente inspirado; ver el contraste en 2Pe 2:1.

@@ -1,0 +1,81 @@
+---
+titulo: Contexto Cultural de Isaías 14
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Isaias"]
+---
+
+# Contexto Cultural de [[Isaías]] - Capítulo 14
+
+### Isaías 14:3-23
+Mofa en contra del rey de Babilonia
+
+### Isaías 14:4
+Canto sarcástico. Este canto usa la métrica usada en una endecha, pero convierte al género en una parodia, ya que lo usa para la mofa y no para la elegía.
+
+### Isaías 14:8
+El talador. Para los reyes del mundo antiguo los bosques del Líbano eran todo un tesoro. La madera de los cedros era esencial para templos y palacios. Los reyes se jactaban de haber extendido sus conquistas hasta estos bosques y cortado árboles allí. Nabucodonosor lo llama el bosque de Marduc, y la Epopeya deGilgamesh presenta los bosques de cedros como propiedad divina guardada por el temible Huwawa. Invadirlos y tomar de sus recursos era la aventura más grande de la vida. Isa 37:24 y Eze 31:1-18 describen un concepto similar.
+
+### Isaías 14:9-11
+Reyes muertos. En el mundo antiguo se creía que los espíritus de los muertos tenían todas las posibilidades de volver para perseguir y acosar a los vivos. La posición social o el poder que una persona había disfrutado en la vida a menudo se transfería a la existencia en el mundo de los muertos, quizá con la idea de que el espíritu estaría contento de quedarse allí. Sin embargo, para Isaías el tema de interés no es el regreso del espíritu. Al rey de Babilonia se lo describe como despojado de todo su poder y grandeza. En la mitología cananea, el dios Mot es el gobernante del mundo de los muertos y se lo describe como quien posee características reales. Pero es Baal quien desciende al mundo de los muertos para convertirse en el líder de los héroes caídos y los ancestros honrados. En la literatura ugarítica, a estos se los denomina los Rapiuma. La misma palabra aparece en el versículo Isa 14:9, y la DHH la traduce como “las sombras de los muertos”, y la Biblia de Jerusalén como “sombras”).
+
+### Isaías 14:12
+Estrella de la mañana. En el texto hebreo aparece la palabra helel, que no se usa en ningún otro lugar del AT. Muchos intérpretes, tanto antiguos como modernos, ven en este término una designación de Venus, la estrella de la mañana. Esta interpretación guió la traducción de la palabra en la antigua Versión griega, como así también en el caso de la Versión Vulgata Latina, que traduce lucíferos (la estrella refulgente, es decir, Venus) en la Vulgata Latina. La mayoría de los intérpretes modernos creen que Isaías está usando un relato mitológico muy conocido en su tiempo, como una analogía para el fracaso y las consecuencias de la rebelión y arrogancia del rey de Babilonia, pero en la literatura conocida nada hay que se parezca en sus detalles a la rebelión de Helel.
+
+### Isaías 14:12
+Hijo de la mañana. En tiempos del AT el amanecer (shahar) a menudo se personificaba, y era una deidad conocida en inscripciones fenicias y ugaríticas.
+
+### Isaías 14:13
+La rebelión en el cielo en el antiguo Cercano Oriente. Algunos han visto una cierta similitud entre el relato de Helel (Isa 14:12) y un relato ugarítico relacionado con el dios Athtar. En una oportunidad en que Baal estaba ausente, Athtar intentó sentarse en su trono (gobernar en su lugar), pero descubrió que no tenía la capacidad para hacerlo y ocupó después su lugar en el mundo de los muertos. Aunque el nombre de Athtar pueda tener un significado parecido al de Helel, no es el hijo de Shahar (como se describe a Helel), ni es derribado en su intento de sentarse en el trono de Baal. Tampoco es el intento en sí un acto de rebelión. No obstante, el tema de las revueltas contra los dioses es algo común. Uno de los mejores ejemplos en la literatura antigua es el Mito de Anzu, donde un león/ave intenta robar la Tabla de los destinos, por medio de la cual los dioses gobernaban el mundo. Anzu decide tener la supremacía sobre el mundo y los dioses, y para eso le roba la tabla al dios principal, Enlil. Expresa una serie de afirmaciones de lo que “seré” y “haré”, de la misma manera en que lo hace el rey de Babilonia. Dice: “Yo mismo tomaré la Tabla de los destinos de los dioses. Las responsabilidades de los dioses tomaré para mí. Me estableceré en el trono y dictaré los decretos. Yo tomaré autoridad sobre todos los dioses Igigi”. La arrogancia jactanciosa era algo típico del antagonista en esta clase de relato.
+
+### Isaías 14:13
+Las estrellas de Dios. La palabra que se usa para Dios aquí es El. En algunos casos, la Biblia la usa para referirse al Dios de Israel, pero la palabra también se usa como el nombre del dios principal en el panteón cananeo. En el AT, la palabra “estrellas” se refiere ocasionalmente a ángeles de la corte celestial (Job 38:7), en tanto que en textos ugaríticos y mesopotámicos describe deidades astrales.CREENCIAS SOBRE LA VIDA DESPUÉS DE LA MUERTE EN ISRAEL Y EN EL ANTIGUO CERCANO ORIENTEEl hebreo usa el término Seol para referirse al mundo de los muertos. Aunque pudiera haberse considerado un acto de juicio que una persona fuera sacada de la vida y enviada al Seol, dicha región no era en sí un lugar de juicio que debía contrastarse con la recompensa de un destino celestial. La palabra se usaba a veces como sinónimo de “sepulcro”, porque este último era la puerta a través de la cual una persona entraba al mundo de los muertos. Los israelitas creían que los espíritus de los muertos continuaban existiendo en dicho mundo de sombras. El concepto no era el de una existencia placentera, pero en el AT el Seol nunca está asociado con el tormento del fuego del infierno (el lenguaje figurado de Isa 66:24 no está relacionado con el Seol). No está claro si es que había alternativas para el Seol. Las personas que eran libradas del Seol lo eran por medio de permanecer vivas en este mundo, y no por medio de ser enviadas a otro lugar. Los ejemplos de Enoc y Elías, que evitaron el sepulcro y que presumiblemente no fueron al Seol, muestran que al menos había una vaga idea de algún otro lugar donde ir. Esos textos no comunican una idea clara con respecto a cuál era la otra alternativa. En ausencia de una revelación específica que señalara lo contrario, las creencias israelitas por lo general se conformaban a las que eran corrientes entre sus vecinos cananeos y mesopotámicos.Según las creencias mesopotámicas, los muertos necesitaban cruzar un desierto, montañas y un río, y luego descender a través de las siete puertas del mundo de los muertos. Aunque en la literatura de Mesopotamia se describe este lugar como uno de oscuridad y donde los habitantes están recubiertos de plumas y comen polvo, también había descripciones más benévolas. Se creía que los habitantes de este mundo de sombras se sustentaban con las ofrendas que traían los que aún estaban vivos. Disfrutaban de algo de luz mientras el sol hacía su pasaje por el mundo de los muertos cuando era de noche en la tierra de los vivientes, para poder salir nuevamente en el este a la mañana siguiente. Los gobernadores de este mundo del más allá, Nergal y Ereshkigal, estaban asistidos por un grupo llamado los Anunnaki. A pesar de estas descripciones deprimentes, nadie quería ser rechazado en las puertas, porque la alternativa era ser un espíritu errante sin acceso a las ofrendas funerarias.
+
+### Isaías 14:13
+Montaña sagrada. En el pensamiento del antiguo Cercano Oriente, que no era tan diferente al que se conoce de la mitología griega, se veía a las alturas de una montaña como el lugar de la morada de la deidad. En sus mentes habría existido muy poca diferencia entre las cumbres de las montañas y el cielo. En la literatura ugarítica se afirmaba que el hogar de Baal era el monte Zaphon (generalmente identificado con el monte Casius, Jebel al Aqra, en Siria, de 1.900 m de altura). La palabra hebrea zaphon significa “norte” (ver Sal 48:2).
+
+### Isaías 14:13
+Monte de los dioses, NVI. La mitología cananea afirmaba que los dioses vivían en las alturas de las montañas (ver el comentario que sigue). Por esto, es comprensible que su lugar de reunión estuviera situado también en un lugar elevado. En efecto, a El se lo describe como el que convoca a la reunión divina del panteón en las alturas de Zaphon. Aunque no se ha encontrado el término “monte de la asamblea”, se dice que el consejo de la asamblea se reunía en el monte de El.
+
+### Isaías 14:14
+El Altísimo (Elyon). En el AT, por lo general el término *Elyon es un título para Yahvé. No obstante, dado que en otra literatura del antiguo Cercano Oriente (ugarítica, aramea y fenicia) aparece también como un título divino (y hasta quizá como un nombre divino), su uso en un contexto como éste puede ser ambiguo. Fuera de la Biblia, se lo conoce más como un título para Baal en los textos ugaríticos.
+
+### Isaías 14:15
+Derribado a la fosa. En un mito sumerio que comparte parte de su material con el Mito de Anzu (ver el comentario sobre Isa 14:13), el dios Ninurta vence a Anzu la criatura, pero ambiciosamente quiere consolidar poder para sí. Cuando Enki descubre su plan, Ninurta es arrojado a un foso, y Enki lo sermonea por ser un fanfarrón engreído que locamente quiso arrebatar un poder que no le pertenecía.
+
+### Isaías 14:19
+Echado del sepulcro. La metáfora mitológica de los versículos Isa 14:12-15 separa la respuesta en el mundo de los muertos (vv. Isa 14:9-11), de la respuesta sobre la tierra en los versículos Isa 14:16, Isa 14:17. Debido a que el cuerpo mutilado del líder enemigo a menudo se exponía en un lugar público (ver el comentario sobre 1Sa 31:10), la gente pasaba y miraba. La frase que se usa aquí y que se traduciría mejor como “echado sin sepulcro”, indica que el rey sería privado de una adecuada sepultura. Esto representaba la humillación final y una profanación, porque gran parte de los antiguos creían que un acto de sepultura adecuado y oportuno tenía influencia sobre la vida posterior. Ver el comentario sobre 1Re 16:4. En la Epopeya deGilgamesh, Enkidu, de regreso del mundo de los muertos, informa a Gilgamesh que aquel que murió y no fue sepultado no tenía descanso, y aquel que no tenía familiares vivos que pudiesen cuidar de él solamente podía comer lo que se arrojaba a la calle. Una maldición babilónica relaciona al acto de sepultura con la unión del espíritu del muerto con sus seres amados. Sabemos que aun los israelitas creían que la correcta sepultura influía sobre la vida posterior de una persona, porque ellos, al igual que sus vecinos, sepultaban a sus seres amados junto con las provisiones que les servirían en la vida siguiente: por lo general vasijas de alfarería (llenas de comida) y joyas (para alejar al mal), a lo que agregaban a veces herramientas y efectos personales.
+
+### Isaías 14:19
+La suerte de los muertos a espada. Las alternativas a que el cadáver fuera exhibido públicamente incluían el ignominioso final de ser arrojado a una pila de cadáveres o de ser pisoteado hasta quedar irreconocible. La referencia a “losas de la fosa” es oscura.
+
+### Isaías 14:20
+No ser mencionado jamás. La mención del nombre de los muertos era una manera de honrarlos (ver ejemplos en Gén 48:16; Rut 4:14). Otra alternativa es que esta frase se refiera a que el nombre es invocado o destacado. Cualquiera que fuera el caso, la idea es claramente que este rey no disfrutará de un lugar destacado en la historia.
+
+### Isaías 14:24-27
+Oráculo contra Asiria
+
+### Isaías 14:25
+Asiria. El juicio pronunciado contra Asiria parece referirse nuevamente a la destrucción del ejército de Senaquerib fuera de Jerusalén en el 701 (ver el comentario sobre Isa 10:16-19).
+
+### Isaías 14:26
+Los planes de la deidad. Aunque los dioses supervisaban los decretos que habían establecido, el politeísmo del mundo antiguo hacía difícil la idea de que una deidad tuviera un plan que se proyectara en el tiempo y el espacio. Los dioses no eran inmunes a los cambios de los tiempos, ni había dios alguno que tuviera jurisdicción universal. Las circunstancias limitaban en gran manera las capacidades de un dios, aun cuando fuera la cabeza poderosa de un panteón como en el caso de Ashur o Marduc. Era difícil para un dios sostener un plan tal como el que Yahvé declara aquí y en otras partes en Isaías. Sin embargo, los reyes asirios afirman que en el plan de los dioses estaba escrito que el trono de ellos fuera establecido, que sus conquistas fueran realizadas y sus imperios expandidos. Pero a menudo se entendía que estos planes se realizarían a corto plazo. Se creía que los dioses se reunían cada Año Nuevo para elaborar sus planes para el año. Sus decretos se registraban en las tablas del destino, para ser implementados en el transcurso del año. Por lo general, cuando uno quería saber más acerca de esos planes se usaba la adivinación.
+
+### Isaías 14:27
+Los planes de la deidad. Aunque los dioses supervisaban los decretos que habían establecido, el politeísmo del mundo antiguo hacía difícil la idea de que una deidad tuviera un plan que se proyectara en el tiempo y el espacio. Los dioses no eran inmunes a los cambios de los tiempos, ni había dios alguno que tuviera jurisdicción universal. Las circunstancias limitaban en gran manera las capacidades de un dios, aun cuando fuera la cabeza poderosa de un panteón como en el caso de Ashur o Marduc. Era difícil para un dios sostener un plan tal como el que Yahvé declara aquí y en otras partes en Isaías. Sin embargo, los reyes asirios afirman que en el plan de los dioses estaba escrito que el trono de ellos fuera establecido, que sus conquistas fueran realizadas y sus imperios expandidos. Pero a menudo se entendía que estos planes se realizarían a corto plazo. Se creía que los dioses se reunían cada Año Nuevo para elaborar sus planes para el año. Sus decretos se registraban en las tablas del destino, para ser implementados en el transcurso del año. Por lo general, cuando uno quería saber más acerca de esos planes se usaba la adivinación.
+
+### Isaías 14:28
+Cronología. La cronología de este período es muy complicada y no resulta fácil determinar el año de la muerte de Acaz. Algunas cronologías proponen que Acaz y su hijo Ezequías compartieron el reinado, aunque Ezequías era el gobernante líder (debido, quizá, a la gran influencia de la facción que estaba en contra de Asiria dentro de la administración). La muerte de Acaz pudo haber ocurrido en fecha tan anterior como el 726 o tan posterior como el 715. La primera encuentra apoyo en la sincronía de 2Re 17:1.
+
+### Isaías 14:28-32
+Oráculo contra Filistea
+
+### Isaías 14:29
+Los filisteos en el siglo VIII. Filistea había estado bajo el control de Judá durante el reinado de Uzías, lo cual cubrió toda la primera mitad del siglo VIII. Recuperó su independencia durante el reinado de Acaz y se convirtió en el agresor. Con el surgimiento del Imperio neoasirio, Filistea fue atacada de la misma manera que las demás naciones. Tiglat-pileser apuntó a Gaza en su campaña del 734, y en consecuencia las ciudades de Filistea pasaron a ser vasallos que pagaban tributo. Cuando llegó Sargón al trono, los filisteos intentaron liberarse de Asiria, pero en el 720 Filistea volvió a ser atacada y Gaza renovó su lealtad. En el 712, Sargón tuvo que marchar nuevamente al oeste para aplastar la revuelta liderada por Asdod. En esta ocasión Ecrón y Gat también fueron el objetivo. La campaña de Senaquerib en el 701 trajo cambios en los tronos en varias ciudades filisteas, pero solamente Ecrón necesitó ser sitiada. A través de gran parte de los siglos VIII y VII, las ciudades filisteas compartieron la suerte de sus vecinos en Judá.
+
+### Isaías 14:31
+La suerte de Filistea. Finalmente Nabucodonosor derrotó y deportó a los filisteos de la misma manera que lo hizo con Judá. Las cinco ciudades retuvieron cierta medida de importancia, pero para el tiempo del período persa la gente se había ido asimilando progresivamente, para perderse dentro de la mezcla general de la población del Imperio.
+
+### Isaías 14:32
+La suerte de Filistea. Finalmente Nabucodonosor derrotó y deportó a los filisteos de la misma manera que lo hizo con Judá. Las cinco ciudades retuvieron cierta medida de importancia, pero para el tiempo del período persa la gente se había ido asimilando progresivamente, para perderse dentro de la mezcla general de la población del Imperio.

@@ -1,0 +1,19 @@
+---
+titulo: Contexto Cultural de 1 Tesalonicenses
+tipo: indice_libro
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#1_Tesalonicenses"]
+---
+
+# Contexto Cultural de [[1 Tesalonicenses]]
+
+## Introducción
+1 TESALONICENSESIntroducciónPaternidad literaria. La gran mayoría de los eruditos reconoce como paulina 1 Tesalonicenses, así como que también es la más antigua de sus cartas que se ha conservado.Fecha. Las dos cartas a los Tesalonicenses pueden ser las primeras de las cartas conservadas de Pablo, escritas poco después de la evangelización en esa ciudad y, por lo tanto, alrededor del año 50 d. de J.C., o sea unas dos décadas después de la *resurrección de Cristo.Circunstancias. Mientras predicaba a Jesús como el *Mesías (el rey de los judíos) en Tesalónica, Pablo había sido acusado de presentar a otro rey fuera del César (Hch 17:7). La muy joven *iglesia de Tesalónica seguía experimentando persecución después de su partida, pero él los alienta con la promesa de una esperanza futura, que se aplica incluso a quienes ya han muerto (1Ts 4:13-18). Pablo toma mucho del lenguaje usado por Jesús y los motivos *apocalípticos judíos que habían llegado a ser parte del movimiento cristiano primitivo.Género literario. La mayor parte de las cartas paulinas incluyen una acción de gracias, aunque algunos comentaristas piensan que el agradecimiento en esta carta se extiende desde 1Ts 1:2 hasta 1Ts 3:13, con lo que se caracterizaría como “carta de acción de gracias”, una especie epistolar particular de la antigüedad. Otros la caracterizan como una “carta de consuelo” o “carta parenética” (sobre cómo comportarse); también contiene elementos sustanciales de una “carta de alabanza”, recomendando a los tesalonicenses, con elementos de “carta de amistad”. Como la mayoría de las de la antigüedad, 1 Tesalonicenses es una combinación de varios tipos, tomando temas de cada uno, tal como resulte necesario sin preocuparse por las categorías formales. Sin embargo, sus paralelos más estrechos son las cartas parenéticas.Unidad. Casi todos los estudiosos admiten hoy que 1 Tesalonicenses es una unidad (el cambio de tono en los capítulos 1Ts 4:1-18 y 1Ts 5:1-28 es característico de Pablo y otros escritores de su tipo), excepto por 1Ts 2:14-16, que según algunos eruditos (sobre bases discutibles) fueron añadidos más tarde a la carta paulina. Sin embargo, los capítulos 1Ts 1:1-10 al 1Ts 3:1-13 parecen mostrar la estructura de un quiasmo ligeramente modificado (un paralelo invertido), lo que sugiere que aun estos versículos son originales: acción de gracias (1Ts 1:2-5; 1Ts 3:9, 1Ts 3:10), victoria en el sufrimiento (1Ts 1:6-10; 1Ts 3:6-8), cuidado (1Ts 2:1-3, 1Ts 2:17-20) y sufrimientos apostólicos (1Ts 2:14-16; 1Ts 3:1-5).Comentarios: I. Howard Marshall, 1 and 2 Thessalonians, NCB (Grand Rapids, Mich.: Eerdmans, 1983), es de mucha ayuda; F. F. Bruce, WBC 45 (Waco, Tx.: Word, 1982); y Leon Morris, The First and Second Epistles to the Thessalonians (hay traducción al castellano) NICNT, edic. rev. (Grand Rapids, Mich.: Eerdmans, 1991) son también de ayuda. El artículo por Abraham J. Malherbe “ ‘Gentle as a Nurse’: The Cynic Background to I Thess ii”, Novum Testamentum 12 (April 1970): 203–17, representa un avance crucial en el estudio de esta carta; ver también Abraham Malherbe, Paul and the Thessalonians: The Philosophic Tradition of Pastoral Care (Filadelfia: Fortress, 1987).
+
+## Capítulos
+- [[ContextoCultural_1_Tesalonicenses_Cap_01]]
+- [[ContextoCultural_1_Tesalonicenses_Cap_02]]
+- [[ContextoCultural_1_Tesalonicenses_Cap_03]]
+- [[ContextoCultural_1_Tesalonicenses_Cap_04]]
+- [[ContextoCultural_1_Tesalonicenses_Cap_05]]

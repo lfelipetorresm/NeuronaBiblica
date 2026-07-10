@@ -2,11 +2,11 @@
 *Generado automáticamente mediante el protocolo AGENTS2.md (Modo General)*
 
 ## Resumen Ejecutivo
-Se ha procesado e integrado el **Comentario al Nuevo Testamento por Wayne Partain y Bill H. Reeves**, así como **"Interrogantes y Respuestas"** (Bill H. Reeves) y **"La Iglesia del Nuevo Testamento"** (Roy E. Cogdill). 
+Se ha procesado e integrado el **Comentario al Nuevo Testamento por Wayne Partain y Bill H. Reeves**, **"Interrogantes y Respuestas"** (Bill H. Reeves), **"La Iglesia del Nuevo Testamento"** (Roy E. Cogdill) y el **"Comentario del Contexto Cultural de la Biblia"** (Walton y Keener). 
 
-- **Total de Nodos (Archivos MD):** ~23,400
-- **Total de Sinapsis (Enlaces):** ~85,000
-- **Libros comentados:** 27 (NT completo)
+- **Total de Nodos (Archivos MD):** ~24,600
+- **Total de Sinapsis (Enlaces):** ~87,000
+- **Libros comentados exegéticamente:** 27 (NT) + 66 (Contexto Cultural)
 - **Preguntas resueltas integradas:** 146
 - **Lecciones doctrinales integradas:** 40
 

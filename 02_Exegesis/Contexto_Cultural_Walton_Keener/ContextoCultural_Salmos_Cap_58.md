@@ -1,0 +1,18 @@
+---
+titulo: Contexto Cultural de Salmos 58
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Salmos"]
+---
+
+# Contexto Cultural de [[Salmos]] - Capítulo 58
+
+### Salmos 58:4
+Cobra sorda. La metáfora es un intento por equiparar al necio/impío, que no escucha, con una cobra (término hallado tanto en el egipcio como en el ugarítico) que no presta ninguna atención al encantador. Ambos causan dolor y sufrimiento por su conducta poco razonable. Aunque las serpientes no tienen manos para cubrir sus oídos (órganos internos), el tema aquí tiene que ver con acciones antinaturales y perversas. Siguiendo esta línea de pensamiento, la Instrucción de Ankhsheshonqy (egipcia) observa que es una pérdida de tiempo instruir al necio, quien no escuchará y odiará al maestro por tratar de enseñarle algo. Asimismo, la Instrucción de Amenemopet advierte que las palabras de los necios son más peligrosas que los vientos de las tormentas.
+
+### Salmos 58:5
+Encantador. La profesión de encantador debe haber incluido un conocimiento íntimo de los patrones de conducta de las serpientes. Una advertencia que bien pudo haberse originado en este oficio se encuentra en la Instrucción de Ankhsheshonqy y dice que una serpiente bien alimentada no ataca. El encantador también podría haber usado conjuros mágicos además de música y algún accesorio físico para controlar las serpientes en su espectáculo. Las serpientes eran muy temidas en el mundo antiguo como seres mágicos, además de venenosos. Las literaturas tanto egipcia como mesopotámica contienen ejemplos de conjuros contra las serpientes y sus mordeduras. La palabra traducida como “encantar” no debe evocar imágenes de serpientes meciéndose hipnotizadas ante flautistas como en los dibujos animados. Por otra parte, es posible que se refiera a serpientes contra las cuales son ineficaces los conjuros. Los textos acadios también hablan de serpientes “no conjurables”.
+
+### Salmos 58:6-11
+Imprecaciones comparadas con conjuros. Este Salmo se conoce como un salmo “imprecatorio” porque pronuncia maldiciones (imprecaciones) en contra del enemigo. En el antiguo Cercano Oriente estas maldiciones se realzaban o activaban mediante rituales y conjuros mágicos, pero esta práctica habría sido inaceptable en el sistema bíblico. La mejor manera de entender los salmos imprecatorios es teniendo como trasfondo el principio de la retribución (ver el tema en la nota sobre Conceptos comunes de los Salmos). Ya que se consideraba que la justicia de Dios requería un castigo proporcional a la gravedad del pecado, el salmista pronuncia maldiciones que serían apropiadas para mantener la justicia. Son de la misma magnitud que las maldiciones que Dios pronuncia sobre sus enemigos (ver Isa 13:15, Isa 13:16). El lenguaje contundente de este pasaje contiene aspectos de una fórmula de maldición semítica oriental que depende del dios para cumplir la venganza en naciones enemigas. Hay un ejemplo de este tipo de maldición indirecta en los tratados con los vasallos del rey asirio Esarjadón, donde se llama a una hueste de dioses a hacer mal al que viole el tratado. También se emplea, junto con actos rituales de execración, en la inscripción aramea de Sefire: “Como se quiebran este arco y estas flechas, así quiebren Inurta y Hadad el arco de Matiel y el arco de sus nobles”. El salmista maldice indirectamente por imprecación, pidiendo a Dios que “se ría” de sus esfuerzos insignificantes por amenazar a Israel. No emplea conjuros mágicos ni rituales de execración en contra de ellos sino que depende de Dios para volver impotentes a estos pueblos, quebrando su poder y sus armas de destrucción (ver Jer 49:35; Jer 51:56; Eze 39:3).

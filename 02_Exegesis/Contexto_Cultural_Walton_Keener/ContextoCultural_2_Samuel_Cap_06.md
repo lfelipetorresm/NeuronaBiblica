@@ -1,0 +1,69 @@
+---
+titulo: Contexto Cultural de 2 Samuel 6
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#2_Samuel"]
+---
+
+# Contexto Cultural de [[2 Samuel]] - Capítulo 6
+
+### 2 Samuel 6:1
+Treinta mil hombres escogidos. El ejército permanente de David era ya de 30 divisiones (ver el comentario sobre Jos 8:3). La importancia del arca así como su valor militar se indican por el tamaño de la escolta. Las procesiones de ostentación militar eran comunes en el mundo antiguo y continúan siendo populares en nuestros días. El ejército asirio igualmente acompañó desde Asur la estatua de Marduc una vez que ésta fue restaurada a Babilonia en el siglo VII.
+
+### 2 Samuel 6:1-23
+La instalación del arca en Jerusalén
+
+### 2 Samuel 6:2
+Baala. En 1Cr 13:6 se identifica a Baala como Quiriat-jearim. El arca ha sido alojada desde entonces en este lugar desde que regresó de Filistea. El emplazamiento se ha identificado normalmente (pero tentativamente) con Tell el-Azhar, a casi 15 km al oeste-noroeste de Jerusalén.
+
+### 2 Samuel 6:2
+Entronizado entre los querubines. El arca era un cofre de madera, abierta por arriba, que medía aproximadamente de 1 m a 1,3 m de largo por 73 cm de ancho y de alto. Estaba recubierta por dentro y por fuera con hojas de oro del más fino. Cuatro anillos (también cubiertos de oro) estaban fijados a los costados en donde se insertaban 2 pértigas incrustadas de oro que se usaban para llevar el arca y protegerla de cualquiera que quisiera tocarla, excepto el sumo sacerdote. Una cubierta de oro decorada con 2 querubines alados sellaba el arca. La función más importante del arca era guardar las tablas y servir de “escabel” del trono de Dios, proveyendo así un vínculo terrenal entre Dios y los israelitas. En las fiestas egipcias, las imágenes de los dioses a menudo eran llevadas en procesión sobre un armazón portátil. Algunas pinturas las describen como cofres casi del tamaño del arca, llevados con pértigas y flanqueados o decorados con criaturas que los custodiaban. Las descripciones bíblicas, así como los descubrimientos arqueológicos (incluyendo algunas piezas finas de marfil de Nimrod en Mesopotamia, y de Arslan Tash en Siria y Samaria) hacen pensar en un querubín y en una mezcla de criaturas combinadas (teniendo rasgos de varios especímenes, como la esfinge egipcia), a menudo cuerpos de cuadrúpedos con alas. El querubín aparece en el arte antiguo con cierta regularidad, flanqueando los tronos de reyes y deidades. La combinación de querubines, cofres, escabeles y declaraciones diversas del AT que presentan a Yahvé entronizado sobre un querubín apoya el concepto del arca como una representación del trono invisible de Yahvé. En el mundo antiguo estaba muy difundido el uso y concepto de tronos vacíos que se preparaban para que deidades y personajes reales los utilizaran cuando estuvieran presentes.
+
+### 2 Samuel 6:3
+Una carreta nueva. El uso de una carreta nueva aseguraría que no había alguna impureza ritual relacionada con la carreta que se había usado previamente (p. ej., si había sido utilizada para transportar estiércol o animales muertos). Sin embargo, las instrucciones para el transporte del arca siempre implicaban la presencia de sacerdotes que usaban pértigas para llevarla en lugar de emplear una carreta. La carreta anterior fue construida por los filisteos (1Sa 6:7).
+
+### 2 Samuel 6:5
+La música del culto. Todos éstos eran los instrumentos musicales típicos de aquellos tiempos como lo confirman diversos textos del antiguo Cercano Oriente, relieves y pinturas que datan de comienzos del tercer milenio a. de J.C. Hay todavía algún desacuerdo entre los eruditos acerca de cuál de las palabras hebreas en este pasaje debe traducirse como “arpa” y cuál como “lira”. La que la NVI traduce como “lira” es un instrumento de 10 cuerdas, mientras que la que traduce como “arpa” se cree que tenía menos cuerdas. Las 2 eran de mano y su estructura era de madera. El pandero ha sido identificado en los relieves arqueológicos como un tambor, un instrumento pequeño (cuero estirado sobre un aro) que no tenía el repiqueteo metálico de las modernas panderetas. El cuarto instrumento, el “sistro”, es el más difícil de identificar porque sólo aparece aquí. Normalmente se le considera como un vibrador o cascabel de alguna clase. El último, el címbalo, estaba hecho de bronce y pertenece a los instrumentos de percusión, de modo que la única pregunta que queda tiene que ver con el tamaño.
+
+### 2 Samuel 6:6
+La era de Nacón. La ubicación de esta era se desconoce. El texto la coloca en las proximidades de la casa de Obed-edom, que a su vez no está lejos de Jerusalén, pero no es posible ser más preciso.
+
+### 2 Samuel 6:7
+El atrevimiento de Uza. El arca se veía como un objeto que requería respeto y cautela. Su misma naturaleza la hacía peligrosa (comparada con la electricidad). La palabra traducida como “atrevimiento” aparece sólo aquí en el AT, pero la misma raíz en otros idiomas afines significa “desdén” (acadio) o “negligencia” (arameo).
+
+### 2 Samuel 6:10
+La casa de Obed-edom. El nombre Obed-edom quiere decir “sirviente de Edom” (quizás el nombre de una deidad; compare Abdías = Obed-Yah[weh]). Además se le identifica como el geteo, es decir, de Gat. Una compañía de soldados (¿mercenarios?) de Gat constituía la guardia personal de David (ver 2Sa 15:18), y es posible que este hombre fuera uno de ellos. Se considera por lo general que la casa estaba muy cerca de Jerusalén, pero carecemos de evidencia.
+
+### 2 Samuel 6:13
+Un sacrificio cada seis pasos. Cuando el rey asirio Asurbanipal restauró la imagen de Marduc a Babilonia (siglo VII), se ofrecieron toros engordados cada 3 km a lo largo del camino (de Asur a Babilonia hay unos 400 km). David realizó el mismo número de sacrificios que Asurbanipal en menos de 1 km. El texto no especifica qué se usó como altar o cuánto tiempo duró la procesión. La palabra traducida como “toro” es un término que se aplica al ganado en general y que puede referirse a los machos o a las hembras. La categoría de carnero engordado no se emplea en las instrucciones rituales del Pentateuco. Se supone que se trataba de un animal que se había alimentado y mimado especialmente para que su carne fuera tierna. El texto no especifica qué se pretendía hacer con esa clase de sacrificio.
+
+### 2 Samuel 6:14
+El efod de lino. Aunque el efod era un vestido sacerdotal, el pasaje no describe a David necesariamente oficiando como sacerdote. Alternativamente, pudo estar tomando el papel de suplicante ante el Señor y así “ofrecer” los sacrificios, no como sacerdote, sino como lo haría cualquier adorador (ver el comentario sobre el v. 2Sa 6:17).
+
+### 2 Samuel 6:14
+La danza en el mundo antiguo. Se ha comprobado ampliamente la práctica de la danza en contextos cultuales en el mundo antiguo, si bien las fuentes mesopotámicas y egipcias frecuentemente describen a los bailarines actuando para la diversión de los demás. La danza que estaba relacionada con los festivales se parecería al baile folclórico de nuestros días, en la que un grupo de bailarines actúa con movimientos coordinados. En otras ocasiones, las danzas se parecían más al ballet, donde se representa una escena o un drama. Los bailarines individuales normalmente ejecutaban danzas delirantes o acrobacias en las que giraban, se agachaban y saltaban, muy al estilo de la rutina de un gimnasta moderno. Los bailarines a veces actuaban escasamente vestidos o al desnudo. En contextos cultuales, no sólo danzaban los bailarines profesionales, sino ocasionalmente los oficiales participantes (es decir, sacerdotes y personalidades del gobierno). En un ritual heteo se incluía específicamente a la reina, pero no se sabe de ningún caso donde los reyes danzaran.
+
+### 2 Samuel 6:14-21
+La actividad de David. El verbo traducido como danzar en los versículos 2Sa 6:14 y 2Sa 6:16 sólo se usa en este pasaje. El uso de la palabra en ugarítico, que es un idioma relacionado, lo muestra como algo que se hace con los dedos, sugiriendo así que se chasqueaban o se hacían movimientos ondulantes. El verbo traducido como saltar en el versículo 2Sa 6:16 se usa sólo aquí y en una forma ligeramente diferente que en Gén 49:24, en donde se describe la agilidad de los brazos. En el pasaje paralelo de 1Cr 15:29, el verbo traducido “bailando” se emplea únicamente dos veces para describir la actividad humana (una vez referido a cantar y regocijarse, Job 21:11; y otra como lo opuesto a lamentar, Ecl 3:4). Generalmente, da a entender movimientos oscilantes, temblorosos o vibratorios. Es posible, entonces, que David no estuviera entregado a la danza en absoluto, sino que oscilaba sus brazos y chasqueaba o hacia movimientos ondulantes con los dedos.
+
+### 2 Samuel 6:15
+Las cornetas. La corneta a la que se refiere el pasaje es el cuerno de carnero (el shofar). El shofar puede producir una variedad de tonos, pero no puede tocar una melodía, razón por la cual se utilizaba principalmente para dar señales en el culto o en la guerra. El cuerno del carnero se ablandaba en agua caliente, luego se curvaba y aplanaba para darle su forma distintiva.
+
+### 2 Samuel 6:17
+La celebración de entronización. Las fiestas asirias de entronización desde los días de Tukulti-Ninurta I (siglo XII) describían al rey despojándose de sus vestiduras reales y orando humildemente ante la deidad. Después, el rey era coronado de nuevo y bendecido. De allí seguía una procesión al trono, que concluía con una recepción de obsequios de lealtad que los altos oficiales le ofrecían. La similitud con las festividades de David es evidente. En este pasaje, se celebra la entronización de Yahvé. David deja de lado sus vestiduras reales y conduce la procesión como un simple suplicante hasta el salón del trono (la tienda). Entonces, se ofrecen sacrificios de petición y lealtad. Del versículo 2Sa 6:21 podría inferirse que en esta ocasión hubo también una reafirmación de la elección de David y de su reino. Los archivos asirios también conservan varios relatos de la fundación de una nueva ciudad real (Asur-nasir-pal, Sargón, Senaquerib, Esar-Haddon). Éstos representaban al dios introduciéndolo en la ciudad, acompañados de sacrificios y un banquete (que incluía música), distribuyendo libremente comida y bebida al pueblo.
+
+### 2 Samuel 6:17
+La tienda que se erigió para el arca. El texto no se refiere a esta tienda como la tienda de reunión o el tabernáculo, que son las dos descripciones técnicas que identifican típicamente al santuario que se había ordenado en el Sinaí. Los textos religiosos cananeos también hablan de pabellones que se empleaban como morada de los dioses. Los arqueólogos han encontrado restos de una tienda altar Madianita en Timnat que data del siglo XII a. de J.C. También estaba hecha de cortinas decoradas que pendían de pértigas. Se han encontrado en Egipto estructuras portátiles de diseño similar (cortinas que cuelgan de pértigas o vigas recubiertas de oro) que aparecen a mediados del tercer milenio para el uso sagrado y secular.
+
+### 2 Samuel 6:17
+Las ofrendas quemadas y las ofrendas de paz. Las ofrendas quemadas casi siempre estaban conectadas a diversas peticiones (ver el comentario sobre Lev 1:3, Lev 1:4) y se consumían por completo en el altar. Las ofrendas de paz daban la oportunidad para celebrar una comida comunal, y en este contexto se ratificaban tratados, pactos o acuerdos. Para mayor información, ver los comentarios sobre 1Sa 10:8; Éxo 24:5 y Lev 3:1-5. Las ofrendas de paz estaban presentes en las ceremonias de coronación (1Sa 11:1-15) y dedicación del templo (1Re 8:1-66). Es posible que la instalación del arca se combinara con una celebración de entronización; ver el comentario que sigue.
+
+### 2 Samuel 6:18
+Las bendiciones para el pueblo. En el mundo antiguo se creía que las bendiciones (así como las maldiciones) tenían poder en sí mismas para producir su cumplimiento. Éstas eran prodigadas a menudo por los sacerdotes a los que dejaban el santuario después de participar en algún ritual. En las salutaciones ugaríticas y acadias se empleaba regularmente una frase de invocación a los dioses para que concedieran su protección. Finalmente, la frase: “el Señor te bendiga y te guarde” se encontró inscrita (en hebreo) en una enorme tinaja de almacenamiento del siglo IX a. de J.C. en Kuntillet Ajrud al norte del Sinaí.
+
+### 2 Samuel 6:19
+Los obsequios que recibió el pueblo. La torta de pan a que se refiere nuestro texto era una pieza trenzada y de forma circular. La “torta de dátiles” es una traducción tradicional, la palabra aparece sólo una vez en este relato y su significado es incierto. La otra parte del regalo, traducido como “torta de pasas”, quizás estaba hecha de cualquier otra fruta seca. Ose 3:1 especifica que se usaban pasas para elaborar esta pieza, pero el contexto no proporciona esa información. Es probable que se tratara de un bloque o bola de fruta seca comprimida.
+
+### 2 Samuel 6:20
+La queja de Mical. En el versículo 2Sa 6:16 el texto dice que cuando Mical vio todo lo que estaba haciendo David (ver el comentario sobre 2Sa 6:14-21), lo menospreció. No es sino hasta en este versículo donde ofrecen detalles de lo que la ofendió. La queja de Mical no se centró en la conducta poco digna, sino en el atavío de David. Hay dos razones ya mencionadas por las que David pudo haber dejado de lado sus vestiduras reales y vistió un simple efod de lino. La primera, si él estaba danzando como parte de la procesión (ver 2Sa 6:14), pudo haber tomado el atavío de los que danzaban, que a menudo era muy pequeño. La segunda, si ésta era una fiesta de entronización (ver 2Sa 6:17), era la costumbre del rey adoptar el papel de un suplicante. Ya que Mical lo comparó a “un cualquiera”, es probable que hiciera referencia a la primera.

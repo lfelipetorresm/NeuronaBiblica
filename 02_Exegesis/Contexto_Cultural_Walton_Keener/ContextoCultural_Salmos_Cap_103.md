@@ -1,0 +1,18 @@
+---
+titulo: Contexto Cultural de Salmos 103
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Salmos"]
+---
+
+# Contexto Cultural de [[Salmos]] - Capítulo 103
+
+### Salmos 103:12
+Oriente y occidente. En un himno egipcio a Amón-Ra se alaba a la deidad por enjuiciar a los culpables. Como resultado del discernimiento del dios, los culpables son asignados al oriente y los justos al occidente.
+
+### Salmos 103:20
+Poderosos ángeles, ejércitos. En el antiguo Cercano Oriente los “ejércitos celestiales” se refería a la asamblea de los dioses, muchos de los cuales estaban representados por cuerpos celestes (ya fuera planetas o estrellas). A veces la Biblia utiliza la frase para referirse a la adoración ilegítima de estas deidades (ver el comentario sobre Deu 4:19). En otras ocasiones, se utiliza la frase para el consejo angelical de Yahvé (ver el comentario sobre 2Cr 18:18). Un tercer tipo de uso trata el término como referencia a los ángeles rebeldes (tal vez en Isa 24:21; comúnmente en la literatura intertestamentaria). Por último, puede referirse sencillamente a las estrellas, sin personalidad (Isa 40:26). En el antiguo Cercano Oriente todas las decisiones importantes se tomaban en la asamblea divina. Allí los dioses se consultaban y compartían información y sus opiniones. La imagen familiar de un trono celestial rodeado por la asamblea divina es bien conocida en los textos ugaríticos (especialmente la Epopeya de Queret), aunque este consejo cananeo está compuesto de los dioses del panteón. También hay ejemplos en la inscripción edilicia del siglo X de Yehimilk en Biblos y la estela de Karatepe de Azitawada. En el Enuma Elish (acadio) la asamblea de los dioses nombra a Marduc como su cabeza. Esa asamblea la componían 50 dioses, 7 de ellos estaban en el consejo interno. En la creencia israelita los dioses estaban reemplazados por ángeles o espíritus: los hijos de Dios o la hueste celestial. Con frecuencia Yahvé es representado como “Señor de los ejércitos”, comandante de las huestes celestiales.
+
+### Salmos 103:21
+Poderosos ángeles, ejércitos. En el antiguo Cercano Oriente los “ejércitos celestiales” se refería a la asamblea de los dioses, muchos de los cuales estaban representados por cuerpos celestes (ya fuera planetas o estrellas). A veces la Biblia utiliza la frase para referirse a la adoración ilegítima de estas deidades (ver el comentario sobre Deu 4:19). En otras ocasiones, se utiliza la frase para el consejo angelical de Yahvé (ver el comentario sobre 2Cr 18:18). Un tercer tipo de uso trata el término como referencia a los ángeles rebeldes (tal vez en Isa 24:21; comúnmente en la literatura intertestamentaria). Por último, puede referirse sencillamente a las estrellas, sin personalidad (Isa 40:26). En el antiguo Cercano Oriente todas las decisiones importantes se tomaban en la asamblea divina. Allí los dioses se consultaban y compartían información y sus opiniones. La imagen familiar de un trono celestial rodeado por la asamblea divina es bien conocida en los textos ugaríticos (especialmente la Epopeya de Queret), aunque este consejo cananeo está compuesto de los dioses del panteón. También hay ejemplos en la inscripción edilicia del siglo X de Yehimilk en Biblos y la estela de Karatepe de Azitawada. En el Enuma Elish (acadio) la asamblea de los dioses nombra a Marduc como su cabeza. Esa asamblea la componían 50 dioses, 7 de ellos estaban en el consejo interno. En la creencia israelita los dioses estaban reemplazados por ángeles o espíritus: los hijos de Dios o la hueste celestial. Con frecuencia Yahvé es representado como “Señor de los ejércitos”, comandante de las huestes celestiales.

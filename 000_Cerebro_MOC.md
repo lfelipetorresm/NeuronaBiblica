@@ -36,8 +36,9 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 
 ---
 
-### ✝️ Doctrinas
-*Estudios sistemáticos de las verdades bíblicas y la iglesia.*
+### ✝️ Doctrinas y Contexto Cultural
+*Estudios sistemáticos de verdades bíblicas y su trasfondo histórico.*
+- [[00_Indice_Contexto_Cultural|Comentario del Contexto Cultural (Walton-Keener)]]
 - [[00_Indice_Iglesia_NT|La Iglesia del Nuevo Testamento (Cogdill)]]
 
 ### ❓ Preguntas y Respuestas

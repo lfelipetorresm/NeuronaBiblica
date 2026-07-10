@@ -1,0 +1,48 @@
+---
+titulo: Contexto Cultural de Éxodo 13
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Exodo"]
+---
+
+# Contexto Cultural de [[Éxodo]] - Capítulo 13
+
+### Éxodo 13:1-3
+Consagración. Se consideraba que el primer vástago masculino de cualquier madre pertenecía a la deidad. En el antiguo Cercano Oriente, este concepto a veces llevaba al sacrificio para asegurar la fertilidad. Por el otro lado, en el culto a los antepasados el primogénito heredaba la función sacerdotal dentro de la familia. En Israel, eso llevaba a la consagración, transfiriendo al primogénito el dominio de la deidad para el servicio del culto o para el templo en un uso sagrado. El primogénito podía ser redimido de ese estatus y las leyes israelitas consideraban que ese lugar había sido ocupado por los levitas (Núm 3:11-13).
+
+### Éxodo 13:1-16
+El primogénito
+
+### Éxodo 13:4
+Abib. El mes de Abib abarcaba desde marzo hasta abril. Es el nombre antiguo del que luego fue llamado Nisán en el calendario israelita.
+
+### Éxodo 13:5
+Pueblos de Canaán y tierra de leche y miel. Sobre los pueblos de Canaán y la tierra que fluye leche y miel, ver el comentario sobre Éxo 3:7 y Éxo 3:8.
+
+### Éxodo 13:6-10
+Fiesta de los panes sin levadura. Ver el comentario sobre Éxo 12:14-20.
+
+### Éxodo 13:9
+Amuletos. A menudo, los amuletos eran usados en el antiguo Cercano Oriente como protección ante los malos espíritus. Se consideraba que los metales preciosos y las joyas eran especialmente efectivas. A veces los amuletos incluían palabras o encantamientos mágicos. La práctica israelita desaprobaba los amuletos, pero el concepto fue convertido en recordatorios de la ley (del mismo modo que servía esta fiesta) y en otros lugares (ver Deu 6:8) consistía en recordatorios físicos que contenían plegarias o bendiciones como los pequeños rollos de plata que se encontraron en una tumba preexílica en las afueras de Jerusalén en 1979. En este caso, contenían la bendición de Núm 6:24-26 y son la copia más antigua de un pasaje bíblico que haya en existencia.
+
+### Éxodo 13:11-16
+Sacrificio de los primogénitos. Los primogénitos del ganado eran sacrificados como gratitud al Señor, pero los asnos no eran aprobados para este sacrificio. En la práctica cananea, algunas veces eran sacrificados y una ceremonia de confirmación de los textos de Mari también describe el sacrificio de uno de ellos. Probablemente, la causa de esta exclusión era la importancia del asno como animal de carga. Por lo tanto, los asnos, del mismo modo que los hijos, podían ser redimidos, o sea que otra ofrenda era dada en su lugar.
+
+### Éxodo 13:17
+Camino de la tierra de los filisteos. El camino a través de la tierra de los filisteos era una referencia a la ruta principal que corría por la Media Luna Fértil desde Egipto hasta Babilonia y se conoce como el Gran Camino Troncal. Iba a lo largo de la costa del Mediterráneo, que pasaba por el territorio filisteo en el sur de Palestina hasta por el valle de Jezreel, justo al sur de la cadena del Carmelo. A lo largo del norte de la península del Sinaí, los egipcios se referían a él como Camino de Horus y estaba fuertemente defendido ya que era la ruta usada por los ejércitos así como por las caravanas comerciales.
+
+### Éxodo 13:17-22
+El cruce del mar
+
+### Éxodo 13:18
+Mar Rojo. La masa de agua que en las traducciones es mencionada como “mar Rojo” en hebreo es denominada “mar de las Cañas”, término que puede ser usado para varias diferentes masas de agua. Posiblemente, las cañas que se mencionan eran papiros, que proliferaban en la parte pantanosa que se extendía desde el golfo de Suez hasta el Mediterráneo, destruida ahora en gran parte por el Canal de Suez. Estos papiros crecen sólo en agua fresca. Yendo hacia el norte desde el golfo de Suez, uno se encontraría con los Lagos Amargos, el lago Timsa, el lago Balah y finalmente, junto al Mediterráneo, el lago Menzalé. El wadi Tumilat, a través del cual viajaba Israel habría llevado al lago Timsa, que a menudo es identificado en este contexto con el mar de las Cañas, aunque hay quienes apoyan cada uno de los otros lagos. Si al principio los israelitas se dirigían hacia el noroeste, deben haber retrocedido y haberse encontrado en el lago Balah. Si estaban yendo hacia la región del Sinaí, ciertamente no habrían ido aguas abajo por el lado occidental del golfo de Suez y, en cualquier caso, eso está muy lejos de lo que sugiere el relato (unos 200 km desde Sucot). De modo que la traducción “mar Rojo” ha llevado a que ésa sea la identificación popular, aunque sea lo menos probable. Como alternativa a “mar de las Cañas” como indicativo geográfico, se ha presentado la sugerencia de que debe ser traducido como “mar de la Extinción”. En este caso, las aguas que son divididas son identificadas por una imagen que se refiere a un motivo de la creación, común en el antiguo Cercano Oriente, sobre las aguas del caos que son sujetadas y los enemigos de Dios que son vencidos.
+
+### Éxodo 13:20
+Sucot. Generalmente es identificada con Tell el-Maskhuta hacia el extremo oriental del wadi Tumilat. En la literatura egipcia, hay una zona conocida como Tjeku, equivalente egipcio del hebreo succoth. Etam es el equivalente del egipcio htm, “fuerte”, y puede referirse a cualquier número de fortalezas en la zona. Como Dios los hizo retroceder según Éxo 14:2, aún podrían haber estado siguiendo el camino de los filisteos en esta primera etapa. Si fue así, muy probablemente Etam haya sido Zilu, la moderna Tell Abu Sefa, donde estaba ubicada la primera fortaleza que vigilaba el paso por la frontera en tiempos antiguos. Era el punto de partida natural para las expediciones a Canaán. En este caso, Éxo 13:17, Éxo 13:18 es descrito en detalle en Éxo 14:1-3. El problema es que está a unos 80 km de Sucot y se habrían necesitado varios días para llegar. También había una fortaleza del faraón Merneptah (fines del siglo XIII), mencionada cerca de Tjeku en el papiro Anastasis VI (para una posible ruta del éxodo ver Mapa 1. El éxodo).
+
+### Éxodo 13:21
+Columna de nube y fuego. Algunos han pensado que esta columna se explica mejor como resultado de actividad volcánica. Una erupción en la isla de Tera (1.000 km al noroeste) en 1628 a. de J.C. puso fin a la civilización minoica y es posible que sus efectos hayan sido vistos en el delta. Pero la fecha es demasiado temprana (ver artículo La fecha del éxodo) y esta teoría no explicaría los movimientos de la columna ni la ubicación descrita para ella en el relato bíblico, pues se estaban moviendo hacia el sudeste. El pasaje no sugiere que la columna era de origen sobrenatural sino sólo que era el medio de una guía de ese tipo. Por esta razón, algunos han sugerido que era el resultado de un brasero de alguna clase, llevado sobre un palo como era usado por los exploradores avanzados. Este método era utilizado a menudo por las caravanas. Por el otro lado, la columna siempre es descrita actuando (bajando, moviéndose) más bien que manejada (no se dice que un ser humano la moviera), de modo que es difícil sostener la teoría de la vanguardia. En el mundo antiguo, era normal que se describiera un aura brillante o flameante alrededor de la deidad. En la literatura egipcia, se describe como el disco alado del sol, acompañado por nubes de tormenta. Los acadios usaban el término melammu para describir esta representación visible de la gloria de la deidad, que a su vez se envolvía en humo o nubes. En la mitología cananea, se ha sugerido que el concepto de melammu se expresa con la palabra anan, la misma que en hebreo aquí se traduce “nube”, pero aparece tan poco y en forma oscura que no es una explicación confiable. En cualquier caso, aquí la columna sería una columna de humo visible de día, mientras que la llama interior que era cubierta por ella brillaba a través a la noche.
+
+### Éxodo 13:22
+Columna de nube y fuego. Algunos han pensado que esta columna se explica mejor como resultado de actividad volcánica. Una erupción en la isla de Tera (1.000 km al noroeste) en 1628 a. de J.C. puso fin a la civilización minoica y es posible que sus efectos hayan sido vistos en el delta. Pero la fecha es demasiado temprana (ver artículo La fecha del éxodo) y esta teoría no explicaría los movimientos de la columna ni la ubicación descrita para ella en el relato bíblico, pues se estaban moviendo hacia el sudeste. El pasaje no sugiere que la columna era de origen sobrenatural sino sólo que era el medio de una guía de ese tipo. Por esta razón, algunos han sugerido que era el resultado de un brasero de alguna clase, llevado sobre un palo como era usado por los exploradores avanzados. Este método era utilizado a menudo por las caravanas. Por el otro lado, la columna siempre es descrita actuando (bajando, moviéndose) más bien que manejada (no se dice que un ser humano la moviera), de modo que es difícil sostener la teoría de la vanguardia. En el mundo antiguo, era normal que se describiera un aura brillante o flameante alrededor de la deidad. En la literatura egipcia, se describe como el disco alado del sol, acompañado por nubes de tormenta. Los acadios usaban el término melammu para describir esta representación visible de la gloria de la deidad, que a su vez se envolvía en humo o nubes. En la mitología cananea, se ha sugerido que el concepto de melammu se expresa con la palabra anan, la misma que en hebreo aquí se traduce “nube”, pero aparece tan poco y en forma oscura que no es una explicación confiable. En cualquier caso, aquí la columna sería una columna de humo visible de día, mientras que la llama interior que era cubierta por ella brillaba a través a la noche.

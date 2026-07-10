@@ -1,0 +1,27 @@
+---
+titulo: Contexto Cultural de Deuteronomio 20
+tipo: comentario_cultural
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Deuteronomio"]
+---
+
+# Contexto Cultural de [[Deuteronomio]] - Capítulo 20
+
+### Deuteronomio 20:1-20
+Reglas para la guerra
+
+### Deuteronomio 20:2
+El sacerdote dirigiéndose a la tropa. Como la guerra era considerada una empresa religiosa, se esperaba que los sacerdotes y otros funcionarios religiosos acompañaran al ejército. Los textos y relieves asirios describen el papel que cumplían los sacerdotes que acompañaban a las tropas. Llevaban o cuidaban las imágenes y los emblemas de los dioses (ver Jos 6:4, Jos 6:5; 1Sa 4:4), realizaban *rituales religiosos y sacrificios, y sin duda se dirigían al ejército en nombre de los dioses. Esta última tarea puede haber incluido la interpretación de oráculos, asegurando la ayuda de los dioses y exhortando a las tropas a luchar por el rey elegido por aquéllos (como en los anales de Tukulti-Ninurta I [1244–1208 a. de J.C.] y Asurbanipal II [883–859 a. de J.C.]).
+
+### Deuteronomio 20:5-9
+Exenciones de la obligación militar. Aun cuando se esperaba que todos los hombres capaces físicamente sirvieran militarmente, en la práctica se permitían exenciones para categorías especiales, como los sacerdotes (en los textos de Mari), los recién casados (Deu 24:5) y aquellos que tenían deberes religiosos que cumplir (ver Lev 19:23-25). El reclutamiento era necesario para cumplir las obligaciones feudales para con el rey y asumía varias formas, incluyendo la realización de censos y la coerción (en textos de Mari). El precepto bíblico de permitir que quienes se atemorizaran dejaran el ejército puede haber tenido su base en la necesidad de mantener la disciplina en las filas, pero también era una seguridad de que quienes luchaban estaban seguros de la ayuda de Yahvé en la batalla (ver Jue 7:1-3). Los códigos legales a veces son contradictorios en cuanto al asunto de contratar sustitutos para el servicio militar. El código heteo permitía esta práctica, pero era proscrita en el de Hamurabi. Este último caso se basaba en una orden directa de unirse a las campañas del rey. Es posible que se hayan podido hacer arreglos para que los miembros de la nobleza superaran cualquier molesto problema legal. En la epopeya cananea Keret, el rey levanta un ejército en una causa tan importante que las excepciones normales (entre ellas la de los recién casados) eran abandonadas.
+
+### Deuteronomio 20:10-15
+Prácticas normales en la guerra. En el mundo antiguo, el procedimiento habitual no era el de pagar a los soldados. En lugar de eso, se les daba una parte del botín que era tomado en la captura de aldeas y poblaciones. Dado que la guerra también era vista como una misión divina, ordenada divinamente y facilitada por la intervención divina, todo botín tomado en la batalla era técnicamente propiedad del dios o los dioses. En consecuencia, debían seguirse procedimientos estrictos en su división a fin de evitar una violación de los tabúes sagrados. Por ejemplo, en los textos de Mari, los oficiales hacían un juramento de no “comer el asakkum” (o sea infringir los derechos) de sus pares o de los de menor rango. Los que violaban este juramento eran castigados con severas multas. Siguiendo este patrón, los ejércitos mesopotámicos, así como los israelitas, comúnmente tomaban mujeres y niños como despojos, junto con animales y propiedades transportables, mientras que los hombres eran muertos (ver Gén 34:25-29; anales asirios de Senaquerib). De ese modo, los esfuerzos de los vencedores eran recompensados y el efecto psicológico de la visión de las ciudades devastadas servía al propósito de exaltar la reputación de la nación conquistadora y su dios o dioses.
+
+### Deuteronomio 20:16-18
+Procedimientos de la guerra santa. En circunstancias inusuales, un ejército determinaba seguir adelante tomando prisioneros o despojos y dedicarlos enteramente al dios que les había dado la victoria. Esta práctica era conocida como jerem en hebreo y era usada muy pocas veces como método de guerra. Sólo en pocos casos se exige la destrucción total de una ciudad: Jericó en Jos 6:17-24; Hazor en Jos 11:10, Jos 11:11; Sefat en Jue 1:17 y los amalecitas en 1Sa 15:3. Hay varios casos en los que se permite cierta variante a la destrucción total, como en Deu 2:34, Deu 2:35 y Deu 3:6, Deu 3:7 (que muriera la gente y el ganado fuera llevado como despojo). Fuera de la Biblia, esta perspectiva sobre la guerra es atestiguada ya desde el siglo IX a. de J.C. en la guerra contra la tribu de Gad por el rey moabita Mesa. Un concepto similar puede estar reflejado en los anales de varios reyes asirios, que usaban la destrucción total como artificio psicológico para que las naciones revoltosas se sometieran.
+
+### Deuteronomio 20:20
+Obras de asedio. Para capturar una ciudad amurallada, era necesario emplear una variedad de obras de asedio, incluyendo el terraplén (2Sa 20:15; 2Re 19:32), torres (Isa 23:13; Eze 21:22) o murallas perimetrales que impedían la huída. Los arietes para golpear así como los soportes para túneles que sobrepasaran las murallas requerían el uso de madera. Esto explica la dispensa permitida en Deuteronomio para la tala de árboles durante un sitio. Los relieves asirios de Asurbanipal II (883–859 a. de J.C.) en Nimrod presentan muchas de estas maquinarias para sitios y métodos simultáneos de guerra.

@@ -1,0 +1,30 @@
+---
+titulo: Contexto Cultural de Marcos
+tipo: indice_libro
+autor: Walton y Keener
+estado: Procesado
+etiquetas: ["#Comentario", "#ContextoCultural", "#Marcos"]
+---
+
+# Contexto Cultural de [[Marcos]]
+
+## Introducción
+MARCOSIntroducciónPaternidad literaria. Desde los primeros siglos la tradición de la iglesia atribuye este Evangelio a Juan Marcos (Hch 15:37; Col 4:10; 1Pe 5:13), quien habría obtenido su información de Pedro. Además, los títulos de los Evangelios, que los atribuyen a autores particulares, circularon a través del mundo romano desde un período temprano. Aunque los títulos no sean inspirados, su amplia circulación indica que la tradición es antigua. Ya que no existe ninguna evidencia que contradiga esta atribución, Marcos es el candidato más probable como autor.Fecha, circunstancias y propósito. La sugerencia más frecuente es que Marcos escribió su Evangelio a los cristianos romanos durante la época de la gran persecución en Roma, alrededor del año 64 d. de J.C. (para una discusión más amplia, ver 1 Pedro).Lugar de composición. Se han sugerido varias teorías acerca de la procedencia de Marcos: Galilea, Alejandría y, más frecuentemente, Roma. Es probable que el público de Marcos haya vivido fuera de Palestina y que la mayoría no fuera judía. Roma es la propuesta más probable (favorecida por algunas tradiciones cristianas antiguas), aunque no existe una certeza absoluta.Género literario. Ver la introducción a los Evangelios en este comentario.Por qué escribió Marcos. Los que oyeron la lectura de Marcos en las iglesias ya conocían muchas de las historias acerca de Jesús, a quien adoraban como Señor. Marcos conecta estas historias para armar una especie de biografía de Jesús, siguiendo el modelo de algunos de los movimientos argumentales conocidos en la tragedia griega, salvo que con un final feliz, como las historias judías tradicionales que enfatizaban la fidelidad de Dios. Las biografías antiguas con frecuencia ofrecían ciertas moralejas mediante el ejemplo de sus héroes, y Marcos no es una excepción: quiere que sus compañeros en el cristianismo entiendan que el llamado de Cristo incluye tanto poder como sufrimiento en su conflicto con las fuerzas de *Satanás.Así Marcos le escribió a una comunidad que necesitaba recordar que Dios oía las oraciones y trabajaba por medio de su testimonio y su fe; también necesitaba recordarles que esto podría costarles la vida al enfrentar la persecución. Por último, necesitaban recordar, mediante el fracaso de los *discípulos mostrado en Marcos, que si todavía no habían logrado el estilo de vida radical que exigían las palabras de su Señor, él seguiría trabajando pacientemente con ellos para ayudarles a alcanzar ese nivel de consagración. La situación más probable de la iglesia primitiva propuesta aquí para la escritura de Marcos es el sufrimiento de los cristianos romanos bajo Nerón a partir del año 64 d. de J.C.El mensaje de Marcos. Algunos temas sobresalen de manera especial en Marcos. Uno de esos temas es el llamado “secreto mesiánico”: Jesús esconde del público, en la medida posible, su identidad mesiánica. Este secreto puede deberse a varios factores. En primer lugar, el Cristo, o *Mesías, era el rey davídico y solo asumía ese título oficialmente al ascender al trono. Por lo tanto, en Marcos Jesús finalmente es “coronado” en la cruz. En segundo lugar, y probablemente lo más importante, la misión de Jesús era totalmente distinta a la de cualquiera de las perspectivas políticas que circulaban acerca de los mesías en la época. En consecuencia, el mesiazgo era una categoría inapropiada para él hasta que pudiera definirla mediante el carácter de su misión. Su misión solo podría ser entendida en forma retrospectiva, a la luz de su muerte y *resurrección (Mar 9:9). Puede hacerse una comparación adicional de los intentos de Jesús por lograr esconder su identidad (en lo posible) con el caso de algunos profetas del AT. Estos profetas con frecuencia trabajaban de modo clandestino, buscando no su propia gloria sino cumplir su misión (p. ej., 1Re 11:29; 1Re 13:8, 1Re 13:9; 1Re 21:18; 2Re 9:1-10). Es posible que hayan pasado más tiempo en los entornos humildes de sus propios discípulos, a los cuales estaban capacitando (1Sa 19:20; 2Re 4:38; 2Re 6:1-3).Un tema afín en Marcos es el fracaso de los discípulos. Las escrituras antiguas frecuentemente minimizaban la sensibilidad de los personajes secundarios para mostrar su contraste con el héroe; también se utilizaba la ceguera de los personajes para enfatizar los elementos trágicos. En Marcos, los discípulos son obtusos en cuanto a la misión de Jesús y la suya propia, tanto en la parte carismática (el obrar milagros: Mar 4:40; Mar 9:18, Mar 9:19, Mar 9:28, Mar 9:29) y, más significativamente, en la parte del sufrimiento. El ejemplo *narrativo de su torpeza contrasta tan contundentemente con los repetidos llamados de Jesús a la consagración total que casi cumple la función literaria cómica de romper la tensión seria de la narración. Este tema está tan generalizado que el Evangelio parece terminar en ese tono (Mar 16:7, Mar 16:8).Comentarios. El más útil para los lectores de este comentario será el de William L. Lane, The Gospel According to Mark, NICNT (Grand Rapids: Eerdmans, 1974). Los comentarios de D. E. Nineham, Saint Mark, Pelican New Testament Commentaries (Filadelfia: Westminster/Londres: SCM, 1977) y especialmente Hugh Anderson, The Gospel of Mark, NCB (Grand Rapids: Eerdmans, reimpresión, 1981), también contienen información cultural útil.
+
+## Capítulos
+- [[ContextoCultural_Marcos_Cap_01]]
+- [[ContextoCultural_Marcos_Cap_02]]
+- [[ContextoCultural_Marcos_Cap_03]]
+- [[ContextoCultural_Marcos_Cap_04]]
+- [[ContextoCultural_Marcos_Cap_05]]
+- [[ContextoCultural_Marcos_Cap_06]]
+- [[ContextoCultural_Marcos_Cap_07]]
+- [[ContextoCultural_Marcos_Cap_08]]
+- [[ContextoCultural_Marcos_Cap_09]]
+- [[ContextoCultural_Marcos_Cap_10]]
+- [[ContextoCultural_Marcos_Cap_11]]
+- [[ContextoCultural_Marcos_Cap_12]]
+- [[ContextoCultural_Marcos_Cap_13]]
+- [[ContextoCultural_Marcos_Cap_14]]
+- [[ContextoCultural_Marcos_Cap_15]]
+- [[ContextoCultural_Marcos_Cap_16]]
