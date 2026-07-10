@@ -222,6 +222,27 @@ Este repositorio es un proyecto personal de estudio bíblico. Los textos procesa
 
 ---
 
+## 👤 Autor
+
+**Luis Felipe Torres Muñoz**
+*Un Cristiano, Ingeniero y Contador amante de la Palabra de Dios.*
+
+📧 **Contacto:** [lfelipetorresm@hotmail.com](mailto:lfelipetorresm@hotmail.com)
+📱 **Cel.:** +57 (316) 730 4014
+
+---
+
+## 💛 Apoya este Proyecto
+
+Este proyecto está en **constante crecimiento**. Si deseas hacer una donación para animar y sostener su desarrollo, ¡sería de gran bendición!
+
+📩 **Escríbeme un correo a [lfelipetorresm@hotmail.com](mailto:lfelipetorresm@hotmail.com) si deseas contribuir.**
+
+> *"Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre."*
+> — **2 Corintios 9:7** (RV1960)
+
+---
+
 <div align="center">
 
 *"Escudriñad las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí."*
