@@ -4,8 +4,8 @@
 
 ### Un Zettelkasten Teológico de Nivel Profesional
 
-[![Nodos](https://img.shields.io/badge/Nodos-22%2C979-blue?style=for-the-badge&logo=obsidian&logoColor=white)](./000_Cerebro_MOC.md)
-[![Sinapsis](https://img.shields.io/badge/Sinapsis-83%2C665-green?style=for-the-badge&logo=graphql&logoColor=white)](./Reporte_Arquitecto.md)
+[![Nodos](https://img.shields.io/badge/Nodos-23%2C400-blue?style=for-the-badge&logo=obsidian&logoColor=white)](./000_Cerebro_MOC.md)
+[![Sinapsis](https://img.shields.io/badge/Sinapsis-85%2C000-green?style=for-the-badge&logo=graphql&logoColor=white)](./Reporte_Arquitecto.md)
 [![Cohesión](https://img.shields.io/badge/Cohesión-99.97%25-gold?style=for-the-badge&logo=target&logoColor=white)](./Reporte_Arquitecto.md)
 [![Estado](https://img.shields.io/badge/Estado-Nivel_5.0_•_Madurez_Hiper--Conectada-purple?style=for-the-badge)](./Reporte_Arquitecto.md)
 
@@ -85,7 +85,7 @@ El corazón de la arquitectura es el sistema de **Nodos Puente Strong**. Funcion
 
 ---
 
-## 🏛️ Los Cuatro Pilares
+## 🏛️ Los Cinco Pilares
 
 ### 📖 Pilar I — La Sagrada Escritura
 
@@ -128,6 +128,16 @@ El corazón de la arquitectura es el sistema de **Nodos Puente Strong**. Funcion
 
 > Este pilar enseña el *arte* de transformar el estudio exegético en un mensaje predicable, con estructura, claridad y poder persuasivo.
 
+### 💡 Pilar V — Exégesis Aplicada y Doctrina
+
+| Elemento | Ubicación |
+|---|---|
+| **Comentario al NT** (Partain-Reeves) | `02_Exegesis/Comentario_Partain_Reeves/` |
+| **La Iglesia del Nuevo Testamento** (Cogdill) | `07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento/` |
+| **Interrogantes y Respuestas** (Reeves) | `08_Preguntas_y_Respuestas/Interrogantes_y_Respuestas/` |
+
+> Este pilar provee explicaciones versículo por versículo del Nuevo Testamento y material doctrinal para resolver dudas frecuentes y entender la estructura eclesiástica.
+
 ---
 
 ## 📂 Estructura de Carpetas
@@ -158,6 +168,7 @@ NeuronaBiblica/
 │
 ├── 06_Sermones_Generados/        # 📝 Producto final: sermones y bosquejos
 ├── 07_Doctrinas/                 # Nodos doctrinales transversales
+├── 08_Preguntas_y_Respuestas/    # Apologética y resolución de dudas
 ├── 99_Plantillas/                # Templates para nuevos documentos
 │
 └── scripts/                      # 🔧 ETL: scripts Python de procesamiento
@@ -205,8 +216,8 @@ Todo el contenido fue procesado algorítmicamente con scripts Python especializa
 
 | Métrica | Valor |
 |---|---|
-| Total de Nodos | **22,979** |
-| Total de Sinapsis (enlaces) | **83,665** |
+| Total de Nodos | **~23,400** |
+| Total de Sinapsis (enlaces) | **~85,000** |
 | Nodos con ≥5 conexiones | **13,019** |
 | Cohesión del grafo | **99.97%** |
 | Nodos Puente Strong | **12,721** |
