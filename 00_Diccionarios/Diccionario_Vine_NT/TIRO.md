@@ -1,0 +1,12 @@
+---
+titulo: "TIRO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#TIRO"]
+---
+
+# TIRO
+
+bole (âïëÞ, [[G1000]]), denota un tiro (relacionado con balo, arrojar, lanzar), y se emplea en Luc_22:21 en la frase «un tiro de piedra», de la distancia a que se alejó el Señor de los discípulos en el huerto de Getsemaní para orar a solas.¶ 
+
+

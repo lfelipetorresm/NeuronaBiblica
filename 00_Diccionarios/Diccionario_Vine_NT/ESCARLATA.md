@@ -1,0 +1,14 @@
+---
+titulo: "ESCARLATA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ESCARLATA"]
+---
+
+# ESCARLATA
+
+1. kokkinos (êüêêéíïò, [[G2847]]), se deriva de kokkos, grano, y se usa de las acumulaciones de huevecillos de un insecto, que se recogen del ilex coccifera ; el color, sin embargo, se consigue de la misma cochinilla, que se aferra a las hojas y ramas del roble coccifera; otra especie se cría en las hojas del cactus ficus . El nombre árabe para este insecto es quirmiz, de donde el término castellano «grana». Se usa: (a) de lana escarlata (Heb_9:19); cf. en relación con la purificación del leproso (Lev_14:4, Lev_14:6 : «grana»); con la ofrenda de la vaca alazana (Núm_19:6 : «escarlata»); (b) del manto que los soldados pusieron sobre Cristo (Mat_27:28); (c) de la bestia, vista en visión simbólica (Apo_17:3 : «escarlata»; rv: «bermeja»); (d) del vestido de la «mujer» sentada sobre la «bestia» (Apo_17:4 : «vestida de púrpura y escarlata»); (e) de parte de las mercancías de Babilonia (Apo_18:12); (f) figuradamente, de la gloria de la misma ciudad; se usa en forma neutra en los últimos tres casos.¶
+
+2. purros (ðõññüò, [[G4450]]), se traduce «escarlata», del gran dragón en Apo_12:3; véase BERMEJO. 
+
+

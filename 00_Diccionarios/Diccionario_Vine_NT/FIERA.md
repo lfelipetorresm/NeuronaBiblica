@@ -1,0 +1,14 @@
+---
+titulo: "FIERA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#FIERA"]
+---
+
+# FIERA
+
+agrios (ἄãñéïò, [[G66]]), denota: (a) de o en campos (agros, campo), de ahí, «no doméstico», traducido «silvestre». Se dice de miel (Mat_3:4; Mar_1:6); (b) salvaje, fiero, metafóricamente, de «fieras ondas del mar» (rv, rvr, rvr77).¶ Se usa en los papiros de una herida maligna. Véase SILVESTRE.
+
+Notas: (1) En Mar_1:13; Hch_11:6; therion se traduce «fieras». Véase BESTIA, Nº 1; (2) el verbo theriomaqueo, usado en 1Co_15:32, se traduce «batallé … contra fieras»; véase BATALLA, B, Nº 2.¶ 
+
+

@@ -1,0 +1,21 @@
+---
+titulo: "ADIVINACIÓN, ADIVINO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ADIVINACIÓN,ADIVINO"]
+---
+
+# ADIVINACIÓN, ADIVINO
+
+qasam (÷ÈñÇí, [[H7080]]), «adivinar, practicar la adivinación». Cognados de este vocablo aparecen en arameo tardío, en cóptico, siríaco, mandeano, etiópico y arábigo, así como la lengua de Palmira. La raíz hebrea aparece 31 veces en el texto bíblico: 11 veces como verbo, 9 como participio y 11 como nombre.
+
+La adivinación era un paralelo pagano de la profecía: «No sea hallado en ti quien haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación … Porque estas naciones que vas a heredar, a agoreros y a adivinos oyen; mas a ti no te ha permitido esto Jehová tu Dios. Profeta de en medio de ti, de tus hermanos, como yo, te levantará Jehová tu Dios; a él oiréis» (Deu_18:10, Deu_18:14-15 : primer uso del término).
+
+El término qasam se refiere al acto de buscar la voluntad de los dioses a fin de conocer sus acciones futuras o conseguir su bendición para alguna acción propuesta (Jos_13:22). Es posible que los adivinadores conversaban con demonios (1Co_10:20).
+
+En ciertos casos, la práctica de adivinación involucraba ofrendas y sacrificios sobre un altar a la divinidad (Núm_23:1 ss). A través de un hueco en la tierra, el adivinador se comunicaba también con los muertos (1Sa_28:8). O sacudía saetas, consultaba ídolos domésticos y estudiaba los hígados de animales muertos (Eze_21:21).
+
+La adivinación era uno de los intentos humanos de conocer y controlar el mundo y el futuro, dejando de lado al Dios verdadero. Era lo opuesto a la verdadera profecía, la cual es esencialmente sumisión a la soberanía de Dios (Deu_18:14).
+
+Tal vez el uso más ambiguo y complicado del término aparece en Números 22—23 y Pro_16:10, en donde parece ser equivalente a «profecía». Balaam tenía fama de adivino entre los paganos; al mismo tiempo, reconocía a Jehová como su Dios (Núm_22:18). Aceptó dinero por sus servicios y probablemente no tenía problemas con ajustar su mensaje al agrado de sus clientes. Esto explicaría el porqué Dios se enojó con él y lo confrontó (Núm_22:22 ss), aun cuando ya le había dicho que aceptara la comisión y acompañara a los enviados del rey (Núm_22:20). Según parece, Balaam había resuelto agradar a sus clientes. Pero, una vez que esa actitud se volvió sumisión, Dios le permitió seguir su camino (Núm_22:35). 
+

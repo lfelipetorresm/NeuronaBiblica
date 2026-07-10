@@ -1,0 +1,12 @@
+---
+titulo: "ARTIFICIOSO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ARTIFICIOSO"]
+---
+
+# ARTIFICIOSO
+
+sofizo (óïößæù, [[G4679]]), de sofos, sabio (relacionado etimológicamente con sofes, sabroso). Significa en la voz activa hacer sabio (2Ti_3:15; igual que en la lxx en Sal_19:7, p.ej., «haciendo sabios a los pequeños»; en 119:98: «Tú me has hecho más sabio que mis enemigos»). En la voz media significa: (a) venir a ser sabio; no se usa así en el NT, pero se halla en la lxx (p.ej., en Ecl_2:15, Ecl_2:19; Ecl_7:17); (b) hacer el sofista, actuar artificiosamente; se usa con este significado en la voz pasiva en 2Pe_1:16 : «fábulas artificiosas». La rvr77 lo vierte siguiendo el original más de cerca, «ingeniosamente inventadas». Véase SABIO.¶ 
+
+

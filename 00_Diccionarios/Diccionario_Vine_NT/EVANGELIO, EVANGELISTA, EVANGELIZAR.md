@@ -1,0 +1,26 @@
+---
+titulo: "EVANGELIO, EVANGELISTA, EVANGELIZAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#EVANGELIO,EVANGELISTA,EVANGELIZAR"]
+---
+
+# EVANGELIO, EVANGELISTA, EVANGELIZAR
+
+A. Nombres
+
+1. euangelistes (åὐáããåëéóôÞò, [[G2099]]), lit: mensajero de lo bueno (eu, bien; angelos, mensajero). Denota un predicador del evangelio (Hch_21:8; Efe_4:11), que pone en claro lo distintivo de esta función en las iglesias (2Ti_4:5).¶ Cf. euangelizo, proclamar las gratas nuevas, y euangelion, gratas nuevas, evangelio. Los misioneros son evangelistas, al ser esencialmente predicadores del evangelio.
+
+2. euangelion (åὐáããÝëéïí, [[G2098]]), denotaba originalmente una recompensa por buenas nuevas; más tarde desapareció la idea de la recompensa, y la palabra vino a denotar las mismas buenas nuevas. En el NT denota las buenas nuevas del Reino de Dios y de la salvación a través de Cristo, que debe ser recibida por la fe, sobre la base de su muerte expiatoria, su sepultura, resurrección y ascensión (p.ej., Hch_15:7; Hch_20:24; 1Pe_4:17). Aparte de estas referencias y de las que se hallan en los Evangelios de Mateo y Marcos, y Apo_14:6, este término se halla solo en las Epístolas de Pablo. El apóstol lo usa para denotar dos cosas relacionadas, pero distintas: (a) de los hechos básicos de la muerte, sepultura y resurrección de Cristo (p.ej., 1Co_15:1-3); (b) de la interpretación de estos hechos (p.ej., Rom_2:16; Gál_1:7, Gál_1:11; Gál_2:2); en (a) el evangelio se contempla históricamente, en (b) doctrinalmente, con referencia a la interpretación de los hechos, tal como queda en ocasiones indicado en el contexto.
+
+Las siguientes frases describen los sujetos o naturaleza o alcance del mensaje: es el evangelio de Dios (Mar_1:14; Rom_1:1; Rom_15:16; 2Co_11:7; 1Ts_2:2, 1Ts_2:9; 1Pe_4:17); Dios acerca de su Hijo (Rom_1:1-3); su Hijo (Rom_1:9); Jesucristo, el Hijo de Dios (Mar_1:1); nuestro Señor Jesús (2Ts_1:8); Cristo (Rom_15:19, etc.); la gloria de Cristo (2Co_4:4); la gracia de Dios (Hch_20:24); la gloria del Dios bendito (1Ti_1:11); vuestra salvación (Efe_1:13); paz (Efe_6:15). Cf. también «el evangelio del Reino» (Mat_4:23; Mat_9:35; Mat_24:14); «el evangelio eterno» (Apo_14:6).
+
+En Gál_2:14 : «la verdad del evangelio» denota no el verdadero evangelio, sino su verdadera enseñanza, en contraste con las perversiones que se hacen de él.
+
+Las siguientes expresiones se usan en relación con el evangelio: (a) con respecto a su testimonio; (1) keruáo, predicarlo como heraldo (p.ej., Mat_4:23; Gál_2:2; véase PREDICAR); (2) laleo, hablar (1Ts_2:2); (3) diamarturomai, testificar, exhaustivamente (Hch_20:24); (4) euangelizo, predicar (p.ej., Hch_5:42; 1Co_15:1-2; 2Co_11:7; Gál_1:9, Gál_1:16, véase B más abajo); (5) katangelo, «anunciar» (p.ej.,Gál_4:2); (6) douleuo eis, servir al («ha servido»); (7) sunathleo en, laborar con en (Fil_4:3); (8) jierourgeo, ministrar (Rom_15:16); (9) pleroo, predicar plenamente (Rom_15:19); (10) sunkakopatheo, sufrir penalidades con (2Ti_1:8); (b) con respecto a su recepción u otros aspectos: (1) decomai, recibir (2Co_11:4); jupakouo, dar oído, u obedecer (Rom_10:16; 2Ts_1:8); pisteuo en, creer en ( Mar_1:15); metastrefo, pervertir (Gál_1:7).
+
+B. Verbo
+
+euangelizo (åὐáããåëßæù, [[G2097]]), traer o anunciar buenas nuevas (castellano, evangelizar). Se usa: (a) en la voz activa en Apo_10:7 : «anunció»; Apo_14:6 : «predicar»; (b) en la voz pasiva, de las cosas que deben ser proclamadas como gratas nuevas (Luc_16:16; Gál_1:11; 1Pe_1:25); de las personas a las que les es hecha la proclamación (Mat_11:5; Luc_7:22; Heb_4:2, Heb_4:6; 1Pe_4:6); (c) en la voz media, especialmente del mensaje de la salvación, con un objeto personal, ya bien la Persona predicada (p.ej., Hch_5:42; Hch_11:20; Gál_1:16), o, con una preposición, de las personas evangelizadas (p.ej., Hch_13:32 : «os anunciamos el evangelio»; Rom_1:15; Gál_1:8); con un objeto impersonal (p.ej: «la palabra», Hch_8:4; «el evangelio»,Hch_8:12; «la Palabra del Señor»,Hch_15:35; «el evangelio», 1Co_15:1; 2Co_11:7; «la fe», Gál_1:23; «paz», Efe_2:17; «las inescrutables riquezas de Cristo»,Efe_3:8). Véanse ANUNCIAR, DAR NUEVAS, PREDICAR, etc. 
+
+

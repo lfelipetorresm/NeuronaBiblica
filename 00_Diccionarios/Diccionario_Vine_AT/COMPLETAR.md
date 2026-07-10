@@ -1,0 +1,29 @@
+---
+titulo: "COMPLETAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#COMPLETAR"]
+---
+
+# COMPLETAR
+
+A. Verbo
+
+shalam (ùÑÈìÇí, [[H7999]]), «terminar, completar, reembolsar, remunerar, recompensar». La raíz hebrea denota perfección en el sentido de que está «completa» una condición o acción. Este concepto está presente cuando se describen objetos concretos. En tiempos de Nehemías, cuando había suficientes materiales de construcción a la mano y obreros disponibles, «la muralla [de Jerusalén] fue terminada» (Neh_6:15). Por otro lado, la raíz hebrea se encuentra también en vocablos con tantos matices y aplicaciones que a veces es muy difícil percibir su significado original y básico. En las diferentes versiones en castellano shalam se traduce como: «realizar, restaurar, pagar, reembolsar, recompensar, restituir, llenar, sobornar, ser vengativo, amistoso o pacífico, estar en paz, hacer las paces, ofrenda de paz, plenitud, totalidad, seguridad».
+
+La perfección y la plenitud se atribuyen en primer término a Dios. él en nada es deficiente; ninguna falta desvirtúa sus atributos; debilidad alguna limita su poder. Dios le recuerda a Job su independencia irrestricta y absoluta autosuficiencia: «¿Quién me ha dado primero para que yo le restituya? ¡Todo lo que hay debajo del cielo, mío es!» (Job_41:11 rva). Y el mismo Job lo admitía: «¿Quién le denunciará en su cara su camino?» (Job_21:31).
+
+Tampoco tiene Dios alguna deficiencia en la ejecución de su justicia; ni carece de misericordia ni de poder para dispensar toda suerte de bondades. Uno de los amigos de Job le dice: «Si fueres limpio … [Dios] hará próspera la morada que en justicia mereces» (Job_8:6). Dios tiene el poder para hacer que «el bien recompense a los justos» (Pro_13:21 rva). Ciro dice respecto al Señor: «cumplirá todo lo que yo quiero» (Isa_44:28). El Señor también le dará «consuelo a él y sus enlutados» durante el cautiverio babilónico (Isa_57:18).
+
+El Dios de perfecta justicia y bondad espera la total devoción de sus criaturas. Quienes sospechan que Job no rinde suficiente pleitesía a su Creador, le instan a ponerse «en paz con Dios» (Job_22:21 lvp).
+
+Es fundamental para las relaciones humanas cumplir a cabalidad con las obligaciones contraídas. La ley social de Israel requería que la persona que causara daño o prejuicio debía hacer «completa restitución» (Éxo_22:14 rva). «El que hiere a algún animal ha de restituirlo, animal por animal» (Lev_24:18). En algunos casos, al «que los jueces condenaren, pagará el doble a su prójimo» (Éxo_22:9). David declara que el hombre rico que mata la única ovejita del hombre pobre «debe pagar cuatro veces el valor de la corderita» (2Sa_12:6 rva). Ninguna deuda podía quedarse sin cancelar. Después de suministrar a la viuda el aceite suficiente, Eliseo le ordenó: «Ve y vende el aceite, y paga [shalam] a tus acreedores; y tú y tus hijos vivid de lo que quede» (2Re_4:7). En cambio, «el impío toma prestado y no paga» (Sal_37:21). Y el ladrón que ha enderezado su camino «restituye la prenda y paga lo que ha robado» (Eze_33:15 rva).
+
+Las relaciones entre naciones se fundamentan sobre negociaciones «completas». Después de aceptar las condiciones de Josué, las ciudades y los pueblos hicieron «la paz con los israelitas» (Jos_10:1). La guerra entre los dos reinos cesó cuando Josafat «hizo la paz con el rey de Israel» (1Re_22:44).
+
+B. Adjetivo
+
+shalem (ùÑÈìÅí, [[H8003]]), «perfecto». Dios demanda la obediencia total de su pueblo: «Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos y guardando sus mandamientos» (1Re_8:61). Salomón no cumplió con este requisito porque «su corazón no era perfecto con Jehová su Dios» (1Re_11:4). Por otro lado, Ezequías protesta: «He andado delante de ti en verdad y con íntegro corazón» (2Re_20:3).
+
+En sus negocios, se requiere de los israelitas «pesa exacta y justa … medida exacta y justa» (Deu_25:15 rva). 
+

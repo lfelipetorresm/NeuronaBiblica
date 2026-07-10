@@ -1,0 +1,12 @@
+---
+titulo: "CORREA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CORREA"]
+---
+
+# CORREA
+
+jimas (ἱìÜò, [[G2438]]), denota una correa, bien para atar a presos (Hch_22:25 : «correas»; para dar azotes; véase ATAR, Nº 5), o para atar sandalias (Mar_1:7; Luc_3:16; Jua_1:27). «Entre los orientales, todo lo relacionado con los pies y el calzado es sucio, y rebajarte, y doblarte a desatar la polvorienta correa es lo más insignificante en tal servicio» (Mackie, en Hastings’Bible Dictionary).¶ 
+
+

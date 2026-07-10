@@ -1,0 +1,12 @@
+---
+titulo: "SECUESTRADOR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SECUESTRADOR"]
+---
+
+# SECUESTRADOR
+
+andrapodistes (ἀíäñáðïäéóôÞò, [[G405]]), tratante de esclavos, secuestrador; de andrapodon, esclavo capturado en la guerra, palabra que se encuentra en plural en los papiros, p.ej., en un inventario de propiedades y en combinación con tetrapoda, seres de cuatro patas (andrapodon, compuesto de aner, varón, y pous, pie); andrapodon «no fue nunca el término ordinario para denotar un esclavo; es un recordatorio brutalmente evidente de aquel principio que hacía que la única diferencia a considerar entre los cuadrúpedos y la mano de obra humana fuera su número de patas» (Moulton y Milligan, Vocabulary). El verbo andrapodizo dio origen al nombre «con el mismo odioso significado», el cual aparece en 1Ti_1:10 : «para los secuestradores» (rv: «para los ladrones de hombres»; vm: «para los que hurtan a hombres»; nvi: «traficantes de esclavos»).¶ 
+
+

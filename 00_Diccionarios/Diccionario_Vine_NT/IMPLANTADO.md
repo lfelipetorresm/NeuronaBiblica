@@ -1,0 +1,12 @@
+---
+titulo: "IMPLANTADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#IMPLANTADO"]
+---
+
+# IMPLANTADO
+
+emfutos (ἔìöõôïò, [[G1721]]), implantado o arraigado (de emfuo, implantar). Se usa en Stg_1:21, de la Palabra de Dios, como «la palabra implantada»; esto es, una palabra cuya propiedad es la de arraigarse como una semilla en el corazón. La rv traduce «ingerida», lo que es incorrecto, por cuanto la palabra es sembrada y este es el sentido en que se presenta aquí.¶ 
+
+

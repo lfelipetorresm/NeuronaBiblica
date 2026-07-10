@@ -1,0 +1,14 @@
+---
+titulo: "IMPLACABLE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#IMPLACABLE"]
+---
+
+# IMPLACABLE
+
+aspondos (ἄóðïíäïò, [[G786]]), denota lit. sin una libación (a, privativo; sponde, libación); esto es, sin una tregua, ya que la concertación de tratados y pactos iba acompañada de libaciones; luego, uno que no puede ser persuadido a concertar un pacto: «implacable» (2Ti_3:3, y en Rom_1:31 en tr).¶
+
+Nota: Trench (Synonyms,¶ lii) contrasta aspondos con asunthetos ; véase Nota bajo DESLEAL. Aspondos puede significar infiel a la promesa dada; asunthetos, no cumpliendo el pacto concertado, traicionero. 
+
+

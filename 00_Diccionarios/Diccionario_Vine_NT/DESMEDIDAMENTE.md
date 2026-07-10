@@ -1,0 +1,14 @@
+---
+titulo: "DESMEDIDAMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DESMEDIDAMENTE"]
+---
+
+# DESMEDIDAMENTE
+
+ametros (ἄìåôñïò, [[G280]]), sin medida (a, negativo, y metron, véase MEDIDA). Se usa en el plural neutro en la frase adverbial en 2Co_10:13, 2Co_10:15, eis ta ametra, lit: «hacia las cosas sin medida». Se traduce «no nos gloriaremos desmedidamente» (rv: «fuera de medida»), refiriéndose a la esfera divinamente señalada por el apóstol como su ministerio del evangelio. Este había llegado a Corinto, y por el aumento de la fe de la iglesia allí, iba a extenderse a las regiones de más allá de ellos. Sus oponentes no tenían escrúpulos en inmiscuirse en las esferas de la obra de otros.¶
+
+Nota: El verbo juperairo, exaltarse desmedidamente, se traduce así en 2Co_12:7. Véase EXALTAR, etc. 
+
+

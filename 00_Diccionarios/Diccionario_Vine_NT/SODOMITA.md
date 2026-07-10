@@ -1,0 +1,12 @@
+---
+titulo: "SODOMITA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SODOMITA"]
+---
+
+# SODOMITA
+
+arsenokoites (ἁñóåíïêïßôåò, [[G733]]), aparece en 1Co_6:9 : «los que se echan con varones»; 1Ti_1:10 : «sodomitas» (de arsen, varón, y koite, cama, lecho, denotando asimismo la relación carnal, cf. Rom_13:13), o sea, los que practican la homosexualidad.¶ 
+
+

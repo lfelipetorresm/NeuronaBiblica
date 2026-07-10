@@ -1,0 +1,1086 @@
+ 
+Uso de Razón 
+ 
+Ricardo García Damborenea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El arte de Razonar, Persuadir, Refutar 
+ 
+ 
+Un programa integral de iniciación 
+a la lógica, el debate y la dialéctica. 
+ 
+Con una extensa relación de 
+ARGUMENTOS y el más completo 
+diccionario de FALACIAS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visite en internet: 
+ 
+www.usoderazon.com 
+ 
+Publicaciones Jesús Briseño 
+USO DE RAZÓN. PRESENTACIÓN. © Ricardo García Damborenea 
+PRESENTACIÓN 
+  
+Un hombre puede argumentar bien sin entender los principios del razonamiento, igual que 
+puede jugar bien al billar sin entender la mecánica analítica (PIERCE) 
+  
+  
+Esta página web se ocupa del razonamiento en su variante más llana , es decir, la lógica 
+práctica o informal tal y como se emplea en la calle, en casa, en la radio, la política o la
+publicidad, escenarios que comparten el mismo lenguaje, los mismos recursos, los mismos 
+sobreentendidos, y donde los argumentos se trasmiten principalmente de viva voz.  
+   
+Somos consumidores ávidos de cualquier argumento , propio o ajeno, que nos sirva para 
+resolver problemas o tomar decisiones. Sin duda, actividades como razonar, persuadir o 
+deliberar, ocupan la parte principal de nuestro tiempo y lo mejor de nuestra atención, tanto 
+si cuestionamos la moralidad de una guerra como si discutimos sobre el fútbol dominical.  
+   
+Si razonar es muy importante debiéramos conceder la misma importancia a razonar bien , 
+pero no ocurre así. Paradójicamente, nuestra argumentación se caracteriza por la 
+inseguridad. Es un campo brumoso, de límites inciertos, plagado de lagunas, conceptos 
+movedizos y procedimientos vacilantes.  
+   
+Lo llamativo es que ni siquiera somos conscientes de nuestra indigencia lógica. Ocurre aquí 
+como con los automovilistas. Pocos piensan que no son argumentadores perfectos y casi 
+todos creen que a los demás no les vendría mal estudiar un poco.  
+   
+El propósito de esta página es facilitar nuestro aseo mental: despejar las brumas, precisar los 
+conceptos, ordenar los procedimientos y señalar los errores más frecuentes en nuestra forma 
+habitual de razonar.  
+   
+No hablamos aquí de lógica formal en ninguna de sus variedades. Si un político, un 
+comerciante o un enamorado argumentaran con el formalismo de la lógica académica, 
+perderían el debate, el cliente y la novia. Hasta los profesores de lógica formal abordan sus 
+problemas cotidianos mediante procedimientos más sencillos, más antiguos y, sobre todo, 
+más accesibles.  
+   
+El razonamiento es un arte que requiere poco aprendizaje . Todo el mundo sabe argumentar 
+mejor o peor. Se aprende con el habla y la socialización. Cualquier niño de diez años, 
+medianamente dotado, respeta los principios elementales de la lógica (identidad, no 
+contradicción, causalidad) sin que se los explique nadie; sabe cómo sostener su razón y 
+utiliza los mismos recursos argumentales que un adulto: un ejemplo, un precedente, una 
+hipótesis, una autoridad, una norma, una disyunción...; fundamenta sus razones en lo justo, 
+lo útil, lo conveniente, lo cierto, lo probable...; en suma: maneja el mismo repertorio lógico 
+que utilizará durante toda su vida.  
+   
+Aprendemos a razonar del mismo modo que aprendemos a hablar: por imitación. A lo largo 
+de nuestra vida mejoramos nuestra capacidad, en mayor o menor grado, según sea la calidad 
+de los modelos que nos rodean. A esta pedagogía ambiental se suma con ventaja el estudio 
+de la gramática y de la lógica, indispensables para superar los estadios elementales de 
+nuestra desarrollo expresivo. Necesitamos estudiar, sobre todo, para evitar los fallos propios 
+y no imitar los ajenos, porque nacemos con más disposición para equivocarnos que para 
+acertar. Si hay algo que podemos hacer bien o mal, bueno será conocer la manera de hacerlo 
+bien.  
+Mi intención es contribuir a la difusión de este conocimiento. Lejos de cualquier ánimo 
+doctrinario, hago mías las palabras del Arcipreste: 
+Escolar soy muy rudo; non maestro ni doctor: 
+aprendí e sé poco para ser demostrador: 
+aquesto que yo dijere entendedlo vos mejor, 
+bajo vuestra enmendaçión pongo yo el mi error. 
+(ARCIPRESTE DE HITA)
+ 
+Revisado: julio de 2004  
+   
+ 
+Ricardo García Damborenea 
+ 
+ 
+ 
+USO DE RAZÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las clases de cuestión que pueden aparecer en un debate y 
+los tipos de argumentos que reclama cada una de ellas 
+ 
+ 
+ 
+ 
+ 
+www.usoderazon.com 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+2
+ÍNDICE 
+ 
+Introducción 
+ 3 
+La cuestión 
+ 3 
+Cómo delimitamos la cuestión 
+ 4 
+Los debates que suscita la acción 
+ 5 
+Resumen 
+ 7 
+ 
+ 
+La cuestión conjetural 
+ 8 
+Los hechos y sus circunstancias 
+ 8 
+Los criterios de la conjetura 
+ 9 
+Defensa y rechazo 
+13 
+Un debate previo a cualquier otro 
+14 
+Ejemplo de cuestión conjetural 
+14 
+Resumen 
+16 
+ 
+ 
+La cuestión de palabras 
+17 
+La definición y sus clases 
+17 
+Cómo definimos 
+20 
+Cómo argumentamos con las definiciones 
+22 
+     ¿Qué hará quien se oponga a la definición? 
+24 
+Otras tácticas de la definición 
+25 
+Cómo se refuta en la cuestión nominal 
+27 
+Consideraciones finales 
+30 
+Ejemplo de cuestión nominal 
+32 
+Resumen 
+33 
+ 
+ 
+La cuestión evaluativa 
+34 
+¿Cómo justificar un juicio de valor 
+35 
+Los criterios para valorar 
+36 
+El argumento pragmático 
+37 
+¿Cómo se replica ante un argumento pragmático? 
+38 
+El argumento moral 
+40 
+¿Cómo se replica ante un argumento moral? 
+41 
+Conflictos 
+42 
+El peso de las circunstancias 
+44 
+Resumen  
+48 
+Ejemplo de cuestión evaluativa 
+49 
+Consideraciones finales 
+49 
+ 
+ 
+Recapitulación de las tres cuestiones básicas 
+54 
+Diagrama de flujo para el análisis de un debate 
+55 
+ 
+ 
+La deliberación 
+56 
+Criterios 
+57 
+División y argumentación 
+58 
+Defensa de una propuesta 
+58 
+Rechazo de una propuesta 
+65 
+Falacias que acompañan a las deliberaciones 
+66 
+Resumen 
+67 
+Ejemplo de deliberación 
+67 
+Los errores donde naufragan las deliberaciones 
+69 
+ 
+ 
+El enjuiciamiento 
+73 
+Si el responsable intervino en los hechos 
+73 
+Si transgredió alguna normativa 
+74 
+Si tiene justificación en todo o en parte 
+75 
+Qué procede hacer 
+77 
+Ejemplo de enjuiciamiento 
+78 
+Resumen 
+79 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+3
+ 
+INTRODUCCIÓN. 
+¿DE QUÉ ESTAMOS HABLANDO? 
+ 
+ 
+SÓCRATES— Supongo, Gorgias, que tú también tienes la 
+experiencia de numerosas discusiones y que has observado 
+en ellas que difícilmente consiguen los interlocutores 
+precisar el objeto sobre el que intentan dialogar.1 
+ 
+ 1. La cuestión 
+¿Qué es lo más importante para abordar una discusión? Saber de qué se discute. Tal 
+homenaje a Perogrullo no es gratuito. La experiencia cotidiana muestra la facilidad con 
+que nos enzarzamos en disputas mal establecidas. Tan absurdo como encargar un traje 
+sin conocer quién lo vestirá es preparar argumentos antes de averiguar qué debemos 
+defender y cuáles son las exigencias de su defensa. Así pues, el principal mandamiento 
+para quien pretenda participar en un intercambio de ideas, dice que, lejos de malgastar 
+sus primeras energías en un acopio tal vez inútil de razonamientos, deberá precisar el 
+objeto sobre el que intenta dialogar: ¿en qué consiste el desacuerdo? ¿dónde radica el 
+meollo de la discrepancia? ¿qué me niegan? ¿qué pretendo concretamente rechazar? 
+ 
+— Debieras pensar en tu futuro y tomarte más en serio los estudios. 
+— Pero, papá, si tú a mi edad pasabas más tiempo en el bar que en clase. 
+— Mira, hijo, si quieres discutir conviene no mezclar las cosas. ¿Está bien o mal lo que yo te 
+digo? ¿Estuvo bien o mal lo que yo hice? ¿Justifican mis errores los que tú cometas? Son tres 
+cosas distintas: ¿cuál quieres que discutamos? 
+ 
+Cuando no establecemos adecuadamente los límites de la disconformidad, resulta un 
+guirigay en el que nadie se entiende porque cada uno trata sobre cosas diferentes. No es 
+raro escuchar debates en los que un participante porfía que los hechos no han ocurrido, 
+mientras su oponente sostiene que son un crimen, y un tercero afirma que estuvo muy 
+bien hecho, cuestiones todas manifiestamente distintas e incompatibles. Es preciso, 
+pues, determinar la cuestión. 
+ 
+Surge una controversia cuando existen dos opiniones encontradas sobre una misma 
+materia, por ejemplo: la TV es buena para los niños/ la TV es perjudicial para los 
+niños. Al objeto de este desacuerdo, a lo que se discute, a lo que se cuestiona, lo 
+llamamos cuestión, porque suele enunciarse en forma de pregunta: ¿Es buena o mala la 
+TV para los niños? o, lo que es igual: Si la TV es, o no, buena para los niños. 
+ 
+ Una mujer dijo: Mi hijo es el vivo y tu hijo es el muerto. Pero la otra replicó: No; tu hijo es el 
+muerto y mi hijo es el vivo. 
+ 
+La cuestión es, pensó Salomón, averiguar cuál de ellas dice la verdad. Hamlet no se 
+muestra menos preciso al señalar el problema: Esta es la cuestión, esto es lo que no 
+sabemos y lo que hemos de resolver: si conviene más ser o no ser, estar vivo o dejar de 
+estarlo. 
+                                                 
+1 Platón: Gorgias. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+4
+ 2. ¿Cómo delimitamos la cuestión? 
+  
+Todo lo que se discute se reduce a tres cuestiones: Si existe la cosa, qué es la cosa y cómo es 
+la cosa. CICERÓN.2 
+ 
+Aunque pudiera parecer que las posibilidades de controversia son infinitas, todas las 
+cuestiones se reducen a tres variedades porque únicamente son tres las dudas o cosas 
+dudosas sobre las que podemos discutir: 
+ 
+  
+ 
+a. Si una cosa existe o no, por ejemplo, si un hecho se ha producido o no. 
+ 
+ 
+b. En qué consiste, esto es, qué nombre le corresponde 
+ 
+ 
+c. Si nos parece bien o mal. 
+  
+ 
+a. Se discute sobre si algo es cierto o posible: si ha ocurrido o no, si es como se cuenta o 
+de otra manera. En suma: se discute acerca de los hechos y sus circunstancias. Por 
+ejemplo: 
+ 
+  
+Si Greenpeace ha paralizado, o no, la producción de una empresa en Alicante. 
+ 
+Si en la clínica Gutiérrez se ha practicado, o no, un aborto esta semana. 
+ 
+Si el Madrid ganará la liga de fútbol. 
+ 
+A este tipo de cuestión la llamaremos de hechos o conjetural, porque en ella, faltos de 
+evidencias, discutimos sobre conjeturas para saber si algo (un hecho o una intención) se 
+da o pudiera darse. 
+ 
+  
+b. Aceptando que los hechos han ocurrido, o que pueden ocurrir, cabe la 
+discusión sobre qué nombre hemos de ponerles. Por ejemplo: 
+ 
+Si cuando Greenpeace recurre a la fuerza contra las empresas debemos considerarlo un rasgo 
+de altruismo, un exceso juvenil o una forma de terrorismo. 
+Si el aborto de la clínica Gutiérrez constituye un acto médico normal, o un asesinato. 
+ 
+A esta variedad la llamaremos cuestión nominal o de palabras, porque en ella se 
+debaten los nombres de las cosas, para conocer qué son, en qué consisten. 
+ 
+  
+c. Estando de acuerdo en que los hechos son ciertos, e independientemente de la 
+denominación que merezcan, se puede discutir si están bien o están mal y si convienen o 
+perjudican. De este modo se debate por ejemplo: 
+ 
+Si lo que hace Greenpeace es útil, o representa una amenaza para la industria. 
+Si en la clínica Gutiérrez se hizo lo mejor que se podía hacer dadas las circunstancias. 
+Si el triunfo del Madrid lo estimaremos como una bienaventuranza o una calamidad. 
+ 
+A este tipo de cuestión la llamaremos evaluativa o de valoración, porque en ella se 
+confrontan juicios de valor para establecer si las cosas son buenas o malas y en qué 
+grado. 
+ 
+Estas son, pues, las tres posibilidades de debate que ofrece cualquier asunto. Las 
+llamamos cuestiones de conocimiento porque nos sirven para explicar y juzgar los 
+hechos. Tocaremos una de ellas o todas seguidas según sea nuestro grado de 
+información. Así, por ejemplo, mirando al pasado, podemos discutir sucesivamente: si 
+                                                 
+2 El Orador, 14,45. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+5
+la cosa ha ocurrido (cuestión conjetural), cómo la llamaremos (cuestión nominal) y qué 
+nos parece (cuestión de valoración). 
+ 
+Si Greenpeace ha paralizado o no una empresa en Alicante; 
+Si hemos de considerarlo una hazaña o un sabotaje; 
+Si, pese a todo, nos parece que estuvo bien o mal hecho. 
+     
+Como es obvio, si lo hechos no se rechazan, el debate comienza en la cuestión nominal, 
+y si ésta tampoco se discute, será posible dirigirse directamente a la valoración. Del 
+mismo modo se abordan las cosas del futuro: si son posibles, cómo se llaman y qué nos 
+parecen. 
+ 
+ 3. Los debates que suscita la acción 
+Nada nos impide polemizar sobre una o varias de las cuestiones básicas, pero lo habitual 
+es que nuestros debates no se limiten a ellas, esto es, al análisis de los hechos. 
+Discutimos al servicio de la acción (praxis). Queremos dejar sentado cómo son las 
+cosas porque nos esperan preguntas adicionales: ¿hay que hacer algo? ¿qué es lo que 
+habría que hacer? ¿cómo conseguirlo? Estamos hablando de cuestiones de acción. Nos 
+interesan las cuestiones de conocimiento como preludio y fundamento de nuestras 
+decisiones. 
+ 
+Aquí ocurre también que los debates imaginables son infinitos pero sus variedades se 
+reducen sustancialmente a dos: la deliberación (¿qué hacer?) y el enjuiciamiento 
+(¿quién es el responsable?). 
+ 
+En la deliberación nos ocupamos del futuro, no para vaticinarlo, como corresponde a 
+una cuestión puramente conjetural, sino para escoger cómo nos conviene actuar. 
+ 
+Si se debe invitar a Greenpeace a visitar todas las empresas del país. 
+Si el Estado debe cerrar la empresa contaminante. 
+Si el Estado debe compensar a la empresa perjudicada. 
+ 
+Son cuestiones de acción que no podremos resolver sin repasar antes las cuestiones de 
+conocimiento en cada una de las alternativas disponibles. 
+ 
+En el enjuiciamiento discutimos sobre personas para delimitar responsabilidades, lo 
+que nos obliga a tocar cuestiones conjeturales (¿intervino?), de nombre (¿imprudencia 
+temeraria o accidente?), y de valoración (hizo bien, hizo mal, hizo lo que pudo), para 
+concluir con una deliberación (¿merece un premio o un castigo?). 
+ 
+Bien se ve que tanto la deliberación como el enjuiciamiento son debates mixtos que 
+pueden albergar discrepancias múltiples. 
+ 
+¿Qué hizo Pinochet? 
+¿Cómo lo llamaremos? 
+¿Qué juicio nos merece? 
+¿Qué procede hacer con él? 
+¿Quién debe hacerlo y dónde, cuándo, cómo...? 
+ 
+Todas estas cuestiones, y algunas más, rondan (y embrollan) el caso Pinochet. Es obvio 
+que no se pueden discutir al mismo tiempo, salvo que deseemos (cosa frecuente) 
+confundir al auditorio. 
+ 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+6
+ Los que disputan han de convenir primero en lo que tratan, que es lo que llaman estado de la 
+causa, o el punto de que principalmente se duda (FR. LUIS DE LEÓN) 
+  
+* * * 
+    En suma: el primer paso en toda polémica debe servir para precisar la cuestión: ¿qué 
+es lo que se discute? ¿sobre qué asunto y sobre qué aspecto de dicho asunto? A esto 
+nos referimos cuando hablamos de centrar el debate o acotarlo. 
+ 
+ Vosotros pensáis que lo que se trata es si se ha de hacer la guerra o no: y no es así. Lo que 
+se trata es si esperaréis al enemigo en Italia, o si iréis a combatirlo en Macedonia, porque Filipo 
+no os permite escoger la paz.3 
+ 
+Si no queremos dar facilidades a un contrincante, importa cuidar dos cosas: 
+ 
+  
+A - Que el debate no se desvíe de la cuestión que está en cada momento sobre la 
+mesa. 
+ 
+—Que no me den a mi a entender que ésta no sea bacía de barbero y ésta albarda de asno. 
+—Bien podría ser de borrica — dijo el cura. 
+—Tanto monta, que el caso no consiste en eso, sino en si es o no es albarda. 
+  
+ 
+ 
+B - Que al tratar diversas cuestiones se guarde el orden que la lógica reclama. 
+Cuando un asunto nos obliga a considerar varias cuestiones es una locura confundirlas o 
+mariposear sobre ellas. Debemos impedir cualquier desviación de la cuestión: eso NO es 
+lo que estamos discutiendo. Ya llegará el momento de tratarlo. Importa mucho ordenar 
+el debate para solventar todas las diferencias sucesivamente. Sería absurdo discutir 
+sobre la corrección de unos hechos que no están probados o que, si lo están, no se 
+consideran perniciosos. 
+ 
+Me plantea usted la cuestión de si en el ingenio hay exceso de unas naciones a otras, y, en 
+caso de haber desigualdad, a cuál o cuales se debe adjudicar la preferencia. La cuestión 
+consta, como se ve, de dos partes. En la primera se da por sentada aquella desigualdad, pues 
+la suponen quienes plantean la segunda: conceder ventaja a esta o aquella nación.4 
+     
+Aristipo pedía una vez dinero a Dionisio. Objetó éste que, según el propio Aristipo, el sabio no 
+lo necesita. Respondió Aristipo: Dame el dinero, y luego entraremos en esa cuestión. Dióselo 
+Dionisio, y al momento dijo el filósofo: ¿Ves cómo no necesito?5 
+ 
+Llamamos división a la tarea de señalar y ordenar todas las cuestiones que pueden 
+intervenir en un debate. Una buena división asegura tres cuartas partes del éxito porque 
+despliega con claridad lo que está en juego, lo que debemos defender y aquello que será 
+preciso refutar. De ella, sin ningún esfuerzo adicional brotan los argumentos, porque 
+ella misma los exige y en buena parte los sugiere. 
+ 
+ El cuidado de establecer bien las cuestiones, de plantearlas con exactitud y acierto, y de no 
+permitir que salgan de su terreno, es de mayor interés para el que habla el último, porque a 
+veces con sólo este trabajo fácil y sencillo, desvanece cuanto se ha dicho antes, e inclina a su 
+favor la balanza sin otros esfuerzos ni fatiga. Suele ocurrir que el que habla primero apela al 
+medio de desnaturalizar la cuestión para mirarla bajo el aspecto que más le conviene. No se 
+necesita, pues, entonces otra cosa que traerla a sus verdaderos términos, y con esto sólo 
+vendrá a tierra todo el edificio y toda la gran balumba que haya podido levantar un adversario 
+diestro y poco escrupuloso. JOAQUÍN Mª LÓPEZ. 
+ 
+                                                 
+3 Tito Livio, XXXI, 5 
+4 Feijoo. Cartas, 13 
+5 Diógenes Laercio: Arístipo. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+7
+Delimitadas de esta manera las cuestiones posibles, conviene ahora que las veamos un 
+poco más despacio, porque cada una de ellas impone modos peculiares para la defensa y 
+la refutación. Comenzaremos por la primera, es decir: la cuestión conjetural. 
+ 
+ 
+__________________________________________________________________ 
+RESUMEN DE LA INTRODUCCIÓN A LA CUESTIÓN 
+ 
+I. Controversia es el debate que surge entre dos opiniones contradictorias. 
+ 
+II. Cuestión es aquel aspecto del asunto en que se condensa la controversia. 
+ 
+III. Las cuestiones básicas o de conocimiento, pueden ser de tres tipos: 
+ 
+ 
+ 
+Conjetural, cuando se discuten hechos que no son patentes. 
+ 
+ 
+Nominal, si se disputa sobre el nombre. 
+ 
+ 
+Evaluativa, que se refiere a la valoración. 
+ 
+IV. La mayor parte de los debates complejos, que plantean cuestiones de acción, 
+responden a dos modelos principales: 
+ 
+ 
+ 
+La deliberación sobre qué hacer. 
+ 
+ 
+El enjuiciamiento de una responsabilidad. 
+___________________________________________________________ 
+  
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+8
+ 
+  
+ LA CUESTIÓN DE HECHOS O CONJETURAL 
+    
+  
+ 
+He de hablar aquí sólo en hipótesis, diciendo no lo que 
+sé, sino lo que supongo más probable. Dr. JECKILL  
+ 
+ 
+En esta cuestión se disputa sobre si las cosas son o no son, es decir si los hechos sobre 
+los que se discrepa ocurrieron, ocurren  u ocurrirán. 
+ 
+  
+Controversia: La CIA intervino en el asesinato de Kennedy / No intervino. 
+ 
+Cuestión: ¿Intervino la CIA en el asesinato de Kennedy? 
+ 
+Se llama conjetural porque, al no ser los hechos evidentes, hemos de apoyarnos en 
+conjeturas, es decir, en juicios probables basados en datos incompletos o en indicios. 
+ 
+Lázaro, engañado me has. Juraré yo a Dios que has tú comido las uvas de tres a tres. 
+No comí, dije yo; mas ¿por qué sospecháis eso? 
+¿Sabes en qué veo que las comiste tres a tres? En que comía yo dos a dos y callabas 
+ 
+Toda conjetura versa sobre un hecho o una intención, es decir, sobre si es o no cierto 
+que se produjo el hecho o existió la intención. 
+  
+  
+1. LOS HECHOS Y SUS CIRCUNSTANCIAS 
+   
+Seis honrados servidores me enseñaron cuanto sé; 
+Sus nombres son cómo, cuándo, dónde, qué, quién y por qué (R. KIPLING). 
+   
+No conjeturamos sobre hechos aislados. La gente normal no discute si un gobierno 
+indefinido negocia con terroristas en general, o si será posible pagar no se sabe qué 
+pensiones. Juzgamos de los hechos en la perspectiva de una situación determinada: 
+  
+ 
+¿Ha negociado el gobierno de Irlanda con los terroristas del IRA en 1998? 
+ 
+¿Será posible pagar las pensiones de jubilación en el año 2040? 
+ 
+Aunque los hechos en sí sean indiscutibles —ha aparecido un cadáver, se ha estrellado 
+un avión— queremos saber cómo han ocurrido. 
+  
+ 
+¿Cuál ha sido la causa? 
+ 
+¿Quién ha intervenido? 
+ 
+¿Por qué lo ha hecho? 
+ 
+¿Cuándo, dónde, con qué medios? 
+ 
+Necesitamos detalles, precisiones circunstanciales de persona, lugar, tiempo, modo y 
+causa, sin las cuales nos sentimos incapacitados para conjeturar. 
+  
+  
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+9
+Comenzaron a informarse de por qué medios, en qué lugar, en qué día, a qué hora, cómo y a 
+propósito de qué le había llegado aquél gran tesoro. RABELAIS. 
+ 
+Cada una de las preguntas que reclaman información circunstancial: quién, cuándo, 
+dónde, cómo, con qué medios y por qué, puede suscitar una cuestión. Cabe estar de 
+acuerdo en los hechos (es cierto que la cosa ocurrió, o que pudo ocurrir), pero no en las 
+circunstancias (no es cierto que ocurriera como se dice: no es cierto que fuera en Junio, 
+no es cierto que se tratara en el Consejo de Ministros, no es cierto que el presidente 
+estuviera informado). Sin salir de las causas, caben muy diversas discrepancias: fue un 
+movimiento de tierras, un error de la contrata, etc. De manera que, con frecuencia, es 
+preciso plantear diversas cuestiones sucesivamente, según cuál sea el o los puntos de 
+discrepancia. 
+ 
+Lo que se presenta a juicio no es si Clodio fue muerto (algo que nosotros reconocemos; hay 
+constancia de que se realizó una emboscada). Lo que no está claro es por parte de quién se 
+realizó esa emboscada. Esto es lo que estamos discutiendo y no el hecho mismo. CICERÓN.6 
+ 
+ 
+ 
+2. LOS CRITERIOS DE LA CONJETURA 
+Sea cual fuere la conjetura que realicemos, los asideros de nuestro razonamiento son: 
+  
+ 
+1. que existan indicios o motivos. 
+ 
+2. que los hechos parezcan no sólo posibles sino muy probables. 
+  
+   ¿Es posible que ocurriera, que fueras tú, que fuera ayer...? 
+   ¿Existen indicios de que ocurriera, de que lo hicieras tú, de que fuera así..? 
+   ¿Tenías motivos para desearlo? 
+  
+Cuando algo es posible, disponemos de indicios y descubrimos motivos, podemos 
+sostener que probablemente ocurrió. Veámoslo en detalle: 
+  
+   1. Que existan signos indirectos de que las cosas han ocurrido de una determinada 
+manera. Pueden ser de dos tipos: indicios y motivos. 
+  
+ 
+Indicios: aceptamos que algo ha ocurrido cuando aparecen señales que lo 
+indican: La riqueza oculta es un indicio de fraude fiscal, las adjudicaciones irregulares 
+de obras públicas son indicios de corrupción, los indicadores económicos son indicios 
+de la evolución de la economía. 
+  
+ 
+Motivos. Se refuerza nuestra creencia cuando apreciamos motivos para realizar 
+una acción determinada, por ejemplo, la expectativa de un beneficio. 
+  
+   2. Que sea posible, que pueda ocurrir. Por ejemplo, es posible que existan escuchas 
+telefónicas y no es posible, por más indicios que acumulemos, que el terrorismo 
+desaparezca de la noche a la mañana. Tampoco es posible que haya intervenido en un 
+hecho quien no tenía capacidad de hacerlo porque no estaba presente, carecía de medios 
+o de autoridad. 
+  
+No basta con que un hecho parezca posible. Queremos saber si es probable o, incluso, 
+previsible. Es posible que un padre mate a sus hijos, pero no es probable. Aceptamos lo 
+                                                 
+6  pro Milón. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+10
+habitual, lo que ocurre con más frecuencia en una circunstancia determinada: Es muy 
+probable que donde disminuya la vigilancia crezca el fraude. 
+  
+Señores ¿por qué hemos de creer lo raro, lo sorprendente, lo inconcebible, lo que no ha 
+sucedido nunca, y no hemos de creer lo fácil, lo común, lo frecuente, lo que sucede todos los 
+días, las intrigas que hierven y pululan en los palacios?7 
+ 
+Llamamos verosímil a lo que reúne estas condiciones. Si existen indicios o motivos de 
+algo que es posible y probable, nos parecerá razonable que los hechos se produzcan en 
+la dirección que la experiencia común señala. Cuando algo es posible y se desea, lo 
+verosímil es que ocurra. 
+ 
+Pudo ser y convino, luego fue (DUNS ESCOTO). 
+ 
+Volvamos al caso de las uvas. ¿En qué se apoyaba la conjetura del ciego?: en el motivo 
+(el beneficio), en que existía una posibilidad sin límites amparada por la ceguera, en un 
+indicio clamoroso (tú callabas) y, en fin, en su propia experiencia sobre lo probable y 
+lo habitual. Por eso su interpretación resulta verosímil. 
+  
+No hay que asombrarse de que falsificara el documento, no sólo porque muchas veces ya han 
+ocurrido cosas así, sino porque algunos de los que tratan con él han hecho cosas mucho 
+peores que éstas. ISÓCRATES.8 
+  
+Añadamos algo más sobre los indicios, los motivos y lo posible. 
+  
+ 
+a. Indicios 
+ Indicio es todo hecho conocido que sugiere la existencia de otro no conocido: si veo 
+humo infiero que hay fuego; si una mujer amamanta a un niño colegimos que no es 
+virgen. 
+  
+Los hijos del rey han huido, lo que los expone a sospechas (MACBETH). 
+  
+Se fundamenta en las relaciones que nuestra experiencia pueda establecer entre dos 
+hechos. A saber: 
+  
+• una relación causal. Si nos consta la existencia de una causa podemos inferir que 
+se ha producido o se producirá el efecto: la inestabilidad política producirá un 
+descenso en las inversiones y en el consumo. Al revés, el efecto nos indica la 
+causa: las huellas que percibo en la mesa indican que mis croquetas se las ha 
+comido el gato de la vecina. 
+ 
+• una relación de coexistencia o de sucesión, cuando los dos hechos aparecen juntos 
+o muy próximos en el tiempo, como el trueno y la lluvia. 
+  
+ RINCONETE— Parece que la Gananciosa ha escupido, señal de que quiere cantar. 
+  
+• una relación de semejanza, cuando un hecho (o un conjunto de ellos) se parece 
+mucho a algo: 
+                                                 
+7  Joaquín Mª López en su defensa parlamentaria de Olózaga. 
+8 Isócrates XVII, 33. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+11
+  
+Supongo que era el presidente porque vi un coche negro, grande, con los cristales oscuros. 
+  
+El valor de un indicio depende de la fuerza con que percibamos esa relación. Es grande 
+cuando la asociación parece constante e infalible, es decir, necesaria, como la que existe 
+entre el humo o las cenizas y el fuego. En este caso el indicio equivale a una prueba y 
+basta uno solo para establecer la conclusión. Este tipo de relación necesaria se da entre 
+causa y efecto, principio y consecuencia, signo y significado, todos los cuales producen 
+certeza: no había llovido porque el suelo estaba seco. 
+      
+Lo habitual es que, al ser equívocos los indicios disponibles, no nos baste con uno. 
+Necesitaremos una suma de ellos para que la idea que sugieren resulte convincente. Si 
+veo o a un señor bajito paseando solitario por el Retiro puedo pensar que se trata de mi 
+tío Jacinto. Es una probabilidad. Si además lleva barba, boina, abrigo y ha salido de un 
+portal de la calle Alfonso XII, las probabilidades se suman y mi convicción se ve mucho 
+más reforzada. 
+  
+La tierra alegre, el cielo claro, el aire limpio, la luz serena, cada uno por sí y todos juntos daban 
+manifiestas señales de que el día había de ser sereno y claro. QUIJOTE. 
+  
+Por supuesto que a través de una suma de indicios no puedo alcanzar ninguna certeza. 
+Toda presunción basada en indicios equívocos puede ser errónea. 
+ 
+No había pruebas, solo destellos que podían significar algo o no significar nada. ORWELL, 1984. 
+  
+Cuanto mayor sea el número de indicios que sugieren lo mismo, tanto más fácilmente 
+surgirá la convicción. 
+  
+POOLE— Señor, fue tan deprisa y la persona iba tan encorvada, que no me atrevería a jurarlo. 
+Pero si usted se refiere a Mr Hyde, pues bien: Sí ¡creo que era él! Oiga usted: parecía tener la 
+misma estatura y la misma ligereza, y además, ¿quién que no fuese él pudiera haber entrado 
+por la puerta del laboratorio? 
+  
+ b. Los motivos. 
+ 
+¿Por ventura aquel hombre hubiera cometido el homicidio sin alguna causa, y deleitándose 
+solamente en el homicidio mismo? ¿Quién lo había de creer? (...) Aun el mismo Catilina no 
+amaba sus atrocidades por sí mismas, sino que amaba otras cosas, y para conseguir éstas 
+ejecutaba aquéllas.9 
+  
+Un motivo es una forma de causa: la que nos empuja a la acción. 
+  
+No me faltan motivos para hablar en favor de Nicias: ocurre que es amigo mío, que se 
+encuentra en apuros, que es víctima de una injusticia y que no sabe de oratoria.10 
+ 
+Básicamente hacemos las cosas para obtener un bien o evitar un mal. 
+  
+                                                 
+9 San Agustín. Confesiones I.V. 
+10 Isócrates, XXI, 1. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+12
+Por uno de estos dos motivos hacen todos lo que hacen: en persecución de alguna ganancia o 
+por escapar de algún castigo. GORGIAS. 
+  
+Como con frecuencia ocurre que no se alcanza el fin que se pretendía, juzgamos los 
+motivos no por el resultado obtenido sino por las expectativas de ventaja o perjuicio: un 
+jugador de bolsa no necesita más que la sombra de una sospecha para atemorizarse. 
+Igualmente consideramos beneficiosa la elección de un mal si es menor que otro. 
+  
+CICERÓN— ¿De qué modo puede probarse que fue Clodio quién preparó una emboscada a 
+Milón? Sin duda es suficiente con mostrar que en aquel monstruo tan audaz y criminal hubo un 
+motivo importante, una gran esperanza puesta en la marcha de Milón y numerosas ventajas. 
+Valga en personajes como éstos aquel dicho de Casiano "cui bono?".11 
+  
+ c. Lo posible y lo imposible 
+Utilizamos comúnmente la expresión imposible en las siguientes situaciones: 
+  
+1. Es imposible todo lo que se opone a las leyes de la naturaleza: que un burro vuele, 
+que una piedra suba, que el agua se mueva sola, que una causa no produzca efecto, que 
+un efecto no tenga causa. No es posible que se altere el orden natural de las cosas sin 
+que exista un motivo o una causa. 
+  
+2. Es imposible todo lo que implica una contradicción, por ejemplo, un absurdo: 2+2=3; 
+estar vivo estando muerto; que el todo sea menor que la parte. 
+  
+3. Es imposible todo lo que precisa medios u oportunidades de los que no se dispone: no 
+se puede comprar una finca sin dinero, no es posible que un soldado dé órdenes al 
+general. Nuestra estimación de lo posible está muy ligada a la existencia de la ocasión, 
+esto es, a la oportunidad de tiempo o de lugar para hacer o conseguir algo: No se hacen 
+las cosas cuando se quiere, sino cuando se puede. 
+  
+4. Es imposible todo lo que es exageradamente improbable: 
+  
+•      porque parece extremadamente dificultoso. Por ejemplo, que cese el conflicto 
+en Oriente Medio. 
+•      porque existe una voluntad eficiente que se opone: Jamás votaré esa ley. 
+•     porque choca con el sentido común. Por ejemplo, las casualidades 
+extravagantes: ganar todos los años en la lotería; actuar en perjuicio propio 
+cuando no se trata de abnegación. 
+  
+No puede ser eso respondió Sancho, porque si fueran ladrones, no se dejaran aquí  
+este 
+dinero. 
+  
+ 
+ 
+ 
+Que ande la bella casada 
+ 
+ 
+ 
+Bien vestida y mal celada 
+ 
+ 
+ 
+Bien puede ser. 
+ 
+ 
+ 
+Mas que el bueno del marido 
+ 
+ 
+ 
+No sepa quién da el vestido 
+ 
+ 
+  
+No puede ser. GÓNGORA. 
+  
+  
+                                                 
+11  pro Milón. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+13
+3. DEFENSA Y RECHAZO. 
+Si trasladamos lo dicho a un debate real, quien pretenda sostener que un hecho dudoso 
+es cierto, alegará: 
+  
+• 
+Que todo indica que ocurrió: existen indicios; han surgido efectos. 
+• 
+Que había motivos y que, de hecho, se han producido beneficios (o indicios de beneficio). 
+• 
+Que esta explicación es la única verosímil. 
+  
+Por el contrario, quien desee negar la existencia de un hecho, aducirá: 
+  
+• 
+Que no es posible o que es muy difícil. Tan difícil, que podemos considerarlo imposible. 
+• 
+Que no existían motivos, que no había nada que ganar, que, por el contrario, representaba un perjuicio. 
+• 
+Que los indicios no prueban nada, que son apariencias, que pueden indicar cosas diversas, que son 
+conjeturas temerarias. 
+  
+Yo os demostraré que no dice la verdad por medio de dos argumentos, a saber: que, ni si 
+hubiese querido, habría podido, ni, si hubiese podido, habría querido acometer tales 
+acciones.12 
+  
+Como regla general, se puede establecer el siguiente orden en las posiciones defensivas: 
+  
+• 
+Negar la posibilidad del hecho. 
+• 
+Si no cabe negarla, porque es posible, negar la verosimilitud. 
+• 
+Si esto tampoco cabe, porque es verosímil, sostener que no hay pruebas. 
+  
+ 
+   Mirad, aunque convencido 
+ 
+   os veáis, negad osado, 
+ 
+   Don Juan, que lo bien negado 
+ 
+   nunca ha sido mal creído.13 
+  
+Como ya hemos señalado, la verosimilitud y su contraria se aplican tanto a los hechos 
+como a sus circunstancias: la persona, el lugar, el tiempo, el modo, la causa. De todos 
+ellos se puede argumentar sobre lo posible, los indicios y, en el caso de las personas, 
+sobre los motivos: es imposible que ocurriera el Jueves; no pudo ser por la noche; 
+Fulano carecía de motivos;... etc. 
+  
+CICERÓN— Si no quiso darle muerte [cuando hubiera contado] con el beneplácito de todo el 
+mundo, ¿pensaremos que quiso hacerlo con la desaprobación de algunas personas? Si no se 
+atrevió a matar cuando la legalidad, el lugar, las circunstancias y la impunidad le favorecían 
+¿pensaremos que no dudó en hacerlo con deshonor, en un lugar y circunstancias 
+desfavorables y con riesgo de la propia vida?14 
+  
+Tanto quien sostiene un hecho como quien lo niega, completa su argumentación con la 
+hipótesis contraria: es verosímil lo que afirmo y es increíble (o absurdo) lo contrario. 
+Para ello se recurre a una suposición: ¿Qué hubiera ocurrido si fuera cierto lo que se 
+afirma? Si no se dan las consecuencias previsibles, parece razonable rechazar la 
+hipótesis. 
+  
+ 
+                                                 
+12  Gorgias: Defensa de Palamedes (en Melero: Sofistas). 
+13 Calderón: Mañana será otro día. 
+14  pro Milón. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+14
+4. UN DEBATE PREVIO A CUALQUIER OTRO. 
+Mientras no esté resuelta esta cuestión, mientras no sepamos o aceptemos que las cosas 
+han ocurrido u ocurren y que lo hacen de ésta o de aquélla manera, será prematura 
+cualquier consideración sobre el nombre o la evaluación de las mismas. No es posible 
+discutir con sentido la valoración de algo cuya existencia no está razonablemente 
+admitida. Esto puede sonar a perogrullada, pero en el terreno de las disputas todas las 
+precauciones son pocas. 
+  
+Por ser una cuestión que precede a cualquier otra, es la primera que se discute en el 
+parlamento, especialmente en los debates sobre la  situación política, las 
+comparecencias informativas, las comisiones de investigación, etc. Otra cosa es que, al 
+estar los debates parlamentarios mal ordenados, se planteen cuestiones de valoración o 
+incluso propuestas cuando está sin resolver la cuestión conjetural. Esto suele ocurrir con 
+la distraída aquiescencia del Presidente por tener éste toda su atención concentrada en 
+cronometrar las intervenciones o sofocar los alborotos. Con ello los oradores se suceden 
+en la tribuna proponiendo soluciones a cosas que no están probadas y que seguramente 
+no se van a debatir adecuadamente, pero que se condenan por si acaso y para que conste 
+en el telediario. Es muy frecuente que el Presidente del Congreso llame al orden, y son 
+rarísimas las ocasiones en que llama a la cuestión. 
+  
+Nos hemos limitado a debates sobre el pasado para no complicar la exposición. La 
+argumentación es la misma cuando se conjetura el futuro, como veremos con más 
+detalle en el capítulo sobre la deliberación. 
+   
+ 
+ 
+EJEMPLO DE CUESTIÓN CONJETURAL. 
+Traemos aquí un fragmento del Discurso de Palamedes, el insigne inventor del alfabeto 
+y del juego de damas. Su enemistad con Ulises venía de antiguo, de cuando este intentó 
+eludir sus compromisos y no ir a Troya, fingiéndose loco. Palamedes descubrió, 
+mediante una treta, el engaño. En venganza Ulises tramó una conspiración contra él: 
+falsificó una carta del rey de Troya dirigida a Palamedes, en la que éste aparecía como 
+traidor a los griegos y, para hacer más verosímil la insidia, hizo enterrar una cantidad de 
+dinero bajo su tienda. Ante la evidencia, Palamedes fue condenado a muerte y 
+ejecutado.15 
+  
+Se atribuye a Gorgias un discurso escolar que muestra de qué manera podría haberse 
+defendido Palamedes. Es un poco largo, pero lo hemos resumido. Merece la pena leerlo 
+como ilustración de cuanto hemos comentado en el capítulo. 
+  
+...Yo os mostraré que Ulises no dice la verdad por medio de dos argumentos, a saber: 
+que, ni si hubiese querido, habría podido, ni, si hubiese podido, habría querido 
+acometer tales acciones. 
+  
+A. Me dirijo primero al argumento de que no tengo poder para llevar a cabo esa 
+traición. 
+ 
+1. Habría sido necesario, en efecto, que la traición hubiese tenido, ante todo, un 
+principio y el principio habría sido una conversación (...) Ahora bien, ¿cómo pueden 
+                                                 
+15  Antonio Melero: Sofistas. 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+15
+mediar palabras si no tiene lugar un encuentro? Mas ¿de qué modo podría haber 
+tenido lugar un encuentro, toda vez que ni el rey me envió una persona en su nombre ni 
+nadie fue a verlo en el mío? (...) 
+ 
+2. Pero imaginemos posible que ello sucediera con un encuentro (...) ¿Cómo 
+puedo entenderlo y hablarle? ¿Acaso a solas los dos? No comprenderemos, en tal caso, 
+nuestros mutuos discursos. ¿Mediante un intérprete, tal vez? En ese supuesto, 
+interviene una tercera persona como testigo de planes que necesitan mantenerse en 
+secreto. 
+ 
+3a. Pero admitamos que sucedió así, aunque no sucediese. Hubiese sido preciso 
+que, tras nuestro encuentro, nos hubiésemos exigido y dado una garantía. ¿Cuál habría 
+sido, en tal caso, esa garantía? ¿Un juramento, quizás? ¿Quién iba a estar dispuesto a 
+confiar en mí, un traidor? ¿Rehenes, acaso? ¿Quiénes? En mi caso tendría que haber 
+entregado a mi hermano (puesto que no disponía de otra persona); el bárbaro, a 
+alguno de sus hijos(...) Pero, si así hubiese sucedido, el intercambio habría sido 
+palmario para todos nosotros. 
+ 
+3b. Alguien podría sugerir que nos dimos garantía mediante dinero, dándomelo 
+él y aceptándolo yo. ¿Poco dinero tal vez? No, porque no es verosímil recibir poco 
+dinero a cambio de grandes servicios. ¿Mucho entonces? ¿Cómo se hizo, en tal caso, el 
+transporte? ¿Cómo podría haberlo transportado una sola persona? ¿O fueron muchas? 
+Si hubiesen sido muchas, muchos testigos habría habido de la conspiración; si hubiese 
+sido una sola persona, no habría sido mucho el dinero transportado. ¿Lo transportaron 
+de día o de noche? Si de noche, son muchos y próximos los puestos de vigilancia, que 
+no es posible cruzar sin ser advertidos. ¿Fue, entonces, de día? La luz, empero, es 
+enemiga de tales acciones. 
+  
+4. Pero admitamos que sucedió lo que no sucedió. Nos reunimos, hablamos, nos 
+entendimos, recibí el dinero de ellos, lo recibí sin que nadie se apercibiera, logré 
+ocultarlo. Debía finalmente poner en ejecución todo aquello por lo que se habían 
+realizado estas intrigas. Ahora bien, esta es una cuestión aún más insoluble que las 
+suscitadas hasta ahora, a saber: la realización de la acción debí de llevarla a cabo yo 
+solo o con la ayuda de otros. 
+ 
+4a. No era, sin embargo, la empresa misión para una sola persona. 
+ 
+4b. ¿Con la ayuda de otros, entonces? ¿De quiénes? Evidentemente de gente 
+con la que tengo trato. ¿Libres o esclavos? La gente libre con quien tengo trato sois 
+vosotros. Ahora bien, ¿quién de vosotros tiene constancia de ello? Que hable. ¿Cómo 
+puede, por otra parte, creerse que lo hice con la ayuda de esclavos? Por propia 
+voluntad delatan ellos para obtener la libertad u obligados a ello por el rigor de la 
+tortura (...) 
+  
+De modo que me habría resultado absolutamente imposible por todos los conceptos 
+llevar a cabo la empresa. 
+  
+ 
+B. Examinad conmigo también esta cuestión: ¿por qué razón me habría convenido el 
+desear llevar a cabo la acción, en el caso de que hubiese tenido capacidad para 
+realizarla? (...) 
+ 
+1. ¿Para hacerme con el poder absoluto? ¿Sobre vosotros o sobre los bárbaros? 
+ 
+1a. Sobre vosotros, imposible, ya que, al ser tantos y tan ilustres, están de 
+vuestro lado las mejores condiciones (...) 
+ 
+1b. ¿Sobre los bárbaros, entonces? ¿Quién me entregará, empero, el poder? ¿Y 
+con qué fuerza podré yo, un griego, detentar efectivamente ese poder sobre unos 
+bárbaros, el poder de uno solo sobre muchos? ¿Por la persuasión o por la violencia? 
+USO DE RAZÓN. ESTA ES LA CUESTIÓN. Ricardo García Damborenea 
+ 
+16
+Porque ni ellos estarán dispuestos a dejarse convencer ni podría yo obligarlos a ello 
+(...) 
+ 
+2. Alguien podrá argüir que fue por deseo apasionado de riqueza y dinero por lo 
+que intenté la traición. Ahora bien, de dinero poseo una cantidad suficiente y de otros 
+muchos bienes no tengo necesidad alguna (...) 
+ 
+3. Y ciertamente que no emprendería por razón de honor un hombre acciones de 
+esa naturaleza, con tal de que fuera medianamente sensato. Ya que es en la virtud y no 
+en la perversidad donde se originan los honores. Y a un traidor a Grecia, ¿cómo podría 
+otorgársele algún honor? (...) 
+ 
+4. ¿Con el deseo, quizás, de ser útil a sus amigos o de causar daño a sus 
+enemigos? Porque por esos motivos alguien podría obrar injustamente. A mí, empero, 
+me habría sucedido exactamente lo contrario: habría hecho daño a mis amigos y 
+beneficiado a mis enemigos (...) 
+  
+Que no habría, en conclusión, querido, aunque hubiera podido, ni habría podido, 
+aunque hubiera querido, traicionar a Grecia, ha quedado ya de manifiesto por las 
+razones anteriormente aducidas. 
+ 
+ 
+____________________________________________________________ 
+RESUMEN DE LA CUESTIÓN CONJETURAL 
+I. La cuestión conjetural considera exclusivamente los hechos, sin entrar en otras 
+consideraciones. 
+ 
+II. La polémica puede surgir alrededor de los hechos en sí o de sus circunstancias: quién, 
+cuándo, cómo, con qué medios, por qué. 
+ 
+III. Se argumenta en términos de probabilidad, basados en indicios y en motivos. 
+ 
+ 
+1. porque existen, o no, indicios o motivos. 
+ 
+ 
+2. porque el hecho es posible y muy probable. 
+ 
+ 
+En el mismo grado en que se den estas condiciones, estimaremos que la 
+explicación es verosímil. 
+ 
+ 
+Indicio es un hecho conocido que sugiere la existencia de otro con el que mantiene una 
+relación causal, de coexistencia, de sucesión o de semejanza. 
+ 
+ 
+Motivo es la causa de hacer algo. Los motivos básicos son dos: obtención de un bien y 
+evitación de un mal. 
+ 
+ 
+Es posible todo lo que, habiendo voluntad, puede ocurrir porque no está reñido con las 
+leyes de la naturaleza, no es absurdo, cuenta con los medios adecuados y no tropieza con 
+obstáculos infranqueables. 
+ 
+En las cosas posibles nos interesa su probabilidad y su facilidad. 
+ 
+IV. Se trata de un debate previo a cualquier otro. 
+_____________________________________________________________ 
+  

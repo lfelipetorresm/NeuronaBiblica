@@ -1,0 +1,12 @@
+---
+titulo: "INEXPERTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INEXPERTO"]
+---
+
+# INEXPERTO
+
+apeiros (ἄðåéñïò, [[G552]]), sin experiencia (a, privativo; peira, prueba, experimento). Se usa en Heb_5:13 : «inexperto», con referencia a los creyentes que eran niños en relación a «la palabra de justicia».¶ En la lxx, Núm_14:23, de jóvenes; Jer_2:6, de una tierra: «sin probar»; Zac_11:15, de un pastor.¶ 
+
+

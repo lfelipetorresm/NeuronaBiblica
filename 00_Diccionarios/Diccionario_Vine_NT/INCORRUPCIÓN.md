@@ -1,0 +1,12 @@
+---
+titulo: "INCORRUPCIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INCORRUPCIÓN"]
+---
+
+# INCORRUPCIÓN
+
+aftharsia (ἀöèáñóßá, [[G861]]), incorrupción (a, privativo; y ftheiro, corromper, destruir). Se usa: (a) del cuerpo de resurrección (1Co_15:42, 1Co_15:50, 1Co_15:53-54, traducido «incorrupción» en cada uno de estos versículos); (b) de una condición asociada con gloria, honor y vida, incluyendo quizás un significado moral (Rom_2:7; 2Ti_1:10; en estos dos pasajes se traduce erróneamente «inmortalidad» en rv, rvr, rvr77, vm; Besson traduce correctamente ambos pasajes: «incorruptibilidad»); (c) del amor de Cristo, que es sincero y sin disminución (Efe_6:24 : «inalterable»; Besson: «con incorruptibilidad»); en tr aparece también en Tit_2:7 : «integridad», donde Besson traduce «incorruptibilidad». Véase INMORTALIDAD.¶ 
+
+

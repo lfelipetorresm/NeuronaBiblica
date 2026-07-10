@@ -1,0 +1,23 @@
+---
+titulo: "MAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#MAR"]
+---
+
+# MAR
+
+yam (éÈí, [[H3220]]), «mar; océano». Este vocablo tiene cognados en arameo, acádico, ugarítico, fenicio y etiópico. Se encuentra unas 390 veces en todos los períodos del hebreo bíblico.
+
+El término se refiere a masas de agua a diferencia de las masas de tierra (continentes e islas) y de la extensión del cielo: «Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay» (Éxo_20:11). Cuando se usa en este sentido, yam significa «océano». Este es su significado en Gén_1:10, la primera vez que aparece; se puede escribir tanto en singular como nombre colectivo o en plural, como en este caso: «A la parte seca llamó Dios «Tierra», y al conjunto de las aguas lo llamó«Mares»» (rv 95).
+
+Yam puede aplicarse a «mares» sean estos de aguas dulces o saladas. El Mar Grande es el Mediterráneo: «Vuestro territorio será desde el desierto y el Líbano hasta el gran río, el río éufrates, toda la tierra de los heteos hasta el mar Grande, donde se pone el sol» (Jos_1:4 rva). También se le llama mar de los filisteos (Éxo_23:31) o «mar occidental» (Deu_11:24 rvr ; «la mar postrera» rv). El Mar Muerto se llama Mar Salado (Gén_14:3), el Arabá (Deu_3:17 rvr ; «mar del llano» rv) y mar oriental (Eze_47:18). Esto indica que yam puede referirse a agua salada en el interior de una masa terrestre. También puede señalar un lago o «mar» de agua dulce como el Mar de Galilea: «La frontera … descenderá y se extenderá sobre el costado oriental del mar Quinéret» (Núm_34:11 rva).
+
+El vocablo se usa a veces con la acepción de oeste o hacia el oeste, es decir, en dirección al Mar Grande: «Alza ahora tus ojos, y mira desde el lugar donde estás hacia el norte y el sur, y al oriente y al occidente» (Gén_13:14). En Gén_12:8 (rva) yam quiere decir «del lado oeste»: «Después se trasladó a la región montañosa al oriente de Betel y extendió allí su tienda, entre Betel al oeste y Hai al este». Además de orientación, el vocablo se puede usar en términos de ubicación: «Dio la vuelta hacia el lado occidental» (Eze_42:19 rva). Éxo_10:19 (rva) usa yam como calificativo de «viento»: «Jehová hizo soplar un fortísimo viento del occidente que llevó la langosta y la arrojó al mar Rojo».
+
+Yam se usa también para designar la fuente de bronce que estaba precisamente frente al Lugar Santísimo: «Los caldeos hicieron pedazos las columnas de bronce que estaban en la casa del Señor, y las basas y el mar de bronce que estaban en la casa del Señor, y llevaron el bronce a Babilonia» (2Re_25:13 lba). También se llamaba «mar de metal fundido» (1Re_7:23 lba) o simplemente el «mar» (Jer_27:19).
+
+Yam se usa para los grandes ríos como el Nilo: «Y las aguas del mar faltarán, y el río se agotará y secará» (Isa_19:5). Esta declaración se encuentra en medio de una profecía sobre Egipto. Por tanto, «el río» es el Nilo; y puesto que el término «río» se encuentra en paralelismo directo con «mar», este vocablo también se refiere al Nilo. En Eze_32:2 (rva) se usa yam para las afluentes del delta del Nilo: «Tú eres como el monstruo de los mares; irrumpes en tus ríos, agitas las aguas con tus pies y enlodas sus corrientes [yam]». El mismo término se usa en relación con el río éufrates (Jer_51:36).
+
+En algunos casos la palabra yam puede referirse al dios cananeo Yamm: «Por sí solo extiende los cielos y camina sobre las ondas del mar»(Job_9:8 rva). Si esta declaración se puede entender como una referencia a Yamm, se traduciría: «Y pisotea las espaldas de Yamm». No obstante, el paralelismo entre «cielos» y «mar» nos lleva a concluir que aquí, al menos, se está hablando literalmente del «mar». Hay más posibilidades de encontrar a Yamm en Sal_89:9-10, donde se califica al vocablo como enemigo de Dios, así como a la diosa Rahab: «Tú tienes dominio sobre la braveza del mar; cuando sus olas se levantan, tú las sosiegas. Tú quebrantaste a Rahab como a un cadáver; con el brazo de tu poder esparciste a tus enemigos» (rva). Nótese particularmente Job_7:12 (rva): «¿Acaso soy yo el mar [yam] o el monstruo marino, para que me pongas bajo guardia?» (cf. Job_26:12; Sal_74:13). 
+

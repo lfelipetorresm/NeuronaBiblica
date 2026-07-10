@@ -1,0 +1,16 @@
+---
+titulo: "GENERACIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#GENERACIÓN"]
+---
+
+# GENERACIÓN
+
+1. genea (ãåíåÜ, [[G1074]]), véase EDAD, A, Nº 1.
+
+2. gennema (ãÝííçìá, [[G1081]]), relacionado con gennao, engendrar; denota la descendencia tanto de hombres como de animales (Mat_3:7; Mat_12:34; Mat_23:33; Luc_3:7). En el tr se halla además en Mat_26:29; Mar_14:25; Luc_12:18; Luc_22:18; 2Co_9:10, en lugar de genema, y traducido «fruto/s». Véanse FRUTO, A, Nº 2 y Notas .
+
+Nota: En la rv, el término génesis se traduce «generación» en Mat_1:1; véanse, Nº 2, NACIMIENTO, NATURAL. 
+
+

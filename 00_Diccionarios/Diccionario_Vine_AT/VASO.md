@@ -1,0 +1,27 @@
+---
+titulo: "VASO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VASO"]
+---
+
+# VASO
+
+kelî (ëÌÀìÄé, [[H3627]]), «vaso; vasija; receptáculo; cosas; enseres; ropa; utensilio; herramienta; instrumento; ornamento o joyas; armadura o arma; pene». En acádico hay un cognado de esta palabra. Kelî se encuentra en hebreo bíblico unas 320 veces y en todos los períodos.
+
+Este término se aplica a «receptáculos» de varios tipos que se usaban para almacenaje y transporte. Por ejemplo, Jacob dice a Labán: «Aunque has buscado en todos mis enseres [lit. receptáculos; cf. «cosas» rvr], ¿qué has hallado de todos los enseres [receptáculos] de tu casa?» (Gén_31:37 lba). Tales «receptáculos» podían ser de madera (Lev_11:32), tiesto o barro (Lev_6:28). Se usaban para guardar documentos (Jer_32:14), vino, aceite, frutas (Jer_40:10), víveres (Eze_4:9), bebidas (Rut_2:9) o pan (1Sa_9:7). Aun la alforja de un pastor era un kelî (1Sa_17:40). En 1Sa_17:22 se usa el término para indicar bagaje o «receptáculos» (¿una alforja?) y su contenido: «David dejó su carga [kelî] en mano del que guardaba el bagaje». Los marineros que viajaban con Jonás «echaron al mar el cargamento que había en el barco, para aligerarlo» (Jon_1:5 rva).
+
+También los barcos se llamaban «receptáculos», quizás porque cargaban personas: «[Etiopía] envía mensajeros por el mar, y en naves de junco sobre las aguas» (Isa_18:2).
+
+Kelî puede significar «ropa»: «La mujer no se vestirá con ropa de hombre, ni el hombre se pondrá vestido de mujer; porque cualquiera que hace esto es una abominación a Jehovah tu Dios» (Deu_22:5 rva).
+
+El término puede indicar una variedad de «vasijas y utensilios»: «Las cuatro mesas para el holocausto eran de piedra labrada. Sobre estas pondrán los utensilios con que degollarán el holocausto y el sacrificio» (Eze_40:42). En Gén_45:20 esta palabra se refiere a pertenecias grandes, pero movibles: Faraón ordenó a José que le dijera a sus hermanos que tomaran carretas y trajeran sus familias a Egipto, «y no echéis de menos vuestras pertenencias, porque lo mejor de toda la tierra de Egipto será vuestro» (rva). Asimismo, en Éxo_27:19, el vocablo indica todos los muebles y utensilios del tabernáculo (cf. Núm_3:8). Samuel advierte a Israel que el rey que ellos insisten en tener les obligará a trabajar en cuadrillas para «que aren sus campos y sieguen su mies, que fabriquen sus armas de guerra y el equipo de sus carros» (1Sa_8:12 rva). En un sentido más restringido, kelî puede significar el aparejo de una yunta de bueyes: «He aquí bueyes para el holocausto, y los trillos y los yugos de los bueyes para leña» (2Sa_24:22).
+
+El término puede indicar diversos «utensilios, instrumentos o herramientas»: «Simeón y Leví son hermanos; sus armas son instrumentos de violencia» (Gén_49:5 rva). En Jer_22:7 el vocablo tiene que ver con «herramientas» de talar árboles: «Prepararé contra ti destruidores, cada uno con sus armas, y cortarán tus cedros escogidos y los echarán en el fuego». Isaac ordenó a Esaú que tomara su «equipo», su aljaba y su arco, y fuera al campo a cazar alimento para él (Gén_27:3 rva).
+
+Los pertrechos de guerra se llamaban kel, lo cual se traduce de diversas maneras: «Y ellos fueron, y los siguieron hasta el Jordán; y he aquí que todo el camino estaba lleno de vestidos y enseres [«equipo» rva ; «cosas» bj, nbe, bla] que los sirios habían arrojado por la premura» (2Re_7:15, cf. nrv). Un «portador de armas» es un escudero (Jue_9:54). En 2Re_20:13 se habla también de una «casa de armas» (rvr) o «arsenal» (lba).
+
+En Amó_6:5 y pasajes parecidos (2Cr_5:13; 2Cr_7:6; 2Cr_23:13; cf. Sal_71:22) se denominan kelîm a los «instrumentos musicales»: «Improvisáis al son de la lira e inventáis instrumentos musicales» (rva). Kelî se refiere a diversos «ornamentos» de valor: «Y sacó el criado alhajas [«vasos, objetos»] de plata y alhajas [«vasos» rv ; «objetos» rva . bj ; «ajuar» nbe] de oro, y vestidos, y dio a Rebeca» (Gén_24:53 : primera vez que se usa el vocablo). Las novias generalmente se adornaban con estas «joyas»: «En gran manera me gozaré en Jehová, mi alma se alegrará en mi Dios; porque me vistió con vestiduras de salvación, me rodeó de manto de justicia, como a novio me atavió, y como a novia adornada con sus joyas» (Isa_61:10).
+
+En 1Sa_21:5 kelî tal vez se refiere al órgano masculino o «pene». Esto tiene bastante más sentido que la traducción «vasos» ya que lo que se discute es la pureza ritual de los hombres de David: «En verdad las mujeres han estado lejos de nosotros ayer y anteayer; cuando yo salí, ya los vasos [órganos masculinos; «cuerpos» rva, lba) de los jóvenes eran santos». 
+

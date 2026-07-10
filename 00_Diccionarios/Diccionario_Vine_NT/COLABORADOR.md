@@ -1,0 +1,14 @@
+---
+titulo: "COLABORADOR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#COLABORADOR"]
+---
+
+# COLABORADOR
+
+sunergos (óõíåñãüò, [[G4904]]), denota a un trabajador con, colaborador, y se traduce así en Rom_16:3, Rom_16:9, Rom_16:21; 1Co_3:9; 2Co_1:24 : «colaboramos», vm: «somos ayudadores»; 2Co_8:23; Fil_2:25; Fil_4:3; Col_4:11 : «que me ayudan» (vm: «mis colaboradores»); 1Ts_3:2; Flm_1:24; Flm_1:3 Juan 8 : Véase también AYUDAR.¶
+
+Nota: El verbo sunergeo, ayudar, etc., se traduce en 2Co_6:1 : «como colaboradores», lit., «que ayuda». Véase AYUDAR. 
+
+

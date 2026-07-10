@@ -1,0 +1,12 @@
+---
+titulo: "PERLA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PERLA"]
+---
+
+# PERLA
+
+margarites (ìáñãáñßôçò, [[G3135]]), perla (castellano, margarita). Aparece en Mat_7:6 (proverbial y figuradamente); Mat_13:45-46; 1Ti_2:9; Apo_17:4; Apo_18:12, Apo_18:16; Apo_21:21, dos veces.¶ 
+
+

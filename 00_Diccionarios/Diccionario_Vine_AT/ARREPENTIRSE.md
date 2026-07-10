@@ -1,0 +1,25 @@
+---
+titulo: "ARREPENTIRSE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ARREPENTIRSE"]
+---
+
+# ARREPENTIRSE
+
+najam (ðÈçÇí, [[H5152]]), «arrepentirse, consolar». A groáo modo, najam significa «arrepentirse» aproximadamente 40 veces y «consolar» unas 65 veces en el Antiguo Testamento. Con el objetivo de comprobar el significado de najam, los estudios presentan varias perspectivas: conectan el vocablo con un cambio de corazón o de disposición, de mente, de propósito, o enfatizan un cambio de conducta.
+
+La mayoría de los usos del término en el Antiguo Testamento tienen que ver con el arrepentimiento divino: «Y se arrepintió Jehová de haber hecho hombre en la tierra» (Gén_6:6); «Entonces Jehová se arrepintió [«cambió de parecer»] del mal que dijo que había de hacer a su pueblo» (Éxo_32:14 rv ; «renunció» bj, bla, lvp). A veces el Señor «se arrepintió» de la disciplina que se había propuesto llevar a cabo con las naciones: «Pero si esos pueblos se convirtieren de su maldad contra la cual hablé, yo me arrepentiré del mal que había pensado hacerles» (Jer_18:8). «Pero si hiciere lo malo delante de mis ojos, no oyendo mi voz, me arrepentiré del bien que había determinado hacerle» (Jer_18:10). «Rasgad vuestro corazón, y no vuestros vestidos, y convertíos a Jehová vuestro Dios; porque misericordioso es y clemente, tardo para la ira … y que se duele [«se arrepiente» nbe] del castigo» (Joe_2:13). Se pueden dar otros ejemplos del cambio de parecer del Señor. Sin embargo, queda claro que Dios cambia cuando el ser humano cambia y toma la decisión buena, pero no puede cambiar su actitud hacia el mal cuando el ser humano sigue un camino errado. Aunque las acciones de Dios pueden cambiar, él siempre permanece fiel a su propia justicia.
+
+En algunas situaciones, Dios está cansado de «arrepentirse» (Jer_15:6), lo cual sugiere que puede haber un punto más allá del cual Dios no tiene otro recurso más que implementar su disciplina. Un ejemplo de esto se ve en las palabras de Samuel a Saúl, que Dios había quitado el reino del primer rey de Israel y se proponía entregarlo a otro. Samuel declara: «Además, el que es la Gloria de Israel no mentirá, ni se arrepentirá, porque no es hombre para que se arrepienta» (1Sa_15:29).
+
+A menudo Dios cambia de parecer y «se arrepiente» de sus acciones debido a la intercesión y arrepentimiento de las malas acciones humanas. Moisés suplicó a Dios en favor de su pueblo: «Vuélvete del ardor de tu ira, y arrepiéntete de ese mal contra tu pueblo» (Éxo_32:12). El Señor hizo esto cuando «se arrepintió del mal que dijo que había de hacer a su pueblo» (Éxo_32:14). Como el profeta de Dios predicó al pueblo de Nínive: «Vio Dios lo que hicieron, que se convirtieron de su mal camino; y se arrepintió del mal que había dicho que les haría, y no lo hizo» (Jon_3:10). En estos casos, Dios «se arrepintió», cambió de parecer y de planes, sin embargo se mantuvo fiel a lo absoluto de su justicia en relación con el ser humano.
+
+Otros pasajes tienen que ver con un cambio de actitud (o la ausencia de ello) en el ser humano. Cuando este no «se arrepiente» de su maldad, opta por rebelarse (Jer_8:6). En un sentido escatológico, el día en que Efraín (como representante de la fracción norteña de Israel) «se arrepienta», Dios tendrá misericordia (Jer_31:19-20).
+
+Los seres humanos también se arrepienten en relación con sus prójimos. La tribu de Benjamín sufrió grandemente por el crimen de inmoralidad (Jueces 19-20): «Y los hijos de Israel se arrepintieron a causa de Benjamín su hermano, y dijeron: Cortada es hoy de Israel una tribu» (Jue_21:6; cf. v. 15).
+
+Najam puede también tener la acepción de «consolar». Los refugiados en Babilonia serían «consolados» cuando los sobrevivientes de Jerusalén llegaran (Eze_14:23); aquí, el vínculo entre «consolar» y «arrepentirse» es el resultado de la calamidad que Dios trajo sobre Jerusalén como testimonio de la veracidad de su Palabra. David «consoló» a Betsabé después de la muerte de su hijo, fruto del pecado (2Sa_12:24); es quizás un indicio de su arrepentimiento por lo acontecido.
+
+Además, el vocablo significa «consolar» dentro de las relaciones interpersonales. Job pregunta a sus tres compañeros: «¿Cómo, pues, me consoláis en vano, viniendo a parar vuestras respuestas en falacia?» (Job_21:34). O sea, que la actitud de ellos era cruel e insensible. El salmista se volvió a Dios en busca de «consuelo»: «Aumentarás mi grandeza, y volverás a consolarme» (Sal_71:21). Con sentido escatológico, Dios indicó a su pueblo que «consolaría» a Jerusalén cuando restaurara a Israel, como una madre consuela a sus polluelos (Isa_66:13). 
+

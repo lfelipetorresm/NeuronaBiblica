@@ -1,0 +1,12 @@
+---
+titulo: "MÉDICO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#MÉDICO"]
+---
+
+# MÉDICO
+
+iatros (ἰáôñüò, [[G2395]]), relacionado con iaomai, sanar, significando «médico». Aparece en Mat_9:12; Mar_2:17; Mar_5:26; Luc_4:23; Luc_5:31; Luc_8:43; Col_4:14.¶ (Cf. el término castellano «pediatría», etc.). 
+
+

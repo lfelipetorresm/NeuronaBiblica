@@ -1,0 +1,9 @@
+---
+titulo: "2 Tes 3"
+tipo: "Referencia Bíblica"
+estado: "Borrador"
+---
+
+# 2 Tes 3
+
+*Este nodo fue generado automáticamente por la Neurona Bíblica a partir del Índice Temático.*

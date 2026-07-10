@@ -1,0 +1,14 @@
+---
+titulo: "AMADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AMADO"]
+---
+
+# AMADO
+
+agapetos (ἀãáðçôüò, [[G27]]), de agapao, amar. Se usa de Cristo como amado por Dios (p.ej., Mat_3:17); de los creyentes (p.ej., Rom_1:7); de los creyentes, del uno al otro (1Co_4:14); a menudo, como forma de apelación (véase 1Co_10:14). Véase QUERIDO.
+
+Nota: El verbo agapao en su forma en participio pasivo se traduce «amado/a» en Rom_9:25; Efe_1:6; Col_3:12; 1Ts_1:4; 2Ts_2:13. En Jud_1:1  los mejores textos tienen este verbo. Véanse la vm y la vha . La rvr sigue al tr con «santificados», traduciendo el término jagiazo . Véase AMAR. 
+
+

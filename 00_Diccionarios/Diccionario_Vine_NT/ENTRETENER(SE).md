@@ -1,0 +1,12 @@
+---
+titulo: "ENTRETENER(SE)"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ENTRETENER(SE)"]
+---
+
+# ENTRETENER(SE)
+
+periergazomai (ðåñéåñãÜæïìáé, [[G4020]]), lit: estar trabajando alrededor, en lugar de dedicarse a sus propias ocupaciones (peri, alrededor; ergon, trabajo). Significa preocuparse más de lo debido acerca de algo, desperdiciar el propio trabajo, estar entremetiéndose en, o metiéndose con, los asuntos de los otros. Se halla en 2Ts_3:11, donde, situado después del verbo ergazomai, forma una paronomasia . Una traducción libre podría ser: «algunos que no se ocupan en sus propias ocupaciones, sino que se ocupan en demasía en las de otros».¶ 
+
+

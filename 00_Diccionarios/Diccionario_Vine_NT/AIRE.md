@@ -1,0 +1,12 @@
+---
+titulo: "AIRE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AIRE"]
+---
+
+# AIRE
+
+aer (ἀÞñ, [[G109]]), significa la atmósfera en cinco de los pasajes en que aparece (Hch_22:23; 1Co_9:26; 1Co_14:9; Apo_9:2; Apo_16:17), y casi ciertamente en los otros dos (Efe_2:2 y 1Ts_4:17).¶ 
+
+

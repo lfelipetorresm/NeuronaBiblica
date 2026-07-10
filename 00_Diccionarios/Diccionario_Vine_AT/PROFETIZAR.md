@@ -1,0 +1,35 @@
+---
+titulo: "PROFETIZAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PROFETIZAR"]
+---
+
+# PROFETIZAR
+
+A. Verbo
+
+naba' (ðÈáÈà, [[H5012]]), «profetizar». Este vocablo se encuentra en todos los períodos de la lengua hebrea. Parece estar relacionado con la antigua palabra acádica nabû, que en su forma pasiva significa «ser llamado». El término se encuentra en el texto hebreo de la Biblia unas 115 veces. El primer caso se halla en 1Sa_10:6, donde Samuel informa a Saúl que cuando al encontrarse con cierto grupo de profetas, «profetizarás con ellos; y serás cambiado en otro hombre» (rva). Este incidente señala el hecho que hay cierta ambigüedad en la Biblia sobre el uso de este término, tanto verbo como nombre, como lo hay en los vocablos «profetizar» y «profeta» en castellano. Por lo que el término veterotestamentario implica una amplia gama de significados.
+
+Con mayor frecuencia, naba' sirve para describir la función del verdadero profeta cuando comunica el mensaje de Dios al pueblo, bajo la influencia del Espíritu divino (1Re_22:8; Jer_29:27; Eze_37:10). «Profetizar» era una tarea que un profeta no podía evitar: «Si habla el Señor Jehovah, ¿quién no profetizará?» (Amó_3:8 rva ; cf. Jer_20:7, donde Jeremías confiesa que se siente al mismo tiempo atraído y forzado a ser profeta). Pese a que la fórmula «la palabra del Señor vino [al profeta]» se usa literalmente centenares de veces en el Antiguo Testamento, en realidad no hay indicación alguna de cómo esto acontecía mediante el intelecto, una visión o alguna otra vía. Algunas veces, sobre todo en los primeros profetas, habría tal vez una experiencia extática de por medio, como en 1Sa_10:6, 1Sa_10:11; 1Sa_19:20. En algunos casos se menciona la música como un medio de profetizar, como en 1Cr_25:1-3.
+
+Los falsos profetas también profetizaban, aunque no por el Espíritu divino: «No envié yo aquellos profetas, pero ellos corrían; yo no les hablé, mas ellos profetizaban» (Jer_23:21). Se condena rotundamente a los falsos profetas porque no hablan la palabra auténtica: «Profetiza contra los profetas de Israel que profetizan. Di a los que solo profetizan lo que hay en sus propios corazones: Escuchad la palabra de Jehová … ¡Ay de los profetas insensatos que andan tras su propio espíritu, y que nada han visto!» (Eze_13:2-3 rva). Particularmente los falsos profetas eran dados a estados de frenesí que les impulsaba a profetizar, aun cuando no se especifica con claridad cuál era el contenido de dicha actividad (1Re_22:10). Lo que es importante recordar es que, en el contexto bíblico, «profetizar» puede referirse a cualquier cosa desde el éxtasis frenético de un falso profeta hasta la proclamación sobria y mesurada del juicio de Dios a través de un Amós o un Isaías.
+
+«Profetizar» implica mucho más que predecir hechos futuros. A decir verdad, la primera preocupación del profeta es hablar la Palabra de Dios a la gente de su tiempo, llamándoles a fidelidad al pacto. El mensaje del profeta estaba condicionado a la respuesta del pueblo. O sea que por su respuesta a esta palabra el pueblo determinaba en gran medida lo que sería el futuro, como lo ilustra la respuesta de los ninivitas a la predicación de Jonás. Con todo, en algunos momentos hay un elemento de predicción, como cuando Nahum predice la caída de Nínive (Nah_2:13) y en los varios pasajes mesiánicos (Isa_9:1-6; Isa_11:1-9; 52:13-53:12).
+
+B. Nombre
+
+nabî' (ðÈáÄéà, [[H5030]]), «profeta». El vocablo tiene un posible cognado en acádico. Se encuentra unas 309 veces en hebreo bíblico, en todos los períodos.
+
+Nabî' quiere decir «profeta», ya sea verdadero o falso (cf. Deu_13:1-5). Los verdaderos profetas eran portavoces del Dios verdadero. En 1Cr_29:29 se encuentran tres vocablos que significan «profeta»: «Los hechos del rey David, primeros y postreros, están escritos en el libro de las crónicas de Samuel vidente [ro'eh], en las crónicas del profeta [nabî' ] Natán, y en las crónicas de Gad vidente [jozeh]». Los términos que se traducen «vidente» subrayan el medio por el que el «profeta» se comunicaba con Dios, pero no nos explican en qué se diferenciaban a otros profetas (cf. 1Sa_9:9). El primer caso de nabî' tampoco contribuye a aclarar este punto: «Ahora pues, devuelve la mujer a su marido [Abraham], porque él es profeta y orará por ti, y tú vivirás» (Gén_20:7 rva).
+
+El segundo caso de nabî' sí aclara el significado del término: «Entonces Jehová dijo a Moisés: Mira, yo te he constituido dios para Faraón, y tu hermano Aarón será tu profeta» (Éxo_7:1). El antecedente de esta declaración se encuentra en Éxo_4:10-16, donde Moisés alega su incapacidad de hablar claramente, por lo que no estaba en condición de entrar en la presencia del faraón como portavoz de Dios. El Señor prometió designar a Aarón (hermano de Moisés) como portavoz suyo: «él hablará por ti al pueblo y será para ti como boca, y tú serás para él como Dios» (Éxo_4:16 rva). En Éxo_7:1 encontramos la misma idea con palabras diferentes. Queda bien claro que un «profeta» equivale a uno que habla en nombre de otro, que actúa como su «boca».
+
+Este significado básico de nabî' encuentra apoyo en otras citas. En el pasaje clásico de Deu_18:14-22, Dios promete levantar otro «profeta» como Moisés para ser portavoz de Dios (v. 18). El pueblo debía obedecer y rendiría cuentas por lo que él les dijera (v. 19). Sin embargo, si las palabras del «profeta» resultaban falsas, este debía morir (v. 20). En primer lugar, estas palabras constituyen una promesa y definición de la larga sucesión de profetas de Israel. Al fin y al cabo es una promesa acerca del Gran Profeta, Jesucristo (cf. Hch_3:22-23). Por último, aunque el «profeta» o vidente hiciera milagros en demostración de ser hombre de Dios, el pueblo, sin embargo, debía prestar atención primero al mensaje y después fijarse en el milagro, en lugar de lo contrario (Deu_13:1-5).
+
+En su forma plural nabî' se usa con referencia a personas que no fungían precisamente como portavoces de Dios. Samuel tuvo en sus tiempos su grupo de seguidores. Alababan a Dios (a menudo con canciones) e intentaban instar al pueblo a volver a Dios (1Sa_10:5, 1Sa_10:10; 1Sa_19:20). Los seguidores de Elías y Eliseo se organizaron en grupos a fin de ayudar a estos maestros y aprender de ellos. Se les llamaba «hijos de los profetas» (1Re_20:35). Cuando se usa de esta manera, nabî' significa un compañero y/o seguidor de un profeta.
+
+También se usa el término en cuanto a «profetas paganos»: «Envía, pues, ahora y congrégame a todo Israel en el monte Carmelo, y los cuatrocientos cincuenta profetas de ba'al, y los cuatrocientos profetas de Asera, que comen de la mesa de Jezabel» (1Re_18:19).
+
+Finalmente, el término tiene su forma femenina, «profetisa» (nebî'ah), que aparece 6 veces. En Éxo_15:20 se denomina «profetisa» a María (hermana de Moisés y Aarón). Lo mismo se dice de la mujer de Isaías (Isa_8:3). No está claro si fungían propiamente como «profetizas» o si este uso tiene alguna relación con la acepción «compañero o seguidor» de un profeta. 
+

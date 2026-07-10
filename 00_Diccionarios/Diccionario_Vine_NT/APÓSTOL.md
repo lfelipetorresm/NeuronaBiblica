@@ -1,0 +1,16 @@
+---
+titulo: "APÓSTOL"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#APÓSTOL"]
+---
+
+# APÓSTOL
+
+1. apostolos (ἀðüóôïëïò, [[G652]]), es, lit: uno enviado [apo, de (partitivo); stello, enviar]. «Este vocablo se usa del Señor Jesús para describir su relación con Dios (Heb_3:1; véase Jua_17:3). Los doce discípulos elegidos por el Señor para recibir una instrucción especial fueron así designados (Luc_6:13; Luc_9:10). Pablo, aun cuando había visto al Señor Jesús (1Co_9:1; 1Co_15:8), no había acompañado a los Doce «todo el tiempo» de su ministerio terreno, y por ello no podía tomar un lugar entre ellos, en base de su carencia de las condiciones necesarias para ello (Hch_1:22). Pablo recibió una comisión directa, por parte del Señor mismo, después de su ascensión, para llevar el evangelio a los gentiles.
+
+ La palabra tiene también una referencia más amplia. En Hch_14:4, Hch_14:14 se usa de Bernabé además de acerca de Pablo; en Rom_16:7 de Andrónico y de Junias. En 2Co_8:23 se menciona a dos hermanos anónimos como «mensajeros (esto es, apóstoles) de las iglesias»; en Fil_2:25 se menciona a Epafrodito como «vuestro mensajero». Se usa en 1Ts_2:6 de Pablo, Silas y Timoteo, para definir la relación de ellos con Cristo» (De Notes on Theáalonians, por Hogg y Vine, pp. 59, 60). Véanse ENVIADO, MENSAJERO.
+
+Nota: Pseudoapostoloi (øåõäáðüóôïëïò, [[G5570]]), «falsos apóstoles», aparece en 2Co_11:13.¶ 
+
+

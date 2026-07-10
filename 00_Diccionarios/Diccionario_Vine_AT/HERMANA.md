@@ -1,0 +1,19 @@
+---
+titulo: "HERMANA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#HERMANA"]
+---
+
+# HERMANA
+
+'ajot (àÈçåéú, [[H269]]), «hermana». Al igual que los vocablos para «hermano» y «padre», muchas lenguas semíticas comparten este nombre. Mientras que «hermano» aparece 629 veces, «hermana» se encuentra solo 114 veces. El uso es raro en la literatura poética, excepto Cantares (7 veces). La primera vez que se usa el vocablo es en Gén_4:22 : «Zila también dio a luz a Tubal-caín, artífice de toda obra de bronce y de hierro; y la hermana de Tubal-caín fue Naama».
+
+La traducción de «hermana» por 'ajot es solo al comienzo. Según la costumbre hebraica, el vocablo era un término que se usaba para referirse a la hija del padre y la madre de uno (Gén_4:22) o a la hermanastra (Gén_20:12). Puede también referirse a la tía por parte de padre (Lev_18:12; Lev_20:19) o de la madre (Lev_18:13; Lev_20:19).
+
+Por regla general, 'ajot denota parientes del género femenino: «Y bendijeron a Rebeca diciéndole: Tú eres nuestra hermana. Que seas madre de millares de decenas de millares. Que tus descendientes posean las ciudades de sus enemigos» (Gén_24:60). Esta acepción se extiende al uso metafórico, donde dos divisiones de una nación (Judá e Israel; Jer_3:7) y dos ciudades (Sodoma y Samaria; Eze_16:46) se describen como hermanas, ya que los nombres geográficos en hebreo son femeninos.
+
+El significado más especializado que quiere decir «amada, amado» se encuentra únicamente en Cnt_4:9 : «Has cautivado mi corazón, hermana [o amada] mía, esposa mía; has cautivado mi corazón con una sola mirada de tus ojos, con una sola hebra de tu collar» (lba). En este caso 'ajot se usa como una expresión de afecto en lugar de un término de relación sanguínea.
+
+La Septuaginta traduce el vocablo como adelphe («hermana»). 
+

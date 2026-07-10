@@ -1,0 +1,12 @@
+---
+titulo: "CALCAÑAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CALCAÑAR"]
+---
+
+# CALCAÑAR
+
+pterna (ðôÝñíá, [[G4418]]), se halla en Jua_13:18, donde el Señor cita del Sal_41:9; la metáfora es la de poner la zancadilla a un antagonista en la lucha.¶ Cf. el verbo en Gén_27:36; Jer_9:4; Ose_12:3. 
+
+

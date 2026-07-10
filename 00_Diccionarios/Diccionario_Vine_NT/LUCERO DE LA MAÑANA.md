@@ -1,0 +1,12 @@
+---
+titulo: "LUCERO DE LA MAÑANA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LUCERODELAMAÑANA"]
+---
+
+# LUCERO DE LA MAÑANA
+
+fosforos (öùóöüñïò, [[G5459]]), (fos, luz; fero, portar), lit: «portador de luz». Cf. el término castellano fósforo. Se usa del lucero de la mañana (2Pe_1:19), donde indica la salida de la luz de Cristo como el cumplimiento personal, en los corazones de los creyentes, de las Escrituras proféticas concernientes a su venida para recibirlos a sí mismo.¶. 
+
+

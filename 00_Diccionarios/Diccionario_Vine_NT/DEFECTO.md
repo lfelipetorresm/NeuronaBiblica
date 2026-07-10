@@ -1,0 +1,14 @@
+---
+titulo: "DEFECTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DEFECTO"]
+---
+
+# DEFECTO
+
+amemptos (ἄìåìðôïò, [[G273]]), relacionado con memfo, inculpar, etc. (véanse CONDENAR, INCULPAR, REPRENDER). Se traduce «irreprensible/s» en Luc_1:6; Fil_2:5; Fil_3:6; 1Ts_3:13; «sin defecto» en Heb_8:7. Véase IRREPRENSIBLE.¶
+
+«Si amomos es «irreprensible», amemptos es «no reprendido». Cristo era amomos en el sentido de que en él no había mácula ni imperfección, y de que podía decir, «¿Quién de vosotros me convence de pecado?», pero, de una manera estricta él no fue amemptos (no reprendido), ni se le da este calificativo a él en el NT, siendo que sufrió la contradicción de pecadores contra sí mismo, que calumniaron todos sus pasos y que le acusaron de cosas «que él no conocía» (esto es, de las que era inocente). Trench, Synonyms ¶ 103. Véanse también MANCHA ( SIN ), IRREPRENSIBLE, etc. 
+
+

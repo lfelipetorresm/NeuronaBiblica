@@ -1,0 +1,12 @@
+---
+titulo: "CINTA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CINTA"]
+---
+
+# CINTA
+
+zone (æþíç, [[G2223]]), (en castellano, zona), denota cinto (Mat_3:4; Mar_1:6; Hch_21:11; Apo_1:13; Apo_15:6); era a menudo hueco, y por ello servía como bolsa (Mat_10:9; Mar_6:8, rv: «bolsa», tanto en este último pasaje como en Mat_10:9; «banda» en Apo_15:6).¶ 
+
+

@@ -1,0 +1,14 @@
+---
+titulo: "APARICIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#APARICIÓN"]
+---
+
+# APARICIÓN
+
+epifaneia (ἐðéöÜíåéá, [[G2015]]), en castellano, epifanía; lit: «resplandecimiento». Se usaba de la aparición de un dios a los hombres, y de un enemigo a un ejército en el campo. En el NT se usa: (a) de la venida del Salvador cuando el Verbo se hizo carne (2Ti_1:10); (b) de la venida del Señor Jesús en el aire para el encuentro con sus santos (1Ti_6:14; 2Ti_4:1, 2Ti_4:8); (c) del resplandor de la gloria del Señor Jesús «como el relámpago que sale del oriente y se muestra hasta el occidente» (Mat_24:27), inmediatamente posterior a la revelación, apokalupsis, de su parousia en el aire con sus santos (2Ts_2:8; Tit_2:13). (De Notes on Theáalonians por Hogg y Vine, p. 263). Véanse RESPLANDOR.¶
+
+Nota: El verbo faino (véase APARECER, Nº 3) se traduce como «aparición» en Mat_2:7 en la rvr, y como «el tiempo en que apareció» en la vm . 
+
+

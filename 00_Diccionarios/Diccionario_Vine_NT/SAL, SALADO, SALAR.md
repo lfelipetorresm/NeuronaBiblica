@@ -1,0 +1,30 @@
+---
+titulo: "SAL, SALADO, SALAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SAL,SALADO,SALAR"]
+---
+
+# SAL, SALADO, SALAR
+
+A. Nombres
+
+1. jalas (ἅëáò, [[G251]]), forma posterior de jals (véase Nº 2). Se utiliza: (a) literalmente (Mat_5:13 b; Mar_9:50 a, dos veces; Luc_14:34, dos veces); (b) metafóricamente, de creyentes (Mat_5:13 a); de su carácter y condición (Mar_9:50 b); de la sabiduría exhibida en su forma de hablar (Col_4:6).¶
+
+Al presentar cualidades purificadoras, preservadoras y antisépticas, en las naciones orientales la sal vino a ser símbolo de fidelidad y amistad. Entre los árabes comer la sal de alguien y por ello compartir su hospitalidad sigue gozando de esta misma consideración. Del mismo modo en las Escrituras es un emblema del pacto entre Dios y su pueblo (Núm_18:19; 2Cr_13:5); lo mismo cuando el Señor dice: «Tened entre vosotros mismos la sal, y vivid en paz los unos con los otros» (Mar_9:50, vm). En la enseñanza del Señor es también simbólica de aquella salud y de aquel vigor espirituales esenciales para la virtud cristiana y para contrarrestar la corrupción que se encuentra en el mundo (p.ej., Mat_5:13), véase (b) más arriba. Los alimentos son condimentados con sal (véase C); todas las oblaciones debían tenerla, y debía ser ofrecida con todas las ofrendas presentadas por los israelitas, como símbolo de la santidad de Cristo, y como prenda de la reconciliación provista por Dios para el hombre sobre la base de la muerte de Cristo (Lev_2:13). El hecho de rechazar la provisión de Dios en Cristo y la eficacia de su sacrificio expiatorio lleva a exponerse a la condenación de ser «salado con fuego» (Mar_9:49).
+
+Mientras que la sal se utiliza para fertilizar la tierra, un exceso de ella produce esterilidad (p.ej., Deu_29:23; Jue_9:45; Jer_17:6; Sof_2:9).
+
+2. jals (ἅëò, [[G251]]), sal (cf. los términos utilizados en química, como haluros, etc.). Aparece en Mar_9:49 en tr , en lugar del Nº 1, que aparece en los mss. más comúnmente aceptados.¶
+
+B. Adjetivo
+
+jalukos (ἁëõêüò, [[G252]]), aparece en Stg_3:12 : «agua salada».¶
+
+Nota: El adjetivo analos, véase, significa literalmente «sin sal» (a, privativo; n, eufónico; y A, Nº 1), utilizado en Mar_9:50 : «insípido» (rvr; nvi traduce «pierde su salinidad»).¶
+
+C. Verbo
+
+jalizo (ἁëßæù, [[G233]]), relacionado con A, Nº 1, significa rociar o condimentar con sal (Mat_5:13 : «será salada»; Mar_9:49 a: «serán salados»; en TR aparece también en la 2a. parte del v: «todo sacrificio será salado»).¶ Cf. moraino, véase DESVANECER, Nº 3. 
+
+

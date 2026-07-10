@@ -1,0 +1,12 @@
+---
+titulo: "ESTRADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ESTRADO"]
+---
+
+# ESTRADO
+
+jupopodion (ὑðïðüäéïí, [[G5286]]), (de jupo, bajo, y pous, pie). Se usa: (a) literalmente en Stg_2:3, (b) metafóricamente, de la tierra como estrado de Dios (Mat_5:35); de los enemigos del Señor (Mat_22:44, en tr ; Mar_12:36, en tr ; Luc_20:43; Hch_2:35; Hch_7:49; Heb_1:13; Heb_10:13).¶ 
+
+

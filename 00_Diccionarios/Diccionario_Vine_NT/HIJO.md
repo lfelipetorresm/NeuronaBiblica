@@ -1,0 +1,72 @@
+---
+titulo: "HIJO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#HIJO"]
+---
+
+# HIJO
+
+A. Nombres
+
+1. huios (õἱüò, [[G5207]]), significa primariamente la relación de la descendencia con el progenitor (véase Jua_9:18-20; Gál_4:30). Se usa con frecuencia en sentido metafórico acerca de características morales prominentes (véase más abajo). «Se usa en el NT de: (a) descendencia masculina (Gál_4:30); (b) descendencia legítima, en oposición a la ilegítima (Heb_1  2:8); (c) descendientes, haciendo abstracción del sexo (Rom_8:27); (d) amigos presentes a una boda (Mat_9:15); (e) aquellos que gozan de ciertos privilegios (Hch_3:25); (f) aquellos que actúan de cierta manera, sea mala (Mat_23:31), o buena (Gál_3:7); (g) aquellos que manifiestan un cierto carácter, sea malo (Hch_13:10; Efe_2:2), o bueno (Luc_6:35; Hch_4:36; Rom_8:14); (h) el destino que se corresponde con el carácter, sea malo (Mat_23:15; Jua_17:12; 2Ts_2:3), o bueno (Luc_20:36); (i) la dignidad de la relación con Dios a la cual son introducidos los hombres por el Espíritu Santo cuando creen en el Señor Jesucristo (Rom_8:19; Gál_3:26).
+
+»El apóstol Juan no usa huios, «hijo», para referirse al creyente, sino que reserva este título para el Señor; usa teknon, lit., «niño», como en su Evangelio (Gál_1:12; 1Jn_3:1-2); en Apo_21:7, el uso de juios se debe a una cita de 2Sa_7:14.
+
+»El Señor Jesús usó huios de una manera muy significativa, como en Mat_5:9 : «Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios», y vv. 44,45: «Amad a vuestros enemigos … y orad por los que os … persiguen; para que seáis hijos de vuestro Padre que está en los cielos». Los discípulos debían hacer estas cosas no a fin de que pudieran llegar por ello a ser «niños», teknon, de Dios, sino que, siendo «niños» (señalar «vuestro Padre» a través de todo el pasaje), pudieran hacer este hecho patente en su carácter, llegando así a ser «hijos», juios . Véase también 2Co_6:17-18.
+
+»En cuanto a características morales, se usan las frases siguientes: (a) hijos de Dios (Mat_5:9, Mat_5:45; Luc_6:35); (b) hijos de luz (Luc_16:8; Jua_12:36); (c) hijos del día (1Ts_5:5); (d) hijos de paz (Luc_10:6); (e) hijos de este siglo (Luc_16:8); (f) hijos de desobediencia (Efe_2:2); (g) hijos del malo (Mat_13:38, cf. «del diablo», Hch_13:10); (h) hijo de perdición (Jua_17:12; 2Ts_2:3). También se usa para describir otras características que las morales, como (i) hijos de la resurrección (Luc_20:36); (j) hijos del reino (Mat_8:12; Mat_13:38); (k) hijos de la sala nupcial, lit. (Mar_2:19); (l) hijo de consolación (Hch_4:36); (m) hijos del trueno, Boanerges (Mar_3:17)» (de Notes on Galatians, por Hogg y Vine, pp. 167-169, y Notes on Theáalonians, pp. 158-159).
+
+Notas: (1) Para los sinónimos teknon y teknion véase Nº 2 más adelante. La diferencia entre los creyentes como «niños, teknon, de Dios» e «hijos, huios, de Dios» se hace patente en Rom_8:14-21. El Espíritu da testimonio a su espíritu que son «hijos de Dios», lit. «niños», teknon, y, como tales, son herederos y coherederos con Cristo. Ello pone el acento sobre su nacimiento espiritual (vv. 16-17). Por otra parte: «todos los que son guiados por el Espíritu de Dios, estos son hijos, juios, de Dios», esto es, «estos y no otros». La conducta de ellos da evidencia de la dignidad de su relación y semejanza con su carácter. (2) Pais se traduce «hijo» en Jua_4:51; Hch_3:13, Hch_3:26; Hch_4:27, Hch_4:30; véase más abajo, y Nº 3.
+
+El Hijo de Dios
+
+En este título, la palabra Hijo se usa en ocasiones (a) de relación, en ocasiones (b) de la expresión del carácter. «Así, p.ej., cuando los discípulos se dirigieron a él de este modo (Mat_14:33; Mat_16:16; Jua_1:49), cuando el centurión se refirió a él de esta manera (Mat_27:54), probablemente querían decir que (b) él era una manifestación de Dios en forma humana. Pero en pasajes como Luc_1:32, Luc_1:35; Hch_13:33, que se refieren a la humanidad del Señor Jesús … la palabra se usa en el sentido (a) .
+
+»El mismo Señor Jesús usaba el título íntegro en ocasiones (Jua_5:25; Jua_9:35; Jua_11:4), y en las más frecuentes ocasiones en que se refería a sí mismo como «el Hijo», se debe entender esta apelación como una abreviación de «el Hijo de Dios», no de «el Hijo del Hombre». Este último título siempre es expresado íntegramente (véase Luc_10:22; Jua_5:19, etc).
+
+»Juan utiliza tanto la forma larga como la corta del título en su Evangelio (véase 3:16-18; 20:31, p.ej.) y en sus Epístolas; cf. Apo_2:18. Lo mismo hace el escritor de Hebreos (Apo_1:2; Apo_4:14; Apo_6:6, etc.). Se debe entender con ello la existencia de una relación eterna entre el Hijo y el Padre en la Deidad. Es decir, el Hijo de Dios, en su relación eterna con el Padre, no posee este título porque hubiera empezado en algún punto en el tiempo a derivar su ser del Padre (en cuyo caso no podría ser co-eterno con él), sino debido a que él es y siempre ha sido la expresión de lo que el Padre es; cf. Jua_14:9, «el que me ha visto a mí, ha visto al Padre». Las palabras de Heb_1:3, «el cual, siendo el resplandor de su gloria, y la imagen misma de su sustancia (la de Dios)», constituyen una definición de lo que se expresa con el título «Hijo de Dios». Así, con este título lo que se expresa es la Deidad absoluta, no la Deidad en ningún sentido secundario ni derivado» (de Notes on Galatians, por Hogg y Vine, pp. 99-100).
+
+Otros títulos de Cristo como Hijo de Dios son: «su Hijo» (1Ts_1:10; en Hch_3:13, Hch_3:26 : «su Hijo» es traducción de pais, véase Nº 3); «su propio Hijo» (Rom_8:32); «mi Hijo amado» (Mat_3:17); «su Hijo unigénito» (Jua_3:16); «el Hijo de su amor» (Col_1:23, vm).
+
+«El Hijo es el objeto eterno del amor del Padre (Jua_17:24), y el único Revelador del carácter del Padre (Jua_1:14; Heb_1:3). Las palabras «Padre» e «Hijo» nunca se usan en el NT como sugerentes de que el Padre existiera antes que el Hijo; el prólogo al Evangelio según Juan afirma de una manera distintiva que el Verbo era ya «en el principio», y que este Verbo es el Hijo, que «fue hecho carne, y habitó entre nosotros»» (de Notes on Theáalonians, por Hogg y Vine, pp. 46-47).
+
+Al dirigirse al Padre en su oración en Juan 17, dice: «Me has amado desde antes de la fundación del mundo». Así, en el pasado intemporal el Padre y el Hijo existían en esta relación, una relación de amor, así como de absoluta Deidad. En este pasaje el Hijo da evidencia de que no había una mejor alegación en la estimación del Padre que la del amor coeterno existente entre el Padre y El mismo.
+
+La declaración «Mi hijo eres tú, yo te he engendrado hoy» (Sal_2:7, citada en Hch_13:33; Heb_1:5; Heb_5:5), se refiere al nacimiento de Cristo, no a su resurrección. En Hch_13:33, el verbo traducido «resucitar» se usa de suscitar a una persona para ocupar una posición especial en la nación, como de David en el v. 22 (y lo mismo de Cristo como profeta en 3:22 y 7:37). En el v. 34 la afirmación en cuanto a la resurrección de Cristo recibe la mayor fuerza a este respecto por medio del contraste enfático con la del v. 33 en cuanto a haber sido levantado en la nación, fuerza impartida por las palabras añadidas «de los muertos». Así, el v. 33 habla de su encarnación, el v. 34, de su resurrección.
+
+En Heb_1:5 se confirma que la declaración se refiere a su nacimiento por el contraste con el v. 6, donde «otra vez» se refiere a la introducción del Primogénito en el mundo: «Y cuando introduce otra vez al Primogénito en el mundo». Esto señala a su Segunda Venida, que se contrasta así con la primera, cuando Dios introdujo al Primogénito por primera vez (véase PRIMOGéNITO). (El texto «occidental» de Luc_3:22 dice: «Mi Hijo eres tú, yo te he engendrado hoy», en lugar de: «Tú eres mi hijo amado; en ti tengo complacencia». Es probable que haya alguna relación entre este texto «occidental» y las tempranas herejías que enseñaban que la deidad de nuestro Señor tuvo origen en su bautismo.)
+
+Así también sucede con Heb_5:5, donde se muestra como el sumo sacerdocio de Cristo cumple todo lo que estaba tipificado en el sacerdocio levítico, acentuándose en este pasaje el hecho de su humanidad, los días de su carne, su perfecta obediencia y sus padecimientos.
+
+Hijo Del Hombre
+
+En el NT es una designación de Cristo, casi totalmente limitada a los Evangelios. Fuera de ellos solo se halla en Hch_7:56, única ocasión en que un discípulo aplica este título al Señor, y en Apo_1:13; Apo_14:14; véase más adelante.
+
+«Hijo del Hombre» es el título que Cristo se aplicaba a sí mismo; Jua_12:34 no es una excepción, porque la multitud estaba citando su propia afirmación. Este título se halla especialmente en los Evangelios Sinópticos. Sus usos en el Evangelio de Juan (Jua_1:51; Jua_3:13-14; Jua_5:27; Jua_6:27, Jua_6:53, Jua_6:62; Jua_8:28; Jua_12:23, Jua_12:34, dos veces; Jua_13:31), no son paralelos a los de los Evangelios Sinópticos. En estos últimos el uso del título cae en dos grupos: (a) cuando se refiere a la humanidad de Cristo, su obra terrenal, sus sufrimientos y muerte (p.ej., Mat_8:20; Mat_11:19; Mat_12:40; Mat_26:2, Mat_26:24); (b) cuando se refiere a su gloria en resurrección y a la de su futura venida (p.ej., Mat_10:23; Mat_13:41; Mat_16:27-28; Mat_17:9; Mat_24:27, Mat_24:30, dos veces, 37,39, 44).
+
+En tanto que se trata de un título mesiánico, es evidente que el Señor se lo aplicaba a sí mismo de una manera distintiva, porque indica más que la condición de Mesías, la de cabeza universal por parte de aquel que es Hombre. Por ello, acentúa su condición humana, de un orden singular en comparación con el de los otros hombres, porque de él se declara que es del cielo (1Co_15:47), e incluso cuando estaba aquí abajo, era «el Hijo del Hombre, que está en el cielo» (Jua_3:13). Como Hijo del Hombre, tiene que ser apropiado espiritualmente como condición para poseer la vida eterna (Jua_6:53). En su muerte, como en su vida, la gloria de su condición humana se manifestó en la absoluta obediencia y sumisión a la voluntad del Padre (Jua_12:23; Jua_13:31); y en vista de esto, le ha sido dado todo el juicio a él, que juzgará con un pleno conocimiento experimental de las condiciones humanas, el pecado exceptuado, y ejercerá el juicio compartiendo la naturaleza de aquellos que serán juzgados (Jua_5:22, Jua_5:27). él no solo es hombre, sino que es «Hijo del Hombre»; no por generación humana sino, en base del uso semita del término, por participar de las características de la humanidad (a excepción del pecado) que pertenecen a la categoría de la humanidad. En dos ocasiones en Apocalipsis (Jua_1:13 y 14:14), se le describe como «uno semejante al Hijo de hombre» (Besson; rv, rvr, rvr77: «Hijo del Hombre»), cf. Dan_7:13. El que así había sido visto era ciertamente el Hijo del Hombre, pero la ausencia del artículo en el original sirve para destacar lo que le caracteriza moralmente como tal. Por ello, en estos pasajes él es revelado, no como la persona conocida por el título, sino como aquel que está calificado para actuar como el Juez de todos los hombres. él es la misma persona que en los días de su carne, siguiendo su humanidad con su deidad. El término «semejante» sirve para distinguirle visto aquí en su gloria y majestad en contraste con los días de su humillación.
+
+2. teknon (ôÝêíïí, [[G5043]]), niño (relacionado con tikto, engendrar, dar a luz). Se usa tanto en el sentido natural como en el figurado. En contraste a huios, hijo (véase Nº 1), da prominencia al hecho del nacimiento, en tanto que huios destaca la dignidad y el carácter de la relación. En sentido figurado, teknon se usa de los niños de: (a) Dios (Jua_1:12); (b) luz (Efe_5:8); (c) obediencia (1Pe_1:14); (d) una promesa (Rom_9:8; Gál_4:28); (e) el diablo ( 1Jn_3:10); (f) ira (Efe_2:3); (g) maldición (2Pe_2:14); (h) relación espiritual (2Ti_2:1; Flm_1:10). En castellano se traduce siempre como hijo/s, con lo que en las versiones castellanas se pierde la distinción entre huios, hijo, y teknon, niño. En las versiones inglesas esta distinción se mantiene, con los vocablos «child», «children» para teknon, y «son», «sons» para huios ; las versiones francesas traducen «enfant/s» y «fils», respectivamente; el lector hispano, para poder apreciar esta diferencia, se ve obligado a recurrir a una concordancia greco-española del NT.
+
+Nota: El término teknion, diminutivo de teknon, se usa en el NT solo en sentido figurado y siempre en plural. Se halla con frecuencia en 1 Juan (véase 2:1, 12, 28; 3:7,18; 4:4; 5:21); una vez en el Evangelio de Juan (13:33) y una vez en las Epístolas de Pablo (Gál_4:19). Es un término afectuoso dirigido por un maestro a sus discípulos bajo circunstancias que demandan una interpelación tierna, p.ej., de Cristo a los Doce justo antes de su muerte; el apóstol Juan lo usó para advertir a los creyentes en contra de peligros espirituales; Pablo, debido a los mortales errores del judaísmo acechando en las iglesias de Galacia. Cf. su uso de teknon en Gál_4:28.¶
+
+3. pais (ðáé̂ò, [[G3816]]), significa: (a) niño en relación con la estirpe; (b) muchacho o muchacha en relación con la edad; (c) siervo, asistente, sirvienta, en relación con la condición. Como ejemplo de (a) véase Mat_2:16 : «niños», y Hch_20:12 : «joven». Con respecto a (b) «muchacho» en Hch_17:18 y Luc_9:42. En Luc_2:43 se usa del Señor Jesús: «niño». Con respecto a (c) véase Mat_8:6, Mat_8:8, Mat_8:13, etc: «criado». Véanse CRIADO, JOVEN, MUCHACHA, MUCHACHO, NIÑA, NIÑO, SIERVO.
+
+Notas: (1) Paidion, diminutivo del Nº 3, se traduce «hija» en la rvr en Mar_7:30; «hijos» en 7:28; «hijo» en Jua_4:49; «hijos» en Heb_2:13, Heb_2:13; «hijitos» en Jua_21:5; 1Jn_2:14 (tr), v. 18. Para un tratamiento más pleno de este término, véase NIÑO.
+
+(2) Para teknogonia, que denota tener hijos (1Ti_2:15), véase ENGENDRAR, Nº 2.¶
+
+B. Adjetivos
+
+1. ateknos (ἄôåêíïò, [[G815]]), (de a, privativo, y teknon, hijo), significa «sin hijos» (Luc_20:28-30).¶
+
+2. filoteknos (öéëüôåêíïò, [[G5388]]), (de fileo, amar, y teknon, hijo) significa una persona amante de sus niños (Tit_2:4 : «a amar … a sus hijos»). Véase AMAR, A, Notas (4) .¶
+
+C. Verbos
+
+1. teknogoneo (ôåêíïãïíÝù, [[G5041]]), véase CRIAR, Nº 5.
+
+2. teknotrofeo (ôåêíïôñïöÝù, [[G5044]]), véase CRIAR, Nº 6. 
+
+

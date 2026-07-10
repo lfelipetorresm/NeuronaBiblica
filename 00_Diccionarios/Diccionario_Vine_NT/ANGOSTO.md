@@ -1,0 +1,14 @@
+---
+titulo: "ANGOSTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ANGOSTO"]
+---
+
+# ANGOSTO
+
+stenos (óôåíüò, [[G4728]]), de la raíz sten -, que aparece en stenazo, gemir, stenagmoo, gemido (en castellano se usa en «estenografía», esto es, escritura estrecha). Se usa figuradamente en Mat_7:13-14, de la puerta que da entrada a la vida eterna; angosta debido a que está en contra de las inclinaciones naturales, y el «camino» es caracterizado de una manera similar; así lo tenemos en Luc_13:24 (donde se usa la palabra más intensiva agonizomai, «esforzáos»); cf. stenocoreo, angustiado, estrecho, y stenocoria, angustia.¶ Véase ESTRECHO.
+
+Nota: El verbo thibo, oprimir, se traduce «angosto» en Mat_7:14, lit: «estrechado». El verbo se halla en participio pasivo. Significa cortado, como un desfiladero de montaña; el camino es «hecho angosto» por las condiciones divinas, que hacen imposible que nadie entre que piense que la entrada depende de los propios méritos, o que siga inclinándose hacia el pecado, o desee continuar en el mal. Véanse AFLIGIR, ANGUSTIAR, ATRIBULAR, OPRIMIR, etc. 
+
+

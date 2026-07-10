@@ -1,0 +1,12 @@
+---
+titulo: "SAZONAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SAZONAR"]
+---
+
+# SAZONAR
+
+artuo (ἀñôýù, [[G741]]), aparejar, disponer, preparar (cf. artios, apropiado). Se utiliza de sazonar (Mar_9:50, rv: «adobaréis»; Luc_14:34, rv: «se adobará»; Col_4:6).¶ 
+
+

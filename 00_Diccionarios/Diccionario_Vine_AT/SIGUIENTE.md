@@ -1,0 +1,17 @@
+---
+titulo: "SIGUIENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SIGUIENTE"]
+---
+
+# SIGUIENTE
+
+'ajer (àÇçÅø, [[H312]]), «siguiente; diferente; otro». El vocablo se encuentra 166 veces y en todos los períodos de la literatura bíblica.
+
+La primera acepción del término es temporal y aparece en Gén_17:21 : «Mas yo estableceré mi pacto con Isaac, el que Sara te dará a luz por este tiempo el año que viene («siguiente» (rv)». El vocablo se encuentra por primera vez en la Biblia en Gén_4:25 (rva): «Adán conoció de nuevo a su mujer, y ella dio a luz un hijo y llamó su nombre Set, diciendo: Porque Dios me ha sustituido otro ['ajer] hijo en lugar de Abel».
+
+Este significado, «diferente» u «otro», se encuentra también en Lev_27:20 (rva): «Pero si no rescata el campo y este es vendido a otro, no lo podrá rescatar jamás». En Isa_28:11 'ajer califica lenguas o idiomas; por lo que adquiere el sentido de «foráneo» o «ajeno»: «Porque en lengua de tartamudos, y en extraña lengua hablará a este pueblo («otro idioma» rva ; «lengua extranjera» lba, bj)». Puesto que Pablo cita este pasaje en 1Co_14:21 como una profecía veterotestamentaria sobre hablar en lenguas, 'ajer juega un papel prominente en el debate sobre este tema.
+
+Finalmente, 'ajer puede significar «otro» para distinguir una cosa de la otra, pero sin establecer contrastes. Es este su significado en Éxo_20:3 : «No tendrás dioses ajenos delante de mí («otros» (rva ; lba)». 
+

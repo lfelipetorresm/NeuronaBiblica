@@ -1,0 +1,15 @@
+---
+titulo: "VESTIR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VESTIR"]
+---
+
+# VESTIR
+
+labash (ìÈáÌÇùÑ, [[H3847]]), «vestirse, vestir, estar vestido». Este término semítico común se encuentra en antiguo acádico y ugarítico, en arameo y a través de la historia de la lengua hebrea. El vocablo aparece unas 110 veces en el texto hebraico de la Biblia. Labash aparece al principio del Antiguo Testamento, en Gén_3:21 (rva): «Luego Jehová Dios hizo vestidos de piel para Adán y para su mujer, y los vistió». Como siempre, Dios brindó algo mucho mejor para los seres humanos de lo que ellos consiguieron, en este caso unas hojas de higuera (Gén_3:7).
+
+Labash se usa regularmente para indicar el acto de ponerse («vestirse») ropa común y corriente (Gén_38:19; Éxo_29:30; 1Sa_28:8). El término también sirve al hacer referencia a la armadura de guerra (Jer_46:4). Es frecuente el uso en un sentido figurado, como en Job_7:5 : «Mi carne está vestida de gusanos». Asimismo en la integración de los que regresan del cautiverio con la frase: «Con todos ellos te vestirás» (Isa_49:18 rva). Repetidamente el vestido simbólico tiene una cualidad abstracta: «Se vistió con la coraza de justicia. Se vistió de ropas de venganza y se cubrió de celo como con un manto» (Isa_59:17 rva). También, Dios está «vestido de gloria y de magnificencia» (Sal_104:1). Job dice: «Yo me vestía de rectitud, y ella me vestía» (Job_29:14 rva).
+
+Las cualidades abstractas son a veces negativas: «El gobernante se vestirá de desolación» (Eze_7:27 rva). «Los que te aborrecen se vestirán de vergüenza» (Job_8:22 rva). «Sean vestidos de ignominia los que me calumnian» (Sal_109:29). Un uso figurado muy importante de labash se encuentra en Jue_6:34, donde la forma del verbo de estado se puede traducir así: «Y el espíritu de Jehová se envistió en Gedeón» (rv). O sea que el Espíritu del Señor se encarnó en Gedeón y le llenó de poder desde su interior. Las versiones en castellano lo traducen de diversas maneras: «vino sobre» (rvr, nrv, lba), «fue investido por» (rva), «revistió de su fuerza» (bla), «se apoderó» (nbe, bpd, sbp), «se adueñó» (lvp). 
+

@@ -1,0 +1,12 @@
+---
+titulo: "LEOPARDO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LEOPARDO"]
+---
+
+# LEOPARDO
+
+pardalis (ðÜñäáëéò, [[G3917]]), denota leopardo o pantera; animal que se caracteriza por su ligereza y poderoso salto, siendo en Dan_7:6 simbólico de las actividades de Alejandro Magno y de la formación del imperio griego, el tercero de los vistos en la visión allí registrada. En Apo_13:2 se ve el poder imperial, descrito asimismo como una «bestia», concentrando en sí mismo las características de los cuatro imperios mencionados en Daniel 7:¶ 
+
+

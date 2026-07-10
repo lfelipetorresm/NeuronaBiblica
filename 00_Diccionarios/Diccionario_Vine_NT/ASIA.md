@@ -1,0 +1,14 @@
+---
+titulo: "ASIA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ASIA"]
+---
+
+# ASIA
+
+asiarques (ἀóéÜñ÷çò, [[G775]]), asiarca, era uno de ciertos funcionarios elegidos por varias ciudades en la provincia de Asia, y cuya función consistía en celebrar, parcialmente a cargo de ellos mismos, los juegos y festivales públicos; en Hch_19:31, se traduce este vocablo como «autoridades de Asia».
+
+ Parece probable, según el profesor Ramsay, que fueran «los principales sacerdotes de los templos de la adoración imperial en varias ciudades de Asia»; y además, que «el Consejo de Asiarcas se sentara en sesión en períodos determinados en las grandes ciudades alternando entre ellas … y que probablemente estuvieran reunidos en Efeso para tal propósito cuando enviaron consejo a San Pablo para velar por su seguridad.» Un festival hubiera atraído a grandes multitudes a la ciudad.¶ 
+
+

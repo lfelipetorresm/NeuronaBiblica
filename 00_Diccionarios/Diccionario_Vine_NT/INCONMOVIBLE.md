@@ -1,0 +1,12 @@
+---
+titulo: "INCONMOVIBLE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INCONMOVIBLE"]
+---
+
+# INCONMOVIBLE
+
+asaleutos (ἀóÜëåõôïò, [[G761]]), no movido, inmovible (de a, privativo, y saleuo, sacudir; véanse SACUDIR, CONMOVER). Se traduce «inmóvil» en Hch_27:41; «inconmovible» en Heb_12:28.¶ En la lxx, Éxo_13:16; Deu_6:8; Deu_11:18.¶ 
+
+

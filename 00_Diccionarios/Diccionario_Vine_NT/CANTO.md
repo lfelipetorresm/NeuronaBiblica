@@ -1,0 +1,14 @@
+---
+titulo: "CANTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CANTO"]
+---
+
+# CANTO
+
+Véase también CANTAR.
+
+1. alektorofonia (ἀëåêôïñïöùíßá, [[G219]]), denota el canto del gallo (alekto r, gallo, y fone, sonido; Mar_13:35). Había dos cantos del gallo, uno después de medianoche, el otro antes del amanecer. En estas vigilias, los judíos seguían el método romano de dividir la noche. El primer canto del gallo tuvo lugar durante la tercera vigilia de la noche. Este es el que se menciona en Mar_13:35. Marcos menciona ambos; véase 14:30. El último, el segundo, es el mencionado en los otros Evangelios, y es mencionado específicamente como el «canto del gallo». Véase GALLO.¶ 
+
+

@@ -1,0 +1,12 @@
+---
+titulo: "ENDECHAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ENDECHAR"]
+---
+
+# ENDECHAR
+
+threneo (èñçíÝù, [[G2354]]), lamentarse, endechar; relacionado con threnos, lamentación, endecha. Se usa: (a) en sentido general, de los discípulos durante la ausencia del Señor (Jua_16:20 : «Vosotros lamentaréis»); (b) de aquellas que se entristecían por los sufrimientos y la inminente crucifixión del Señor (Luc_23:27 : «hacían lamentación»); la palabra precedente es kopto, véase LLORAR; (c) de endechas como por los muertos (Mat_11:17; Luc_7:32 : «Oseas endechamos»). Véase LAMENTAR.¶ 
+
+

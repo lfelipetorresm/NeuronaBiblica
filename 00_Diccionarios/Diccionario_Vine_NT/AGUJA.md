@@ -1,0 +1,16 @@
+---
+titulo: "AGUJA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AGUJA"]
+---
+
+# AGUJA
+
+1. rafis (ῥÜöéò, [[G4476]]), (de rapto, coser). Aparece en Mat_19:24; Mar_10:25.¶
+
+2. belone (âåëüíç, [[G955]]), similar a belos, dardo. Denota un pincho aguzado, y, por ende, una aguja (Luc_18:25; algunos mss. tienen el Nº 1).¶
+
+Nota: La idea de aplicar el «ojo de una aguja» a portillos parece ser moderna; no hay rastros de ella en la antigüedad. El objeto del Señor en esta afirmación es el de expresar la imposibilidad humana y no hay necesidad de tratar de suavizar la dificultad haciendo que la aguja signifique otra cosa que el instrumento normal que se expresa con esta palabra. Mackie señala (Hastings Bible Dictionary) que se hace a veces el intento de explicar las palabras como una referencia a la pequeña puerta, o portillo, de poco más de dos pies cuadrados, en la gran y pesada puerta de una ciudad amurallada. Esto desfigura la figura sin alterar materialmente el significado, y no se justifica ni en base del lenguaje ni de las tradiciones de Palestina. 
+
+

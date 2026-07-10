@@ -1,0 +1,15 @@
+---
+titulo: "DISPERSAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#DISPERSAR"]
+---
+
+# DISPERSAR
+
+pûts (ôÌåÌõ, [[H6327]]), «esparcir, dispersar». El término se encuentra en el hebreo antiguo y también en el moderno. El vocablo, que aparece unas 65 veces en el Antiguo Testamento hebreo, se usa por primera vez en Gén_10:18 : «Se dispersaron los clanes de los cananeos» (rva). El vocablo se usa 3 veces en la historia de la torre de Babel (Gén_11:4, Gén_11:8-9) al parecer para destacar cómo el género humano y sus lenguas «se dispersaron» por el mundo.
+
+Pûts, en el sentido de «dispersar», a menudo tiene una connotación casi violenta. Por ejemplo, cuando Saúl derrotó a los amonitas, «sucedió que los que quedaron fueron dispersados, no quedando dos de ellos juntos» (1Sa_11:11 lba). Esta «disgregación» de fuerzas parece que fue común después de las derrotas en batallas campales (1Re_22:17; 2Re_25:5). Hay frecuentes alusiones a Israel como un pueblo y nación «disperso» entre las naciones, en particular, con la imagen de un rebaño de ovejas dispersas (Eze_34:5-6; Zac_13:7). Ezequiel también promete que el rebaño disperso será recogido: «Yo os recogeré de los pueblos, y os congregaré de las tierras en los cuales estáis esparcidos» (Eze_11:17; cf. 20:34, 41).
+
+En sentido figurado, el vocablo se usa para referirse al relámpago como las saetas que Dios «dispersa» (2Sa_22:15). Según Job , «él también recarga las nubes de humedad, y la nube dispersa sus relámpagos» (Job_37:11 rva ; «esparce la nube con su relámpago» lba). No hay cosecha sin antes «esparcir» la semilla en los zurcos (Isa_28:25 rva). 
+

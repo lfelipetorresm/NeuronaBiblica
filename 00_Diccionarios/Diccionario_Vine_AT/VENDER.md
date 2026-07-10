@@ -1,0 +1,15 @@
+---
+titulo: "VENDER"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VENDER"]
+---
+
+# VENDER
+
+makar (îÈëÇø, [[H4376]]), «vender». Este vocablo, que es de uso común tanto en hebreo antiguo como moderno; también se halla en el antiguo acádico y ugarítico. Aparece alrededor de 70 veces en el texto hebreo veterotestamentario. Se menciona por primera vez en Gén_25:31 : «Y Jacob respondió: Véndeme en este día tu primogenitura».
+
+Hay una amplia gama de ejemplos de «vender» en el Antiguo Testamento. Cualquier objeto puede «venderse», como un terreno (Gén_47:20), casas (Lev_25:29), animales (Éxo_21:35) y seres humanos en calidad de esclavos (Gén_32:27-28). También se «vendían» a las hijas por un precio acordado (Éxo_21:7).
+
+Makar se usa a menudo en sentido figurado para expresar diversas acciones. Se acusa a Nínive de «vender» o «traicionar» otras naciones (Nah_3:4). A menudo se dice que Dios «vende» a Israel al poder de sus enemigos, queriendo decir que los entrega en sus manos (Jue_2:14). Un tanto parecido a esto es cuando se dice que «en mano de mujer venderá Jehová a Sísara» (Jue_4:9). «Ser vendido» a veces indica ser entregado a muerte (Est_7:4). 
+

@@ -1,0 +1,12 @@
+---
+titulo: "OBRERO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OBRERO"]
+---
+
+# OBRERO
+
+ergates (ἐñãÜôçò, [[G2040]]), relacionado con ergazomai, trabajar y ergon, trabajo (véanse OBRA, OBRAR, A, Nº 1 y B, Nº 1), denota: (a) trabajador del campo, labrador (Mat_9:37-38; Mat_20:1-2, Mat_20:8; Luc_10:2, dos veces; Stg_5:4); (b) trabajador, obrero, en un sentido general (Mat_10:10; Luc_10:7; Hch_19:25; 1Ti_5:18); se utiliza (c) de falsos apóstoles y maestros (2Co_11:13; Fil_3:2); (d) de un siervo de Cristo (2Ti_2:15); (e) de hacedores de maldad (Luc_13:27).¶ 
+
+

@@ -1,0 +1,28 @@
+---
+titulo: "GOZO, GOZOSO, (CON) GOZO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#GOZO,GOZOSO,(CON)GOZO"]
+---
+
+# GOZO, GOZOSO, (CON) GOZO
+
+A. Nombres
+
+1. eufrosune (åὐöñïóýíç, [[G2167]]), se traduce «gozo» en Hch_2:28 (rv, rvr, rvr77, vm, Besson, lba, nvi); «alegría» en 14:17 (rv, rvr, rvr77, vm, Besson, lba, nvi). Véase .¶
+
+2. cara (÷áñÜ, [[G5479]]), gozo, deleite (relacionado con cairo, gozarse, regocijarse). Se encuentra frecuentemente en Mateo y Lucas, una vez en Marcos (4:16). No se halla en 1 Co, aunque el verbo se usa allí en tres ocasiones; pero es frecuente en 2 Co, donde el nombre se usa en cinco ocasiones (para su uso en 7:4, véase la Nota más adelante), y el verbo en ocho ocasiones, lo que es sugerente del alivio sentido por el apóstol en comparación con las circunstancias de la primera epístola; en Col_1:11 : «gozo» (vm: «con regocijo»). En ocasiones, este término se usa, por metonimia, de la ocasión o causa del gozo (Luc_2:10; lit: «os anuncio un gran gozo»); en 2Co_1:15, en algunos mss. en lugar de caris, que es la lectura apoyada por la gran masa de autoridades (rv, rvr, rvr77, Besson: «tuvieseis una segunda gracia»); Fil_4:1, donde los lectores reciben la apelación de gozo del apóstol; igualmente en 1Ts_2:19-20; Heb_12:2, del objeto del gozo de Cristo; Stg_1:2, donde se relaciona con la entrada en diversas pruebas; quizás también en Mat_25:21, donde algunos consideran que el término significa, de manera concreta, las circunstancias que acompañan a la cooperación en la autoridad del Señor. Véase también Nota (3) más adelante.
+
+Notas: (1) En Heb_12:11, «causa de gozo» representa a la frase met̆, con, seguida de cara, lit: «con gozo». Igual sucede en 10:34, donde se traduce así; en 2Co_7:4, cara se usa con la voz media de juperperiáeuo, abundar más sumamente, y se traduce «sobreabundo de gozo» (rv, rvr). (2) El verbo cairo se traduce «gozo» en 2Co_13:11, con la frase verbal «tened gozo». Véanse GOZAR, A, Nº 2, ALEGRAR, REGOCIJAR(SE).
+
+(3) El gozo es asociado con la vida (p.ej., 1Ts_3:8-9). Las experiencias dolorosas preparan para el gozo y agrandan la capacidad de sentirlo (p.ej., Jua_16:20; Rom_5:3-4; 2Co_7:4; 2Co_8:2; Heb_10:34; Stg_1:2). La persecución por causa de Cristo potencia el gozo (p.ej., Mat_5:11-12; Hch_5:41). Otras fuentes de gozo son la fe (Rom_15:13; Fil_1:25); la esperanza (Rom_5:2 : kaucaomai, véase GLORIARSE, Nº 1; Rom_12:12 : cairo, véase GOZAR, A, Nº 2); el gozo de otros (Rom_12:15), que es distintivo de la simpatía cristiana. Cf. 1Ts_3:9. En el AT y en el NT el mismo Dios es la base y objeto del gozo del creyente (p.ej., Sal_35:9; Sal_43:4; Isa_61:10; Luc_1:47; Rom_5:11; Fil_3:1; Fil_4:4).
+
+B. Adjetivos
+
+Notas: (1) El verbo cairo se traduce como «gozoso» en Luc_15:5, lit: «gozando», participio en voz activa; lo mismo en 19:6; Hch_5:41 (plural); Hch_8:39; Rom_12:12 (plural); 2Co_6:10; véase GOZAR, A, Nº 2; (2) el nombre cara se traduce como adjetivo en Mat_13:44 : «gozoso» (rv: «y de gozo de ello)»; véase A, Nº 2.
+
+C. Adverbio
+
+asmenos (ἀóìÝíùò, [[G780]]), con deleite, deleitosamente, gozosamente, se halla en Hch_2:41 : «con gusto» (Besson; «de buen grado», vha, tr); se halla ausente en los mss. más comúnmente aceptados; Hch_21:17 : «con gozo» (rv: «de buena voluntad»; Besson: «con agrado»).¶ 
+
+

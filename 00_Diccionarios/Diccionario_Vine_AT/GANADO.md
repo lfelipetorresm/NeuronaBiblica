@@ -1,0 +1,19 @@
+---
+titulo: "GANADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#GANADO"]
+---
+
+# GANADO
+
+'eleph (àÆìÆó, [[H504]]), «ganado; mil; grupo». La primera acepción, «ganado», significa el animal domesticado o de una manada o rebaño. Tiene cognados en arameo, acádico, ugarítico y fenicio. Se encuentra 8 veces en la Biblia. La primera en Deu_7:13 : «Bendecirá el fruto de tu vientre y el fruto de tu tierra, tu grano, tu mosto, tu aceite, la cría de tus vacas y los rebaños de tus ovejas» (rv-95).
+
+Este nombre quizás esté relacionado con el verbo 'alap, «familiarizarse con, enseñar, instruir». El verbo se encuentra solo 4 veces y únicamente en Job y Proverbios .
+
+Relacionado con el verbo anterior está el nombre 'allûp, que por lo general significa «familiar, confidente». Únicamente aparece en la poesía bíblica. En Sal_144:14, 'allûp significa un animal domesticado: «Nuestros bueyes estén fuertes para el trabajo; no tengamos asalto, ni que hacer salida».
+
+La segunda acepción, «mil», aparece unas 490 veces en todos los períodos del hebreo bíblico. Su primer uso se encuentra en Gén_20:16 : «Mira, he dado a tu hermano mil piezas de plata» (lba).
+
+La tercera acepción, «grupo», se encuentra primero en Núm_1:16 : «Estos fueron los nombrados de la congregación, representantes de las tribus de sus padres y jefes de las familias de Israel» (rva ; «millares» rvr, nrv ; «clanes» nbe). Parece estar relacionado con el término 'ellûp, «líder de un grupo grande», aplicado casi exclusivamente a jefes de tribus no israelitas (excepciones: Zac_9:7; Zac_12:5-6). 'Allûp aparece por primera vez en Gén_36:15 : «Estos fueron los jefes de entre los hijos de Esaú». 
+

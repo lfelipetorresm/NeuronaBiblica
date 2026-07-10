@@ -1,0 +1,15 @@
+---
+titulo: "SONAR, CLAVAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SONAR,CLAVAR"]
+---
+
+# SONAR, CLAVAR
+
+taqa' (úÌÈ÷Çò, [[H8628]]), «clavar; arrojar; sonar [trompeta]; batir palmas». Esta palabra, que se encuentra en hebreo antiguo y moderno, aparece casi 70 veces en el Antiguo Testamento. Hay dos casos de taqa' en elversículo donde aparece por vez primera: «Alcanzó, pues, Labán a Jacob; y este había fijado [taqa'] su tienda en el monte; y Labán acampó con sus parientres en el monte Galaad» (Gén_31:25). El significado aquí es de «martillar» o «clavar» la estaca de una tienda. La misma palabra se usa en el relato de Jael que «enclavó» una estaca en las sienes de Sísara (Jue_4:21). La Biblia usa taqa' para describir el fortísimo viento occidental que «arrojó» las langostas en el Mar Rojo (Éxo_10:9).
+
+Taqa' expresa la idea de «soplar» estruendosamente una trompeta. El término se encuentra siete veces con este significado en el relato de la conquista de Jericó (Jos_6:4, Jos_6:8-9, Jos_6:13, 16, Jos_6:20).
+
+«Batir» las palmas de las manos en alabanza o triunfo (Sal_47:1) o «estrecharse la mano» para sellar un acuerdo (Pro_6:1; Pro_17:18; Pro_22:25) también son acepciones que incluye el verbo. 
+

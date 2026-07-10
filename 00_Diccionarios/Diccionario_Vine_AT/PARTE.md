@@ -1,0 +1,25 @@
+---
+titulo: "PARTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PARTE"]
+---
+
+# PARTE
+
+A. Partícula
+
+bad (áÌÇã, [[H905]]), «parte; porción; ramas; retazo; vara; renuevo; solo; solos; solamente; aparte de; además». Este vocablo se encuentra unas 219 veces en todos los períodos del hebreo de la Biblia.
+
+Primero, bad quiere decir una «parte o porción». En Éxo_30:34 se refiere a la porción o cantidad de especias que se mezclaban para fabricar el incienso del culto a Dios. En Job_18:13 el término indica los miembros o partes del maligno (cf. Job_41:12 : «miembros» de un cocodrilo).
+
+Segundo, el término significa un retazo de tela: «Les harás calzoncillos de lino para cubrir su desnudez; llegarán desde los lomos hasta los muslos» (Éxo_28:42 lba : primer caso con este matiz). El vocablo siempre se refiere a la indumentaria que viste un sacerdote al presentarse delante de Dios o de su altar.
+
+Tercero, bad puede indicar un largo pedazo de madera o material leñoso. El arca, los altares y la mesa de los panes de la Presencia (proposición) eran asidos con varas que atravesaban los anillos ajustados a este mobiliario: «Y meterás las varas por los aros a los lados del arca, para llevar el arca con ellas» (Éxo_25:14 rva : primer caso con este matiz). En Eze_19:14 (rva) bad se refiere a los «renuevos» o ramas de una vid: «Ha salido fuego de la vara de sus renuevos» (cf. Eze_17:6). Las puertas de una ciudad son badîm (plural; Job_17:16).
+
+Cuarto, en la mayoría de los casos (152 veces), este vocablo es precedido por la preposición le. De este modo significa «solo» (82 veces): «Dijo además Jehová Dios: No es bueno que el hombre esté solo; le haré una ayuda idónea» (Gén_2:18 rva : primera mención del vocablo). Un segundo matiz de este modismo señala conjuntos separados, distintos: «Unirás cinco tapices en un conjunto, y seis tapices en el otro conjunto» (Éxo_26:9 rva). Dos veces se usa el vocablo como adverbio de limitación significando «solamente»: «He aquí, solamente esto he hallado: que Dios hizo al hombre recto, mas ellos buscaron muchas perversiones» (Ecl_7:29). Cuando es seguido por la preposición min o 'al, el término actúa como un adverbio cuyo significado es «aparte de» o «además»: «Partieron los hijos de Israel de Ramesés a Sucot, como seiscientos mil hombres de a pie, sin contar los niños» (Éxo_12:37). En Núm_29:39 (rva) se destaca la palabra «además»: «Esto ofreceréis a Jehová en vuestras festividades establecidas, además de vuestras ofrendas votivas, de vuestras ofrendas voluntarias». En 33 pasajes el vocablo continúa significando «además» aun cuando lleva la preposición min.
+
+B. Verbo
+
+badad (áÌÈãÇã, [[H909]]), «aislarse, estar solo». El verbo tiene un cognado arábigo. Una de las 3 veces que aparece está en Sal_102:7 : «No logro conciliar el sueño; parezco ave solitaria sobre el tejado» (nvi). 
+

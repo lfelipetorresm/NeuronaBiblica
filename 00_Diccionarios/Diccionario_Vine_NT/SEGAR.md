@@ -1,0 +1,14 @@
+---
+titulo: "SEGAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SEGAR"]
+---
+
+# SEGAR
+
+therizo (èåñßæù, [[G2325]]), segar, (relacionado con theros, verano, siega). Se utiliza: (a) literalmente (Mat_6:26; Mat_25:24, Mat_25:26; Luc_12:24; Luc_19:21-22; Stg_5:4 b); (b) en sentido figurado o en expresiones proverbiales (Jua_4:36, dos veces, 37,38), con referencia inmediata a la entrada de samaritanos al Reino de Dios, con respecto a lo cual los discípulos disfrutarían de los frutos de lo que Cristo mismo había estado haciendo en Samaria; las palabras del Señor son, sin embargo, de aplicación general con respecto a tal servicio; en 1Co_9:11, con referencia al derecho del apóstol y de sus compañeros de misión de recibir ayuda material de la iglesia, derecho que él prefería no ejercer; en 2Co_9:6, dos veces, con referencia a la prestación de ayuda material a los menesterosos, ya «escasamente» o «abundantemente», siendo la siega proporcional a la siembra; en Gál_6:7-8, dos veces, de segar «corrupción», haciéndose especial referencia, según el contexto, a aquello que es de sí efímero y pasajero (aunque la afirmación se aplica a toda forma de sembrar para la carne), y de segar vida eterna (estando a la vista caracteres y cualidades morales), como resultado de sembrar «para el Espíritu», haciéndose probablemente referencia a la nueva naturaleza del creyente, que está, sin embargo, bajo la energía controladora del Espíritu Santo (v. 9, llevándose a cabo la siega (el efecto del bien hacer) en esta vida dentro de unos límites, pero con total cumplimiento en y más allá del tribunal de Cristo; la diligencia o la negligencia aquí producirán entonces resultados proporcionales; en Apo_14:15, dos veces, 16, en sentido figurado del juicio discriminatorio que Dios ejecutará al final de esta edad, cuando separe el trigo de la cizaña (véase Mat_13:30).¶
+
+Nota: Para el verbo amao, traducido «que han segado» (Stg_5:4, rv; rvr: «que han cosechado»); participio activo aoristo, véase COSECHAR, Nº 1. 
+
+

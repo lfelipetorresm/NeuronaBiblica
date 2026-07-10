@@ -1,0 +1,15 @@
+---
+titulo: "TORO, NOVILLO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#TORO,NOVILLO"]
+---
+
+# TORO, NOVILLO
+
+par (ôÌÈø, [[H6499]]), «buey, novillo, toro castrado». Existen cognados de esta palabra en ugarítico, arameo, siríaco y arábigo. Par aparece unas 132 veces en la Biblia y en todos los períodos, aunque la mayoría de los casos están en textos en prosa que tienen que ver con sacrificios a Dios.
+
+Par quiere decir «novillo». Este es lo que quiere decir la primera vez que aparece en la Biblia (Gén_32:15); allí se narra que, entre los regalos que Jacob envió a Esaú para aplacarlo, habían «diez novillos». En Sal_22:12, el vocablo sirve para indicar los conceptos de «feroz, enemigos fuertes»: «Me han rodeado muchos toros; fuertes toros de Basán me han cercado». Cuando en Isa_34:7 Dios amenaza con juzgar a las naciones, se refiere a los príncipes y guerreros como «toros salvajes y novillos» (rva ; «búfalos, toros y becerros» rvr); cf. Jer_50:27; Eze_39:18.
+
+Parah es la modalidad femenina de par y en Amó_4:1 se usa peyorativamente: «Oíd esta palabra,vacas de Basán». Parah aparece 25 veces en el Antiguo Testamento; la primera cita se encuentra en Gén_32:15. 
+

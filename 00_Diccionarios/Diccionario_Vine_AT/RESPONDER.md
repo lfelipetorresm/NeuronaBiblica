@@ -1,0 +1,21 @@
+---
+titulo: "RESPONDER"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#RESPONDER"]
+---
+
+# RESPONDER
+
+'anah (òÈðÈä, [[H6030]]), «responder, contestar, replicar». Esta raíz se encuentra en la mayoría de las lenguas semíticas, aunque con muchas acepciones. Con el mismo significado básico de 'anah, aparece en ugarítico, acádico, arábigo, hebreo posbíblico y arameo bíblico. Hay que distinguir este término de otro 'anah cuyo significado es bien diferente: «oprimir, subyugar».
+
+Se constatan unos 320 casos de 'anah en hebreo bíblico. Una de las dos acepciones de 'anah es «responder», aunque no necesariamente con una respuesta verbal. Por ejemplo, en Gén_35:3 (rva) Jacob dice a su casa: «Levantémonos y subamos a Bet-el; y haré allí altar al Dios que me respondió en el día de mi angustia». La «respuesta» que menciona Jacob se encuentra en Gén_28:10 ss. Basta decir que siendo Dios el que inicia el encuentro y habla con Jacob, el peso de la comunicación recae más bien sobre la visión de la escalera y la relación con Dios que representa. El significado es aun más evidente en Éxo_19:18, donde Dios «responde» a una situación al pie del Sinaí con truenos.
+
+Encontramos otro ejemplo de «respuesta» con acciones en lugar de palabras en Deu_20:11 (rva). Dios instruye a Israel que antes de sitiar a una ciudad debe demandar su rendición. Los habitantes sobrevivirán como esclavos de Israel «si [la ciudad] te responde con paz y te abre sus puertas». En 30:20, Job dice que ha clamado a Dios, quien no le «respondió» (es decir, no le prestó atención). En Isa_49:8, Dios dice al Mesías: «En tiempo favorable te he respondido, y en el día de salvación te he ayudado» (rva). Aquí responder («oír» rv) es un paralelismo sinónimo de ayudar, a saber, se trata de una acción (cf. Sal_69:17; Isa_41:17).
+
+La segunda acepción principal de 'anah es «responder con palabras», o «contestar» o «replicar» como cuando se entabla un diálogo. En Gén_18:27 (primer caso de 'anah) leemos que «Abraham replicó y dijo» al Señor con el que acababa de hablar. En esta fórmula, los dos verbos representan una sola idea (es decir, forman una hendiadis). Una simple traducción podría ser «responder», ya que Dios ni preguntó ni requirió respuesta. Por otro lado, cuando los hijos de Het «respondieron a Abraham diciéndole» (Gén_23:5 rva), aquí sí se responde a una pregunta específica del patriarca (v. 4).
+
+'Anah puede significar «responder» en el sentido especial de reaccionar verbalmente ante un hecho, verdad o realidad: «Y los cinco hombres que fueron a reconocer la región de Lais, respondieron y dijeron» (Jue_18:14 lba). Puesto que no se trata de un interrogatorio, el término implica que los espías rindieron un informe en respuesta a lo que descubrieron. En Deu_21:7, se instruye a los hijos de Israel cómo responder al rito de la novilla: «Responderán y dirán: Nuestras manos no han derramado esta sangre, ni nuestros ojos han visto nada» (lba).
+
+'Anah puede además tener el sentido legal (jurídico) de «testificar»: «No darás falso testimonio contra tu prójimo» (Éxo_20:16 rva). Leemos en Éxo_23:2 (rva): «No seguirás a la mayoría para hacer el mal. No testificarás en un pleito». Con un significado similar, Jacob propone que su suegro Labán les deje las cabras pintadas y manchadas y «así responderá [testificará] por mí mi honradez mañana, cuando vengas a reconocer [investigar] mi salario» (Gén_30:33). 
+

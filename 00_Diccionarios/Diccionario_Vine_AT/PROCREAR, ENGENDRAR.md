@@ -1,0 +1,29 @@
+---
+titulo: "PROCREAR, ENGENDRAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PROCREAR,ENGENDRAR"]
+---
+
+# PROCREAR, ENGENDRAR
+
+A. Verbo
+
+yalad (éÈìÇã, [[H3205]]), «procrear, dar a luz, engendrar, generar». Este verbo se halla en todas las lenguas semíticas y en casi todas las formas verbales. La excepción más notable es en arameo bíblico. Si embargo, el verbo arameo se encuentra ampliamente fuera de la Biblia. El verbo yalad está unas 490 veces en la Biblia.
+
+En esencia, el vocablo se refiere a la acción de «dar a luz» y a su resultado, «procrear, engendrar» hijos. Dios maldijo a la mujer multiplicando su dolor en el parto (cf. Gén_3:16 : primer caso de yalad). La segunda acepción tiene un ejemplo en Gén_4:18, donde se registra que Irad «engendró» a Mehujael. Este verbo también puede usarse en relación a animales; en Gén_30:39, los fuertes entre el ganado de Labán «engendraron» crías listadas, pintadas y salpicadas.
+
+Un tema que a menudo aparece en la historia bíblica tiene como tipo a Abraham y Sara. No teniendo herederos, Dios les hizo una promesa y les dio un hijo (Gén_16:1, Gén_16:16). Esto comprueba que Dios controla el proceso generativo (Gén_20:17-18) y concede hijos como señal de su bendición. Los profetas se valen de imágenes de la procreación para ilustrar el terror que sobrecogerá a los hombres en el día del Señor (Isa_13:8). Oseas usa imágenes de matrimonio y procreación para describir la relación de Dios con Israel (Ose_1:3, Ose_1:6, Ose_1:8). Uno de los pasajes que se debate acaloradamente es Isa_7:14, donde yalad se usa para profetizar el «nacimiento» de Emanuel. Por último, los profetas a veces llegan a lamentar el día en que «nacieron» (Jer_15:10).
+
+Yalad describe la relación entre Dios e Israel también en otros pasajes. Esta relación tiene particular relevancia para el rey que tipifica el Mesías, el Hijo que Dios «engendró» (Sal_2:7). Dios también dice que «engendró» a Israel como pueblo (Deu_32:18). Esta declaración contrasta marcadamente con la aclaración de Moisés de que no fue él quien los engendró (Núm_11:12) y por tanto no quiere tener nada más que ver con ellos.
+
+Jeremías también se vale del mismo motivo: la «generación» de Israel por Dios. En Jer_31:20, Dios dice que sus entrañas se conmueven por su hijo Efraín (yeled). Ezequiel desarrolla el mismo tema alegóricamente cuando denomina a Samaria y a Jerusalén las hijas que Dios «engendró», Ahola y Aholiba (Eze_23:4, Eze_23:37).
+
+La Septuaginta traduce yalad con términos que expresan «dar a luz» (tinknein) o «engendrar» (gennaoo).
+
+B. Nombre
+
+yeled (éÆÆìÆã, [[H3206]]), «muchacho; niño». El nombre yeled difiere de ben («hijo») porque especifica con mayor claridad la relación paternal. Por ejemplo, la criatura que Noemí crió fue un «niño» (Rut_4:16).
+
+Yeled, que aparece 89 veces en la Biblia, se traduce con varios vocablos en la Septuaginta. Otros nombres que se construyen a base de yalad incluyen yaldah («niña»; 3 veces), yalîd («hijo» o «esclavo»: 3 veces), yillôd («recién nacido»; 5 veces), walad («criatura»; una vez), ledah («dar a luz» o «alumbramiento»; 4 veces), môledet («progenie, parentesco, linaje»; 22 veces) y tôledôt («descendientes, contemporáneos, generación, genealogía, registro familiar»; 39 veces). 
+

@@ -1,0 +1,12 @@
+---
+titulo: "LISTA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LISTA"]
+---
+
+# LISTA
+
+katalego (êáôáëÝãù, [[G2639]]), inscribir. Se traduce en 1Ti_5:9 «sea puesta en lista», en las instrucciones de Pablo a Timoteo con respecto a las viudas de la iglesia. Véase PONER.¶ 
+
+

@@ -1,0 +1,27 @@
+---
+titulo: "COMPAÑERO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#COMPAÑERO"]
+---
+
+# COMPAÑERO
+
+A. Nombres
+
+rea' (øÅòÇ, [[H7453]]), «amigo; compañero». Este nombre también está representado en acádico, ugarítico y arameo. rea se encuentra 187 veces en el Antiguo Testamento hebraico y tiene una amplia gama de acepciones. El significado básico de rea se encuentra en el sentido más estricto de la palabra. Un rea es aquel «amigo personal» al que se le hace confidencias y al que se siente uno muy allegado: «Jehová hablaba a Moisés cara a cara, como habla un hombre con su amigo» (Éxo_33:11). La proximidad de la relación se expresa más claramente en los textos donde el rea es como un hermano o hijo, es parte de la familia: «Por causa de mis hermanos y de mis amigos» (Sal_122:8; cf. Deu_13:6). Fue por esta razón que cuando Zimri se impuso como rey sobre Israel, mató, además de los parientes de Baasa, a sus «amigos» (1Re_16:11). En este sentido, el vocablo es sinónimo de ah («hermano») y de qarôb («pariente»): «¡Pasad y volved, de entrada a entrada del campamento! ¡Matad cada uno a su hermano, a su amigo y a su pariente!» (Éxo_32:27).
+
+Semejante a lo anterior es la acepción de «compañero/a de matrimonio»: «Su paladar es dulcísimo; ¡todo él es deseable! Así es mi amado y así es mi amigo, oh hijas de Jerusalén» (Cnt_5:16). Por otro lado, rea puede significar «compañeros ilegítimos»: «Si alguno despide a su mujer, y ella se va de él y se casa con otro hombre, ¿podrá él después volver a ella? ¿No habrá sido esa tierra del todo profanada? Tú te has prostituido con muchos amantes (rea); pero, ¡vuelve a mí!, dice Jehová» (Jer_3:1). Dios ordena a Oseas recuperar a su mujer de su «amigo» (amante); ha sido adúltera por demasiado tiempo.
+
+El uso más amplio de rea es similar al término prójimo (o «vecino») en castellano: la persona con la que uno se asocia habitual o casualmente, pero sin establecer relaciones estrechas. Uno puede pedir prestado al «prójimo» (Éxo_22:14), pero no dar falso testimonio (Éxo_20:16), ni codiciar sus posesiones (Éxo_20:17-18). El segundo más grande mandamiento que Jesús enfatizó: «Amarás a tu prójimo como a ti mismo» (Lev_19:18), se refuerza con las leyes del Pentateuco. Los profetas acusaron a Israel por quebrantar el mandamiento: se oprimieron mutuamente (Isa_3:5) y desearon las mujeres de sus prójimos (Jer_5:8); cometieron adulterio con estas mujeres (Eze_18:6); defraudaron a los obreros en sus salarios (Jer_22:13); y se aprovecharon indebidamente de sus «prójimos» o «vecinos» (Eze_22:12). Según Proberbios, no amar al prójimo es insensatez (Pro_11:12, bj); es «carecer de entendimiento» (rv).
+
+El significado más amplio de rea se expresa en el proverbio del hombre rico y sus amigos: «Las riquezas atraen muchos amigos, pero el pobre es abandonado por su prójimo» (Pro_19:4). En este caso el «amigo» es una persona cuya asociación es pasajera, cuya amistad es superficial.
+
+La Septuaginta ofrece las siguientes traducciones del vocablo: plesion («cerca; próximo»), philos («amigo»). Las revisiones de la rv traducen el término como «prójimo; amigo; compañero»; «vecino».
+
+Re`eh también significa «amigo». Este nombre se encuentra en 1Re_4:5 : «Zabud hijo de Natán era sacerdote y amigo del rey». reah quiere decir «amiga», como en Jue_11:37 : «Dijo a su padre … Déjame sola durante dos meses para que vaya y ande por los montes y llore mi virginidad, yo y mis compañeras» (rva ; cf. Jue_11:38; Sal_45:14). El nombre raya quiere decir «compañera amada; novia». El término es frecuente en Cantares :Sal_1:9, Sal_1:15; Sal_2:2, Sal_2:10, Sal_2:13; Sal_4:1, Sal_4:7; Sal_5:2; Sal_6:4. Re'ût se refiere a una «compañera». Este término casi siempre se traduce idiomáticamente dentro de una frase que exprese reciprocidad, como en Zac_11:9 : «Entonces dije: No os apacentaré más. ¡La que muere, que muera; la que se descarría, que se descarríe; y las que queden, que devore cada una a su compañera!»
+
+B. Verbo
+
+ra'ah (øÈòÈä, [[H7462]]), «asociarse». El vocablo aparece en Pro_22:24 : «No hagas amistad con el iracundo, ni tengas tratos con el violento» (rva). 
+

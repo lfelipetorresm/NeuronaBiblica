@@ -1,0 +1,12 @@
+---
+titulo: "LOBO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LOBO"]
+---
+
+# LOBO
+
+lukos (ëýêïò, [[G3074]]), aparece en Mat_10:16; Luc_10:3; Jua_10:12, dos veces; metafóricamente (Mat_7:15; Hch_20:29).¶ 
+
+

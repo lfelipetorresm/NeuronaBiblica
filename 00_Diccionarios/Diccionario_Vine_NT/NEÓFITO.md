@@ -1,0 +1,12 @@
+---
+titulo: "NEÓFITO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#NEÓFITO"]
+---
+
+# NEÓFITO
+
+neofutos (íåüöõôïò, [[G3504]]), adjetivo, lit. recién plantado (de neos, nuevo, y fuo, producir), denota a un nuevo converso, neófito (1Ti_3:6), de uno que por su inexperiencia no puede actuar como obispo o supervisor en una iglesia.¶ En la lxx, Job_14:9; Sal_128:3; Sal_144:12; Isa_5:7.¶ 
+
+

@@ -1,0 +1,15 @@
+---
+titulo: "MAGO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#MAGO"]
+---
+
+# MAGO
+
+'ashshap (àÇùÑÌÈó, [[H825]]), «mago». Se encuentran cognados de este término en acádico, siríaco y arameo bíblico (6 veces). El nombre solo aparece un par de veces en hebreo bíblico y únicamente en el libro de Daniel .
+
+La vocación de un ashipu se conocía desde muy temprano en la antigua sociedad acádica (babilónica). No se sabe si los ashipu eran asistentes de una orden particular de sacerdotes babilónicos (los mashmashu) o una orden paralela a este sacerdocio. Sea como fuere, los ashipu hacían conjuros para librar a las personas de las fuerzas malignas. A menudo se intervenían quirúrgicamente a los enfermos mientras se pronunciaban palabras mágicas.
+
+En la Biblia, el término 'ashshap se encuentra por primera vez en Dan_1:20 : «En todo asunto de sabiduría e inteligencia que el rey les consultó, los halló diez veces mejores que todos los magos y astrólogos que había en todo su reino». 
+

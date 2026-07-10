@@ -1,0 +1,12 @@
+---
+titulo: "TRONO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#TRONO"]
+---
+
+# TRONO
+
+thronos (èñüíïò, [[G2362]]), trono, asiento de autoridad. Se emplea del trono: (a) de Dios, p.ej., Heb_4:16 : «el trono de la gracia», esto es, desde el que brota la gracia; Heb_8:1; Heb_12:2; Apo_1:4; Apo_3:21 b; Apo_4:2, dos veces; Apo_5:1. Es frecuente en Apocalipsis; en 20:12, en los textos más comúnmente aceptados: «del trono» (algunos tienen theos : «Dios», rv, rvr, rvr77; vm sigue la lectura «delante del trono»); cf. 21:3; Mat_5:34; Mat_23:22; Hch_7:49; (b) de Cristo (p.ej., Heb_1:8; Apo_3:21 a; Apo_22:3); su asiento de autoridad en el milenio (Mat_19:28 a); (c) por metonimia, denotando poderes angélicos (Col_1:16); (d) de los apóstoles en su autoridad milenial (Mat_19:28 b; Luc_22:30); (e) de los ancianos en la visión celestial (Apo_4:4 b: «tronos», : «sillas»); lo mismo en 11:16; (f) de David (Luc_1:32; Hch_2:30); (g) de Satanás (Apo_2:13 : «trono», : «silla»); (h) de «la bestia», la última cabeza federal del Imperio Romano redivivo (Apo_13:2; Apo_16:10). Véase SILLA, Nota . 
+
+

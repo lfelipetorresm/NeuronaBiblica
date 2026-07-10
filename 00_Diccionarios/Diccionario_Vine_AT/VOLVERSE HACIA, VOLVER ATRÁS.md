@@ -1,0 +1,41 @@
+---
+titulo: "VOLVERSE HACIA, VOLVER ATRÁS"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VOLVERSEHACIA,VOLVERATRÁS"]
+---
+
+# VOLVERSE HACIA, VOLVER ATRÁS
+
+A. Verbo
+
+panah (ôÌÈðÈä, [[H6437]]), «volverse, mirar alrededor, regresar, virar, vincular, desaparecer, abandonar, preparar». Este verbo también se encuentra en siríaco y hebreo y arameo posbíblico. En arábigo y etiópico existen verbos afines que tienen los mismos radicales, aunque sus significados son un tanto diferentes. En la Biblia se constatan 155 casos en todos los períodos.
+
+Gran parte de estos casos tienen el sentido de «volverse en otra dirección»; este es un verbo de acción tanto física como mental. Cuando se usa en relación a movimiento físico, el vocablo tiene la acepción de «virar» con el objeto de trasladarse en otra dirección: «Bastantes vueltas habéis dado ya alrededor de este monte. Volveos ahora hacia el norte» (Deu_2:3 lba). Panah puede indicar volver (dirigir) la atención a un objeto o persona: «Y sucedió que mientras Aarón hablaba a toda la congregación de Israel, miraron hacia el desierto» (Éxo_16:10 rva). «Volver la atención» puede también significar el acto de mirar o ver una persona u objeto: «Acuérdate de tus siervos Abraham, Isaac y Jacob. No mires la dureza de este pueblo, ni su impiedad ni su pecado» (Deu_9:27). Ampliando un poco más el significado encontramos que en Hag 1:9 panah quiere decir «buscar» o «esperar»: «Buscáis mucho, y halláis poco».
+
+Otro enfoque del término es «volver» para ver. Esto se encuentra en Jos_8:20 : «Cuando los hombres de Hai se volvieron y miraron, he aquí el humo de la ciudad subía al cielo» (lba). En otros pasajes el verbo significa «mirar de un lado a otro», como cuando Moisés «miró a uno y otro lado [«miró alrededor» lba], y viendo que no había nadie, mató al egipcio y lo escondió en la arena» (Éxo_2:12 rva).
+
+En el sentido de «virar» o «dar vuelta» panah indica un cambio de dirección a fin de trasladarse a otro lugar. En Gén_18:22 (primer caso bíblico), «Y se apartaron de allí los varones, y fueron hacia Sodoma».
+
+Cuando «volverse» tiene que ver con cambios intelectuales o espirituales, el verbo significa adhesión. Dios ordenó a Israel: «No os volveréis a los ídolos, ni haréis para vosotros dioses de fundición» (Lev_19:4); Israel no debe volver su atención a ídolos ni adherirse a ellos. Un uso aun más marcado de este verbo representa dependencia de alguien: «Nunca más serán objeto de confianza para la casa de Israel, que les haga recordar el pecado de volverse hacia ellos» (Eze_29:16 rva). «Volverse hacia alguien» significa prestarle atención. Job dice a sus amigos: «Ahora pues, dignaos prestarme atención [panah], pues ciertamente no mentiré ante vuestra cara» (Job_6:28 rva).
+
+Con un énfasis distinto el vocablo connota la «desaparición» de algún objeto o realidad, como por ejemplo el día: «Y por la tarde Isaac salió a meditar al campo» (Gén_24:63 lba). En un sentido similar la Biblia habla del amanecer como el «volver del mar» (Éxo_14:27). Por otro lado, «volver el día» se refiere al ocaso del día (Jer_6:4).
+
+En un contexto militar, panah puede significar «abandonar la lucha» o bien «huir» delante de los enemigos. Por el pecado de Acán el Señor no acompañó a Israel en la batalla con Hai: «Por esto los hijos de Israel no podrán hacer frente a sus enemigos, sino que delante de sus enemigos volverán [panah] la espalda, por cuanto han venido a ser anatema» (Jos_7:12).
+
+En la raíz intensiva el verbo quiere decir «remover» o quitar: «El Señor ha expulsado a los tiranos, ha echado [panah] a tus enemigos» (Sof_3:15 nbe). «Quitar» una casa es una manera de prepararse para la llegada de huéspedes: «Ven, bendito de Jehová; ¿por qué estás fuera? He preparado la casa, y el lugar para los camellos» (Gén_24:31). Otro matiz más es «preparar» el camino para una marcha triunfal. Isaías dice: «Preparad camino a Jehová; enderezad calzada en la soledad a nuestro Dios» (Isa_40:3; cf. Mat_3:3).
+
+B. Nombres
+
+pinnah (ôÌÄðÌÈä, [[H6438]]), «esquina». El nombre se encuentra 30 veces en el Antiguo Testamento. Se refiere a «esquinas» en Éxo_27:2 : «Le harás cuernos en sus cuatro esquinas». En 2Re_14:13 el término se refiere a una torre esquinera y en Jue_20:2 se usa como metáfora al describir a un «jefe» como «esquina» o defensa de su pueblo.
+
+El nombre panim también proviene del verbo panah. Se encuentra 2:100 veces con referencia al «rostro» de alguien. Una de las primeras veces que se usa es en Gén_17:3.
+
+C. Adjetivo
+
+penîmî (ôÌÀðÄîÄé, [[H6442]]), «interior». Este adjetivo aparece unas 33 veces y se refiere a una parte de un edificio, generalmente un templo. En 1Re_6:27 aparece un ejemplo de esto: «Puso estos querubines dentro de la casa en el lugar santísimo».
+
+D. Adverbio
+
+penîmah (ôÌÀðÄéîÈä, [[H6441]]), «dentro». El término se encuentra unas 12 veces. Un ejemplo está en 1Re_6:18 refiriéndose al interior de un edificio: «El templo estaba revestido por dentro con cedro, con bajorrelieves de calabazas y de flores abiertas» (rva). 
+

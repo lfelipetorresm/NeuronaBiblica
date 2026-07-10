@@ -1,0 +1,12 @@
+---
+titulo: "HORRENDO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#HORRENDO"]
+---
+
+# HORRENDO
+
+foberos (öïâåñüò, [[G5398]]), temeroso; relacionado con fobos ; véase TEMOR. Se usa en el NT solo en el sentido activo, esto es, causante de temor, terrible; «horrenda» (Heb_10:27, Heb_10:31); «terrible» (Heb_12:21). Véase TERRIBLE.¶ Cf. ATEMORIZAR, ATERRORIZAR, ESPANTAR. 
+
+

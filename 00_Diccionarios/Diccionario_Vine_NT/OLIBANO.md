@@ -1,0 +1,12 @@
+---
+titulo: "OLIBANO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OLIBANO"]
+---
+
+# OLIBANO
+
+libanos (ëßâáíïò, [[G3030]]), procedente de un verbo semítico que significa ser blanco, es una resina vegetal, amarga y brillante, que se obtiene de incisiones en la corteza del arbor thuris, árbol del incienso, y especialmente importado de Arabia. Se utilizaba para quemar en sacrificios (Éxo_30:7, etc.), o para perfumar (Cnt_3:6). La variedad de la India recibe el nombre de looban . Se encontraba entre las ofrendas traídas por los sabios del Oriente (Mat_2:11). En Apo_18:13 se relaciona entre las mercancías de Babilonia. Cf. INCIENSO.¶ 
+
+

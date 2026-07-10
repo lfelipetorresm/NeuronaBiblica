@@ -1,0 +1,18 @@
+---
+titulo: "LEPRA, LEPROSO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LEPRA,LEPROSO"]
+---
+
+# LEPRA, LEPROSO
+
+A. Nombre
+
+lepra (ëÝðñá, [[G3014]]), relacionada con B, es mencionada en Mat_8:3; Mar_1:42; Luc_5:12-13.¶ En la curación de otras enfermedades se usa el verbo sanar (iaomai), pero en la eliminación de la lepra se utiliza el verbo limpiar (katharizo), excepto en la declaración con respecto al samaritano (Luc_17:15 : «viendo que había sido sanado»). Mat_10:8 y Luc_4:27 indican que esta enfermedad era frecuente en la nación. Solo se registran doce casos en el NT, pero se trata de casos seleccionados entre muchos otros de curación de lepra, como sucede con los demás milagros. En cuanto a las instrucciones dadas por el Señor al leproso en Mateo 8 y a los diez en Lucas 17, véase Lev_14:2-32.
+
+B. Adjetivo
+
+lepros (ëåðñüò, [[G3015]]), adjetivo, usado primariamente de la psoriasis, caracterizada por una erupción de áreas rugosas y escamosas; más tarde, leproso, utilizado principalmente como nombre, leproso (Mat_9:2; Mat_10:8; Mat_11:5; Mar_1:40; Luc_4:27; Luc_7:22; Luc_17:12); especialmente de Simón, mencionado en Mat_26:6; Mar_14:3.¶ 
+
+

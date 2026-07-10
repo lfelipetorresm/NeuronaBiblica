@@ -1,0 +1,23 @@
+---
+titulo: "MUJER"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#MUJER"]
+---
+
+# MUJER
+
+'ishshah (àÄùÑÌÈä, [[H802]]), «mujer; esposa; prometida; novia; cada una». El vocablo tiene cognados en acádico, ugarítico, arameo, arábigo y etíope. Aparece unas 781 veces en hebreo bíblico y en todos los períodos de la lengua.
+
+El término señala a cualquier persona del sexo femenino, sin tener en cuenta edad o si es virgen o no. De esta manera, se correlaciona con «hombre» ('ish): «Esta será llamada Mujer, porque fue tomada del hombre» (Gén_2:23 rva). Este es su significado la primera ves que se usa: «Y de la costilla que Jehová Dios tomó del hombre ['adam], hizo una mujer, y la trajo al hombre» (Gén_2:22). Lo que se destaca aquí es «ser mujer» y no su papel en la familia. El énfasis en el papel de una «mujer o esposa» en la familia se encuentra en pasajes como Gén_8:16 : « Sal del arca tú, tu mujer, y tus hijos y las mujeres de tus hijos contigo».
+
+Un matiz especial de «esposa» indica la «mujer» bajo la autoridad y protección del hombre. Subraya las relaciones de la familia como ente legal y social: «Abram tomó a Sarai su mujer, a Lot su sobrino y todos los bienes que habían acumulado» (Gén_12:5).
+
+En Lam_2:20 'ishshah es sinónimo de «madre»: «¿Han de comer las mujeres el fruto de sus entrañas, los pequeñitos a su tierno cuidado?» En Gén_29:21 (cf. Deu_22:24) el significado parece ser «novia» o «prometida»: «Entonces Jacob dijo a Labán: Entrégame mi mujer para que conviva con ella, porque mi plazo se ha cumplido». En Ecl_7:26 (rva) se usa el vocablo con el significado genérico de «mujer» en términos generales o para referirse al sexo «femenino»: «Y yo he hallado más amarga que la muerte a la mujer que es una trampa» (cf. Gén_31:35).
+
+Son contadas las veces que el vocablo se refiere a animales: «De todo animal limpio toma contigo siete parejas, el macho y su hembra; pero de los animales que no son limpios solo una pareja, el macho y su hembra» (Gén_7:2).
+
+El término también se puede usar en sentido figurado, según una antigua costumbre semita; «mujeres», con sentido peyorativo, es una forma de burlarse de guerreros y héroes extranjeros, insinuando que son débiles, afeminados y cobardes: «En aquel día los egipcios serán como mujeres, pues temblarán y temerán ante el movimiento de la mano de Jehová de los Ejércitos» (Isa_19:16).
+
+En algunos pasajes 'ishshah significa «cada una» o «todas»: «Cada mujer pedirá a su vecina y a la que habita en su casa» (Éxo_3:22 rva ; cf. Amó_4:3). Este matiz tiene un uso especial en pasajes como Jer_9:20, donde, conjuntamente con reût («vecino»), quiere decir «una» mujer: «Escuchad, oh mujeres, la palabra de Jehová; reciba vuestro oído la palabra de su boca. Enseñad lamentos a vuestras hijas; cantos fúnebres, cada una a su compañera». 
+

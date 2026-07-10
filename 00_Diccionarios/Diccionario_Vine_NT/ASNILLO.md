@@ -1,0 +1,12 @@
+---
+titulo: "ASNILLO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ASNILLO"]
+---
+
+# ASNILLO
+
+onarion (ὀíÜñéïí, [[G3678]]), diminutivo de onos, asno joven, o pollino. Se usa en Jua_12:14, juntamente con onos . Véase ASNO.¶ 
+
+

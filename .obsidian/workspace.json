@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "485faeaad4b88db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0245cc75ab24d880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331bb3e77624ab66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08f5e377a401b89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a571202b946affad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d218b0716f469d68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8cc7e3b3c22e51aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a4222a07aa871dff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a3d1e94e9c60dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "812ef50182f04fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bb366d5efe7ae6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a42d6cdda39923ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "63af8bc2920e9dd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6965b289b4494c46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9c9aeac16819d953",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "331bb3e77624ab66",
+  "lastOpenFiles": [
+    "00_Diccionarios/Diccionario_Vine_AT/H1004.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1060.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1061.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1100.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1104.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1116.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1121.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1129.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1167.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1234.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1239.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1241.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1245.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1242.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1254.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1272.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1800.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1809.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1818.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1819.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1847.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1823.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1870.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1875.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1892.md",
+    "00_Diccionarios/Diccionario_Vine_AT/H1897.md",
+    "scripts/enlazar_vine_strong.py",
+    "05_Glosario_y_Anexos/scratch_toc.txt",
+    "05_Glosario_y_Anexos/Prueba_Gracia.txt",
+    "05_Glosario_y_Anexos",
+    "00_Diccionarios/Strong_Hubs",
+    "01_Biblia_Strong",
+    "scripts/procesar_biblia_strong.py",
+    "scripts/read_bblx.py",
+    "00_Diccionarios/Diccionario_Vine_NT",
+    "00_Diccionarios/Diccionario_Vine_AT"
+  ]
+}

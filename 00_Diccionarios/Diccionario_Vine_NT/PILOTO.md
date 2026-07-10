@@ -1,0 +1,12 @@
+---
+titulo: "PILOTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PILOTO"]
+---
+
+# PILOTO
+
+kubernetes (êõâåñíÞôçò, [[G2942]]), piloto o timonel de una nave, o, metafóricamente, conductor o jefe (relacionado con kubernao, conducir; el término castellano gobernar se deriva de este; cf. kubernesis, pilotaje, 1Co_12:28 : «los que administran»). Se traduce «piloto» en Hch_27:11 (rv, rvr); Apo_18:17 (rvr; rv: «patrón»).¶ En la lxx, Pro_23:34; Eze_27:8, Eze_27:27-28.¶ 
+
+

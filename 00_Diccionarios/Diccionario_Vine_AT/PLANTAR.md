@@ -1,0 +1,11 @@
+---
+titulo: "PLANTAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PLANTAR"]
+---
+
+# PLANTAR
+
+nata' (ðÈèÇò, [[H5193]]), «plantar». Este verbo se encuentra tanto en hebreo antiguo como moderno, y también en la antigua lengua de Ugarit. Aparece aproximadamente 60 veces en el Antiguo Testamento hebraico. La primera mención del vocablo está en Gén_2:8 : «Y Jehová Dios plantó un huerto en Edén». Nata', que se usa comúnmente en relación con «plantar» árboles y viñedos, se usa también en sentido figurado con la idea de «plantar» gente: «Yo te planté [Judá] como una vid escogida» (Jer_2:21 rva). Este uso es bastante paralelo a la famosa «canción del viñedo» (Isa_5:1-10), donde se dice de Israel y Judá que son «plantío delicioso» de Dios (Isa_5:7 lba ; «preferido» nbe). Nata' se usa en Isa_17:10 en una descripción poco usual de la idolatría: «Aunque siembras plantas deleitosas y plantas vides importadas [«de un dios extraño» lba ; Adonis, el dios de la vegetación]» (rva). A veces «plantar» tiene la acepción de «establecer», como por ejemplo en Amó_9:15 : «Pues los plantaré en su tierra». 
+

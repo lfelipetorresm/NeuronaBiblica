@@ -1,0 +1,13 @@
+---
+titulo: "RASGAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#RASGAR"]
+---
+
+# RASGAR
+
+qara' (÷ÈøÇò, [[H7167]]), «rasgar, desgarrar, despedazar, arrancar». Este vocablo es de uso común en hebreo antiguo y moderno. Hay 63 casos del término en el Antiguo Testamento, comenzando con Gén_37:29 : «Rasgó sus vestiduras». En la expresión «rasgar los vestidos (vestimentas)», qara' se usa 39 veces, por lo general en señal de luto (Gén_37:34; Gén_44:13; 2Sa_13:19).
+
+A veces el vocablo integra un acto simbólico, como cuando Ahías «rasgó» una vestimenta en doce pedazos que envió a las doce tribus para anunciar una inminente rebelión (1Re_11:30). Samuel usó qara' en sentido figurado cuando dijo a Saúl: «Jehovah ha rasgado hoy de ti el reino de Israel» (1Sa_15:28 rva). Los animales «desgarran» o «despedazan» su presa (Ose_13:8). 
+

@@ -1,0 +1,14 @@
+---
+titulo: "DIESTRA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DIESTRA"]
+---
+
+# DIESTRA
+
+1. queir (÷åßñ, [[G5495]]), mano (cf. términos tales como quiromasajista, etc.). Se traduce como «diestra» solo en Apo_1:16-17, al estar calificado el sustantivo queir con el adjetivo dexios (véase Nº 2). Véase MANO.
+
+2. dexios (äåîéüò, [[G1188]]), adjetivo. Se usa de la derecha, en oposición a la izquierda, y metafóricamente, de poder y autoridad, así como de un puesto de honor. Se traduce «diestra» en Mat_26:64; Mar_12:36; Mar_14:62; Mar_16:19; Luc_20:42; Luc_22:69; Hch_2:25, Hch_2:33; Hch_5:31; Hch_7:55-56; Rom_8:34; 2Co_6:7; Gál_2:9; Efe_1:20; Col_3:1; Heb_1:3, Heb_1:13; Heb_8:1; Heb_10:12; Heb_12:2; 1Pe_3:22; Apo_1:16-17, Apo_1:20; Apo_2:1. Véase DERECHO. 
+
+

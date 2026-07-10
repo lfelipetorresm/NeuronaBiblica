@@ -1,0 +1,19 @@
+---
+titulo: "TEMPLO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#TEMPLO"]
+---
+
+# TEMPLO
+
+hêkal (çÅéëÈì, [[H1964]]), «palacio; templo». Esta palabra se deriva indirectamente del término sumerio égal, «casa grande, palacio», y de manera más directa al acádico ekallu, «casa grande». La influencia del ekallu acádico se esparció entre el grupo noroeste de las lenguas semíticas. En hebreo posbíblico el significado quedó limitado a «templo». El Hekhal Shlomo («Templo de Salomón») en el Jerusalén moderno, a falta del verdadero templo, se refiere a la sede del rabinato supremo de Israel. El vocablo se encuentra 78 veces desde 1 Samuel hasta Malaquías y con mayor frecuencia en Ez. La primera vez que se usa tiene que ver con el tabernáculo en Silo (1Sa_1:9).
+
+La palabra «palacio» en las versiones en castellano se traduce quizás de tres palabras hebreas: hêkal, bayit, o 'armôn. También se encuentra en hebreo bíblico la acepción «palacio» del término sumero-acádico hêkal. Los 15 casos tienen que ver con los «palacios» de Acab (1Re_21:1), del rey de Babilonia (2Re_20:18) y de Nínive (Nah_2:6). Los «palacios» estaban lujosamente adornados y los que en ellos habitaban disfrutaban de cuanto placer se les antojara; cf: «En sus palacios aullarán las hienas, y los chacales en las lujosas mansiones. Su tiempo está cercano para llegar, y sus días no se prolongarán» (Isa_13:22 rva). El salmista compara las jóvenes bellas con las hermosas columnas de un suntuoso «templo»: «Sean nuestros como plantas crecidas en su juventud, nuestras hijas como esquinas labradas como las de un palacio» (Sal_144:12). Amós profetiza que «los cantos del palacio» (Amó_8:3 lba ; «cantores del templo rvr ») se convertirían en gemidos ante la destrucción del reino del norte.
+
+Por lo general, se puede distinguir la acepción «templo» al hallarse uno de dos indicadores a continuación de hêkal. La frase «de Jehová» después del término es el primer indicador. «Y cuando los albañiles del templo de Jehová echaban los cimientos, pusieron a los sacerdotes vestidos de sus ropas y con trompetas, y a levitas hijos de Asaf con címbalos, para que alabasen a Jehová, según ordenanza de David rey de Israel» (Esd_3:10). El segundo indicador es una forma del vocablo qodesh, «santo»: «Oh Dios, vinieron las naciones a tu heredad; han profanado tu santo templo; redujeron a Jerusalén a escombros» (Sal_79:1). En ciertos casos el artículo definido basta para señalar el «templo de Jerusalén»: «En el año que murió el rey Uzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas llenaban el templo» (Isa_6:1). Es este el caso particular cuando se trata de un pasaje sobre el «templo» (Ezequiel 41).
+
+El Antiguo Testamento habla también del hêkal celestial, el hêkal de Dios. Es difícil saber si se refiere a «palacio» o «templo». La mayoría de las versiones optan por la idea del «templo»: «Oíd, pueblos todos; está atenta, tierra, y cuanto hay en ti; y Jehová el Señor, el Señor desde su santo templo, sea testigo contra vosotros» (Miq_1:2; cf. Sal_5:7; Sal_11:4; Hab_2:20). «En mi angustia invoqué a Jehová, y clamé a mi Dios; él oyó mi voz desde su templo, y mi clamor llegó a sus oídos» (2Sa_22:7). Con todo, puesto que las Escrituras describen al trono real de juicio en el cielo, no es del todo imposible que los autores originales tuvieron en mente un «palacio» real. Las imágenes de «palacio» y de juicio parecieran estar como antecedente del Sal_11:4-5. «Jehová está en su santo templo; Jehová tiene en el cielo su trono; sus ojos ven, sus párpados examinan a los hijos de los hombres. Jehová prueba al justo; pero al malo y al que ama la violencia, su alma los aborrece».
+
+La Septuaginta usa los términos naos («templo») y oikos («casa; palacio; morada; familia»). 
+

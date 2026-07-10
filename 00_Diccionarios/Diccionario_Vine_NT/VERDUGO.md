@@ -1,0 +1,12 @@
+---
+titulo: "VERDUGO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#VERDUGO"]
+---
+
+# VERDUGO
+
+basanistes (âáóáíéóôÞò, [[G930]]), propiamente, torturador (relacionado con basanizo), véase ATORMENTAR, A, Nº 1, uno que consigue información mediante la aplicación de tormento. Se emplea de carceleros (Mat_18:34), traducido «verdugos» (rv, rvr, rvr77, vm, Besson, lba; nvi: «carceleros»).¶ 
+
+

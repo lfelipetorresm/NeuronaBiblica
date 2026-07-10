@@ -1,0 +1,23 @@
+---
+titulo: "ASAMBLEA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ASAMBLEA"]
+---
+
+# ASAMBLEA
+
+A. Nombre
+
+qahal (÷ÈäÈì, [[H6951]]), «asamblea; congregación». Cognados que se derivan de este nombre se encuentran en arameo y siríaco. Qahal aparece 123 veces en todos los períodos del hebreo de la Biblia.
+
+En muchos contextos, el vocablo significa una asamblea que se congrega para planificar o llevar a cabo un consejo de guerra. Uno de los primeros ejemplos se encuentra en Gén_49:6. En 1Re_12:3, «toda la congregación de Israel» pidió que Roboam aligerase la carga de impuestos que les había dejado Salomón. Cuando Roboam rehusó, se apartaron de él y rechazaron su alianza feudal (militar) con él. Qahal tiene la acepción de «ejército» en Eze_17:17 : «Y ni con gran ejército ni con mucha compañía hará Faraón nada por él en la batalla».
+
+A menudo, qahal sirve para denotar una reunión para juzgar o deliberar. Este énfasis aparece primero en Eze_23:45-47, donde la «tropa» (rv) o «asamblea» (bj) juzga y ejecuta el juicio. En muchos pasajes el vocablo significa una asamblea que representa a un grupo mayor: «Entonces David tomó consejo con los capitanes de millares y de centenas, y con todos los jefes. Y dijo David a toda la asamblea de Israel» (1Cr_13:1-2). Aquí «toda la asamblea» se refiere a los líderes reunidos (cf. 2Cr_1:2). Es así como en Lev_4:13 encontramos que el pecado de toda la congregación de Israel puede pasar inadvertido por la «asamblea» (los jueces o ancianos que representan a la congregación).
+
+A veces qahal representa todos los varones de Israel con derecho a ofrecer sacrificios al Señor: «No entrará a la congregación de Jehová el que tenga magullado los testículos, o amputado su miembro viril» (Deu_23:1). Los únicos con derecho a pertenecer a la asamblea eran varones que estaban ligados ritualmente bajo el pacto, que no eran ni extranjeros (residentes no permanentes), ni residentes permanentes no hebreos (Núm_15:15). En Núm_16:3, Núm_16:33 se pone de manifiesto que la «asamblea» consistía de una comunidad adorante y votante (cf. 18:4). En otros pasajes, el término qahal significa todo el pueblo de Israel. Toda la congregación de los hijos de Israel se quejaron de que Moisés los había llevado al desierto para matar de hambre a toda la asamblea (Éxo_16:3; «multitud» rv). La primera vez que se usa el vocablo tiene también un significado de un grupo grande: «Y el Dios omnipotente te bendiga, y te haga fructificar y te multiplique, hasta llegar a ser multitud [qahal] de pueblos» (Gén_28:3).
+
+B. Verbo
+
+qahal (÷ÇäÈì, [[H6950]]), «congregar». El verbo qahal, que aparece 39 veces, se deriva del nombre qahal. Al igual que el nombre, el término se usa en todos los períodos del hebreo bíblico. Significa «congregarse» como un qahal en situaciones de conflicto o guerra, con fines religiosos y para juicios: «Entonces Salomón reunió ante sí en Jerusalén los ancianos [qahal] de Israel» (1Re_8:1). 
+

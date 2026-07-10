@@ -1,0 +1,12 @@
+---
+titulo: "TREINTA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#TREINTA"]
+---
+
+# TREINTA
+
+triakonta (ôñéÜêïíôá, [[G5144]]), se traduce «treinta» en todos los pasajes en que aparece (Mat_13:8, Mat_13:23; Mat_26:15; Mat_27:3, Mat_27:9; Mar_4:8, Mar_4:20; Luc_3:23; Jua_5:5; Jua_6:19; Gál_3:17)¶ 
+
+

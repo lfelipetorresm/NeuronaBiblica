@@ -1,0 +1,23 @@
+---
+titulo: "NECESITADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#NECESITADO"]
+---
+
+# NECESITADO
+
+A. Nombre
+
+'ebyôn (àÆáÀéåéï, [[H34]]), «(persona) necesitada». Este vocablo solo se encuentra en ugarítico y etiópico. Se constatan unos 60 casos del término en todos los períodos del hebreo bíblico (33 solamente en Salmos).
+
+El nombre se refiere en primer lugar a una persona que está materialmente pobre. Puede ser que haya perdido la tierra de su heredad: «Pero el séptimo año la dejarás descansar, sin cultivar, para que coman los pobres de tu pueblo, y de lo que ellos dejen, coman las bestias del campo» (Éxo_23:11 lba). Tal vez le hayan sobrevenido tiempos difíciles (Job_30:25) y quizá le haga falta ropa (Job_31:19) o alimento (Sal_132:15).
+
+Segundo, 'ebyôn puede referirse a personas sin posición social y que, por tanto, necesitan protección. Este es el énfasis la primera vez que aparece el término. Dios garantiza su protección a los que se encuentran en una situación como esta: «No pervertirás el derecho del necesitado en su pleito» (Éxo_23:6). El justo defiende a los necesitados e indefensos: «Era un padre para los necesitados, e investigaba la causa que no conocía» (Job_19:26 rva ; cf. Pro_31:9; Rom_3:14-15). Encontramos previsiones divinas en la Ley Mosaica, tal como devolución de tierras hereditarias (Éxo_23:11), cancelación de deudas (Deu_15:4) y previsión de préstamos para los necesitados (Deu_15:7, Deu_15:9, Deu_15:11).
+
+Tercero, el nombre a veces describe la condición espiritual del hombre ante Dios: «Así dice el Señor: Por tres transgresiones de Israel, y por cuatro, no revocaré su castigo, porque venden al justo por dinero y al necesitado por un par de sandalias» (Amó_2:6 lba). En esta cita 'ebyôn es un paralelismo sinónimo de «justo» o describe una cualidad moral.
+
+B. Verbo
+
+'abah (àÈáÈä, [[H14]]), «acceder, aceptar, consentir». Este verbo, que aparece unas 52 veces y durante todas las épocas del hebreo bíblico, a veces se asocia con el nombre 'ebyôn, persona «necesitada». El mismo radical aparece en acádico («desear»), arábigo («rehusar»), arameo («querer») y egipcio («desear»). En Deu_13:8 (rva) el verbo significa «consentir»: «No le consientas ni le escuches». 
+

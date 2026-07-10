@@ -1,0 +1,12 @@
+---
+titulo: "ESTRICTAMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ESTRICTAMENTE"]
+---
+
+# ESTRICTAMENTE
+
+akribeia (ἀêñßâåéá, [[G195]]), exactitud, precisión; relacionado con akribes, exacto, cuidadoso; véase akriboo, inquirir cuidadosamente, y akribos, cuidadosamente. Aparece en Hch_22:3 : «estrictamente» (rv: «a la verdad»; lba: «estricta conformidad»; rvr77: «estrictamente conforme»).¶ 
+
+

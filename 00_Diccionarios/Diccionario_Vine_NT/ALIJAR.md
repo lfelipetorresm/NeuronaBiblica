@@ -1,0 +1,12 @@
+---
+titulo: "ALIJAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ALIJAR"]
+---
+
+# ALIJAR
+
+ekbole (ἐêâïëÞ, [[G1546]]), lit: echamiento (de ekballo, arrojar); denota arrojar mercancías al mar (Hch_27:18), lit: «hicieron un aligeramiento». La rvr lo vierte como «empezaron a alijar». La vm también lo vierte como «alijar».¶ 
+
+

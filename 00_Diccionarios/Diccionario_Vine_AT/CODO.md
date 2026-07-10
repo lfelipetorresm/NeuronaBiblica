@@ -1,0 +1,17 @@
+---
+titulo: "CODO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#CODO"]
+---
+
+# CODO
+
+'ammah (àÇîÌÈä, [[H520]]), «codo, medida lineal». El término tiene cognados en acádico, ugarítico y arameo. Se encuentra unas 245 veces en todos los períodos del hebreo bíblico, pero en particular en éxodo 25—27; 37—38 (las medidas del tabernáculo); 1 Reyes 6—7 (medidas del templo y palacio de Salomón); y Ezequiel 40—43 (medidas del templo de Ezequiel ).
+
+Hay un pasaje en que significa «pivote» (gozne): «Los quicios de las puertas se estremecieron con la voz del que clamaba» (Isa_6:4 rv-95).
+
+En casi todos los demás casos, el vocablo significa «codo», la unidad primaria de medida lineal en el Antiguo Testamento. Algunos estudiosos mantienen que el sistema israelita de medición lineal estaba fundamentalmente basado en el egipcio. Tomando en cuenta la historia de Israel, esta es una posición razonable. En términos generales, un «codo» era la distancia entre el codo (del brazo humano) hasta la punta del dedo del medio. Puesto que esta distancia variaba de individuo en individuo, el «codo» era una medida un tanto imprecisa. Sin embargo, la primera vez que aparece (Gén_6:15) tiene que ver con las medidas del arca de Noé, lo cual sugiere que el término se refiere a una medida más exacta que el «codo» común y corriente.
+
+En Egipto existía un «codo» oficial. Para ser exactos, había tanto un «codo» más corto (45 cm) como uno más largo (53 cm). La inscripción de Siloé declara que el acueducto de Siloé medía 1:200 codos. Si dividimos su longitud en metros (533,45) por esta medida, podemos deducir que ya para la época de Ezequías (cf. 2Cr_32:4) el «codo» medía aproximadamente 44, 5 cm, a saber el «codo» más corto. Ezequiel probablemente usó el «codo» babilónico en su descripción del templo. El «codo» egipcio más corto medía apenas unos 8 cm menos que el «codo» más largo, mientras que el «codo» babilónico corto medía más o menos 80% (el ancho de una mano) del «codo» real u oficial: «He aquí que por fuera y alrededor del templo había un muro. En la mano del hombre había una caña para medir, la cual tenía 6 codos (de un codo regular más un palmo menor)» (Eze_40:5 rva). En otras palabras, su anchura era siete palmos en lugar de seis. 
+

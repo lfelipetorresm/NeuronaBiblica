@@ -1,0 +1,20 @@
+---
+titulo: "CORDERO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CORDERO"]
+---
+
+# CORDERO
+
+1. aren (ἀñÞí, [[G704]]), nombre cuyo caso nominativo se halla solo en la época más antigua. Aparece en Luc_10:3. En su uso normal era sustituido por arnion (Nº 2), del que es el equivalente.¶
+
+2. arnion (ἀñíßïí, [[G721]]), es una forma diminutiva, pero no debe insistirse en la característica diminutiva (véase Nota bajo el Nº 3). La tendencia general en la lengua vernácula era la de usar libremente los nombres acabados en -ion, aparte de su significado diminutivo. Lo utiliza solo el apóstol Juan: (a) en plural, en el mandato del Señor a Pedro (Jua_21:15), con referencia simbólica a los convertidos recientes; (b) en otros pasajes, en singular, en Apocalipsis, unas 28 veces, de Cristo como el Cordero de Dios, teniendo el simbolismo referencia a su carácter y a su sacrificio vicario, como base tanto de la redención como de la venganza divina. él es visto en la posición de gloria y honor soberanos (p.ej.,Jua_7:17), que comparte en un plano de igualdad con el Padre (Jua_22:1, Jua_22:3), siendo el centro de los seres angélicos y de los redimidos, y el objeto de la adoración de ellos (p.ej.,Jua_5:6, Jua_5:8, Jua_5:12-13; Jua_15:3), el conductor y Pastor de sus santos (p.ej.,Jua_7:17; Jua_14:4); la cabeza de su desposada espiritual (p.ej.,Jua_21:9), la luminaria de la ciudad celestial y eterna (Jua_21:23), Aquel a quien ha sido entregado todo juicio (p.ej.,Jua_6:1, Jua_6:16; Jua_13:8), el conquistador de los enemigos de Dios y de su pueblo (Jua_17:14); el cántico que celebra el triunfo de aquellos que «habían alcanzado la victoria sobre la bestia y su imagen» es el cántico de Moisés, y … del Cordero (Jua_15:3). Su sacrificio, cuya eficacia está disponible para aquellos que aceptan la salvación que se provee mediante él, constituye la base de la ejecución de la ira divina para el que lo rechaza, y para el que desafía a Dios (Jua_14:10); (c) en la descripción de la segunda «bestia» (Apo_13:11), que se ve en la visión semejante «a un cordero», sugiriendo su capacidad de actuar en el papel de un falso Mesías, usurpando el papel del verdadero. Para su utilización en la lxx, véase Nota bajo el Nº 3.
+
+3. amnos (ἀìíüò, [[G286]]), cordero. Se usa figuradamente de Cristo (Jua_1:19, Jua_1:36), con el artículo, señalándole como el esperado, aquel que era bien conocido como el cumplimiento personal y la personificación de todo lo que se había indicado en el AT, aquel mediante cuyo sacrificio se iba a obtener liberación del juicio divino; en Hch_8:32 (de la lxx de Isa_53:7) y en 1Pe_1:19, la ausencia del artículo destaca la naturaleza y el carácter de su sacrificio como se establece en el simbolismo. La referencia es en cada caso al cordero que Dios provee (Gén_22:8), y al cordero pascual señalado por Dios para su sacrificio en Israel (p.ej., Éxo_12:5, Éxo_12:14, Éxo_12:27; cf. 1Co_5:7).¶
+
+Nota: El contraste entre arnion y amnos no recae en el carácter diminutivo del primero en comparación con el segundo. Como ya se ha señalado bajo el Nº 2, arnion perdió su fuerza de diminutivo. El contraste reside en la manera en que Cristo es presentado en los dos respectos. El uso de amnos señala directamente al hecho, a la naturaleza, y al carácter de su sacrificio; arnion (solo en Apocalipsis) le presenta, ciertamente, en el terreno de su sacrificio, pero en su majestad, dignidad, honor, autoridad y poder adquiridos.
+
+En la lxx, se usa arnion en el Sal_114:4, Sal_114:6; en Jer_11:19, con el adjetivo akakos, inocente; en Jer_27:45 : «corderos». No hay nada en estos pasajes que sugiera un contraste entre un cordero en el sentido general del término y su diminutivo; el contraste es entre corderos y ovejas. En otras secciones de la lxx amnos se usa en general alrededor de 100 veces en relación con los corderos para el sacrificio. 
+
+

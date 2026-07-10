@@ -1,0 +1,31 @@
+---
+titulo: "PERFECTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PERFECTO"]
+---
+
+# PERFECTO
+
+A. Adjetivos
+
+tamîm (úÌÈîÄéí, [[H8549]]), «perfecto; sin mácula; sincero; entero; total; completo; cabal; lleno». Los 91 casos del vocablo están esparcidos en toda la literatura bíblica; 51 de estos se encuentran en pasajes que tienen que ver con ofrendas cúlticas.
+
+Tamîm quiere decir «completo», o sea, el estado de estar entero o de ser total: «Y del sacrificio de las ofrendas de paz, traerá una ofrenda encendida al Señor: el sebo, la cola entera, que cortará cerca del espinazo» (Lev_3:9 lba). El sol se detuvo por «un día entero» cuando Josué peleaba con los gabaonitas (Jos_10:13). En Lev_23:15 Dios ordena siete sábados «completos» después de la fiesta de las primicias más cincuenta días, entonces se ofrecería la ofrenda de las primicias del grano. Cuando se vendía una casa ubicada dentro de una ciudad amurallada, la misma podía ser rescatada en el plazo de un año «completo», o de otra manera, esta pasaría a pertenecer en perpetuidad al nuevo dueño y a sus descendientes (Lev_25:30).
+
+El término puede significar «intacto» o «íntegro», no cortada en pedazos: «He aquí que cuando [la madera] estaba íntegra [«intacta» lba ; «entera» rvr] no servía para hacer ningún objeto» (Eze_15:5 rva).
+
+Tamîm puede significar incontestable o libre de objeciones. En Deu_32:4 el vocablo califica la obra de Dios: «él es la Roca, cuya obra es perfecta». El pueblo de Dios debe rehuir las prácticas idolátricas de los cananeos: «Perfecto serás delante de Jehová tu Dios» (Deu_18:13). Como calificativo de seres humanos, el término se refiere a quienes cumplen con todos los requisitos de la Ley de Dios (cf. Sal_18:23). El mismo vocablo califica (51 veces) a la víctima de un sacrificio ofrecido a Dios. Indica que el sacrificio sería «sin defecto» (Lev_22:18-21), dentro de los términos en que Dios define «defecto»: «Para que os sea aceptado será un macho sin defecto, ya sea toro, cordero o cabrito» (Lev_22:19 rva).
+
+En varios contextos la palabra tiene un antecedente más amplio. Sirve para describir actividades humanas externas y estados de ánimo internos que Dios no condena; «Noé, varón justo, era perfecto [«cabal» rva] en sus generaciones; con Dios caminó Noé» (Gén_6:9 rvr). Aquí el vocablo indica la totalidad de una relación con Dios. En Jue_9:16, refiriéndose tamîm a una relación entre seres humanos, evidentemente se está hablando de algo más que una simple actividad externa: «Ahora pues, si con verdad y con integridad habéis procedido en hacer rey a Abimelec». Esta extensión del matiz se puede percibir al comparar Génesis 17:1 con Romanos 4  donde Pablo argumenta que Abraham cumplió con las condiciones divinas, aunque lo hizo por fe.
+
+Otro adjetivo, tam, se encuentra 15 veces. Tiene un cognado en ugarítico y significa «completo o perfecto» (Cnt_5:2), «sano o saludable» (Gén_25:27) y «completo, inocente, íntegro» (Job_1:8).
+
+B. Nombre
+
+tom (úÌéí, [[H8537]]), «totalidad». Este nombre, que tiene 25 casos, significa «totalidad» con los siguientes matices: llenura (Job_21:23), inocencia o simplicidad (2Sa_15:11), integridad (Gén_20:5).
+
+C. Verbo
+
+tamam (úÌÈîÇí, [[H8552]]), «estar completo, terminado, sin mácula; ser consumado». El verbo, que se encuentra 64 veces, tiene cognados en arameo, siríaco y arábigo. El término significa «estar terminado o completo» en Gén_47:18 (rva): «Cuando se acabó aquel año, fueron a él». 
+

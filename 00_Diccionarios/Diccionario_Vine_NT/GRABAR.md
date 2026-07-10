@@ -1,0 +1,12 @@
+---
+titulo: "GRABAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#GRABAR"]
+---
+
+# GRABAR
+
+entupoo (ἐíôõðüù, [[G1795]]), grabar (en, en; tupos, marca, impronta, impresión, forma, tipo), se usa de grabar la ley en las dos tablas de piedra (2Co_3:7 : «grabado»).¶ En la lxx, Éxo_36:39 (algunos textos tienen ektupoo).¶ Véanse también ESCULTURA, MARCA. 
+
+

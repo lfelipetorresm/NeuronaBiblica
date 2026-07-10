@@ -1,0 +1,36 @@
+---
+titulo: "DIOS"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DIOS"]
+---
+
+# DIOS
+
+theos (èÝïò, [[G2316]]). (a) En el politeísmo de los griegos, denotaba a un dios o deidad (p.ej., Hch_14:11; Hch_19:26; Hch_28:6; 1Co_8:5; Gál_4:8).
+
+(b) (1) De ahí, la palabra fue tomada por los judíos y retenida por los cristianos para denotar al Dios único y verdadero. En la lxx theos traduce, con pocas excepciones, a las palabras hebreas Elohim y Jehová, indicando la primera su poder y preeminencia, y la segunda su existencia inoriginada, inmutable, eterna y autosustentante.
+
+En el NT se afirman estos y todos los otros atributos divinos. A él se ascriben, p.ej., su unidad o monismo (p.ej., Mar_12:29; 1Ti_2:5); existencia propia no originada (Jua_5:26); inmutabilidad (Stg_1:17); eternidad (Rom_1:20); universalidad (Mat_10:29; Hch_17:26-28); poder infinito (Mat_19:26); conocimiento infinito (Hch_2:23; Hch_15:18; Rom_11:33); poder creador (Rom_11:36; 1Co_8:6; Efe_3:9; Apo_4:11; Apo_10:6); santidad absoluta (1Pe_1:15; 1Jn_1:5); justicia (Jua_17:25); fidelidad (1Co_1:9; 1Co_10:13; 1Ts_5:24; 2Ts_3:3; 1Jn_1:9); amor ( 1Jn_4:8, 1Jn_4:16); misericordia (Rom_9:15, Rom_9:18); veracidad (Tit_1:2; Heb_6:18). Véase BUENO, C, Nº 2 (b) .
+
+(2) También se afirman o indican los atributos divinos de Cristo de una manera patente (p.ej., Mat_20:18-19; Jua_1:1-3; Jua_1:18; Jua_5:22-29; Jua_8:58; Jua_14:6; Jua_17:22-24; Jua_20:28; Rom_1:4; Rom_9:5; Fil_3:21; Col_1:15; Col_2:3; Tit_2:13; Heb_1:3; Heb_13:8; 1Jn_5:20; Apo_22:12-13).
+
+(3) También del Espíritu Santo (p.ej., Mat_28:19; Luc_1:35; Jua_14:16; Jua_15:26; Jua_16:7; Rom_8:9, Rom_8:26; 1Co_12:11; 2Co_13:14).
+
+(4) Theos se usa: (a) con el artículo definido; (b) sin él. «La lengua castellana puede tener necesidad o no del artículo en la traducción. Pero esto no es así en la lengua griega. Así, en Hch_27:23 («el Dios de quien yo soy», lit.), el artículo señala al Dios especial al que Pablo pertenece, y tiene que ser preservado en castellano. En el versículo que sigue de inmediato a este (jo theos) no precisamos de este artículo en castellano» (adaptado de A. T. Robertson, Grammar of Greek, N.T., p. 758).
+
+En cuanto a esto último, es usual emplear el artículo con un nombre propio, cuando se menciona por segunda vez. Hay, naturalmente, excepciones a ello, como cuando la ausencia del artículo sirve para acentuar o para precisar, el carácter o la naturaleza de lo que se expresa en el nombre. Un caso notable de ello se halla en Jua_1:1, «y el Verbo era Dios»; habiendo aquí un doble énfasis sobre theos, por la ausencia del artículo y por la posición enfática en la estructura de la oración. Traducirlo literalmente como «un dios era el Verbo» es totalmente engañoso. Además, el hecho de que «el Verbo» es el sujeto de la oración ejemplifica la norma de que el sujeto debe ser determinado por su posesión de artículo cuando el predicado carece de él. En Rom_7:22, en la frase «la ley de Dios», ambos nombres tienen el artículo; en el v. 25, ninguno de ellos lo tiene. Esto está de acuerdo con una norma general de que si hay dos nombres unidos por el caso genitivo (el caso posesivo, «de»), o bien ambos nombres poseen el artículo, o ambos carecen de él. Aquí, en el primer caso, ambos nombres, «Dios» y «la ley», son definidos, en tanto que en el v. 25 la palabra «Dios» no es simplemente titular, destacando la ausencia del artículo su carácter de dador de la Ley.
+
+Allí donde se aplican dos o más calificativos a la misma persona o cosa, por lo general un artículo sirve para los dos (siendo la excepción cuando un segundo artículo destaca diferentes aspectos de la misma persona o sujeto; p.ej., Apo_1:17). En Tit_2:13 se traduce correctamente «gran Dios y Salvador Jesucristo». Moulton (Prol ., p. 84) muestra, a base de escritos en papiros de la temprana era cristiana, que entre los cristianos de habla helénica esta era una «fórmula corriente» aplicada a Cristo. Igualmente sucede en 2Pe_1:1 (cf. 1:11; 3:18).
+
+En los siguientes títulos Dios es descrito por ciertos de sus atributos; el Dios de gloria (Hch_7:2); de paz (Rom_15:33; Rom_16:20; Fil_4:9; 1Ts_5:23; Heb_13:20); de amor y paz (2Co_13:11); de paciencia y consolación (Rom_15:5); de toda consolación (2Co_1:3); de esperanza (Rom_15:13); de toda gracia (1Pe_5:10). Estos le describen, no en distinción de otras personas, sino como la fuente de todas estas bendiciones; de ahí el empleo del artículo determinado. En frases como «el Dios de una persona» (p.ej., Mat_22:32), la expresión marca la relación que aquella persona tiene con Dios, y Dios con él.
+
+(5) En los siguientes pasajes se usa el caso nominativo en lugar del vocativo, y siempre con el artículo: Mar_15:34; Luc_18:11, Luc_18:13; Jua_20:28; Hch_4:24 en algunos mss.; Heb_1:8; Heb_10:7.
+
+(5) La frase «las cosas de Dios», traducida literalmente, o de otras maneras, se usa: (a) de sus intereses (Mat_16:23; Mar_8:33); (b) de sus consejos (1Co_2:11); (c) de cosas que le son debidas (Mat_22:21; Mar_12:17; Luc_20:25). La frase «lo que a Dios se refiere» (Rom_15:17; Heb_2:17; Heb_5:1), describe, en los pasajes en Hebreos el servicio sacrificial del sacerdote; en el pasaje en Ro, el ministerio del evangelio como ofrenda a Dios.
+
+(c) Esta palabra se usa de los jueces divinamente designados en Israel, como representantes de la autoridad de Dios (Jua_10:34, citado del Sal_82:6), lo cual indica que el mismo Dios juzga a aquellos a los que él ha designado. La aplicación de este término al diablo (2Co_4:4), y al vientre (Fil_3:19), sitúa a estos pasajes bajo (a) .
+
+Notas: (1) Daimonion, demonio (véase DEMONIO, A, Nº 2) se traduce «dioses», en el plural, en Hch_17:18; (2) filotheos, amador de Dios (2Ti_3:4);¶ véase AMADOR; (3) theodidaktos, enseñado de Dios (theos, Dios, y didaktos, enseñado), aparece en 1Ts_4:9, lit: «de Dios enseñados», y se traduce «aprendido de Dios»; en tanto que los misioneros habían enseñado a los convertidos a que se amaran unos a otros, era el mismo Dios quien había sido el maestro de ellos. Cf. Jua_6:45; véase APRENDER;¶ (4) el verbo theomaqueo aparece en algunos mss. en Hch_23:9, de resistir a Dios: «no resistamos a Dios»; véase la Nota que sigue; (5) theomacos, adjetivo que lit. significa «luchadores contra Dios» (theos, Dios, y maque, lucha), aparece en Hch_5:39; véase LUCHAR¶; (6) theopneustos, inspirado por Dios (theos, Dios, pneo, respirar); se usa en 2Ti_3:16, de las Escrituras, distinguiéndolas de los escritos no inspirados. La Biblia de Reina (1569) dice «Toda Escritura inspirada», y da la nota al margen: «Dada por Espíritu de Dios»; en la rvr77 se da la nota aclaratoria: «Lit., dada por el aliento de Dios»;¶ (7) theosebes denota «reverenciador de Dios» (theos, Dios; sebomai, véase ADORAR, A, Nº 3), y se traduce «temeroso de Dios» en Jua_9:31 (vm: «teme a Dios»);¶ (cf. teosebeia, piedad (1Ti_2:10);¶ (8) theostuges, (de theos, Dios, y stugeo, aborrecer, que no se halla en el NT, aunque sí su adjetivo derivado, stugetos ; véase ABORRECER, C), se usa en Rom_1:30 : «aborrecedores de Dios» (rv, rvr, rvr77); véase ABORRECER, B, etc. 
+
+

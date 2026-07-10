@@ -1,0 +1,12 @@
+---
+titulo: "IMPORTUNIDAD"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#IMPORTUNIDAD"]
+---
+
+# IMPORTUNIDAD
+
+anaidia (o anaideia) (ἀíáéäßá, [[G335]]), denota desvergüenza, importunidad (a, negativo; n, eufónico; y aidos, vergüenza, modestia). Se usa en la ilustración dada por el Señor con respecto a la necesidad de intensidad y perseverancia en la oración (Luc_11:8). Si la desvergonzada persistencia puede conseguir un favor de un vecino, con toda certeza la oración ferviente recibirá respuesta de nuestro Padre.¶ 
+
+

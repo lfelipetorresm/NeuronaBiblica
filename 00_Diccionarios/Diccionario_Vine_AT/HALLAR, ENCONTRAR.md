@@ -1,0 +1,21 @@
+---
+titulo: "HALLAR, ENCONTRAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#HALLAR,ENCONTRAR"]
+---
+
+# HALLAR, ENCONTRAR
+
+matsa' (îÈöÈà, [[H4672]]), «hallar, encontrar, encontrarse, conseguir». Este vocablo se encuentra en todas las ramas de las lenguas semíticas (incluyendo arameo bíblico) y durante todos los períodos. Se ha constatado en hebreo bíblico (unas 455 veces) y posbíblico.
+
+Matsa' tiene que ver con «hallar» a un sujeto u objeto que se ha perdido o extraviado, o bien «encontrar» el lugar en que está. La búsqueda puede ser intencional y hallarse o no lo que se busca, como en el caso de los sodomitas que, intentando «encontrar» la puerta de la casa de Lot, fueron cegados por los visitantes (Gén_19:11). En un uso muy parecido, la paloma que soltó Noé buscó donde posarse y no «encontró» (Gén_8:9). En otras circunstancias, se puede «hallar» a algo o a alguien sin haberse propuesto hacerlo, como lo expresa Caín cuando dice: «Cualquiera que me hallare, me matará» (Gén_4:14).
+
+Matsa' no solo puede indicar «hallar» concretamente a un sujeto u objeto, sino también «encontrar» en un sentido abstracto. Esta idea queda bien clara en Gén_6:8 : «Noé halló gracia en los ojos de Jehová». O sea, halló («recibió») algo que no buscaba. La misma idea puede usarse en razón de «hallar» algo que uno busca en un sentido espiritual o mental: «Si me alegré de que mis riquezas se multiplicasen, y de que mi mano hallase mucho» (Job_31:25). Labán dice a Jacob: «Si ahora he hallado gracia ante tus ojos, [quédate conmigo]» (Gén_30:27 lba). El favor que Labán pide de Jacob es en sentido abstracto.
+
+Matsa' puede también tener la acepción de «descubrir». Dios dijo a Abraham: «Si hallo en Sodoma cincuenta justos dentro de la ciudad, perdonaré todo el lugar en consideración a ellos» (Gén_18:26 rva). Esta misma acepción aparece la primera vez que se usa el término: «Pero para Adán no halló ayuda que le fuera idónea» (Gén_2:20). Como se mencionó anteriormente, el uso puede indicar un descubrimiento no intencional, como cuando los israelitas «hallaron» («descubrieron») a un hombre que recogía leña en sábado (Núm_15:32). Otro matiz particular es «descubrir información». Por ejemplo, los hermanos de José dijeron: «Dios ha hallado la maldad de tus siervos» (Gén_44:16; «descubierto» rva).
+
+A veces, matsa' sugiere «estar bajo el poder» de algo o alguien en un sentido concreto: David dijo a Abisai: «Toma a los siervos de tu señor y persíguelo, no sea que halle para sí ciudades fortificadas y se nos escape» (2Sa_20:6 lba). O sea, Seba «hallaría» ciudades fortificadas, entraría en ellas y se defendería. Por lo que «hallar», en este caso, podría significar «apoderarse». El mismo uso se encuentra también en sentido abstracto. Judá dice a José: «¿Cómo volveré yo a mi padre si el muchacho no está conmigo? ¡No podré, para no ver la desgracia que sobrevendrá [matsa' ] a mi padre!» (Gén_44:34 rva). Por tanto, matsa' puede significar no solo «hallar», sino «conseguir» para uno mismo: «Isaac sembró en aquella tierra, y aquel año obtuvo» (Gén_26:12 rva ; «halló» rv).
+
+Con menor frecuencia el término implica movimiento en alguna dirección hasta llegar a un destino. Está relacionado así con la raíz ugarítica que significa «alcanzar» o «llegar» (mts'). Encontramos esta acepción en Job_11:7 : «¿Alcanzarás tú las cosas profundas de Dios?» (rva ; «descubrirás» lba ; cf. 1Sa_23:17). Con un matiz un tanto diferente, este mismo significado aparece en Núm_11:22 : «¿Se degollarán para ellos ovejas y bueyes que les basten?» («ser suficiente» rva, lba). 
+

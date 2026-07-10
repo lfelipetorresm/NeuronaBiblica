@@ -1,0 +1,16 @@
+---
+titulo: "YO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#YO"]
+---
+
+# YO
+
+ego (ἐãþ, [[G1473]]), caso nominativo del pronombre personal de la primera persona. Sin embargo, generalmente no se emplea en griego como tampoco en castellano, estando implicado en la desinencia verbal; así, luo significa «desato». Cuando el pronombre ego se añade al verbo, es casi invariablemente, por no decir que siempre, enfático. El énfasis puede no ser demasiado evidente en algunos casos, como p. ej., Mat_10:16, pero incluso ahí puede ser tomado en el sentido de que hay algo más de énfasis que si se omitiera el pronombre. Con mucho, el mayor número de los casos se encuentra en el Evangelio de Juan, y ello en declaraciones del Señor acerca de sí mismo (p. ej. 4:14,26, 32,38; 5:34,36,43,45; 6:35,40,41,48,51, dos veces, 63,70). Ejemplos en las Epístolas son Rom_7:9, Rom_7:14, Rom_7:17, Rom_7:20, dos veces, 24,25. Hay más en este capítulo que en cualquier otro fuera del Evangelio de Juan.
+
+ En otros casos del pronombre aparte del nominativo, es por lo general más necesario para expresar el sentido, aparte de cualquier énfasis.
+
+Notas: (1) Kago (esto es, kai ego) significa «aun yo» o «también yo» (p. ej., Mat_2:8; Mat_10:32-33); se traduce «y yo» en pasajes como Mat_11:28; Luc_2:48, etc. (2) Para jemautou, traducido «como yo» en 1Co_7:7, véase, Nº 2, y también ME, MISMO, PROPIO. 
+
+

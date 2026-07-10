@@ -1,0 +1,66 @@
+---
+titulo: "CONOCER, CONOCIMIENTO, CONOCIDO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CONOCER,CONOCIMIENTO,CONOCIDO"]
+---
+
+# CONOCER, CONOCIMIENTO, CONOCIDO
+
+A. Verbos
+
+1. ginosko (ãéíþóêù, [[G1097]]), significa estar tomando en conocimiento, venir a saber, reconocer, entender, o entender totalmente (p.ej., Mar_13:28-29; Jua_13:12; Jua_15:18; Jua_21:17; 2Co_8:9; Heb_10:34; 1Jn_2:5; 1Jn_4:2, 1Jn_4:6, dos veces, 7,13; 1Jn_5:2, 1Jn_5:20); en sus tiempos pretéritos significa con frecuencia saber o conocer en el sentido de entender, de darse cuenta, y el tiempo aoristo o puntual indica, generalmente, determinación, precisión (Mat_13:11; Mar_7:24; Jua_7:26; en 10:38 «para que conozcáis», tiempo aoristo, «y entendáis» tiempo presente; 19:4; Hch_1:7; Hch_17:19; Rom_1:21; 1Co_2:11 b,14; 2Co_2:4; Efe_3:19; Efe_6:22; Fil_2:19; Fil_3:10; 1Ts_3:5; 2Ti_2:19; Stg_2:20; 1Jn_2:13-14 (dos veces); 1Jn_3:6; 1Jn_4:8; 2Jn_1:1; Apo_2:24; Apo_3:3, Apo_3:9). En la voz pasiva, significa con frecuencia venir a conocer (p.ej., Mat_10:26; Fil_4:5). En el sentido de un entendimiento completo y absoluto de parte de Dios, se usa del Hijo así como del Padre (p.ej., Luc_16:15; Jua_10:15; 1Co_3:20). En Luc_12:46 : «que no sabe».
+
+En el NT, ginosko indica frecuentemente una relación entre la persona que conoce y el objeto conocido; a este respecto, lo que es conocido es de valor e importancia para aquel que conoce, y de ahí el establecimiento de la relación, p.ej., especialmente del conocimiento de Dios (1Co_8:3 : «si alguno ama a Dios, es conocido por él»); Gál_4:9 : «siendo conocidos de Dios»; aquí el conocer sugiere aprobación y tiene el significado de «ser aprobado»; lo mismo en 2Ti_2:19; cf. Jua_10:14, Jua_10:27; Gén_18:19; Nah_1:7; la relación implicada puede involucrar disciplina correctora (Amó_3:2). La misma idea de aprec io así como de conocimiento subyace a las varias afirmaciones con respecto al conocimiento de Dios y su verdad por parte de los creyentes (p.ej., Jua_8:32; Jua_14:20, Jua_14:31; Jua_17:3; Gál_4:9 a; 1Jn_2:3, 1Jn_2:13-14; 1Jn_4:6, 1Jn_4:8, 1Jn_4:16; 1Jn_5:20); tal conocimiento se obtiene no por una mera actividad intelectual, sino por la operación del Espíritu Santo como consecuencia de haber recibido a Cristo. Ni tampoco está este conocimiento marcado por su finalidad (véase, p.ej., 2Pe_3:18; Ose_6:3).
+
+Este verbo se usa para expresar el pensamiento de relación o unión, como entre hombre y mujer (Mat_1:25; Luc_1:34).
+
+Véanse también CERCIORAR, ENTENDER, INFORMAR, LLEGAR, NOTAR, RECONOCER, SABER, SENTIR.
+
+2. oida (ïἴäá, [[G1492]]), de la misma razón que eidon, véase, es un tiempo perfecto con un significado presente. Significa, primariamente, haber visto o percibido; de ahí, conocer, tener conocimiento de, ya bien absolutamente, como en el caso del conocimiento divino (p.ej., Mat_6:8, Mat_6:32; Jua_6:6, Jua_6:64; Jua_8:14; Jua_11:42; Jua_13:11; Jua_18:4; 2Co_11:31; 2Pe_2:9; Apo_2:2, Apo_2:9, Apo_2:13, Apo_2:19; Apo_3:1, Apo_3:8, Apo_3:15); o en el caso de conocimiento humano, conocer por observación (p.ej., 1Ts_1:4-5; 1Ts_2:1; 2Ts_3:7).
+
+Las diferencias entre ginosko (Nº 1) y oida exigen consideración: (a) ginosk sugiere frecuentemente origen o progreso en conocimiento, en tanto que oida sugiere plenitud de conocimiento (p.ej., Jua_8:55 : «vosotros no le conocéis», ginosko), esto es, empezado a conocer, «pero yo le conozco», oida ; esto es, «le conozco perfectamente»; Jua_13:7 : «no lo comprendes ahora», esto es, Pedro no percibía, oida, aún su significado, «mas lo entenderás», esto es, «vendrás a conocer, ginosko, después»; Jua_14:7 : «Si me conociéseis», ginosko, esto es, «hubierais venido a conocerme de una manera precisa», «también a mi Padre conoceríais», oida, esto es, hubierais tenido percepción de él»; «desde ahora le conocéis», ginosko, esto es, habiendo venido inconscientemente al Padre, como aquel que estaba en él, ellos estarían ahora conscientemente en la experiencia constante y progresiva de conocerle a él; en Mar_4:13 : «¿No sabéis, oida, esta parábola? ¿Cómo, pues, entenderéis, ginosko, todas las parábolas?», esto es, «¿no entendéis esta parábola? ¿Cómo vendréis a percibir todas?», siendo la intimación que la primera parábola es la principal y la clave de las demás; (b) en tanto que ginosko implica frecuentemente una relación activa entre el que conoce y la persona o cosa conocida (véase Nº 1), oida expresa el hecho de que el objeto ha venido simplemente a estar dentro del campo de las percepciones del que conoce; así en Mat_7:23 : «nunca os conocí», ginosko sugiere, «nunca he estado en una relación de aprobación hacia vosotros», en tanto que 25:12: «no os conozco», oida, sugiere «no tenéis relación alguna conmigo».
+
+Véanse también ENTENDER, PERCIBIR, SABER.
+
+3. epiginosko (ἐðéãéíþóêù, [[G1921]]), denota: (a) observar, percibir plenamente, fijarse atentamente, discernir, reconocer (epi, sobre, y Nº 1). Sugiere por lo general un reconocimiento directivo, más especial del objeto conocido que el Nº 1; puede también sugerir un conocimiento avanzado o un aprecio especial; así, en Rom_1:32 : «habiendo entendido el juicio de Dios», epiginosko, significa «sabiendo perfectamente», en tanto que en el v. 21, «habiendo conocido a Dios», ginosko, sugiere que no podían evitar la percepción. Algunas veces epiginosko implica una participación especial en el objeto conocido, y da un mayor peso a lo que se afirma; así en Jua_8:32 : «y conoceréis la verdad», se usa ginosko ; en tanto que en 1Ti_4:3 : «los creyentes y los que han conocido la verdad», epiginosko pone el acento en la participación en la verdad. Cf. la afirmación más intensa en Col_1:6 (epiginosko) con la de 2Co_8:9 (ginosko), y los dos verbos en 1Co_13:12 : «ahora conozco en parte, ginosko ; pero entonces conoceré, epiginosko, como fui conocido, epiginosko »; un conocimiento «que une perfectamente al sujeto con el objeto»; (b) descubrir, cerciorarse, determinar (p.ej., Luc_7:37; Luc_23:7; Hch_9:30; Hch_19:34; Hch_22:29; Hch_28:1); en Hch_24:11 los mss. más acreditados tienen este verbo en lugar del Nº 1; de ahí la traducción en la rvr: «cerciorarte». J. Armitage Robinson (sobre Efesios) señala que epignosis es «un conocimiento dirigido hacia un objeto particular, percibiendo, discerniendo», en tanto que gnosis es conocimiento en abstracto. Véanse BIEN ( CONOCER ), CERCIORAR, COMPRENDER, ENTENDER, INFORMAR, RECONOCER, SABER.
+
+4. proginosko (ðñïãéíþóêù, [[G4267]]), conocer de antemano. Se usa: (a) del previo conocimiento divino de los creyentes (Rom_8:29); de Israel (Rom_11:2); de Cristo como el Cordero de Dios (1Pe_1:20 : «ya destinado», rvr77: «ya provisto»); (b) de un conocimiento previo humano, de una persona (Hch_26:5 : «saben», rv: «tienen ya conocido»); de hechos (2Pe_3:17 : «sabiéndolo de antemano», rv: «estáis amonestados»). Véanse ANTEMANO, ANTES, DESTINAR, SABER.¶
+
+5. epistamai (ἐðßóôáìáé, [[G1987]]), conocer, saber, entender; probablemente voz media arcaica de efistemi, establecer sobre. Se usa en Mar_14:68 : «sé», que sigue a oida, no le conozco; con mayor frecuencia en Hechos (Hch_10:18; Hch_15:7; Hch_18:25; Hch_19:15, Hch_19:25; Hch_20:18; Hch_22:19; Hch_24:10; Hch_26:26) y otros pasajes (1Ti_6:4; Heb_11:8; Stg_4:14; Jud_1:10). En la mayor parte de los casos se traduce con el verbo «saber»; con el verbo «conocer» se traduce en Hch_18:25 y Jud_1:10 : Véase SABER.¶
+
+6. agnoeo (ἀãíïÝù, [[G50]]), no conocer, sin conocer, ignorar; véase IGNORAR.
+
+7. gnorizo (ãíùñßæù, [[G1107]]), significa: (a) venir a saber, descubrir, conocer (Fil_1:22 : «no sé», esto es, lit., «no vengo en saber»); (b) dar a conocer, bien: (1) comunicando cosas antes desconocidas (Luc_2:15, Luc_2:17; en el último pasaje algunos mss. tienen el verbo diagnorizo, de ahí la traducción «hicieron notorio» de la rv; Jua_15:15 : «he dado a conocer»; Jua_17:26; Hch_2:28; Hch_7:13 a, véase Nº 8; Rom_9:22-23; Rom_16:26, voz pasiva; 2Co_8:1 : «os hacemos saber»; Efe_1:9; Efe_3:3, Efe_3:5, Efe_3:10, estos tres en voz pasiva; Efe_6:19, Efe_6:21; Col_1:27 : «dar a conocer»; Col_4:7, Col_4:9 : «harán saber»; 2Pe_1:16 : «os hemos dado a conocer»; o (2) reafirmando cosas ya sabidas (1Co_12:3 : «os hago saber»; el apóstol les reafirma lo que ellos ya sabían); 1Co_15:1 : del evangelio; Gál_1:11, les recuerda lo que bien sabían, la base de su afirmación de apostolado; Fil_4:6. voz pasiva, de peticiones a Dios. Véanse DAR A CONOCER, DECLARAR, MANIFESTAR, NOTORIO, SABER.¶
+
+8. anagnorizo (ἀíáãíùñßæù, [[G319]]), se halla en algunos mss. (tr) en Hch_7:13 en lugar del Nº 7. Véase DAR A CONOCER.¶
+
+9. diaginosko (äéáãéíþóêù, [[G1231]]), además de su significado de indagar cuidadosamente (Hch_23:15), también se usa de resolver, de controversias (Hch_19:39 : «acabaré de conocer», rv, rvr; rvr77: «decidiré»). Véase INDAGAR.¶
+
+10. exegemai (ἐîçãÝïìáé, [[G1834]]), lit., conducir afuera. Significa dar a conocer, contar, declarar (Luc_24:35 : «contaban»; Hch_10:8 : «después de haberles contado»; Hch_15:12 : «contaban»; Hch_15:14: «ha contado»; Hch_21:19 : «contó»). En Jua_1:18, en la oración «él le ha dado a conocer» (rv: «él le declaró»), se usa el otro significado de este verbo: desarrollar en enseñanza, declarar dando a conocer. Véanse CONTAR, DAR A CONOCER.¶
+
+11. laleo (ëáëÝù, [[G2980]]), hablar. Se traduce «dar a conocer» en Col_4:3 (rv, vm: «hablar»; la rvr77 sigue aquí a la rvr).
+
+Notas: (1) Gnostes, uno que conoce (relacionado con ginosko, conocer; véase Nº 1), denota a uno que es experto, un conocedor (Hch_26:3), y se traduce «tú conoces», lit., «siendo conocedor».¶ Cf. con gnostos, conocido; nota siguiente. (2) Gnostos se traduce con el verbo «conocer» en Hch_15:18 : «que hace conocer»; lit., «que hace estas cosas, conocidas desde tiempos antiguos». Véase C, Nº 1. (3) Kardiognostes significa un conocedor de corazones (kardia, corazón, y ginosko, conocer). Se traduce «que conoces los corazones» (Hch_1:24), y «que conoce los corazones» (Hch_15:8), referido en ambos casos a Dios. Véase .¶
+
+B. Nombres
+
+1. gnosis (ãíþóéò, [[G1108]]), primariamente buscar saber, búsqueda, investigación (relacionado con A, Nº 1). En el NT denota conocimiento, especialmente de la verdad espiritual. Se usa: (a) en sentido absoluto (Luc_11:52; Rom_2:20; Rom_15:14; 1Co_1:5; 1Co_8:1, dos veces, 7,10,11; 1Co_13:2, 1Co_13:8; 1Co_14:6; 2Co_6:6; 2Co_8:7; 2Co_11:6; Efe_3:19; Col_2:3; 1Pe_3:7; 2Pe_1:5-6); (b) con un objeto, con respecto: (1) a Dios (2Co_2:14; 2Co_10:5); (2) la gloria de Dios (2Co_4:6); (3) a Cristo Jesús (Fil_3:8; 2Pe_3:18); (4) salvación (Luc_1:77); (c) subjetivamente, del conocimiento de Dios (Rom_11:33); de la palabra de conocimiento (1Co_12:8); de la falsamente llamada ciencia (1Ti_6:20). Véase CIENCIA.¶
+
+2. epignosi (ἐðéãíþóéò, [[G1922]]), relacionado con A, Nº 3, denota un conocimiento total, discernimiento, reconocimiento. Es forma intensificada del Nº 1, expresando un conocimiento más pleno, o un conocimiento pleno, una mayor participación por parte del conocedor en el objeto conocido, influenciándole más poderosamente. No se halla en los Evangelios ni en los Hechos. Pablo lo usa 15 veces (16 si se incluye Heb_10:26) de las 20 veces que aparece en el NT; Pedro lo usa 4 veces, todas ellas en su segunda epístola. Contrastar Rom_1:28 (epignosis) con el verbo simple en el v. 21. «En las cuatro epístolas del primer cautiverio en Roma constituye un componente de la oración introductoria por el biene star de sus destinatarios (Fil_1:9; Efe_1:17; Col_1:9; Flm_1:6)» (Lightfoot).
+
+Se utiliza con referencia a Dios en Rom_1:28; Rom_10:2; Efe_1:17; Col_1:10; 2Pe_1:3; Dios y Cristo (2Pe_1:2); Cristo (Efe_4:13; 2Pe_1:8; 2Pe_2:20); la voluntad del Señor (Col_1:9); toda cosa buena (Flm_1:6); la verdad (1Ti_2:4; 2Ti_2:25; 2Ti_3:7; Tit_1:1); el misterio de Dios (Col_2:2 : «a fin de conocer el misterio», lit., «a un pleno conocimiento»). Se usa sin mención de un objeto en Fil_1:9; Col_3:10 : «renovando hasta el conocimiento plenoª. Véase CIENCIA.¶
+
+3. agnosia (ἀãíþóéá, [[G56]]), negativo del Nº 1, no conocimiento; véanse IGNORAR, IGNORANCIA.
+
+4. aisthesis (áἴóèçóéò, [[G144]]), percepción, discernimiento. Se traduce «conocimiento» en Fil_1:9 (rvr77: «discernimiento»).¶
+
+5. diagnosis (äéÜãíùóéò, [[G1233]]), cf. la transliteración castellana «diagnosis». Denota principalmente discriminación (dia, aparte; ginosko, conocer); de ahí, una decisión judicial, que es su significado en Hch_25:21 : «para el conocimiento de Augusto» (rvr77: «para la decisión del Augusto»).¶
+
+C. Adjetivos
+
+1. gnostos (ãíþóôïò, [[G1110]]), forma tardía de gnotos (de A, Nº 1; cf. con el término castellano «ignoto», desconocido). Significa con mucha frecuencia «conocido»; se usa en diez ocasiones en el libro de los Hechos, traducido varias veces «notorio»; dos veces en el Evangelio de Juan (Hch_18:15-16; Luc_2:44 y 23:49), donde denota personas conocidas; finalmente, en Rom_1:19 : «lo que de Dios se conoce», lit., lo conocible de Dios», refiriéndose al universo físico, en la creación del cual Dios se ha hecho conocer; esto es, por el ejercicio de las facultades naturales del hombre, sin revelaciones sobrenaturales como las dadas a Israel. Véase NOTORIO.¶
+
+2. agnostos (ἀãíþóôïò, [[G57]]), «desconocido», negación del Nº 1. Se halla en Hch_17:23.¶ 
+
+

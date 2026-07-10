@@ -1,0 +1,24 @@
+---
+titulo: "AMÉN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AMÉN"]
+---
+
+# AMÉN
+
+amen (ἀìÞí, [[G281]]), es transliteración desde el hebreo al griego y al castellano. «Sus significados pueden verse en pasajes tales como Deu_7:9 : «Dios fiel amen »; Isa_49:7 : «Porque fiel es el Santo de Israel»; Isa_65:16 : «el Dios de verdad». Y si Dios es fiel sus testimonios y preceptos son «fieles amen » (Sal_19:7; Sal_11:7), como también lo son sus advertencias (Ose_5:9), y sus promesas (Isa_33:16; Isa_55:3). «Amén» se usa también de hombres (p.ej., Pro_25:13).
+
+»Hay casos en los que el pueblo usaba esta palabra para expresar su asentimiento a una ley y la buena disposición de ellos de someterse a la pena que conllevaba el que esta fuera quebrantada (Deu_27:15, cf. Neh_5:13). Se utiliza también para expresar aquí esencia en la oración de otro (1Re_1:36), donde se define como «Diga Dios también esto; o en la acción de gracias por parte de otro (1Cr_16:36), tanto por parte de un individuo (Jer_11:5), como por parte de la congregación (Sal_106:48).
+
+»Así «amén», cuando es pronunciado por Dios, equivale a así es y así será, y cuando es dicho por hombres, «así sea».
+
+»Una vez en el NT, «Amén» es el título de Cristo (Apo_3:14), debido a que es a través de él que se establecen los propósitos de Dios (2Co_1:20).
+
+»Las iglesias primitivas cristianas siguieron el ejemplo de Israel asociándose de manera audible con las oraciones y acciones de gracias ofrecidas en nombre de ellos (1Co_14:16), donde el artículo «el» señala a una práctica común. Además, esta costumbre se conforma a la pauta de las cosas en los cielos (véase Apo_5:14, etc).
+
+»Los individuos decían también «amén» para expresar su «así sea» en respuesta al divino «así será» (Apo_22:20). Con frecuencia el que habla añade «amén» a sus propias oraciones y doxologías, como sucede en Efe_3:21, por ejemplo.
+
+»El Señor Jesús usaba a menudo «amén», traducido de cierto, para introducir nuevas revelaciones de la mente de Dios. En el Evangelio de Juan siempre se repite, «amén, amén», pero no en ningún otro lugar. Lucas no lo usa en absoluto, pero allí donde Mateo,Efe_16:28, y Mar_9:1, tienen «amén», Lucas dice, «en verdad»; así, al variar la traducción de lo que el Señor dijo, Lucas arroja luz sobre su significado». (De Notes on Galatians, por Hogg y Vine, pp. 26, 27.) Véase CIERTO ( DE ). 
+
+

@@ -1,0 +1,14 @@
+---
+titulo: "ACORTAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ACORTAR"]
+---
+
+# ACORTAR
+
+koloboo (êïëïâḯù, [[G2856]]), denota cortar, amputar (kolobos, mutilado); de ello, recortar, acortar, dicho del acortamiento por parte de Dios del tiempo de la gran tribulación (Mat_24:22, dos veces; Mar_13:20, dos veces). 
+En la LXX, 2Sa_4:12. 
+Véase también CORTO. 
+
+

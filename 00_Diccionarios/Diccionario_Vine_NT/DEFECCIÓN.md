@@ -1,0 +1,16 @@
+---
+titulo: "DEFECCIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DEFECCIÓN"]
+---
+
+# DEFECCIÓN
+
+jettema (ἥôôçìá, [[G2275]]), primariamente disminuir, disminución; denota pérdida. Se usa de la pérdida sufrida por la nación judía en el hecho de haber rechazado los testimonios de Dios y a su Hijo, y el evangelio (Rom_11:12), siendo la referencia no solo a la pérdida nacional, sino también a la pérdida en lo espiritual. De ello, la palabra que se usa como contraste es pleroma, plenitud. En 1Co_6:7 la referencia es a la pérdida sufrida por la iglesia en Corinto debido a su discordia y a sus maneras contenciosas de actuar, al apelar a los jueces del mundo. Aquí la rvr traduce «falta», al igual que la rv y la rvr77 (vm: «culpa grave»). El adverbio anterior, «ya», muestra originalmente lo global del defecto; la pérdida afectaba a toda la iglesia, y era «un detrimento total».
+
+ En la lxx, en Isa_31:8 la palabra significa la pérdida de una derrota, haciendo referencia a la calamidad sufrida por los asirios; lit: «sus jóvenes serán para pérdida» (esto es: «tributarios»). Véase FALTA.¶
+
+Cf. jettao, hacer inferior, usado en voz pasiva, ser vencido (de derrota espiritual, 2Pe_2:20), y el adjetivo jetton o jeáon, menos, peor. 
+
+

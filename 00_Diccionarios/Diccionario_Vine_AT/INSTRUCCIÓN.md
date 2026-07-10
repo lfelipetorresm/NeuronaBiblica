@@ -1,0 +1,25 @@
+---
+titulo: "INSTRUCCIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#INSTRUCCIÓN"]
+---
+
+# INSTRUCCIÓN
+
+A. Nombre
+
+mûsar (îåÌñÈø, [[H4148]]), «instrucción; castigo; advertencia». Este nombre aparece 50 veces, la mayoría en Proverbios . Aparece por primera vez en Deu_11:2 : «Y comprended hoy, porque no hablo con vuestros hijos que no han sabido ni visto el castigo de Jehová vuestro Dios, su grandeza, su mano poderosa, y su brazo extendido».
+
+Uno de los propósitos principales de la literatura sapiencial era enseñar sabiduría y mûsar (Pro_1:2). Mûsar es disciplina y algo más. Como «disciplina» enseña a vivir correctamente en el temor del Señor, para que el sabio aprenda la lección antes de que lo tienten y pongan a prueba: «Cuando lo vi, reflexioné sobre ello; miré, y recibí instrucción» (Pro_24:32 lba). Se trata de una disciplina para toda la vida; de ahí la importancia de prestar atención a mûsar : El Antiguo Testamento se vale de muchos verbos para subrayar la necesidad de una respuesta adecuada: «oír, obedecer, amar, recibir, obtener, captar, defender, guardar». Asimismo, el rechazo de la instrucción queda evidente mediante diversos términos relacionados con mûsar : «rechazar, odiar, obviar, no amar, detestar, abandonar». Cuando mûsar se imparte como «instrucción», pero no se observa, el mûsar del «castigo» o de la «disciplina» pueden ser el paso siguiente: «La necedad es parte del corazón juvenil, pero la vara de la disciplina la corrige» (Pro_22:15 nvi).
+
+Prestar atención cuidadosa a la instrucción trae honra (Pro_1:9), vida (Pro_4:13) y sabiduría (Pro_8:33), pero sobre todo agrada a Dios: «Porque el que me halla, halla la vida y obtiene el favor de Jehová» (Pro_8:35 rva). No observar la «instrucción» acarrea sus debidos resultados: muerte (Pro_5:23), pobreza y vergüenza (Pro_13:18); a la larga, esto indica un menosprecio a la propia vida (Pro_15:32).
+
+La receptividad a la «instrucción» de padres, maestros, sabios o rey está directamente relacionada con someterse a la disciplina divina. Los profetas acusaron a Israel de no recibir la disciplina de Dios: «Oh Jehová, ¿no buscan tus ojos la fidelidad? Tú los azotaste, y no les dolió; los consumiste, pero rehusaron recibir corrección. Endurecieron sus caras más que la piedra y rehusaron volver» (Jer_5:3). Jeremías exhorta a los hombres de Judá y a los habitantes de la ciudad asediada de Jerusalén a prestar atención a lo que estaba aconteciendo en derredor suyo y que se sometieran a la «instrucción» del Señor (Jer_35:13). Isaías predice que el castigo de Dios hacia los hombres lo llevaba el Siervo Sufriente, trayendo paz para quienes creyeran en él: «Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él; y por su llaga fuimos nosotros curados» (Isa_53:5).
+
+La Septuaginta tiene la traducción paideia («educación; capacitación; instrucción»). Este término griego es la base de nuestra palabra pedagogía, o sea, «educación del niño».
+
+B. Verbo
+
+yasar (éÈñÇø, [[H3256]]), «disciplinar». Este verbo se encuentra en hebreo y ugarítico con la acepción de «disciplinar». La raíz no se halla fuera de estas lenguas. El vocablo aparece 42 veces en el Antiguo Testamento; cf. Pro_19:18 : «Corrige a tu hijo mientras aún pueda ser corregido, pero no vayas a matarlo a causa del castigo» (bvp). 
+

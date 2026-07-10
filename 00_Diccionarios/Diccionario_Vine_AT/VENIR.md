@@ -1,0 +1,25 @@
+---
+titulo: "VENIR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VENIR"]
+---
+
+# VENIR
+
+bô' (áÌåéà, [[H935]]), «entrar, venir, ir». Esta raíz se encuentra en la mayoría de las lenguas semíticas, aunque con diversos significados. Por ejemplo, la acepción «venir» aparece en las cartas babilónicas con el reino de Mari (1750—1697 a.C.). El término ugarítico que corresponde a este (1550—1200 a.C.) significa lo mismo que en su equivalente hebreo, mientras que la raíz fenicia (a partir de ca. 900 a.C.) quiere decir «aparecer». Bô' se encuentra unas 2:570 veces en el Antiguo Testamento hebreo.
+
+Primero, el verbo connota movimiento de un lugar a otro. La acepción «entrar» se encuentra en Gén_7:7, donde dice que Noé y su familia «entraron» al arca. En su modalidad causativa, el verbo puede significar «meter, introducir» (Gén_6:19) o «traer a» (este es el significado la primera vez que aparece en la Biblia: Gén_2:19). En Gén_10:19 el verbo tiene un uso más absoluto en la frase «en dirección de Sodoma». Como dato interesante, el verbo puede significar tanto «venir» como «regresar». Abram y su familia «partieron hacia la tierra de Canaán» (Gén_12:5), mientras que en Deu_28:6 Dios bendice a los justos en su «salida» (para trabajar en la mañana) y «salida» o «regreso» (a sus hogares en la noche).
+
+A veces bô' se refiere a la «puesta» del sol (Gén_15:12). Puede connotar «morir», en el sentido de «partir para estar con los antepasados» (Gén_15:15). Otro uso especial tiene que ver con «entrar» a su mujer, o sea, cohabitar con ella (Gén_6:4). Bô' puede usarse con relación a movimientos del tiempo. Por ejemplo, los profetas hablaron de los días de juicio que «vendrían» (1Sa_2:31). Y para concluir este uso, el verbo puede indicar la «venida» de un acontecimiento tal como una señal que un falso profeta vaticinó (Deu_13:2).
+
+Hay tres sentidos en que se dice que Dios «viene». «Viene» (aparece) a través de un ángel (Jue_6:11) o de algún otro ser encarnado (cf. Gén_18:14). Dios «aparece» y habla con los seres humanos mediante sueños (Gén_20:3) y también con otras manifestaciones concretas (Éxo_20:20). Por ejemplo, durante el éxodo, Dios «apareció» en la nube y el fuego que anduvo delante del pueblo (Éxo_19:9).
+
+Segundo, Dios promete «venir» a los fieles cuando y dondequiera que le adoren debidamente (Éxo_20:24). Los filisteos creyeron que Dios había «venido» («entrado») al campamento israelita cuando llegó el arca del testimonio (1Sa_4:7). Tal vez Sal_24:7 tenga que ver con este uso, relacionándolo con el culto formal, cuando dice que las puertas de Sion se abren para que «entre» el Rey de gloria en Jerusalén. También, el Señor ha de «regresar» («venir de vuelta») a su nuevo templo descrito en Eze_43:2.
+
+Por último, hay un grupo de imágenes proféticas de las «venidas» de Dios. Este tema puede haber surgido en los himnos que se cantaban acerca de la «venida» de Dios para ayudarles en la batalla (cf. Deu_33:2). En los salmos (p. ej.,Deu_50:39) y profetas (p. ej., Isa_30:27) el Señor «viene» con juicio y bendición; este es un lenguaje poético figurado que se tomó prestado de la mitología del Oriente Medio (cf. Eze_1:4).
+
+También se usa bô' para hablar de la «venida» del Mesías. Dice Zac_9:9 que el rey mesiánico «vendrá» montado en un pollino de asna. Algunos de los pasajes nos plantean problemas que son particularmente difíciles. Un ejemplo se encuentra en Gén_49:10 donde se profetiza que el cetro permanecerá en Judá «hasta que venga Siloh». Otro pasaje difícil es Eze_21:27 : «Hasta que venga aquel cuyo es el derecho». Una profecía muy conocida que usa el término bô' es la que habla concerniente a la «venida» del Hijo del Hombre (Dan_7:13). Un último ejemplo es la «venida» del día final (Amó_8:2) y del día del Señor (Isa_13:6).
+
+La Septuaginta traduce este verbo con muchos términos griegos paralelos a las connotaciones del verbo hebreo; pero en particular usa vocablos que significan «venir», «entrar» e «ir». 
+

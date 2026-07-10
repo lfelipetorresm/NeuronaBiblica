@@ -1,0 +1,12 @@
+---
+titulo: "RESUMIR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#RESUMIR"]
+---
+
+# RESUMIR
+
+anakefalaioo (ἀíáêåöáëáéüù, [[G346]]), recapitular, reunir (ana, arriba; kefale, cabeza), presentar como un todo. Se utiliza en la voz pasiva en Rom_13:9 : «se resume» (rv: «se comprende sumariamente»), esto es, un mandamiento expresa todo lo que la Ley demanda, y obedecer este es el cumplimiento de la Ley (cf. Gál_5:14); la voz media en Efe_1:10 : «reunir», del propósito de Dios de reunir todas las cosas en los cielos y en la tierra en Cristo, una consumación que se extiende más allá de los límites de la iglesia, aunque esta última debe constituir un factor en su realización.¶ 
+
+

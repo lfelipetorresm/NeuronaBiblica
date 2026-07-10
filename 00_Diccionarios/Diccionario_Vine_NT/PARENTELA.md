@@ -1,0 +1,14 @@
+---
+titulo: "PARENTELA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PARENTELA"]
+---
+
+# PARENTELA
+
+sungeneia (óõããÝíåéá, [[G4772]]), denota primariamente parentesco; luego, parentela; cf. sungenes, pariente, véase PARIENTE (Luc_1:61; Hch_7:3, Hch_7:14).¶
+
+Nota: Para «parentela» en Efe_3:15 (rv), véase FAMILIA, A, Nº 3. 
+
+

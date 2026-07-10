@@ -1,0 +1,12 @@
+---
+titulo: "MUDANZA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#MUDANZA"]
+---
+
+# MUDANZA
+
+paralage (ðáñáëëáãÞ, [[G3883]]), denota, generalmente, cambio (en castellano, paralaje, diferencia entre las posiciones aparentes de un cuerpo al ser observado desde dos puntos diferentes), cambio de una a otra condición. Se utiliza en Stg_1:17, «mudanza» (rv, rvr; rvr77: «fases»; vm: «variación»).¶ 
+
+

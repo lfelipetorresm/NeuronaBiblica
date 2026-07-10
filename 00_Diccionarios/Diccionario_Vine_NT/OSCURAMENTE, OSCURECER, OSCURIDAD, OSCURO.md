@@ -1,0 +1,12 @@
+---
+titulo: "OSCURAMENTE, OSCURECER, OSCURIDAD, OSCURO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OSCURAMENTE,OSCURECER,OSCURIDAD,OSCURO"]
+---
+
+# OSCURAMENTE, OSCURECER, OSCURIDAD, OSCURO
+
+Véase OSCURO, OSCURIDAD, OSCURECER, OSCURAMENTE. 
+
+

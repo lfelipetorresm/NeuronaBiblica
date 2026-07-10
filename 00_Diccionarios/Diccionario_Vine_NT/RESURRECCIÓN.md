@@ -1,0 +1,16 @@
+---
+titulo: "RESURRECCIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#RESURRECCIÓN"]
+---
+
+# RESURRECCIÓN
+
+1. anastasis (ἀíÜóôáóéò, [[G386]]), denota: (i) un levantamiento (ana, arriba, y jistemi, poner en pie) (Luc_2:34 : «levantamiento»); el Niño iba a ser como una piedra contra la que muchos en Israel tropezarían, en tanto que otros encontrarían en su fortaleza y firmeza un medio de su salvación y vida espiritual; (II) de la resurrección de entre los muertos: (a) de Cristo (Hch_1:22; Hch_2:31; Hch_4:33; Rom_1:4; Rom_6:5; Fil_3:10; 1Pe_1:3; 1Pe_3:21); por metonimia, de Cristo como el autor de la resurrección (Jua_11:25); (b) de aquellos que son de Cristo, en su parusia, véase ADVENIMIENTO (Luc_14:14 : «la resurrección de los justos»; Luc_20:33, Luc_20:35-36; Jua_5:29 a: «la resurrección de vida»; Jua_11:24; Hch_23:6; Hch_24:15 a; 1Co_15:21, 1Co_15:42; 2Ti_2:18; Heb_11:35 b; Apo_20:5 : «la primera resurrección»; de ahí que la inserción de «es» denota la finalización de esta resurrección, de la que Cristo fue «las primicias»; Apo_20:6; (c) del resto de los muertos, después del milenio, cf. Apo_20:5 (Jua_5:29 b: «la resurrección de condenación»; Hch_24:15 b: «de los injustos»); (d) de aquellos que fueron resucitados en una relación más inmediata con la resurrección de Cristo, y que así ya tuvieron parte en la primera resurrección (Hch_26:23 y Rom_1:4; siendo que en ambos pasajes «muertos» es plural; véase Mat_27:52); (e) de la resurrección mencionada en términos generales (Mat_22:23; Mar_12:18; Luc_20:27; Hch_4:2; Hch_17:18; Hch_23:8; Hch_24:21; 1Co_15:12-13; Heb_6:2); (f) de aquellos que fueron resucitados en los tiempos del AT, para volver a morir (Heb_11:35 a, lit. «fuera de resurrección»).¶
+
+2. exanastasis (ἐîáíÜóôáóéò, [[G1815]]), (ek, de, desde, o fuera de, y Nº 1), Fil_3:11, seguido de ek, lit. «fuera de resurrección de entre los muertos». Para su significado véase LLEGAR, Nº 14.¶
+
+3. egersis (ἔãåñóéò, [[G1454]]), un levantarse (relacionado con egeiro, levantar). Se utiliza de la resurrección de Cristo (Mat_27:53).¶ 
+
+

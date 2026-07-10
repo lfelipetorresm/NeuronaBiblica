@@ -1,0 +1,12 @@
+---
+titulo: "ODRE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ODRE"]
+---
+
+# ODRE
+
+askos (ἀóêüò, [[G779]]), odre de cuero, para vino. Se utiliza en Mat_9:17, cuatro veces; Mar_2:22, cuatro veces; Luc_5:37, tres veces, 38. La rv traduce «cueros» y «odres». Se podía utilizar una piel entera de cabra, p.ej., atando las aperturas y, una vez lleno, atando la parte del cuello. Eran curtidas con corteza de acacia, y se dejaba el pelo en el exterior. El vino nuevo, al fermentar, reventaría los odres viejos (cf. Jos_9:13; Job_32:19). Colgados al humo para secarlos, los odres quedaban arrugados (cf. Sal_119:83).¶ 
+
+

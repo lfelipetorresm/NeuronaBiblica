@@ -1,0 +1,23 @@
+---
+titulo: "FAMILIA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#FAMILIA"]
+---
+
+# FAMILIA
+
+mishpajah (îÄùÑÀÀÀôÌÈçÈä, [[H4940]]), «familia; clan». Una forma de este vocablo hebreo aparece en ugarítico y púnico, con el mismo significado de «familia» o «clan». El término se ha encontrado en los rollos del Mar Muerto y está presente en el hebreo de la Mishnah y el hebreo moderno. Mishpajah aparece 300 veces en el Antiguo Testamento hebreo. El primer caso del vocablo se encuentra en Gén_8:19 : «Todos los animales, y todo reptil y toda ave, todo lo que se mueve sobre la tierra según sus especies, salieron del arca» (rvr ; «según sus familias» rvr, lba).
+
+El vocablo está relacionado con la raíz verbal shipjah, modalidad verbal que no se encuentra en el Antiguo Testamento. Otra forma del nombre es pejah («criada»), como en Gén_16:2 : «Dijo, pues, Sarai a Abram … ruégote que entres a mi sierva» (rv).
+
+El nombre mishpajah se usa casi siempre en el Pentateuco (hasta 154 veces en Números) y en los libros históricos, pero pocas veces en la literatura poética (5 veces) y en los libros proféticos.
+
+Todos los miembros de un grupo emparentados por sangre o que aún estaban conscientes de alguna consanguinidad pertenecían al «clan» o «familia extendida». Saúl argumentó que debido a que procedía del menor de los «clanes» no le correspondía ser rey (1Sa_9:21). Este mismo significado define a los miembros de la familia extendida de Rahab a quienes se les perdonó la vida en Jericó: «Sacaron a toda su parentela, y los pusieron fuera del campamento de Israel» (Jos_6:23 rvr). Por tanto, el «clan» era una división importante dentro de la «tribu». El libro de Números registra un censo de los líderes y miembros de las tribus de acuerdo a sus «familias» (Números 1-4; 26). Cuando se reclamaba venganza en casos de crimen capital, todo el clan podía involucrarse: «Y toda la familia se ha levantado contra tu sierva, diciendo: «Entrega al homicida para matarlo por la vida de su hermano a quien mató, y quitemos también al heredero». Así apagarán la brasa que me ha quedado, y no dejarán a mi esposo nombre ni reliquia sobre la tierra» (2Sa_14:7 nrv).
+
+Otro derivado del significado de «división» o «clan» es el uso idiomático de «clase» o «grupo», como por ejemplo las «familias» de los animales que salieron del arca (Gén_8:19) o las «familias» de las naciones (Sal_22:28; Sal_96:7; cf. Gén_10:5). Aun la promesa de Dios a Abraham incluye a las naciones: «Bendeciré a los que te bendigan, y al que te maldiga, maldeciré. Y en ti serán benditas todas las familias de la tierra» (Gén_12:3 lba).
+
+El significado más restringido de mishpajah es semejante a nuestro uso de «familia» y también al del hebreo moderno. Abraham envió su siervo a sus parientes en Padam-aram para que procurase una esposa para Isaac (Gén_24:38). La «ley de redención» se aplicaba también a los parientes cercanos de una familia: «Podrá ser rescatado después de haberse vendido. Uno de sus hermanos lo podrá rescatar. O lo podrá rescatar su tío, o un hijo de su tío; o lo podrá rescatar un pariente cercano de su familia. Y si consigue lo suficiente, se podrá rescatar a sí mismo» (Lev_25:48-49 rva).
+
+En la Septuaginta, varias palabras se usan para traducir a mishpajah : demos («pueblo; populacho; multitud», pule («tribu»; «nación»; «pueblo») y patria («familia»; «clan»). Las versiones en castellano lo traducen «familia, familiares», «parientes, parentela», «linajes», «especies», «grupos», etc. 
+

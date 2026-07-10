@@ -1,0 +1,12 @@
+---
+titulo: "AMATISTA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AMATISTA"]
+---
+
+# AMATISTA
+
+amethustos (ἀìÝèõóôïò, [[G271]]), significando primariamente «no bebido» (a, negación, y methu, vino) llegó a usarse como nombre, considerándose que poseía una virtud curativa contra la embriaguez. Sin embargo, Plinio dice que la razón de este nombre era que su color era tan similar al del vino, pero que no tenía sus propiedades (Apo_21:20).¶ 
+
+

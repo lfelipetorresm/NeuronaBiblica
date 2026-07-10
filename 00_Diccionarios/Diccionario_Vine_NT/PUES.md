@@ -1,0 +1,14 @@
+---
+titulo: "PUES"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PUES"]
+---
+
+# PUES
+
+joutos o jouto (ὅõôùò, [[G3779]]), de esta manera, de este modo, así. Se utiliza: (a) con referencia a lo que precede (p.ej., Luc_1:25 : «Así»; Luc_2:48 : «así»); (b) con referencia a lo que sigue (p.ej:«Mateo 1:18 : «así»; vm: «de esta manera»; Luc_19:31; Jua_21:1), y antes de citas (Hch_7:6 : «así»; Hch_13:34 : «así»; Rom_10:6 : «así»; Heb_4:4 : «así»); marcando intensidad, traducido «tan» (p.ej., Gál_1:6; Heb_12:21; Apo_16:18); (d) en comparaciones, traducido «así» (p.ej., Rom_4:18; Rom_6:11). Se traduce «¿Pues qué?» en 1Co_6:5 (rv, rvr), en un contexto interrogativo (vm: «¿Es así que?»); en se traduce «Pues como» en 2Pe_3:11 (rvr: «puesto que»). Véanse, Nº 5, y también ASIMISMO, COSA, GRANDE, LUEGO, MANERA, MISMO, MODO, SEMEJANTE, TAN, TANTO.
+
+Notas: (1) Ara, véase, Notas (1) MANERA, E, Nº 1, se traduce «pues» en Mat_18:1; Mat_19:25, Mat_19:27; Mat_24:45; Luc_1:66; Rom_8:1; véanse también ACASO, CIERTAMENTE, ENTONCES, LUEGO, MODO, POR ESO, POR TANTO, QUIZAS, TAL VEZ, TANTO, VERDAD; (2) la frase ei de me, o ei de mege, véase MANERA, F, Nº 1, se traduce «pues si no» en Apo_2:5, Apo_2:16; «de otra manera» (p.ej., en Mat_6:1); «si no» (p.ej., en Luc_13:9); véase también SI NO; (3) de se traduce «pues» en Luc_2:15; 1Co_6:20; véase AHORA, bajo el epígrafe Conjunciones y particulas ; Véanse también CIERTAMENTE, VERDADERAMENTE; (4) para dioti, traducido «pues» en Rom_1:21, véase POR ESO, Notas (3) POR LO CUAL, Notas (3) y también POR CUANTO, POR TANTO, YA QUE; (5) epei, véanse MANERA, D, Nº 1, MODO, Nº 1, se traduce «pues» en Luc_1:34; «pues de otra manera» (Rom_11:22); «pues» (1Co_5:10); «pues que» (1Co_14:12); «pues» (2Co_13:3; Heb_9:17); véanse también OTRO, POR CUANTO, PORQUE, PUESTO QUE; (6) epeide, véanse PUESTO QUE, YA QUE, se traduce «pues» en 1Co_14:16; véanse también POR CUANTO, PORQUE; (7) epeita se traduce «pues» en Mar_7:5 (tr), donde los mss. más comúnmente aceptados tienen kai, «y»; véase LUEGO, Nº 5; (8) para kago, traducido «yo, pues» en Luc_22:29; «pues yo» (Hch_10:26), véanse MANERA, E. Nº 4, TAMBIEN; (9) plen, adverbio que significa todavía, pero, no obstante, se traduce «pues» en Luc_6:35 (rv, rvr; vm: «al contrario»; rvr77: «en cambio»; lba: «pero»); véanse EMBARGO ( SIN ), FUERA, MAS, OBSTANTE ( NO ), PERO, POR TANTO, SALVO, SINO, SOLAMENTE, TAMBIéN, TANTO; (10) la partícula inferencial toinun, pues, consecuentemente, se traduce «pues» en Luc_20:25; Heb_13:13; Stg_2:24 (en tr en este último pasaje; no aparece en los textos más comúnmente aceptados); en 1Co_9:26 se traduce «Así que»;¶ (11) para joste, traducido «pues» en un contexto interrogativo en Gál_4:16; véanse MANERA, E, Nº 3, MODO, Nº 3; Véanse también PARA QUE, POR CONSIGUIENTE, POR ESTO, POR TANTO, TANTO. 
+
+

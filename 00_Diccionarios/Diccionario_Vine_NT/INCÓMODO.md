@@ -1,0 +1,12 @@
+---
+titulo: "INCÓMODO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INCÓMODO"]
+---
+
+# INCÓMODO
+
+aneuthetos (ἀíåýèåôïò, [[G428]]), no cómodo, lit. «no bien situado» (de a, no; n, eufónico; eu, bien; thetos, de tithemi, poner, colocar). Se encuentra en Hch_27:12, donde se dice del puerto en el lugar llamado Buenos Puertos.¶ 
+
+

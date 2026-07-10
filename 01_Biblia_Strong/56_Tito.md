@@ -1,0 +1,60 @@
+---
+titulo: Tito
+tipo: libro_biblico
+estado: Procesado
+etiquetas: ["#Biblia", "#Tito"]
+---
+
+# Tito
+
+### Capítulo 1
+**1:1** Pablo, [[G3972]] siervo [[G1401]] de Dios [[G2316]] y [[G1161]] apóstol [[G652]] de Jesucristo, [[G2424]] conforme [[G2596]] a la fe [[G4102]] de los escogidos [[G1588]] de Dios [[G2316]] y [[G2532]] el conocimiento [[G1922]] de la verdad [[G225]] que [[G3588]] es según [[G2596]] la piedad, [[G2150]]  
+**1:2** en [[G1909]] la esperanza [[G1680]] de la vida [[G2222]] eterna, [[G166]] la [[G3739]] cual Dios, [[G3588]] que no miente, [[G893]] prometió [[G1861]] desde antes [[G4253]] del principio [[G5550]] de los siglos, [[G166]]  
+**1:3** y [[G1161]] a su [[G2398]] debido tiempo [[G2540]] manifestó [[G5319]] su [[G846]] palabra [[G3588]] por [[G1722]] medio de la predicación [[G2782]] que [[G3739]] me [[G1473]] fue encomendada [[G4100]] por [[G2596]] mandato [[G2003]] de Dios [[G2316]] nuestro [[G2257]] Salvador, [[G3588]]  
+**1:4** a Tito, [[G5103]] verdadero [[G1103]] hijo [[G5043]] en [[G2596]] la común [[G2839]] fe: [[G4102]] Gracia, [[G5485]] misericordia [[G1656]] y paz, [[G1515]] de [[G575]] Dios [[G2316]] Padre [[G3962]] y [[G2532]] del Señor [[G2962]] Jesucristo nuestro [[G2257]] Salvador. [[G3588]]  
+**1:5** Por [[G5484]] esta [[G5127]] causa te [[G4571]] dejé [[G2641]] en [[G1722]] Creta, [[G2914]] para [[G2443]] que corrigieses [[G1930]] lo [[G3588]] deficiente, [[G3007]] y [[G2532]] establecieses [[G2525]] ancianos [[G4245]] en [[G2596]] cada ciudad, [[G4172]] así como [[G5613]] yo [[G1473]] te [[G4671]] mandé; [[G1299]]  
+**1:6** [[G1487]] el [[G5100]] que fuere [[G2076]] irreprensible, [[G410]] marido [[G435]] de una [[G1520]] sola mujer, [[G1135]] y tenga [[G2192]] hijos [[G5043]] creyentes [[G4103]] que no [[G3361]] estén acusados [[G1722]] de disolución [[G810]] ni [[G2228]] de rebeldía. [[G506]]  
+**1:7** Porque [[G1063]] es necesario [[G1163]] que el [[G3588]] obispo [[G1985]] sea [[G1511]] irreprensible, [[G410]] como [[G5613]] administrador [[G3623]] de Dios; [[G2316]] no [[G3361]] soberbio, [[G829]] no [[G3361]] iracundo, [[G3711]] no [[G3361]] dado al vino, [[G3943]] no [[G3361]] pendenciero, [[G4131]] no [[G3361]] codicioso de ganancias deshonestas, [[G146]]  
+**1:8** sino [[G235]] hospedador, [[G5382]] amante de lo bueno, [[G5358]] sobrio, [[G4998]] justo, [[G1342]] santo, [[G3741]] dueño [[G1468]] de sí mismo,  
+**1:9** retenedor [[G472]] de la palabra [[G3056]] fiel [[G4103]] [[G3588]] tal [[G2596]] como ha sido enseñada, [[G3588]] para [[G2443]] que también [[G2532]] pueda [[G1415]] exhortar [[G3870]] con [[G1722]] sana [[G3588]] enseñanza [[G3588]] y [[G2532]] convencer [[G1651]] a los [[G3588]] que contradicen. [[G483]]  
+**1:10** Porque [[G1063]] hay [[G1526]] aún [[G2532]] muchos [[G4183]] contumaces, [[G506]] habladores de vanidades [[G3151]] y [[G2532]] engañadores, [[G5423]] mayormente [[G3122]] los [[G3588]] de [[G1537]] la circuncisión, [[G4061]]  
+**1:11** a los [[G3739]] cuales es preciso [[G1163]] tapar [[G1993]] la boca; que [[G3748]] trastornan [[G396]] casas [[G3624]] enteras, [[G3650]] enseñando [[G1321]] por [[G5484]] ganancia [[G2771]] deshonesta [[G150]] lo [[G3739]] que no [[G3361]] conviene. [[G1163]]  
+**1:12** Uno [[G5100]] de [[G1537]] ellos, [[G846]] su [[G846]] propio [[G2398]] profeta, [[G4396]] dijo: [[G2036]] Los cretenses, [[G2912]] siempre [[G104]] mentirosos, [[G5583]] malas [[G2556]] bestias, [[G2342]] glotones [[G1064]] ociosos. [[G692]]  
+**1:13** Este [[G3778]] testimonio [[G3588]] es [[G2076]] verdadero; [[G227]] por [[G1223]] tanto, [[G3739]] repréndelos [[G1651]] duramente, [[G664]] para [[G2443]] que sean sanos [[G5198]] en [[G1722]] la [[G3588]] fe, [[G4102]]  
+**1:14** no [[G3361]] atendiendo [[G4337]] a fábulas [[G3454]] judaicas, [[G2451]] ni [[G2532]] a mandamientos [[G1785]] de hombres [[G444]] que se apartan [[G654]] de la [[G3588]] verdad. [[G225]]  
+**1:15** Todas [[G3956]] las cosas [[G3303]] son puras [[G2513]] para los [[G3588]] puros, [[G2513]] mas [[G1161]] para los [[G3588]] corrompidos [[G3392]] e [[G2532]] incrédulos [[G571]] nada [[G3762]] les es puro; [[G2513]] pues [[G235]] hasta [[G2532]] su [[G846]] mente [[G3588]] y [[G2532]] su [[G3588]] conciencia [[G4893]] están corrompidas. [[G3392]]  
+**1:16** Profesan [[G3670]] conocer [[G1492]] a Dios, [[G2316]] pero [[G1161]] con los [[G3588]] hechos [[G2041]] lo niegan, [[G720]] siendo [[G5607]] abominables [[G947]] y [[G2532]] rebeldes, [[G545]] reprobados [[G96]] [[G2532]] en cuanto [[G4314]] a toda [[G3956]] buena [[G18]] obra. [[G2041]]  
+
+### Capítulo 2
+**2:1** Pero [[G1161]] tú [[G4771]] habla [[G2980]] lo [[G3739]] que está de acuerdo [[G4241]] con la [[G3588]] sana [[G5198]] doctrina. [[G1319]]  
+**2:2** Que los ancianos [[G4246]] sean [[G1511]] sobrios, [[G3524]] serios, [[G4586]] prudentes, [[G4998]] sanos [[G5198]] en la [[G3588]] fe, [[G4102]] en el [[G3588]] amor, [[G26]] en la [[G3588]] paciencia. [[G5281]]  
+**2:3** Las ancianas [[G4247]] asimismo [[G5615]] sean reverentes [[G2412]] en [[G1722]] su porte; [[G2688]] no [[G3361]] calumniadoras, [[G1228]] no [[G3361]] [[G4183]] esclavas [[G1402]] del vino, [[G3631]] maestras [[G2567]] del bien;  
+**2:4** que [[G2443]] enseñen [[G4994]] a las [[G3588]] mujeres jóvenes [[G3501]] a amar a sus maridos [[G5362]] y [[G1511]] a sus hijos, [[G5388]]  
+**2:5** a ser prudentes, [[G4998]] castas, [[G53]] cuidadosas [[G3626]] de su casa, buenas, [[G18]] sujetas [[G5293]] a sus [[G2398]] maridos, [[G3588]] para [[G2443]] que la [[G3588]] palabra [[G3056]] de Dios [[G3588]] no [[G3361]] sea blasfemada. [[G987]]  
+**2:6** Exhorta [[G3870]] asimismo [[G5615]] a los [[G3588]] jóvenes [[G3501]] a que sean prudentes; [[G4993]]  
+**2:7** presentándote [[G3930]] tú [[G4572]] en [[G4012]] todo [[G3956]] como ejemplo [[G5179]] de buenas [[G2570]] obras; [[G2041]] en [[G1722]] la [[G3588]] enseñanza [[G1319]] mostrando integridad, [[G90]] seriedad, [[G4587]] [[G861]]  
+**2:8** palabra [[G3056]] sana [[G5199]] e irreprochable, [[G176]] de modo [[G2443]] que el [[G3588]] adversario [[G1537]] se avergüence, [[G1788]] y no tenga [[G2192]] nada [[G3367]] malo [[G5337]] que decir [[G3004]] de [[G4012]] vosotros. [[G5216]]  
+**2:9** Exhorta a los siervos [[G1401]] a que se sujeten [[G5293]] a sus [[G2398]] amos, [[G1203]] que agraden [[G2101]] en [[G1722]] todo, [[G3956]] que no [[G3361]] sean respondones; [[G483]]  
+**2:10** no [[G3361]] defraudando, [[G3557]] sino [[G235]] mostrándose [[G1731]] fieles [[G4102]] en todo, [[G3956]] [[G18]] para [[G2443]] que en [[G1722]] todo [[G3956]] adornen [[G2885]] la [[G3588]] doctrina [[G1319]] de Dios [[G3588]] nuestro [[G2257]] Salvador. [[G4990]]  
+**2:11** Porque [[G1063]] la [[G3588]] gracia [[G5485]] de Dios [[G3588]] se ha manifestado [[G2014]] para salvación [[G3588]] a todos [[G3956]] los hombres, [[G444]]  
+**2:12** enseñándonos [[G3811]] que, [[G2443]] renunciando [[G720]] a la [[G3588]] impiedad [[G763]] y [[G2532]] a los [[G3588]] deseos [[G1939]] mundanos, [[G2886]] vivamos [[G2198]] en [[G1722]] este [[G3568]] siglo [[G3588]] sobria, [[G4996]] [[G2532]] justa [[G1346]] y [[G2532]] piadosamente, [[G2153]]  
+**2:13** aguardando [[G4327]] la [[G3588]] esperanza [[G1680]] bienaventurada [[G3107]] y [[G2532]] la manifestación [[G2015]] gloriosa [[G3588]] de nuestro [[G2257]] gran [[G3173]] Dios [[G3588]] y [[G2532]] Salvador [[G4990]] Jesucristo, [[G2424]]  
+**2:14** quien [[G3739]] se dio [[G1325]] a sí [[G1438]] mismo por [[G5228]] nosotros [[G2257]] para [[G2443]] redimirnos [[G3084]] de [[G575]] toda [[G3956]] iniquidad [[G458]] y [[G2532]] purificar [[G2511]] para sí [[G1438]] un pueblo [[G2992]] propio, [[G4041]] celoso [[G2207]] de buenas [[G2570]] obras. [[G2041]]  
+**2:15** Esto [[G5023]] habla, [[G2980]] y [[G2532]] exhorta [[G3870]] y [[G2532]] reprende [[G1651]] con [[G3326]] toda [[G3956]] autoridad. [[G2003]] Nadie [[G3367]] te [[G4675]] menosprecie. [[G4065]]  
+
+### Capítulo 3
+**3:1** Recuérdales [[G5279]] que se sujeten [[G5293]] a los gobernantes [[G746]] y [[G2532]] autoridades, [[G1849]] que obedezcan, [[G3980]] que estén [[G1511]] dispuestos [[G2092]] a [[G4314]] toda [[G3956]] buena [[G18]] obra. [[G2041]]  
+**3:2** Que a nadie [[G3367]] difamen, [[G987]] que no sean [[G1511]] pendencieros, [[G269]] sino amables, [[G1933]] mostrando [[G1731]] toda [[G3956]] mansedumbre [[G4236]] para [[G4314]] con todos [[G3956]] los hombres. [[G444]]  
+**3:3** Porque [[G1063]] nosotros [[G2249]] también [[G2532]] éramos [[G1510]] en otro [[G4218]] tiempo insensatos, [[G453]] rebeldes, [[G545]] extraviados, [[G4105]] esclavos [[G1398]] de concupiscencias [[G1939]] y [[G2532]] deleites [[G2237]] diversos, [[G4164]] viviendo [[G1236]] en [[G1722]] malicia [[G2549]] y [[G2532]] envidia, [[G5355]] aborrecibles, [[G4767]] y aborreciéndonos [[G3404]] unos a otros. [[G240]]  
+**3:4** Pero [[G1161]] cuando [[G3753]] se manifestó [[G2014]] la [[G3588]] bondad [[G5544]] de Dios [[G3588]] nuestro [[G2257]] Salvador, [[G4990]] y [[G2532]] su [[G3588]] amor [[G5363]] para con los hombres,  
+**3:5** nos [[G2248]] salvó, [[G4982]] no [[G3756]] por [[G1537]] obras [[G2041]] [[G3588]] de [[G1722]] justicia [[G1343]] que [[G3739]] nosotros [[G2249]] hubiéramos hecho, [[G4160]] sino [[G235]] por [[G2596]] su [[G846]] misericordia, [[G1656]] por [[G1223]] el lavamiento [[G3067]] de la regeneración [[G3824]] y [[G2532]] por la renovación [[G342]] en el Espíritu [[G4151]] Santo, [[G40]]  
+**3:6** el [[G3739]] cual derramó [[G1632]] en [[G1909]] nosotros [[G2248]] abundantemente [[G4146]] por [[G1223]] Jesucristo [[G2424]] nuestro [[G2257]] Salvador, [[G3588]]  
+**3:7** para [[G2443]] que justificados [[G1344]] por su [[G1565]] gracia, [[G3588]] viniésemos [[G1096]] a ser herederos [[G2818]] conforme [[G2596]] a la esperanza [[G1680]] de la vida [[G2222]] eterna. [[G166]]  
+**3:8** Palabra [[G3588]] fiel [[G4103]] es esta, y [[G2532]] en [[G4012]] estas [[G5130]] cosas quiero [[G1014]] que insistas [[G4571]] con firmeza, para [[G2443]] que los [[G3588]] que creen [[G4100]] en Dios [[G3588]] procuren [[G5431]] ocuparse [[G4291]] en buenas [[G2570]] obras. [[G2041]] Estas [[G5023]] cosas son [[G2076]] buenas [[G3588]] y [[G2532]] útiles [[G5624]] a los [[G3588]] hombres. [[G444]]  
+**3:9** Pero [[G1161]] evita [[G4026]] las cuestiones [[G2214]] necias, [[G3474]] y [[G2532]] genealogías, [[G1076]] y [[G2532]] contenciones, [[G2054]] y [[G2532]] discusiones [[G3163]] acerca de la ley; [[G3544]] porque [[G1063]] son [[G1526]] vanas [[G512]] y [[G2532]] sin provecho. [[G3152]]  
+**3:10** Al hombre [[G444]] que cause divisiones, [[G141]] después [[G3326]] de una [[G1520]] y [[G2532]] otra [[G1208]] amonestación [[G3559]] deséchalo, [[G3868]]  
+**3:11** sabiendo [[G1492]] que [[G3754]] el [[G3588]] tal [[G5108]] se ha pervertido, [[G1612]] y [[G2532]] peca [[G264]] y está [[G5607]] condenado [[G843]] por su propio juicio.  
+**3:12** Cuando [[G3752]] envíe [[G3992]] a [[G4314]] ti [[G4571]] a Artemas [[G734]] o [[G2228]] a Tíquico, [[G5190]] apresúrate [[G4704]] a venir [[G2064]] a [[G4314]] mí [[G3165]] en [[G1519]] Nicópolis, [[G3533]] porque [[G1063]] allí [[G1563]] he determinado [[G2919]] pasar el invierno. [[G3914]]  
+**3:13** A Zenas [[G2211]] intérprete de la ley, [[G3588]] y [[G2532]] a Apolos, [[G625]] encamínales [[G4311]] con solicitud, [[G4709]] de modo [[G2443]] que nada [[G3367]] les [[G846]] falte. [[G3007]]  
+**3:14** Y [[G1161]] aprendan [[G3129]] también [[G2532]] los [[G3588]] nuestros [[G2251]] a ocuparse [[G4291]] en buenas [[G2570]] obras [[G2041]] para [[G1519]] los [[G3588]] casos [[G316]] de necesidad, [[G5532]] para [[G2443]] que no [[G3361]] sean [[G5600]] sin fruto. [[G175]]  
+**3:15** Todos [[G3956]] los [[G3588]] que están conmigo [[G3326]] te [[G4571]] saludan. [[G782]] Saluda [[G782]] a los [[G3588]] que nos [[G2248]] aman [[G5368]] en [[G1722]] la fe. [[G4102]] La [[G3588]] gracia [[G5485]] sea con [[G3326]] todos [[G3956]] vosotros. [[G5216]] Amén. [[G281]]  

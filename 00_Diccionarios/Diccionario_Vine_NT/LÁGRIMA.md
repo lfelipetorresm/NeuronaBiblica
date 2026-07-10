@@ -1,0 +1,12 @@
+---
+titulo: "LÁGRIMA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LÁGRIMA"]
+---
+
+# LÁGRIMA
+
+dakruon o dakru (äÜêñõïí, [[G1144]]), relacionado con dakruo, llorar; se usa en plural (Mar_9:24; Luc_7:28, Luc_7:44, en el sentido de lavar con ellas los pies del Señor; Hch_20:19, Hch_20:31; 2Co_2:4; 2Ti_1:4; Heb_5:7; Heb_12:17; Apo_7:17; Apo_21:4).¶ 
+
+

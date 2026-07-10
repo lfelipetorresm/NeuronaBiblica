@@ -1,0 +1,29 @@
+---
+titulo: "CORRER"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#CORRER"]
+---
+
+# CORRER
+
+A. Verbo
+
+rûts (øåÌõ, [[H7323]]), «apresurarse, correr». Este verbo también se encuentra en etiópico, arameo (donde se escribe rehas) y acádico (en que significa «apresurarse a ayudar»). Aparece unas 80 veces en la Biblia durante todos los períodos del lenguaje.
+
+En algunos contextos, rûts indica no tanto correr como un movimiento muy rápido, a saber, «apresurarse». Este parece ser el énfasis la primera vez que aparece el término. Se nos dice que, «al verlos [tres hombres], corrió [Abraham] desde la entrada de la tienda para recibirlos, y se postró a tierra» (Gén_18:2 rva). En realidad, Abraham no tanto corrió al encuentro de los tres visitantes, sino más bien se trasladó muy raudo para recibirlos. Con el mismo sentido, Abraham quizás no corrió, sino que «se apresuró» a su rebaño para escoger el animal para la comida (cf. Gén_18:7 lba). Esta acepción se confirma en Isa_59:7, donde el verbo es un paralelismo sinónimo con mahar («apresurarse»): «Sus pies corren al mal, se apresuran para derramar la sangre inocente». La connotación «apresurarse» o «moverse rápidamente» también se encuentra en Gén_41:14, en el que se dice que «Faraón envió y llamó a José. Y lo sacaron apresuradamente de la cárcel». Aparece otra vez con el sentido de «con prisa» en Sal_68:31 : «Etiopía apresurará sus manos hacia Dios» (rv).
+
+En general, el vocablo significa «correr». Esto queda bien claro en Jos_8:19 : «Levantándose rápidamente de su lugar, los [israelitas] que estaban en la emboscada corrieron cuando él [Josué] extendió su mano, y entraron en la ciudad [de Hai]» (rva). Es un cuadro militar. Describe el punto álgido en una batalla cuando las tropas se abalanzan hacia el enemigo o en medio del campamento. Samuel prometió a Israel que Dios les daría un rey según su corazón (alguien que se ajustara a sus expectativas), y que este obligaría a sus hijos a «correr delante de su carro», esto es, de cabeza a la batalla (1Sa_8:11). Desear un rey no era pecado, puesto que Dios había previsto esto en la Ley Mosaica (Deu_17:14 ss). El pueblo pecó porque quería un rey que fuera como los de otros pueblos. Este sería en primer lugar un líder militar. A lo que Dios responde que les daría la clase de rey que querían, pero que sus batallas se ganarían en cambio de las vidas de sus hijos. David, hombre según el corazón de Dios (hombre escogido por Dios), fue un rey imperfecto, sin embargo, cuando se arrepintió y obedeció a Dios, las batallas se ganaron sin costo de vida alguna para Israel. Este sentido bélico de lanzarse a la guerra se usa metafóricamente para describir el estilo de vida de los malignos que «acometen» (rv), «embisten» (rva), contra Dios (Job_15:26). Este énfasis también explica el pasaje un tanto difícil de 2Sa_22:30 : «Pues contigo aplastaré ejércitos», o sea, atacará al enemigo» (lba).
+
+Rûts se usa también en el sentido de «huir» de algo o de alguien. en la batalla en contra de Madián, cuando Gedeón y sus valientes derrotaron a un enemigo desprevenido, «todo el ejército [madianita] echó a correr gritando y huyendo» (Jue_7:21 rva). Sin embargo, como con el énfasis anterior, este matiz de «huir» puede usarse en contextos no bélicos. En 1Sa_20:36 el verbo denota dejar apresuradamente a alguien para ir en busca de algo; es decir, «perseguir» en lugar de «huir». Jonatán instruyó a su edecán: «¡Corre y busca las flechas que yo tire!» (lba).
+
+Rûts puede significar «entrar corriendo» a algún lugar, no necesariamente con hostilidad, pero con el fin de incorporarse o esconderse. Por ejemplo, el sabio confiesa: «Torre fortificada es el nombre de Jehová; el justo correrá a ella y estará a salvo» (Pro_18:10 rva). Puede que no se especifique el propósito de «correr», pues el énfasis está sobre la dirección o el camino. En este sentido, «rûts » quiere decir proseguir cierta línea de acción: «Por el camino de tus mandamientos correré» (Sal_119:32 lba).
+
+El término se usa con varias acepciones técnicas. Los reyes y pretendientes al trono demuestran su posición encumbrada con corredores delante de sus carros (2Sa_15:1). Tal vez esto fuera en respuesta directa a la descripción de Samuel en 1Sa_8:11. Los corredores servían también como mensajeros oficiales; fue así que Sadoc dijo: «Correré y daré las buenas noticias al rey, de cómo Jehovah le ha librado de mano de sus enemigos [Absalón]» (2Sa_18:19 rva).
+
+Existen además algunos matices especiales de rûts. En Cnt_1:4 el término tiene algo que ver con hacer el amor, por lo que la traducción «corramos» sea un tanto equivocada. Tal vez se podría traducir como: «Atráeme en pos de ti. ¡Corramos [a hacer el amor]! El rey me ha conducido a sus habitaciones». En Hag 1:9 el vocablo significa «ocuparse»: «Por cuanto mi casa está desierta, y cada uno de vosotros corre a su propia casa». Finalmente, Hab_2:2 usa el verbo con el significado de «leer rápidamente» o con fluidez: «Escribe la visión, y decrárala en tablas, para que corra el que leyere en ella».
+
+B. Nombre
+
+Marûts [[[H4794]]] significa «carrera; curso». Este nombre, que aparece únicamente 4 veces en el hebreo bíblico, representa la forma de correr (2Sa_18:27) y lo que corre (Jer_23:10). 
+

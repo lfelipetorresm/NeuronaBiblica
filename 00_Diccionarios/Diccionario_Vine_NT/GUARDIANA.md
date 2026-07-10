@@ -1,0 +1,12 @@
+---
+titulo: "GUARDIANA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#GUARDIANA"]
+---
+
+# GUARDIANA
+
+neokoros (íåùêüñïò, [[G3511]]), Hch_19:35 : «guardiana del templo» (rv: «honradora»; Besson: «adoradora»; vm: «sumamente adicta al culto»; rvr77 coincide con rvr). Se usa en griego profano de uno que está al cargo de un templo. Las inscripciones en monedas muestran que era un título honorario dado a ciertas ciudades, especialmente en Asia Menor, en las que se hubiera establecido el culto de algún dios o de algún potentado humano deificado. En este versículo, se refiere a éfeso con respecto a la diosa Artemisa o Diana. El culto al emperador también se daba en éfeso. Josefo aplica este término a los judíos como adoradores, pero este no es su significado en Hechos 19:¶ 
+
+

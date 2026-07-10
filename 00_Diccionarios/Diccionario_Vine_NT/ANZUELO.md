@@ -1,0 +1,12 @@
+---
+titulo: "ANZUELO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ANZUELO"]
+---
+
+# ANZUELO
+
+ankistron (ἄãêéóôñïí, [[G44]]), anzuelo de pesca (de ankos, curva; Lat., angulus ; en castellano, ancla está relacionada), se usa en Mat_17:27.¶ En la lxx, 2Re_19:28; Job_40:20; ls 19:8; Eze_32:3; Hab_1:15.¶ 
+
+

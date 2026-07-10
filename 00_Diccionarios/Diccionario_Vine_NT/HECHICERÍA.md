@@ -1,0 +1,14 @@
+---
+titulo: "HECHICERÍA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#HECHICERÍA"]
+---
+
+# HECHICERÍA
+
+(Véase también MAGIA)
+
+farmakia (o –eia) (öáñìáêßá, [[G5331]]), (cf. el término castellano, farmacia, etc.) significaba primariamente la utilización de medicina, fármacos, encantamientos; después, envenenamiento; luego, hechicería (Gál_5:20 : «hechicerías»), mencionadas como una de las obras de la carne. Véase también Apo_9:21; Apo_18:23.¶ En la lxx, Éxo_7:11, Éxo_7:22; Éxo_8:7, Éxo_8:18; Isa_47:9, Isa_47:12.¶ En la hechicería, la utilización de drogas, tanto si eran sencillas como si eran potentes, iba generalmente acompañada de encantamientos e invocaciones a poderes ocultos, de la aplicación de diversos amuletos, etc., todo ello con la pretensión de proteger al paciente de la atención y del poder de los demonios, pero en realidad para impresionar al paciente con los misteriosos recursos y poderes del hechicero. 
+
+

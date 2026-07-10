@@ -1,0 +1,14 @@
+---
+titulo: "OCASIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OCASIÓN"]
+---
+
+# OCASIÓN
+
+aforme (ἀöïñìÞ, [[G874]]), propiamente un punto de salida. Se utilizaba para denotar una base de operaciones bélicas. En el NT aparece con los siguientes usos: «(a) la ley proveyó al pecado de una base de operaciones para su ataque contra el alma (Rom_7:8, Rom_7:11); (b) la conducta irreprochable del apóstol dio a sus amigos una base de operaciones en contra de sus detractores (2Co_5:12); (c) al rehusar el apoyo económico de los corintios, privó a estos detractores de su base de operaciones en contra de él (2Co_11:12); (d) la libertad cristiana no debe constituir una base de operaciones para la carne (Gál_5:13); (e) el comportamiento descuidado de parte de las viudas jóvenes (y ello es aplicable a todos los creyentes) daría a Satanás una base de operaciones contra la fe (1Ti_5:14)» (de Notes on Galatians, por Hogg y Vine, p. 269).
+
+Notas: (1) Para proskope, «ocasión de tropiezo» (2Co_6:3), véase TROPIEZO; (2) kairos, tiempo, sazón, se traduce «ocasiones» en 1Ts_5:1; véanse TIEMPO, y también OPORTUNIDAD; (3) skandalon, tropezadero, tropiezo, ocasión de caer, se traduce «ocasión de caer» en Rom_14:13 (rv: «escándalo»). Véase TROPIEZO, etc.; (4) el verbo skandalizo, tropezar, ser ocasión de tropiezo, se traduce en diversos pasajes como «ser ocasión de caer»; como, p.ej., Mat_5:29-30, etc.; véase TROPEZAR; (5) apobaino, ir desde, se utiliza metafóricamente de acontecimientos, de que algo resulte de alguna manera (Luc_21:13 : «será ocasión»; Fil_1:19 : «resultará»). Véanse DESCENDER, RESULTAR. 
+
+

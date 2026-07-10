@@ -1,0 +1,33 @@
+---
+titulo: "ALUMBRAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ALUMBRAR"]
+---
+
+# ALUMBRAR
+
+A. Verbo
+
+'ôr (àåéø, [[H216]]), «ser luz, rayar (despuntar) el alba, alumbrar, encender». Este verbo se encuentra también en acádico y cananeo. Aunque el vocablo acádico urru significa «luz», por lo general se refiere a «día».
+
+'ôr quiere decir «rayar el alba» en Gén_44:3 : «Cuando rayó el alba, fueron despedidos los hombres con sus asnos». El término significa «alumbrar» en Núm_8:2 : «Las siete lámparas deberán alumbrar hacia la parte delantera del candelabro».
+
+B. Nombres
+
+'ôr (àåéø, [[H216]]), «luz». El primer caso de 'ôr está en el relato de la creación: «Y dijo Dios: Sea la luz; y fue la luz» (Gén_1:3). En este caso, la «luz» es lo contrario de «tinieblas». La contraposición de «luz» y «tinieblas» no es un fenómeno aislado. Aparece a menudo como un mecanismo literario: «¡Ay de los que a lo malo dicen bueno, y a lo bueno malo; que hacen de la luz tinieblas, y de las tinieblas luz; que ponen lo amargo por dulce, y lo dulce por amargo!» (Isa_5:20); también: «Y bramará sobre él en aquel día como bramido del mar: entonces mirará hacia la tierra, y he aquí tinieblas de tribulación, y en sus cielos se oscurecerá la luz» (Isa_5:30). Varios antónimos de 'ôr se usan en hebreo en construcciones paralelas: «El pueblo que andaba en tinieblas vio gran luz: los que moraban en tierra de sombra de muerte, luz resplandeció sobre ellos» (Isa_9:2).
+
+'ôr significa básicamente «el amanecer» (cf. Gén_1:3). Según la forma de pensar de los hebreos, el «día» comenzaba al salir el sol: «Es como la luz matutina cuando sale el sol en un amanecer sin nubes; es como el resplandor tras la lluvia que hace germinar la hierba de la tierra» (2Sa_23:4). La luz de los astros también se conocía como 'ôr : «Y la luz de la luna será como la luz del sol, y la luz del sol siete veces mayor, como la luz de siete días, el día en que vendare Jehová la herida de su pueblo, y curare la llaga que él causó» (Isa_30:26).
+
+Metafóricamente, 'ôr significa la vida en contraposición a la muerte: «Porque has librado mi vida de la muerte y mis pies de la caída, para que ande delante de Dios en la luz de la vida» (Sal_56:13). Andar en el «resplandor» del rostro de un superior (Pro_16:15) o de Dios (Sal_89:15) expresa una vida gozosa y bendecida con una calidad de vida más intensa.
+
+El creyente tiene la seguridad de la «luz» de Dios aun en períodos de dificultad; cf. «Tú, enemiga mía, no te alegres de mí. Aunque caí, me levantaré; aunque more en tinieblas, el Señor será mi luz» (Miq_7:8 nrv ; cf. Sal_23:4).
+
+En la Septuaginta 'ôr se traduce de muchas formas, de las cuales la más frecuente es phos («luz»).
+
+El nombre 'ûr significa «brillo». El término aparece poco y una vez en Isa_50:11 : «He aquí que todos vosotros encendéis el fuego y prendéis las antorchas. ¡Andad a la luz de vuestro propio fuego, y de las antorchas que habéis encendido!» (rva).
+
+'ôrah se refiere a «luz», como en Sal_139:12 : «Aun las tinieblas no encubren de ti, y la noche resplandece como el día. Lo mismo te son las tinieblas que la luz».
+
+Ma'ôr también quiere decir «luz». Este nombre se encuentra unas 20 veces. En Gén_1:16 ma'ôr aparece más de una vez: «E hizo Dios las dos grandes lumbreras: la lumbrera mayor para dominar en el día, y la lumbrera menor para dominar en la noche. Hizo también las estrellas» (rva). 
+

@@ -1,0 +1,25 @@
+---
+titulo: "TRONO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#TRONO"]
+---
+
+# TRONO
+
+kisee' (ëÌÄñÌÅà, [[H3678]]), «trono; asiento». Esta palabra, cuyo significado básico es «asiento de honor», aparece en muchas lenguas semíticas (ugarítico, fenicio, arameo, siríaco, arábigo), así como en antiguo egipcio.
+
+Kisee' aparece 130 veces en el Antiguo Testamento hebraico y, como era de esperarse, es más frecuente en los libros históricos que en los proféticos. Pocas veces se halla en el Pentateuco. El primer caso de kiáe’es en Gén_41:40 : «Tú estarás sobre mi casa, y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú». En hebreo moderno el significado básico es «asiento» y un trono se denomina un «asiento real».
+
+En el Antiguo Testamento kisee' quiere decir básicamente «asiento» o «silla». Se ofrece un «asiento» a visitantes (1Re_2:19), a huéspedes (2Re_4:10) y a hombres de mayor edad (1Sa_1:9). Cuando un rey o los ancianos se reunían para administrar justicia, se sentaban sobre un trono de justicia (Pro_20:8; cf. Sal_9:4). En todos estos contexto kisee' se asocia con honor. Por otro lado, como en el caso de la prostituta (Pro_9:14) o de los soldados que ponen sus sillas (se asientan, acampan) en la entrada de una ciudad, kisee' significa un lugar y nada más (Jer_1:15 : algunas versiones sí lo traducen «trono» o «asiento»; cf. rva, lba, nbe).
+
+El uso más común de kisee' es «trono» o «asiento de honor», que también se conoce como el «asiento real»: «Y cuando se siente sobre el trono de su reino, entonces escribirá para sí en un libro una copia de esta ley, del original que está al cuidado de los sacerdotes levitas» (Deu_17:18; cf. 1Re_1:46). Puesto que la dinastía davídica recibió la bendición de Dios, hay varias menciones en el Antiguo Testamento al «trono de David» (2Sa_3:10; Jer_22:2, Jer_22:30; Jer_36:30): «Lo dilatado de su imperio y la paz no tendrán límite, sobre el trono de David y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora y para siempre» (Isa_9:7). Un sinónimo de «trono de David» es «trono de Israel» (1Re_2:4; cf. 8:20, 25; 9:5; 10:9; 2Re_10:30; 2Re_15:12, etc.).
+
+La apariencia física de un «trono» reflejaba la gloria del rey. El «trono» de Salomón fue una obra de arte con incrustaciones de marfil en madera enchapada de oro fino (1Re_10:18).
+
+El vocablo kisee' también puede representar «realeza» y sucesión al trono. David juró a Salomón que se sentaría sobre su «trono» (1Re_1:13; cf. 2Re_10:3).
+
+Por encima de todos los reyes y «tronos» humanos se encontraba el Dios de Israel: «¡Dios reina sobre las naciones! ¡Dios se ha sentado sobre su santo trono!» (Sal_47:8 rva). Los israelitas percibían a Dios como un monarca sentado sobre un gran «trono». En presencia de Acab y de Josafat, el profeta Micaías dijo: «Oye, pues, palabra de Jehová: Yo vi a Jehová sentado en su trono, y todo el ejército de los cielos estaba junto a él, a su derecha y a su izquierda» (1Re_22:19). Isaías recibió una visión de la gloria de Dios estando en el templo (Isa_6:1). La presencia del Señor en Jerusalén también dio lugar al concepto de que Jerusalén era el trono de Dios (Jer_3:17).
+
+La Septuaginta traduce el término como thronos («trono; dominio; soberanía»). 
+

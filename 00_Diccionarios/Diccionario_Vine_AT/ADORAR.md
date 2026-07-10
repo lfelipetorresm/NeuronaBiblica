@@ -1,0 +1,15 @@
+---
+titulo: "ADORAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ADORAR"]
+---
+
+# ADORAR
+
+shajah (ùÑÈçÈä, [[H7812]]), «adorar, postrarse, bajarse, inclinarse». Esta palabra se encuentra en el hebreo moderno con el sentido de «inclinarse o agacharse», pero no en el sentido general de «adorar». El hecho de encontrarse más de 170 veces en el Antiguo Testamento demuestra un poco de su significado cultural. Lo encontramos por primera vez en Gén_18:2 en donde Abraham «se postró en tierra» delante de los tres mensajeros que le anunciaron que Sara tendría un hijo.
+
+El acto de inclinarse en homenaje o reconocimiento de autoridad y sumisión se hace generalmente delante de un superior o un gobernante. Por eso David se «inclinó» ante Saúl (1Sa_24:8). A veces alguien se inclina ante uno que es social o económicamente superior, como cuando Rut se «inclinó» delante de Booz (Rut_2:10).
+
+José vio en un sueño que las gavillas de sus hermanos se «inclinaban» ante su gavilla (Gén_37:7-10). Shajah es el término que comúnmente se usa para llegar ante Dios en adoración (como en 1Sa_15:25 y Jer_7:2). A veces se usa otro verbo que significa inclinarse físicamente, seguido por «adorar», como en Éxo_34:8 : «Y entonces Moisés, apresurándose, bajó la cabeza hacia el suelo y adoró». Otros dioses e ídolos también son objetos de adoración, postrándose delante de ellos (Isa_2:20; Isa_44:15, Isa_44:17). 
+

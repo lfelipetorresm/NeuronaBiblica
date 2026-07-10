@@ -1,0 +1,12 @@
+---
+titulo: "HOJA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#HOJA"]
+---
+
+# HOJA
+
+fulon (öýëëïí, [[G5444]]), hoja (originalmente fulion, lat., folium ; cf. el término catalán «fulla», castellano hoja; cf. el término relacionado, follaje). Se halla en Mat_21:19; Mat_24:32; Mar_11:13, dos veces; Mar_13:28; Apo_22:2.¶ 
+
+

@@ -1,0 +1,12 @@
+---
+titulo: "OTOÑAL"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OTOÑAL"]
+---
+
+# OTOÑAL
+
+fthinoporinos (öèéíïðùñéíüò, [[G5352]]), adjetivo que significa otoñal (de fthinoporon, la última parte del otoño; de fthino, desgastarse o desvanecerse y opora, otoño). Se utiliza en Jud_1:12, donde a los hombres indignos y carentes de fruto se les describe de manera figurada como árboles tal como se ven a finales de otoño, sin frutos ni hojas (vm: «en otoño»; Besson: «de otoño»).¶ 
+
+

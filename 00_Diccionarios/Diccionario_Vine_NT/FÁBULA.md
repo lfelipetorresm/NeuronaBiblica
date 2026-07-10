@@ -1,0 +1,14 @@
+---
+titulo: "FÁBULA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#FÁBULA"]
+---
+
+# FÁBULA
+
+muthos (ìõ̂èïò, [[G3454]]), significa primeramente habla, conversación. La primera sílaba procede de una raíz mu –, que significa cerrar, mantener secreto, estar callado; de ahí derivan muo, cerrar (ojos, boca) y musterion, secreto, misterio; de ahí, historia, narración, fábula, ficción (castellano, mito). Se usa este término de los errores gnosticos y de las fábulas judaicas y profanas y de las genealogías (1Ti_1:4; 1Ti_4:7; 2Ti_4:4; Tit_1:14); de historias ficticias (2Pe_1:16).¶
+
+Muthos debe ser contrastado con aletheia, verdad, y con logos, historia, narración que se propone exponer hechos acaecidos (p.ej., Mat_28:15 : «dicho»; esto es, un relato, historia, en la que en realidad hay una falsificación de los hechos; Luc_5:15 : «fama»). 
+
+

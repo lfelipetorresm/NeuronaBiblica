@@ -1,0 +1,22 @@
+---
+titulo: "ENEMIGO, ENEMISTAD, ENEMISTAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ENEMIGO,ENEMISTAD,ENEMISTAR"]
+---
+
+# ENEMIGO, ENEMISTAD, ENEMISTAR
+
+A. Adjetivo
+
+ecthros (ἐ÷èñüò, [[G2190]]), adjetivo, denotando primariamente aborrecido u odioso; relacionado con echthos, odio; quizás asociado con ektos, afuera; de ahí, en el sentido activo, denota aborreciente, hostil. Se usa como nombre, significando enemigo, adversario. Se dice: (a) del diablo (Mat_13:19; Luc_10:19); (b) de la muerte (1Co_15:26); (c) del creyente profesante que quisiera hacerse amigo del mundo, haciéndose entonces enemigo de Dios (Stg_4:4); (d) de hombres opuestos a Cristo (Mat_13:25, Mat_13:28; Mat_22:44; Mar_12:36; Luc_19:27; Luc_20:43; Hch_2:35; Rom_11:28; Fil_3:18; Heb_1:13; Heb_10:13); o a sus siervos (Apo_11:5, Apo_11:12); a la nación de Israel (Luc_1:71, Luc_1:74; Luc_19:43); (e) de alguien opuesto a la justicia (Hch_13:10); (f) de Israel en su enajenación de Dios (Rom_11:28); (g) de los no regenerados en su actitud hacia Dios (Rom_5:10; Col_11:21); (h) de los creyentes en su estado anterior (2Ts_3:15); (i) de enemigos (Mat_5:43-44; Mat_10:36; Luc_6:27, Luc_6:35; Rom_12:20; 1Co_15:25); del apóstol Pablo debido a que les decía la verdad a los creyentes (Gál_4:16). Cf. B, enemistad.¶
+
+B. Nombre
+
+ecthra (ἔ÷èñá, [[G2189]]), del adjetivo ecthros (véase A). Se traduce «enemistad» en Rom_8:7; «enemistades» en Gál_5:20; Efe_2:14, Efe_2:16; «enemistad» en Stg_4:4. En Luc_23:12 se traduce como participio: «enemistados», lit: «Habían estado en enemistad». Es el término contrario a agape, amor.¶
+
+C. Verbo
+
+Nota: En Luc_23:12 se traduce el nombre ecthra (véase B) como participio: «estaban enemistados» (lit: en enemistad). 
+
+

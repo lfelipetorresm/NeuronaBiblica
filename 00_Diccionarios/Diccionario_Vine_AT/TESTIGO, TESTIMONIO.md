@@ -1,0 +1,29 @@
+---
+titulo: "TESTIGO, TESTIMONIO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#TESTIGO,TESTIMONIO"]
+---
+
+# TESTIGO, TESTIMONIO
+
+A. Nombre
+
+'ed (òÅã, [[H5707]]), «testigo». Los 69 casos de esta palabra están esparcidos a lo largo de los varios géneros y períodos de la literatura, aun cuando no se encuentra en los escritos históricos fuera del Pentateuco.
+
+El término se relaciona con el campo legal o jurídico. Primero, en el campo de asuntos civiles el vocablo puede referirse a alguien que está presente durante un trámite legal y que puede atestiguar al respecto en caso de necesidad. Por lo general, se trataba de escribanos o notarios; por ejemplo, para constatar un acuerdo verbal sobre traspaso de propiedad: «Y la costumbre en tiempos pasados en Israel tocante a la redención y el intercambio de tierras para confirmar cualquier asunto … Entonces Booz dijo a los ancianos y a todo el pueblo: Vosotros sois testigos hoy de que he comprado de la mano de Noemí todo lo que pertenecía a Elimelec y todo lo que pertenecía a Quelión y a Mahlón» (Rut_4:7, Rut_4:9 lba). Más adelante los «testigos» no solo testificaban en cuanto a la transacción y lo confirmaban oralmente, sino firmaban un documento o escritura legal. Es así como el término adquiere un matiz adicional que indica tanto la capacidad como la disponibilidad del «testigo», lo cual les permite avalar con su firma: «Entregué el documento de la compra a Baruc hijo de Nerías … en presencia de Hanameel, hijo de mi tío, en presencia de los testigos que habían firmado el documento de la compra» (Jer_32:12 rva). Un objeto o un animal podían testificar de la veracidad de una acción o de un acuerdo. Su existencia o aceptación por las partes involucradas servía como «testigo» (así como en el caso de los animales que se entregaron a Abimelec en Gén_21:30): «Ven, pues, ahora, y hagamos pacto tú y yo, y sea por testimonio entre nosotros dos [que atestigüe sobre nuestra mutua relación]» (Gén_31:44 : primer pasaje con el término). Jacob entonces levantó un majano o montículo de piedras como «testimonio» adicional (Gén_31:48) y apela a Dios como «testigo» y juez si el pacto no se cumple.
+
+En el derecho penal mosaico el acusado tiene la facultad de carearse con su acusador y de aportar evidencia en cuanto a su inocencia. En el caso de una mujer recién casada acusada por su marido de adulterio, el testimonio de este es suficiente para comprobar la culpabilidad a menos que los padres de la mujer tengan, antes del matrimonio, claras evidencias de su virginidad (Deu_22:14 ss). Por lo general, confrontaban al acusado con alguien que presenció o escuchó su culpabilidad: «Si alguno pecare por haber sido llamado a testificar, y fuere testigo que vio, o supo, y no lo denunciare, él llevará su pecado» (Lev_5:1). Quien miente en un tribunal de justicia incurre en severas penalidades. El noveno mandamiento puede tener como referencia inmediata un contexto concreto como este (Éxo_20:16). De ser así, sirve para sancionar procedimientos jurídicos concretos, salvaguardar a las personas de acusaciones y condenas secretas y asegurarles su derecho y privilegio de autodefensa. En el intercambio entre Jacob y Labán antes mencionado, el primero también llama a Dios como «testigo» (Gén_31:50), entre ellos, aquel que vigilará las violaciones y, que al mismo tiempo por ser Dios, es Juez. Aunque en la mayoría de los casos los tribunales procuraban separar las funciones de juez y «testigos», estos últimos sí tomaban parte en ejecutar las penas contra los culpables (Deu_17:7), tal como lo hace Dios.
+
+'edût (òÅãåÌú, [[H5715]]), «testimonio; ordenanza». Los 83 casos de esta palabra se encuentran a través de todos los tipos de literatura bíblica y en todos los períodos (desde la Ley sinaítica en adelante).
+
+El vocablo se refiere a los Diez Mandamientos como mandato o deber de origen divino. En particular se refiere a los mandamientos escritos sobre tablas de piedra que perduran como memoria y «testimonio» de la relación de Israel con Dios y su consiguiente responsabilidad: «Y dio a Moisés, cuando acabó de hablar con él en el monte Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Dios» (Éxo_31:18). En otros pasajes, estas tablas se indican solamente como «el testimonio» (Éxo_25:16). Debido a que se guardaban en el arca, esta se llegó a conocer como el «arca del testimonio» (Éxo_25:22) o simplemente «el testimonio»: «Y Aarón lo puso delante del Testimonio para guardarlo, como Jehová lo mandó a Moisés» (Éxo_16:34 : primera mención del vocablo en la Biblia). A veces, al tabernáculo, donde se guardaba el arca con las tablas de la Ley, se le denominaba «tabernáculo del testimonio» (Éxo_38:21) o la «tienda del testimonio» (Núm_9:15).
+
+El término a veces se refiere a toda la Ley de Dios: «La ley de Jehová es perfecta, que convierte el alma: El testimonio de Jehová es fiel, que hace sabio al sencillo» (Sal_19:7). En este caso, 'edût es un paralelismo sinónimo de «ley», por lo que «testimonio» llega a ser paralelo al concepto más amplio de «ley». Las leyes especiales o particulares a veces se denominan «testimonios»: «Guarda los preceptos de Jehová tu Dios, andando en sus caminos, y observando sus estatutos y mandamientos» (1Re_2:3). En Sal_122:4, los peregrinajes festivos anuales se llaman «el testimonio dado a Israel».
+
+B. Verbo
+
+'ûd (òåÌã, [[H5749]]), «aceptar como testigo, testificar, repetir, amonestar, advertir, prometer protección, aliviar o mitigar». El verbo, que aparece 42 veces en la Biblia hebrea, tiene cognados en ugarítico (tal vez), arábigo, arameo, siríaco, fenicio y etiópico.
+
+En 1Re_21:10, 'ûd quiere decir «testificar»: «Y poned a dos hombres perversos delante de él, que atestigüen contra él». En Jer_6:10, el vocablo significa «amonestar»: «¿A quién hablaré y amonestaré, para que oigan?». 
+

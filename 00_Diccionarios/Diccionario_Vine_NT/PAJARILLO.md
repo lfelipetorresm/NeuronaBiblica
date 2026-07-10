@@ -1,0 +1,12 @@
+---
+titulo: "PAJARILLO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PAJARILLO"]
+---
+
+# PAJARILLO
+
+strouthion (óôñïõèßïí, [[G4765]]), diminutivo de strouthos, gorrión. Aparece en Mat_10:29, Mat_10:31; Luc_12:6-7 : «pajarillos».¶ 
+
+

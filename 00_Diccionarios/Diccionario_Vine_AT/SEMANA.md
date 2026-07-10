@@ -1,0 +1,11 @@
+---
+titulo: "SEMANA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SEMANA"]
+---
+
+# SEMANA
+
+shabûa' (ùÑÈáåÌòÇ, [[H7620]]), «semana». Este sustantivo se encuentra unas 20 veces en hebreo bíblico. En Gén_29:27 se refiere a una «semana» entera de ayuno. Éxo_34:22 habla de un festival especial del calendario religioso de Israel: «También celebrarás la fiesta de las semanas [«Pentecostés» rva], la de las primicias de la siega del trigo, y la fiesta de la cosecha a la salida del año». En Lev_12:5 (rva) el término aparece con un doble sufijo para indicar un período de dos semanas: «Si da a luz una hija, será considerada impura y permanecerá aislada durante dos semanas». 
+

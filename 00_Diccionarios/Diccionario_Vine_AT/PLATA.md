@@ -1,0 +1,27 @@
+---
+titulo: "PLATA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PLATA"]
+---
+
+# PLATA
+
+A. Nombre
+
+kesep (ëÌÆñÆó, [[H3701]]), «plata; dinero; precio; propiedad». Este vocablo tiene cognados en acádico, ugarítico, fenicio y arameo. Se encuentra unas 402 veces en hebreo bíblico, durante todos los períodos.
+
+El término se refiere al «mineral plata»: «Quita las escorias de la plata, y saldrá un objeto para el fundidor» (Pro_25:4 rva ; cf. Job_28:1). Kesep también puede expresar el «metal plata», o sea, el mineral refinado: «Y el siervo sacó objetos de plata, objetos de oro» (Gén_24:53 lba). Como metal precioso la «plata» no tuvo tanto valor como el oro (quizás porque no fue tan escasa): «Todos los vasos de beber del rey Salomón eran de oro, y toda la vajilla de la Casa del Bosque del Líbano era de oro fino. Nada era de plata, pues en los días de Salomón esta no era estimada para nada» (1Re_10:21 rva).
+
+Sin embargo, la «plata» a menudo fue una señal de riqueza. Esto es lo que significa kesep en Gén_13:2 (rva, primer caso del término): «Y Abram era muy rico en ganado, en plata y en oro». En lugar de monedas se usaban piezas de «plata»: «Después mandó José que llenaran sus sacos de trigo, y devolviesen el dinero de cada uno de ellos, poniéndolo en su saco» (Gén_42:25). A menudo, cuando se usa en forma absoluta (por sí sola) y en singular, el término quiere decir «piezas de plata»: «He aquí he dado mil monedas de plata a tu hermano» (Gén_20:16). En Lev_25:50 el vocablo tiene el sentido general de «dinero, valor, precio»: «Hará la cuenta con el que lo compró, desde el año de su venta hasta el año del jubileo. Su precio de venta ha de ser establecido conforme al número de años» (rva).
+
+Por ser una forma de riqueza, la «plata» a menudo fue uno de los botines de guerra: «Vinieron los reyes y combatieron; entonces combatieron los reyes de Canaán en Taanac, junto a las aguas de Meguido, ¡pero no se llevaron botín de plata!» (Jue_5:19 rva ; «ganancia alguna de dinero» rvr).
+
+El mismo término puede denotar «propiedad valiosa»: «Mas si sobreviviere por un día o dos, no será castigado, porque es de su propiedad » (Éxo_21:21 rvr ; «porque su dinero es» rv).
+
+A veces kesep representa el color «plata»: «Aunque os recostabais entre los rediles, las alas de la paloma se cubrieron de plata, y sus plumas con la amarillez del oro» (Sal_68:13 rva).
+
+B. Verbo
+
+Kasap significa «anhelar; ansiar; añorar». Algunos estudiosos derivan kesep de este verbo que se encuentra 5 veces en el texto bíblico. Kasap significa «anhelar» (lit. «estar pálido de ansiedad»: «Y ya que te ibas definitivamente porque tenías tanta nostalgia [«añorabas» lba] por la casa de tu padre, ¿por qué me has robado mis dioses?» (Gén_31:30 rva). 
+

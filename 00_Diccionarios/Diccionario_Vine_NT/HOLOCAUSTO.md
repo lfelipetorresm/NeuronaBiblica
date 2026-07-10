@@ -1,0 +1,12 @@
+---
+titulo: "HOLOCAUSTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#HOLOCAUSTO"]
+---
+
+# HOLOCAUSTO
+
+jolokautoma (ὁëïêáýôùìá, [[G3646]]), denota una ofrenda encendida integral (jols, total, integral; kautos, de kaustos, adjetivo verbal derivado de kaio, quemar; cf. el término castellano cauterio, cauterizar, etc.), esto es, una víctima quemada en su totalidad, como en Éxo_30:20; Lev_5:12; Lev_23:8, Lev_23:25, Lev_23:27. En Mar_12:33 lo usa el escriba que preguntó al Señor acerca del primer mandamiento de la Ley, y en Heb_10:6, Heb_10:8. Véase también OFRENDA.¶ 
+
+

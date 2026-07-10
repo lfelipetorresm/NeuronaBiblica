@@ -1,0 +1,16 @@
+---
+titulo: "MARCA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#MARCA"]
+---
+
+# MARCA
+
+1. caragma (÷Üñáãìá, [[G5480]]), denota impresión, marca, y se traduce «marca» en Apo_13:16-17; Apo_14:9, Apo_14:11; Apo_15:2; Apo_16:2; Apo_19:20; Apo_20:4, de la marca de la bestia. En Hch_17:29 : «escultura». Véase ESCULTURA.¶
+
+2. stigma (óôßãìá, [[G4742]]), denota una marca tatuada o hecha mediante un hierro candente (relacionado con stizo, pinchar; cf. el término castellano «estigma»), y se traduce «marcas» en Gál_6:17.¶ «Es probable que el apóstol se refiera aquí a los sufrimientos físicos que había padecido desde que comenzó a proclamar a Jesús como Mesías y Señor (p.ej., en Listra y Filipos). Es probable, también, que su referencia a sus marcas tuviera también la intención de hacer desvanecer la insistencia de los judaizantes sobre una marca corporal que no les costaba nada. Frente a la circuncisión que ellos exigían como prueba de obediencia a la ley, él presentaba las marcas indelebles que habían quedado grabadas sobre su propio cuerpo por su lealtad al Señor Jesús. En cuanto al origen de esta figura de lenguaje, era ciertamente costumbre que un dueño marcara a sus esclavos, pero esta forma de hablar no sugiere que el apóstol hubiera sido marcado por su Señor. De vez en cuando también se marcaba a soldados y a criminales; pero el caso de Pablo no es análogo a ninguno de los aquí descritos. El religioso devoto se imponía una marca peculiar del dios a cuyo culto se dedicaba; y así estaba Pablo señalado con las marcas de su devoción al Señor Jesús. Es cierto que tales marcas estaban prohibidas por la ley (Lev_19:28), pero también es cierto que Pablo no se las había inflingido por sí mismo.
+
+«Las marcas de Jesús no pueden considerarse como las marcas que el Señor lleva sobre su cuerpo como consecuencia de la crucifixión; eran de diferente carácter» (de Notes on Galatians, por Hogg y Vine, p. 344). 
+
+

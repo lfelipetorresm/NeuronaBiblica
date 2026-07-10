@@ -1,0 +1,20 @@
+---
+titulo: "JESÚS"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#JESÚS"]
+---
+
+# JESÚS
+
+iesous (éçóïõò, [[G2424]]), es una transliteración del nombre heb. «Josué», significando «Jehová es salvación»; esto es, «es el Salvador»; era «un nombre común entre los judíos (p.ej., Éxo_17:9; Luc_3:29; Col_4:11). Fue dado al Hijo de Dios en la encarnación como su nombre personal, en obediencia a la orden dada por un ángel a José, el marido de su madre, María, poco antes de que él naciera (Mat_1:21). Es con este nombre que se le designa generalmente en las narraciones evangélicas, pero no sin excepciones, como en Mar_16:19; Luc_7:13, y una docena más de pasajes en este Evangelio, y en unos pocos lugares en el de Juan.
+
+««Jesucristo» aparece solo en Mat_1:1, Mat_1:18; Mat_16:21, margen; Mar_1:1; Jua_1:17; Jua_17:3. En Hechos se halla frecuentemente el nombre «Jesús». «Señor Jesús» se usa normalmente, como en Hch_8:16; Hch_19:5, Hch_19:17; véase también los relatos de las palabras pronunciadas por Esteban (Hch_7:59), por Ananías (Hch_9:17), y por Pablo (Hch_16:31); aunque tanto Pedro (Hch_10:36), como Pablo (Hch_16:18), usaron también «Jesucristo».
+
+»En las epístolas de Santiago, Pedro, Juan y Judas, el nombre personal no se encuentra solo ni una sola vez, pero sí en Apocalipsis, donde se encuentra ocho veces (vm,Hch_1:9; Hch_12:17; Hch_14:12; Hch_17:6; Hch_19:10, dos veces; Hch_20:4; Hch_22:16). En la rvr se exceptúan los dos primeros pasajes, donde aparece el nombre compuesto «Jesucristo» (tr).
+
+»En las Epístolas de Pablo, «Jesús» aparece solo únicamente trece veces, y en Hebreos ocho veces; en esta última, el titulo «Señor» se añade solo una vez (Hch_13:20). En las Epístolas de Santiago, Pedro, Juan y Judas, hombres que acompañaron al Señor en los días de su carne, «Jesucristo» es el orden invariable (en vm) del nombre y título, porque este fue el orden de su experiencia; lo conocieron primero como «Jesús», llegando a aprender, finalmente, en su resurrección, que él era el Mesías. Pero Pablo llegó a conocerlo por primera vez en la gloria celestial (Hch_9:1-6), y siendo así su experiencia la inversa de la de los otros, se halla frecuentemente el orden inverso, «Cristo Jesús», en sus epístolas, pero, exceptuando Hch_24:24, no aparece en ningún otro lugar de la vm .
+
+»En las cartas de Pablo, el orden siempre está en armonía con el contexto. Así, «Cristo Jesús» describe al Excelso que se humilló a sí mismo (Fil_2:5), y da testimonio de su pre-existencia; «Jesucristo» describe al Menospreciado y Rechazado que fue después glorificado (Fil_2:11), y da testimonio de su resurrección. «Cristo Jesús» sugiere su gracia; «Jesucristo» sugiere su gloria» (de Notes on Theáalonians, por Hogg y Vine, pp. 26, 29). 
+
+

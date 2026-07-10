@@ -1,0 +1,30 @@
+---
+titulo: "NOMBRAR, NOMBRE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#NOMBRAR,NOMBRE"]
+---
+
+# NOMBRAR, NOMBRE
+
+A. Verbo
+
+onomazo (ὀíïìÜæù, [[G3687]]), denota: (a) nombrar, mencionar, o llamar por nombre (Hch_19:13 : «invocar»); en voz pasiva (Rom_15:20 : «hubiese sido nombrado»; Efe_1:21 : «que se nombra»; Efe_5:3 : «se nombra»); mencionar el nombre del Señor en alabanza y adoración (2Ti_2:19 : «que invoca»); (b) nombrar, llamar, dar un nombre a (Luc_6:13-14 : «llamó»); voz pasiva (1Co_5:11 : «llamándose»; Efe_3:15 : «toma nombre»). En algunos mss. aparece también en Mar_3:14. En tr aparece en 1Co_5:1 : «se nombra». Véase INVOCAR, LLAMAR, TOMAR NOMBRE.¶
+
+B. Nombre
+
+onoma (ὄíïìá, [[G3686]]), se utiliza: (1) en general del nombre con el que se nombra a una persona o cosa (p.ej., Mar_3:16-17 : «puso por sobrenombre», lit. «añadió el nombre»; Mar_14:32, lit: «cuyo nombre es Getsemaní»); traducido en ocasiones como «llamado» (p.ej., Luc_1:5 : «llamado Zacarías», lit. «de nombre»); en el mismo v: «se llamaba Elisabet», lit. «el nombre de ella», sobrentendiéndose elípticamente «era»; Hch_8:9 : «llamado Simón»; Hch_10:1 : «llamado Cornelio», lit. «por nombre Cornelio». El nombre se da en lugar de la realidad en Apo_3:1. En Fil_2:9, el nombre representa «el título y la dignidad» del Señor, como en Efe_1:21 y Heb_1:4;
+
+(II) de todo lo que un nombre implica, de autoridad, carácter, rango, majestad, poder, excelencia, etc., de todo lo que el nombre cubre; (a) del nombre de Dios como expresión de sus atributos, etc. (p.ej., Mat_6:9; Luc_1:49; Jua_12:28; Jua_17:6, Jua_17:26; Rom_15:9; 1Ti_6:1; Heb_13:15; Apo_13:6); (b) del nombre de Cristo (p.ej., Mat_10:22; Mat_19:29; Jua_1:12; Jua_2:23; Jua_3:18; Hch_26:9; Rom_1:5; Stg_2:7; 1Jn_3:23; 1Jn_3:3 Juan 7 ; Apo_2:13; Apo_3:8); también las frases traducidas «en el nombre»; estas pueden ser analizadas como sigue: (1) representando la autoridad de Cristo (p.ej., Mat_18:5; con epi, «sobre la base de mi autoridad»); así en Mat_18:5, falsamente, y en pasajes paralelos; como acreditado por el Padre (Jua_14:26; Jua_16:23, última cláusula); (2) en el poder de (con en, en; p.ej., Mar_16:17; Luc_10:17; Hch_3:6; Hch_4:10; Hch_16:18; Stg_5:14); (3) en reconocimiento o confesión de (p.ej., Hch_4:12; Hch_8:16; Hch_9:27-28); (4) en reconocimiento de la autoridad de, en ocasiones combinado con el pensamiento de apoyarse o reposar sobre (Mat_18:20; cf. 28:19; Hch_8:16; Hch_9:2, eis, hacia, hacia dentro; Jua_14:13; Jua_15:16; Efe_5:20; Col_3:17); (5) debido al hecho de que uno sea llamado por el nombre de Cristo o a que sea identificado con él (p.ej., 1Pe_4:14, con en, en); con jeneken, por causa de (p.ej., Mat_19:29); con dia, a causa de, debido a (Mat_10:22; Mat_24:9; Mar_13:13; Luc_21:17; Jua_15:21; 1Jn_2:12; Apo_2:3). Para 1Pe_4:16, véase Nota más abajo;
+
+(III) significando personas, por metonimia (Hch_1:15), lit: «la multitud de nombres», traducido en rvr como «en número»; Apo_3:4 : «unas pocas personas», lit: «unos pocos nombres»; Apo_11:13 : «siete mil hombres», lit. «nombres de hombres siete mil».
+
+Nota: En Mar_9:41, la utilización de la frase en junto con el caso dativo de onoma (como aparece en los mss. más comúnmente aceptados) sugiere la idea de «por razón de» o «sobre la base de»; esto es, «debido a que sois mis discípulos»; 1Pe_4:16 : «en este nombre», véase vm, siguiendo los mss. más comúnmente aceptados, puede tomarse de la misma forma.
+
+C. Adjetivo
+
+eufemos (åὔöçìïò, [[G2163]]), «de buen nombre» (Fil_4:8), se trata bajo BUENO, C, Nº 6.¶
+
+Nota: juper, con el genitivo, se utiliza en 2Co_5:20 en sentido de «en representación», traducido «en nombre de Cristo». En otros pasajes esta misma construcción se traduce «por» (p.ej., Mat_5:44; Mar_9:40; Mar_14:24, etc.); «por causa» (Hch_5:41); «por amor de» (Rom_1:5); «por causa de» (1Co_4:6); «por amor a» o «por amor de» (2Co_12:10, 2Co_12:15); «en lugar» (Flm_1:3); «a favor» (Heb_5:1, etc.). 
+
+

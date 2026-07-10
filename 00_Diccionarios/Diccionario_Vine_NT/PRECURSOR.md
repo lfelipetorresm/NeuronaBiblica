@@ -1,0 +1,12 @@
+---
+titulo: "PRECURSOR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PRECURSOR"]
+---
+
+# PRECURSOR
+
+prodromos (ðñüäñïìïò, [[G4274]]), adjetivo que significa corredor delante, que va por delante. Se utiliza como nombre, de aquellos que eran enviados por adelantado para reconocer el terreno, actuando como exploradores, especialmente en campañas militares; o de uno enviado con vistas a la llegada de un rey, para cerciorarse de que el camino estaba dispuesto (Isa_40:3; cf. Luc_9:52); y, dicho de Juan el Bautista (Mat_11:10, etc.). En el NT se dice de Cristo en Heb_6:20, como el que va por delante de sus seguidores, que han de estar donde él está cuando venga a recibirlos a sí mismo.¶ En la lxx, Núm_13:21 : «reconocedores de la vid»; Isa_28:4 : «higo temprano».¶ 
+
+

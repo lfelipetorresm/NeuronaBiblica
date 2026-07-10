@@ -1,0 +1,24 @@
+---
+titulo: "DÍA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DÍA"]
+---
+
+# DÍA
+
+jemera (ἠìÝñá, [[G2250]]), día. Se usa: (a) del período de luz natural (Gén_1:5; Pro_4:18; Mar_4:35); (b) lo mismo, pero de forma figurada, de un período de oportunidad para el servicio (Jua_9:4; Rom_13:13); (c) un período en que se alternan la luz y las tinieblas (Gén_1:5; Mar_1:13); (d) un período de duración indefinida marcado por ciertas características, como «el día de las pequeñeces»; de angustia y de dolor (Isa_17:11; Abd_1:12-14); de prosperidad y de adversidad (Ecl_7:14); de prueba (Sal_95:8); de salvación (Isa_49:8; 2Co_6:2; cf. Luc_19:42); de mal (Efe_6:13); de ira y revelación del juicio de Dios (Rom_2:5); (e) un tiempo señalado (Ecl_8:6; Efe_4:30); (f) una notable derrota en el campo de batalla, etc. (Isa_9:4; Sal_137:7; Eze_30:9; Ose_1:11); (g) por metonimia, equivale a «cuando», «en el tiempo en que»: (1) del pasado (Gén_2:4; Núm_3:13; Deu_4:10); (2) del futuro (Gén_2:17; Rut_4:5; Mat_24:50; Luc_1:20); (h) un juicio o condenación (Job_18:20); (i) de un tiempo de vida (Luc_1:17-18 : «años»). (De Notes on Theáalonians, por Hogg y Vine, pp. 150,151.)
+
+ Así como el día arroja luz sobre las cosas que han estado en tinieblas, la palabra se asocia a menudo con el pronunciamiento de juicio sobre circunstancias. En 1Co_4:3 : «el tribunal humano», lit: «el día humano», denota el juicio meramente humano sobre asuntos («humano» traduce el adjetivo anthropinos), juicio que se ejerce en el presente período de la rebelión humana contra Dios; probablemente por ello el «Día del Señor» (Apo_1:10, donde se usa similarmente un adjetivo, kuriakos) sea el día de su juicio abierto sobre el mundo.
+
+Las frases «el día de Cristo» (Fil_1:10; Fil_2:16); «el día de Jesucristo» (Fil_1:6); «el día del Señor Jesús» (1Co_5:5; 2Co_1:14); «el día de nuestro Señor Jesucristo» (1Co_1:8), denotan el tiempo de la parusía de Cristo con sus santos, después del arrebatamiento (1Ts_4:16-17). En 2Pe_1:19 esto es simplemente mencionado como «el día» (véase LUCERO DE LA MAÑANA).
+
+De todo ello se tiene que destacar la frase «el día del Señor»; en el AT se refiere a un tiempo de interposición victoriosa por parte de Dios para el aplastamiento de los enemigos de Israel (p.ej., Isa_2:12; Amó_5:18); si Israel transgredía en la soberbia de sus corazones, el día del Señor sería un tiempo de tinieblas y de juicio. Pero para sus enemigos, sin embargo, vendría «el día grande y espantoso de Jehová» (Joe_2:31; Mal_4:5). Aquel período, todavía futuro, verá el derrumbamiento total del poder gentil y el establecimiento del reinado del Mesías (Isa_13:9-11; Isa_34:8; Dan_2:34, Dan_2:44; Abd_1:15; cf. Isa_61:2; Jua_8:56).
+
+En el NT, el «día del Señor» se menciona en 1Ts_5:2 y en 2Ts_2:2, donde la advertencia del apóstol es que la iglesia en Tesalónica no debiera dejarse engañar a pensar que «el día del Señor ha llegado (rvr77; aquí, la rv y la rvr traducen equivocadamente: «está cerca», y la vm: «como si estuviese inmediato»). El tenor general de la enseñanza del Nuevo Testamento es, que el día del Señor está cerca, inminente. Aquí, el apóstol indica que no ha llegado, que no vivimos en él. Este período no tendrá comienzo hasta que se den las circunstancias mencionadas en los vv. 3 y 4.
+
+Para el desarrollo consiguiente de los propósitos divinos en relación con la raza humana, véase 2Pe_3:12 : «el día de Dios».
+
+Notas: (1) aurion, mañana, se traduce «día de mañana» en Mat_6:34 (dos veces); «otro día» en Luc_10:35; «día siguiente» en Hch_4:3, Hch_4:5, véase MAÑANA; (2) deuteraios se traduce en Hch_28:13 como «segundo día», véase SEGUNDO; (3) jeorte, fiesta, se traduce «día de la fiesta» en Mat_27:15; Mar_15:6; Col_2:16; véase FIESTA; (4) epaurion, que denota mañana, se traduce en casi todas las ocasiones en que aparece en la rvr como «al día siguiente»; en tres casos se traduce como «al otro día» (Mat_27:62; Mar_11:12; Jua_1:29, Jua_1:35, Jua_1:43; Jua_6:22; Jua_12:12; Hch_10:9, Hch_10:23-24; Hch_14:20; Hch_20:7; Hch_21:8; Hch_22:30; Hch_23:32; Hch_25:6, Hch_25:23);¶ (5) epiousios, véase CADA, Nº 4; (6) efemeros, véase CADA, Nº 5; (7) eco se traduce en Hch_21:26 como «al día siguiente» como traducción de te ecomenei, donde jemera, día, se sobreentiende; véase TENER; (8) nucthemeron, adjetivo que denota duración de un día y una noche (de nux, noche, y jemera, día), se usa en 2Co_11:25¶; (9) oktaemeros, octavo día, véase OCTAVO; (10) orthrios aparece en algunos mss. (tr), en Luc_24:22, de las mujeres en el sepulcro; los mss. más acreditados tienen la forma orthrinos, lit: tempranas;¶ (11) sabbaton, sábado, se traduce en la rvr casi siempre como día de reposo; véase; (12) semeron, véase HOY, se traduce como «día de hoy» (Mat_11:23; Mat_27:8; Mat_28:15; Rom_11:8; 2Co_3:14-15), como traducción de la frase compuesta con el artículo determinado, je semeron ; (13) tetrartaios, véase CUATRO. 
+
+

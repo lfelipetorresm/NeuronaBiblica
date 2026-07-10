@@ -1,0 +1,14 @@
+---
+titulo: "INVISIBLE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INVISIBLE"]
+---
+
+# INVISIBLE
+
+aoratos (ἀüñáôïò, [[G517]]), lit: no visto (a, privativo; jorao, ver). Se traduce «invisible» en Rom_1:20, del poder y deidad de Dios; del mismo Dios (Col_1:15; 1Ti_1:17; Heb_11:27); de cosas invisibles (Col_1:16).¶ En la lxx, Gén_1:2; Isa_45:3 : «tesoros invisibles» (escondidos, en rvr).¶
+
+Nota: El término afantos (Luc_24:31), que se traduce en la rvr «se desapareció», es en realidad un adjetivo, «invisible», usado con el verbo ginomai, volverse, venir a ser, y, seguido por apo, de (ablativo), con el pronombre personal. En la vm se traduce «él se hizo invisible a ellos»; la rvr77 da esta traducción en el margen. Cf. el verbo afanizo ; véase DESVANECER, etc. 
+
+

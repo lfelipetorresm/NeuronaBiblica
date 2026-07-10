@@ -1,0 +1,14 @@
+---
+titulo: "MAÑANA (DÍA SIGUIENTE)"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#MAÑANA(DÍASIGUIENTE)"]
+---
+
+# MAÑANA (DÍA SIGUIENTE)
+
+aurion (áὔñéïí, [[G839]]), se usa bien sin el artículo (p.ej., Mat_6:30; 1Co_15:32; Stg_4:13 : «mañana»); o con el artículo en género femenino, para concordar con jemera, día (p.ej., Mat_6:34 : «el día de mañana»; Hch_4:3 : «el dia siguiente»; Stg_4:14, traducido meramente «mañana», rv, rvr; rvr77: «el mañana»; vm: «el día de mañana»); preced ido por epi, sobre (p.ej., Luc_10:35 : «otro día», rv, rvr; rvr77: «al día siguiente; vm: «al otro día»; Besson: «al día siguiente»; Hch_4:5 : «al día siguiente»). Véanse OTRO.
+
+Nota: El verbo eco se usa en Luc_13:33, en el sentido de vecindad, para denotar «siguiente», refiriéndose elípticamente a un día siguiente al mencionado, lit: «hoy y mañana y en el siguiente» (F. Lacueva, Nuevo Testamento Interlineal, loc. cit.), traducido «pasado mañana» en rv, rvr, rvr77 (vm traduce «pasado», dejando «mañana» en cursivas). Véanse PRONTO, VECINO, etc. 
+
+

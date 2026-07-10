@@ -1,0 +1,12 @@
+---
+titulo: "DIADEMA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#DIADEMA"]
+---
+
+# DIADEMA
+
+diadema (äéÜäçìá, [[G1238]]), se deriva de diadeo, atar alrededor. Era el ornato regio para la cabeza y se usaba especialmente de la banda azul marcada con blanco, usada para ligar el turbante o la tiara de los reyes de Persia. Fue adoptada por Alejandro Magno y por sus sucesores. Entre los griegos y romanos era la marca distintiva de condición regia. Diocleciano fue el primer emperador romano en usarla constantemente. Esta palabra se usa en Apo_12:3; Apo_13:1; Apo_19:12, simbolizando en todos estos pasajes, respectivamente, el gobierno del Dragón, de la Bestia y de Cristo.¶ En la lxx, Est_1:11; Est_2:17; en algunos mss. en 6:8 y 8:15; también en Isa_62:3.¶ En cuanto a la distinción entre diadema y stefanos, véase CORONA. 
+
+

@@ -1,0 +1,12 @@
+---
+titulo: "SABACTANI, SABACHTANI, SABACHTHANI"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#SABACTANI,SABACHTANI,SABACHTHANI"]
+---
+
+# SABACTANI, SABACHTANI, SABACHTHANI
+
+sabacthani o sabacthanei (óáâá÷èáíß, [[G4528]]), palabra aramea que significa: «Tú me has abandonado», aparece como parte de las palabras dichas por Cristo en la cruz (Mat_27:46; Mar_15:34; cita del Sal_22:1). Traducciones recientemente propuestas que difieren de las dadas en rv, vm, Besson, nvi, Nº C., etc., no han quedado lo suficientemente establecidas como para demandar aceptación. 
+
+

@@ -1,0 +1,15 @@
+---
+titulo: "LANZAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#LANZAR"]
+---
+
+# LANZAR
+
+shalak (ùÑÈìÇêÀ, [[H7993]]), «lanzar, arrojar, tirar, derribar». Al parecer, esta raíz se usa principalmente en hebreo, antiguo y moderno. Shalak se encuentra 125 veces en la Biblia hebrea. La primera vez que se usa en el Antiguo Testamento es en Gén_21:15, donde se dice que Agar «echó al muchacho [Ismael] debajo de un árbol» (rv ; «recostó» rva ; «dejó» lba).
+
+El término se usa para describir el acto de «lanzar» o «arrojar» algún objeto tangible: Moisés «arrojó» un árbol al agua para endulzarlo (Éxo_15:25 rva); Aarón pretendió que había «echado» oro en el fuego «y salió este becerro» (Éxo_32:24). Los árboles «dejan caer» o «arrojan» sus flores marchitas (Job_15:33).
+
+Shalak indica rechazo en Lam_2:1 (rva): «El Señor … derribó del cielo a la tierra el esplendor de Israel». El vocablo se usa metafóricamente en Sal_55:22 (lba): «Echa sobre el Señor tu carga». 
+

@@ -1,0 +1,12 @@
+---
+titulo: "JASPE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#JASPE"]
+---
+
+# JASPE
+
+iaspis (ἴáóðéò, [[G2393]]), palabra fenicia (cf. el término heb. yashfeh, p.ej., Éxo_28:20; Éxo_39:16), parece haber designado una piedra transparente de varios colores, especialmente de color de fuego (Apo_4:3; Apo_21:1, Apo_21:18-19). El sardio y el jaspe, de colores similares, eran las piedras primera y última, respectivamente, del pectoral del sumo sacerdote (Éxo_28:17, Éxo_28:20).¶ 
+
+

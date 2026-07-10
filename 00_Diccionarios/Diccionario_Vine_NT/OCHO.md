@@ -1,0 +1,12 @@
+---
+titulo: "OCHO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#OCHO"]
+---
+
+# OCHO
+
+okto (ὀêôþ, [[G3638]]), ocho (latín, octo, octavus ; castellano ocho, octavo, octubre, etc.). Se utiliza en Luc_2:21; Luc_9:28; Jua_20:26; Hch_9:33; Hch_25:6; 1Pe_3:20; en composición con otros numerales, okto kai deka, lit., ocho y diez, dieciocho (Luc_13:4, Luc_13:11, Luc_13:16); triakonta kai okto, treinta y ocho (Jua_5:5).¶ 
+
+

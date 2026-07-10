@@ -1,0 +1,988 @@
+---
+titulo: "Cauces del Razonamiento - Parte 2"
+autor: "Ricardo García Damborenea"
+fuente: "CAUCECOMPLETO.pdf"
+tipo: "documento_neuronal"
+tema: "Lógica y Razonamiento"
+estado: Procesado
+paginas: "17 a 32"
+etiquetas: ["#Logica", "#Razonamiento", "#Argumentacion"]
+---
+
+# Cauces del Razonamiento - Parte 2 (Páginas 17 a 32)
+
+
+
+## Página 17
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+17
+Entonces, ¿cómo lo hacía Sócrates? Obligaba al propio interlocutor a testimoniar en su favor y no 
+necesitaba ningún otro testigo. Por eso podía decir: "Los demás, a paseo; a mí me basta como 
+testigo mi interlocutor.8  
+  
+En general podemos decir: dado que toda la argumentación práctica se corta a la medida 
+del auditorio y se apoya en sus convicciones, todo [[argumento]] práctico (moral, jurídico, 
+político, filosófico) que pretenda ser persuasivo, es un [[argumento]] ex concessis, esto es, 
+se apoya en principios aceptados por la audiencia. 
+  
+Las posibilidades de argumentación dependen de lo que cada uno está dispuesto a conceder, de los 
+valores que reconoce, de los hechos sobre los que señala su conformidad; por consiguiente, toda 
+argumentación es una argumentación "ad hominem" o "ex concessis". PERELMAN. 
+  
+No se puede persuadir a nadie a partir de [[premisas]] que desconoce o rechaza. Sería como 
+discutir con un topo los encantos del paisaje. Si pretendemos porfiar con un nacionalista 
+catalán no podremos convencerle de que Cataluña es España por muchas razones que 
+aportemos para justificarlo. Cuando no se comparten los principios el debate se 
+convierte en un diálogo de sordos. Necesitaríamos argumentar a partir de algo en lo que 
+nuestro adversario esté de acuerdo: si él piensa que la grandeza de la patria está 
+vinculada a la independencia, podríamos intentar persuadirlo de que la grandeza 
+económica, educativa y cultural de Cataluña sólo se pueden alcanzar en el seno de 
+España; la independencia cuando no se está en condiciones de competir es una vía 
+segura hacia la miseria, etc. 
+  
+Si encuentro algún cuáquero, le diré: Puesto que amas a tus semejantes no dejes que la tiranía los 
+asesine. Quieres la paz. ¡Pues bien! la debilidad provoca la guerra; una resistencia general sería la 
+paz universal. MIRABEAU. 
+  
+Colectivo Gays-Lesbianas al Presidente de la Conferencia Episcopal— La homosexualidad forma 
+parte de la naturaleza y en consecuencia de la voluntad de Dios para con el mundo.9  
+  
+Ustedes, los eclesiásticos, no debieran alinearse con ningún partido político, porque la Iglesia es 
+universal. 
+  
+Es el modelo de argumentación más persuasivo porque está cortado a la medida del 
+interlocutor aunque carezca de valor en el caso de que se dirija a otro adversario o a otro 
+auditorio. Al dirigirnos a una audiencia plural, ofrecemos varios [[argumentos]] para que 
+cada interlocutor escoja y adopte aquél o aquellos que más le persuadan. 
+  
+No hay cosa más propia del hombre prudente que usar de forma adecuada y hábil el lenguaje, 
+según sea preciso, con muchos, con pocos, con eruditos, con rudos, con un igual, con un inferior, 
+con un menor, observando el tiempo y lugar, así se hable y se trate de cualquier cosa.10  
+  
+FRANCISCO FRUTOS— Si me dirijo a los trabajadores defenderé las ventajas que obtendrán con una 
+ley sobre la jornada de veinticinco horas semanales, pero si me dirijo a los empresarios, apelaré a 
+sus sentido de la justicia y a sus convicciones humanitarias. 
+  
+                                                 
+8 Epicteto II, XII, 5. 
+9 Diario El Mundo. 
+10 Vives 
+
+
+## Página 18
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+18
+Tito Livio muestra con mucha elegancia cómo se debe argumentar en función del 
+interlocutor: 
+  
+Aníbal [tras cruzar los Alpes], empleó toda clase de exhortaciones para animar aquélla confusa 
+mezcla de hombres que nada tenían en común, ni la lengua, ni las costumbres, ni las leyes, ni las 
+armas, ni los trajes, ni el aspecto ni los intereses. A los auxiliares les habló de alta paga por el 
+momento y ricos despojos en el repartimiento del botín. Hablando a los galos, avivó en su ánimo el 
+fuego de aquel odio nacional y natural que alimentaban contra Roma. A los ojos de los ligures hizo 
+brillar la esperanza  de cambiar sus abruptas montañas por las fértiles llanuras de Italia. Asustó a 
+los moros y númidas con el cuadro del cruel despotismo con que los abrumaría Masinissa; y 
+dirigiéndose a los demás les señalaba otros temores y otras esperanzas. A los cartagineses habló 
+de las murallas de la patria, de los dioses penates, de los sepulcros de sus padres, de sus hijos, de 
+sus parientes, de sus esposas desoladas.11  
+  
+No debemos confundir el [[argumento]] ad hominem con la [[falacia]] ad Hominem. Ésta no 
+pretende argumentar, sino atacar al adversario. 
+  
+ En el apartado Manera de pensar, figura el capítulo ¿qué es un buen [[argumento]]? 
+                                                 
+11 Tito Livio XXX. 
+
+
+## Página 19
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+19
+_________________________________________________________________ 
+RESUMEN DE LA INTRODUCCIÓN A LOS CAUCES DEL 
+[[RAZONAMIENTO]] 
+  
+I. Razón es la proposición que se aduce en favor de otra. 
+   [[Argumento]] es el conjunto de razones ([[premisas]]) que sostienen una proposición. 
+ 
+II. Las [[premisas]] pueden ser de dos tipos: 
+a. Datos nacidos de alguna observación. 
+b. Garantías que justifiquen el paso de los datos a la [[conclusión]]. Empleamos 
+generalizaciones, creencias, definiciones, leyes, normas, valores. 
+ 
+III. Hay una, y sólo una [[conclusión]] para cada [[argumento]]. 
+En algunos [[argumentos]] basta una [[premisa]] para justificar la [[conclusión]] (inmediatos). 
+La mayoría, sin embargo, exigen dos o más (mediatos). 
+ 
+IV. Opinión es una proposición no fundamentada. 
+[[Razonamiento]] es la operación mental de la que surge el [[argumento]]. 
+Explicación es un [[razonamiento]] que ilustra una proposición, aunque puede servir 
+para probarla. 
+ 
+V. Argumentación es el conjunto de [[argumentos]] que conducen a una misma [[conclusión]]. 
+Argumentario es el repertorio de [[argumentos]] disponibles para ello. 
+Las formas principales de argumentación son dos: 
+a. La Suma de [[argumentos]] de distintos orígenes. 
+b. El Sorites o cadena de [[argumentos]], que admite dos tipos: el primero, que dice otra 
+cosa del mismo sujeto, y el segundo, que dice lo mismo pero de otro sujeto. 
+ 
+VI. La carga de la prueba, es decir, la responsabilidad de justificar lo que se afirma, corresponde 
+a quien propone la tesis. Trasladar la carga de la prueba significa transferir, con razón o sin ella, 
+dicha responsabilidad al oponente. 
+ 
+VII. El Epiquerema es una argumentación que comprende, además de las [[premisas]] básicas, sus 
+justificaciones. 
+ 
+VIII. Según la seguridad con que se afirma la verdad de las cosas, los [[juicios]] pueden ser: 
+necesarios y contingentes. 
+ 
+IX. La [[demostración]] puede ser directa o indirecta. Llamamos directa a la que aporta pruebas en 
+favor de la [[conclusión]]. La [[demostración]] indirecta prueba que cualquier tesis alternativa es falsa. 
+Podemos realizarla por eliminación y por reducción al absurdo. 
+La reducción al absurdo es una prueba indirecta que acepta provisionalmente la tesis 
+contradictoria para mostrar que si fuera cierta produciría consecuencias imposibles o 
+inaceptables. 
+ 
+X. Refutar es rechazar un [[argumento]] por ser falaz o no resultar concluyente. Se puede efectuar 
+por varios caminos: contradicción, concesión aparente, retorsión y reducción al absurdo. 
+ 
+XI. Argumentación ad hominem es la que se corta a la medida del interlocutor. 
+______________________________________________________________________ 
+  
+
+
+## Página 20
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+20
+ 
+ 
+LAS FORMAS BÁSICAS DE [[INFERENCIA]]: 
+[[INDUCCIÓN]], [[DEDUCCIÓN]] E HIPÓTESIS 
+  
+  
+  Discurrir consiste en establecer una relación de dependencia convincente entre los datos 
+disponibles y nuestra [[conclusión]]. A esta relación la llamamos [[inferencia]]. No basta con 
+acumular enunciados. Si no se siguen unos de otros, no existe [[inferencia]]. Razonar es inferir 
+y podemos hacerlo, siguiendo a los viejos maestros, por tres caminos: [[inducción]], 
+[[deducción]] e hipótesis. 
+  
+La [[inferencia]] inductiva parte de casos que nos parecen semejantes en algo para alcanzar 
+[[conclusiones]] que generalizan dicha semejanza. Si usted observa que cada iglesia románica 
+que visita está en el Norte de España, podrá generalizar (inducir) que  todas las iglesias 
+románicas están en el Norte. 
+  
+La [[inferencia]] deductiva opera al revés. Si lo que uno afirma como [[conclusión]] se refiere 
+a un caso dudoso, por ejemplo: Supongo que la iglesia de Frómista está en el Norte, 
+podrá sostenerlo buscando amparo en una regla (generalización) conocida: 
+  
+ 
+   Todas las Iglesias románicas están en el Norte. 
+ 
+   La iglesia de Frómista es románica. 
+ 
+   Luego la iglesia de Frómista está en el Norte. 
+  
+Del contenido de las [[premisas]] deducimos la consecuencia. Aquí no es necesaria la 
+observación. Nos apoyamos en lo conocido. Por eso, aunque no conozcamos Frómista ni 
+de nombre, sabemos que si las [[premisas]] son ciertas la [[conclusión]] ha de serlo también, 
+porque deriva necesariamente de ellas (está prefigurada en ellas).  
+  
+ 
+   Y el señor Gundisalvo, al parecer, es diputado, 
+ 
+   Luego el señor Gundisalvo tiene al menos 35 años. 
+     Según me dicen, todos los diputados tienen al menos 35 años, 
+ 
+Si uno logra que le acepten las [[premisas]], todo el trabajo está hecho. El [[argumento]] es tan 
+fuerte que la [[conclusión]] no se puede rechazar. 
+  
+La [[inferencia]] hipotética, trata de explicar los hechos. Por ejemplo: En pleno invierno y 
+tras un puente festivo aparece Marta en la oficina con un saludable bronceado. No sabemos 
+nada más, pero a partir de ese dato concluimos instantáneamente que ha estado esquiando. 
+Tal vez nos equivoquemos, pero amparados en lo que sabemos de Marta, hemos escogido 
+la mejor explicación. No es una [[inducción]]; tampoco se trata de una [[deducción]]. Da la 
+impresión de que nos inventamos las cosas, pero si tuviéramos que justificar la [[conclusión]] 
+podríamos razonarla: Se ha puesto morena en pocos días, estamos en invierno, le gusta 
+esquiar... La explicación más probable para estos datos es que haya estado en la nieve. Por 
+eso concluimos tentativa, hipotética, provisionalmente, mientras no dispongamos de más 
+
+
+## Página 21
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+21
+información, que Marta ha pasado el puente festivo esquiando. Hemos realizado una 
+hipótesis razonable. Los hechos podrán confirmarla o no pero, hasta entonces, es la mejor 
+explicación disponible. La mayoría de los [[argumentos]] que encontramos en el mundo de 
+cada día son hipotéticos. 
+  
+Hace un siglo que Pierce ideó, para estas tres formas de discurrir, un buen ejemplo que 
+transcurre en una tienda de ultramarinos: 
+  
+Si veo que de un saco extraen un puñado de alubias y todas son blancas, induzco que todas las 
+alubias del saco son blancas. 
+Si me dan un paquete cerrado con alubias que proceden del mismo saco, deduzco, sin verlas, que 
+son blancas.  
+Si me dan un puñado de alubias y son blancas, supongo que proceden del conocido saco de las 
+alubias blancas (digo supongo porque tal vez existan otros sacos aunque yo no lo sepa). 
+  
+Si escribimos lo mismo en forma esquemática quedaría como sigue: 
+  
+ 
+[[Inducción]]: Cada alubia que sale del saco es blanca. 
+ 
+ 
+ 
+Luego todas las alubias del saco son blancas. 
+ 
+ 
+[[Deducción]]: Todas las alubias de ese saco son blancas. 
+ 
+ 
+ 
+Este paquete contiene alubias de dicho saco. 
+ 
+ 
+ 
+Luego las alubias de este paquete son blancas. 
+ 
+ 
+Hipótesis: Todas las alubias de ese saco son blancas. 
+ 
+ 
+ 
+Las alubias que me dan son blancas. 
+ 
+ 
+ 
+Luego puedo presumir que vienen de dicho saco. 
+  
+En general, los [[argumentos]] basados en la experiencia u observación se expresan mejor 
+inductivamente y se sostienen mostrando los casos individuales: 
+  
+ 
+   Se matriculan más coches en Barcelona que en el resto de Cataluña: he aquí las cifras. 
+  
+Los [[argumentos]] que se amparan en leyes, reglas, definiciones, u otros principios 
+ampliamente aceptados se expresan mejor deductivamente, mostrando que se puede 
+aplicar la ley, la regla o la definición, al caso de que se trate: 
+  
+ 
+   Los valencianos son españoles, porque Valencia está en España. 
+ 
+   Si vas a comprar merluza necesitarás más dinero, porque está a 12 € el kilo. 
+  
+Los [[argumentos]] que dan cuenta de informaciones fragmentarias o de signos, no tienen 
+mejor camino que la hipótesis, y se defienden aportando razones que hagan plausibles 
+nuestras [[conclusiones]]: 
+  
+ 
+   Supuse que había un incendio porque ví salir humo por la ventana. 
+ 
+   Creí que no habías vuelto porque estaba la luz apagada. 
+ 
+   
+Es obvio que muchas cosas se pueden argumentar tanto inductiva como deductivamente. 
+Un niño puede observar que cada vez que se mete en la bañera asciende el nivel del líquido 
+(¡incluso hasta derramarse fuera!). Quien conoce las leyes de Arquímedes puede llegar a la 
+
+
+## Página 22
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+22
+misma [[conclusión]] sin recurrir a la experiencia. Claro está que ello exige que alguien (tal 
+vez Arquímedes) se haya metido varias veces en la bañera para establecer la ley que los 
+demás aplicamos, por ejemplo, en el baño de los niños. Tanto la [[inducción]] como la 
+[[deducción]] examinan el mismo fenómeno (alguien se mete en la bañera) y la misma con-
+secuencia (asciende el nivel del agua). La hipótesis recorre el camino al revés: si sube el 
+nivel del líquido, tal vez sea que alguien se baña. Si usted observa que cae agua por el 
+techo de su cuarto de baño exclamará hipotéticamente: Ya se ha metido el gordo del piso 
+de arriba en la bañera.  
+ 
+______________________________________________________________ 
+ Resumen 
+  
+I. 
+[[Inferencia]] es la relación de dependencia que establecemos entre razones y 
+[[conclusión]]. 
+II. 
+Inferimos por tres caminos: [[inducción]], [[deducción]] e hipótesis. 
+ 
+III. 
+La [[inferencia]] inductiva parte de hechos que nos parecen semejantes en algo para 
+alcanzar [[conclusiones]] que generalizan dicha semejanza. 
+IV. 
+La [[inferencia]] deductiva se apoya en una regla general y en un caso al que puede 
+serle aplicada. 
+V. 
+La [[inferencia]] hipotética, trata de imaginar la mejor explicación para los hechos. 
+_______________________________________________________________ 
+ 
+  
+DIAGRAMA DE FLUJO PARA EL ANÁLISIS DE UN 
+[[ARGUMENTO]] 
+ 
+ 
+ 
+
+
+## Página 23
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+23
+LA [[INDUCCIÓN]] 
+ 
+ 
+1. La [[inferencia]] inductiva 
+Inducir (del latín in ducere, llevar adentro) es poner en el campo de la atención cierto 
+número de observaciones particulares, como fundamento de una afirmación general. 
+ 
+Todos los domingos visita a su madre. 
+  
+Su fuerza persuasiva radica en que ofrece datos tangibles que están o se pueden exponer 
+a la vista de todo el mundo. Son cosas que consideramos ciertas porque las percibimos a 
+través de los sentidos: Evidentes. 
+  
+ 
+ 
+S1 es P 
+ 
+ 
+S2 es P 
+ 
+ 
+S3 es P 
+ 
+ 
+....... 
+ 
+ 
+_________________ 
+ 
+ 
+Luego todo S es probablemente P. 
+ 
+siempre que se golpea el cobre, se calienta 
+siempre que se golpea el hierro, se calienta 
+siempre que se golpea el zinc, se calienta 
+luego, probablemente, todo metal se calienta al ser golpeado. 
+ 
+Inducimos, inconscientemente, acumulando experiencias que resumimos en reglas 
+generales: el cartero llama a las doce; en Navidad se engorda; el poder corrompe; se 
+trabaja mejor por las mañanas. Concluyo que lo observado en un número suficiente de 
+casos autoriza una afirmación general, es decir, la creación de una regla. Utilizamos las 
+generalizaciones para describir la realidad. Las expresiones que la caracterizan son: 
+todos, ninguno, siempre y nunca.12 
+ 
+Esa ley, esa otra ley, y la anterior, aumentan el gasto público. Cada vez que este gobierno presenta 
+una ley, eleva el déficit. 
+ 
+ 
+2. Los tipos de generalización 
+Aparentemente todas las generalizaciones dicen lo mismo: Todo S es P, pero se 
+diferencian por la manera de afirmarlo: 
+                                                 
+12 En castellano disponemos de otras fórmulas equivalentes: 
+ 
+ 
+ 
+Cada vez que... (siempre que...) le pido una explicación se enfada. 
+ 
+ 
+ 
+Quien desee presentar una solicitud... (todo aquel que desee...). 
+ 
+ 
+ 
+El que no es ministro es director general (todos los que no son...). 
+ 
+ 
+ 
+Un ministro es siempre un cesante en potencia (Todo ministro...). 
+
+
+## Página 24
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+24
+ 
+a. Todo S es P: Todas mis corbatas son de rayas. 
+b. Todo S es probablemente P: Todos los adolescentes son testarudos. 
+ 
+ 
+a. Todo S es P quiere decir que no existe ningún individuo con la propiedad S 
+que no presente la propiedad P. Es una [[inducción]] concluyente. 
+ 
+Todas mis alumnas tienen el pelo castaño. 
+ 
+Se le llama también [[inducción]] completa, perfecta o universal, porque ha examinado 
+todos los casos posibles: todos los clientes morosos del banco, todos los vuelos Madrid-
+Santiago, todas las marcas de lavadoras del supermercado. Se limita a describir la 
+suma de las cosas tal como son, sin ir más lejos. Todo S es P (sin excepción) o lo que es 
+igual: Si es S, necesariamente es P. 
+ 
+Si es alumna mía, tiene el pelo castaño. 
+ 
+Cicerón afirma que la República obtuvo beneficio en cuantas guerras intervino Pom-
+peyo, y, para probarlo, cita todas: 
+ 
+La civil, la de África, la transalpina, la de España, la de los esclavos y la naval, guerras todas 
+diferentes y de diversa calidad.13 
+ 
+La [[inducción]] completa se limita, pues, a resumir todos los casos. Si son ciertos, la 
+[[conclusión]] resultará indiscutible, porque no cabe excepción. 
+ 
+Todos los truenos siguen a un rayo. 
+Todos los pisos de este inmueble están alquilados. 
+ 
+Es también completa y concluyente la [[inducción]] que afirma: Todo S menos S4 y S5 son 
+P. Conoce todos los casos, todas las excepciones y las razones de ser de éstas, lo que 
+permite efectuar afirmaciones muy seguras: 
+ 
+Todas las aves adultas, excepto el pingüino y el avestruz, vuelan. 
+Ninguno de mis alumnos, excepto Mohammed, que vino de Marruecos, ha visto un jumento en 
+carne y hueso. 
+ 
+Las inducciones completas se refutan como falsas si aparece un individuo que presenta 
+la propiedad S pero le falta la P, es decir si surge una excepción (no controlada) de la 
+regla. Sobra con una. Para negar la afirmación todos son calvos, no preciso demostrar 
+que ninguno es calvo. Basta con probar que alguien no es calvo, es decir, que no es el 
+caso que todos sean calvos. 
+ 
+No todos los herbívoros son mamíferos, por ejemplo, los gansos son ovíparos. 
+ 
+                                                 
+13 pro Ley Manilia. 
+
+
+## Página 25
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+25
+Para refutar que todas las aves adultas vuelan, bastaría con probar que existe una, que 
+no es pingüino ni avestruz, y no vuela, es decir, que existe una excepción con la que no 
+se contaba. 
+ 
+ 
+b. Todo S es probablemente P quiere decir que, aunque no conocemos el grupo 
+completo, en todo individuo que presente la propiedad S cabe esperar razonablemente 
+que tenga la propiedad P. Las cosas pueden ser de otro modo pero prevalecen aquellas 
+que cumplen la regla. 
+ 
+Las universidades públicas son multitudinarias. 
+Las iglesias románicas tienen arcos de medio punto. 
+ 
+Estamos ante una [[inducción]] incompleta (llamada también imperfecta, extensiva, 
+ampliativa), y es la [[inferencia]] inductiva más común en todos los terrenos. 
+ 
+En un estudio de las 30 principales empresas españolas, se comprueba que los ejecutivos varones 
+reciben una paga promedio más alta que los correspondientes femeninos. Se concluye que la 
+mayoría de las compañías probablemente pagan a los varones más que a las mujeres por un 
+trabajo similar. 
+ 
+Este [[argumento]] da un salto característico: estudia 30 compañías pero afirma sobre la 
+mayoría. Después de examinar unos cuantos individuos, extiende la [[conclusión]] a todo 
+el género, a la generalidad de los casos iguales. Claro está que no se puede sostener 
+necesariamente, pues ignoramos qué sorpresas reservan los individuos no examinados. 
+Tal [[conclusión]] sólo puede ser verosímil. Si todas las [[premisas]] son verdaderas, cabe 
+admitir plausiblemente que la [[conclusión]] también lo sea. Como decía Gargantúa: esto lo 
+sostengo hasta en el fuego exclusive, es decir, lo mantengo aunque no pondría la mano 
+en el fuego por ello. 
+ 
+Estamos en el campo de las llamadas verdades generales, esto es, el de las cosas que 
+aceptamos como ciertas en la mayor parte de los casos, aunque se den o puedan darse 
+numerosas excepciones. Términos como en general, por lo general, generalmente... 
+reflejan el aire de cautela, vaguedad, falta de precisión que caracteriza a estas 
+inducciones, en las que el grado de probabilidad o de verosimilitud puede ser muy 
+variado: más, menos, mucho, muy, harto, escasamente... 
+ 
+Ahora bien, es preciso justificar el salto a la generalidad. Debemos probar por qué las 
+cosas son como decimos, pese a las excepciones. No existe más prueba para ello que dar 
+cuenta de los hechos observados: 
+ 
+Todos los S conocidos son P. 
+Casi todos los S conocidos son P. 
+ 
+No conozco ningún yogurt industrial que sepa a yogurt. 
+Casi todos los franceses que conozco son católicos. 
+ 
+Para que tales observaciones merezcan nuestra atención, han de respetar tres 
+condiciones: los hechos recogidos deben ser ciertos, suficientes y representativos. El 
+
+
+## Página 26
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+26
+ejemplo de las 30 compañías españolas satisface estos criterios: los datos son suficientes 
+(30 empresas), representativos (principales), y se presumen ciertos. 
+ 
+Es obvio que en muchos debates no podemos vaciar el fardo de nuestras observaciones: 
+ni el ritmo de la discusión lo permite, ni los datos están disponibles, ni se duda de 
+nuestra palabra. Nos limitamos, si acaso, a ilustrar la regla con algún ejemplo que 
+ilumine su verosimilitud y permita que nuestra [[conclusión]] se acepte como 
+presumiblemente cierta. 
+ 
+Ningún sábado regresa antes de las seis de la mañana. Ayer mismo, por ejemplo, se acostó a las 
+ocho y cuarto. 
+ 
+Con frecuencia los individuos de un grupo son tan numerosos que resultan inaccesibles: 
+todos los rosacruces de la provincia de Sevilla; todos los jóvenes en paro con título 
+universitario que no desean abandonar el hogar paterno. No queda, entonces, más 
+remedio que analizar una muestra estadística (el 84% de los S estudiados son P) y, a 
+partir de ella, —supuesto que los datos son ciertos, suficientes y representativos—, dar el 
+salto a la generalidad. Por ejemplo, si el 84% de los parados conocidos cobra el subsidio 
+de desempleo, y los datos recogidos son ciertos, suficientes y representativos, se puede 
+generalizar: probablemente el 84% de todos los parados cobra el subsidio de desempleo. 
+Esto es una generalización estadística que extiende las propiedades de la muestra a 
+todo el universo. 
+ 
+Cuando una generalización pertenece al acervo de las verdades compartidas, no precisa 
+prueba: Los adolescentes son testarudos; la belleza cautiva la voluntad. 
+ 
+¿A quién no engañara un rostro hermoso y un talle gallardo con palabras dulces y ojos bachilleres? 
+MARCOS DE OBREGÓN. 
+ 
+Este tipo de generalidades no exige [[demostración]] porque, siendo de experiencia diaria, 
+se hallan en el ánimo de mucha gente. Son reglas que dicta el contacto repetido con las 
+cosas que están al alcance de todos. Disfrutan la garantía de su plausibilidad. Afirman lo 
+verosímil, lo que se reputa como verdad. 
+ 
+Son cosas plausibles las que parecen bien a todos, o a la mayoría, o a los sabios, y, entre éstos, a 
+todos, a la mayoría, o a los más conocidos y reputados. ARISTÓTELES.14 
+ 
+Esto vincula su admisión a los criterios, la cultura, o la experiencia de los oyentes. 
+Cuanto más cultivados sean estos, mayores serán las exigencias para que una 
+determinada verdad general se admita. Por ejemplo, en Occidente no admitimos 
+algunas verdades generales sobre la mujer que están vigentes entre los mahometanos 
+fundamentalistas. Lo importante es que este tipo de generalidades trasladan la carga de 
+la prueba, esto es, obligan a justificar su rechazo. 
+                                                 
+14 Tópicos, I, 100b 
+
+
+## Página 27
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+27
+—Hoy día los jóvenes se casan más tarde. Corríjame si estoy equivocado. 
+—Hay excepciones. 
+—Lo sé. Pero, ¿acepta usted que, como regla general, los jóvenes se casan más tarde? 
+—No los he contado. 
+—Yo tampoco, pero ¿comparte usted la impresión de que, en general, los jóvenes se casan hoy día 
+más tarde? 
+—Sí. 
+ 
+Otras generalidades que no se prueban, son las subjetivas, las que nacen de obser-
+vaciones personales. Tampoco se rechazan, salvo que se disponga de razones para 
+hacerlo. Si decimos: 
+ 
+El Director nunca viene sin avisar. 
+Se levanta todos los días a las seis. 
+Siempre se reúnen en el casino. 
+ 
+quien nos escuche sólo tiene dos opciones: o lo toma o lo deja. Puede tomarlo por 
+cortesía, por no hacer el diálogo imposible y, sobre todo, por carecer de motivos para 
+rechazar nuestras observaciones. Nadie se pone en medio de un debate a preguntar si la 
+experiencia personal es suficiente y representativa. Lo habitual es que este tipo de 
+afirmaciones las aceptemos como presuntamente ciertas, provisionalmente admisibles, 
+salvo que podamos aportar razones en contra. 
+ 
+A diferencia de lo que ocurre en las inducciones completas, las inducciones probables 
+no se pueden refutar aportando excepciones puesto que éstas se dan por supuestas: una 
+golondrina no hace verano. Estas generalidades no afirman que las cosas sean siempre 
+de una manera determinada, sino que lo son habitualmente. No tendrá, pues, sentido, 
+pretender refutar la regla diciendo que las cosas no ocurren así necesariamente, porque 
+ninguna generalización probable lo afirma. 
+ 
+— Los jueces del País Vasco tienen miedo. 
+— No necesariamente. 
+— Ya lo sé. Hablo en general. 
+ 
+Las iglesias románicas tienen arcos de medio punto. Es cierto que muchas presentan arcos 
+apuntados y que algunas, por ser de madera, carecen de arcos. La regla es, sin embargo, que 
+presenten arcos de medio punto, porque así ocurre en la mayoría de los casos. 
+ 
+Para refutar una regla general es preciso demostrar que las excepciones son tan 
+frecuentes como los casos que la respetan. 
+ 
+La regla de que la semejanza engendra amor, y la desemejanza odio, tiene tantas excepciones, que 
+pudiera borrarse del catálogo de los axiomas. FEIJOO. 
+ 
+¿Porqué ocurre que cuando un predicador vitupera a los oyentes, todo el mundo asiente 
+pero nadie se da por aludido? El predicador habla en general y los oyentes se consideran 
+excepciones a la regla. No va con ellos, pero reconocen que tiene mucha razón en 
+criticar... a los demás. El mismo rizo mental aplicamos a los consejos de las autoridades 
+del tráfico: los accidentes mortales son cosas que solamente le ocurren al prójimo. 
+
+
+## Página 28
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+28
+_________________________________________________________________ 
+Resumen. 
+Aunque todo lo dicho hasta aquí pudiera parecer algo prolijo, se resume con facilidad. Existen dos 
+tipos de inducciones: 
+ 
+ 
+a. Completas, que nos permiten afirmar algo con precisión: 
+ 
+ 
+Todo S es P 
+ 
+ 
+Todo S menos S4 y S5 son P 
+Son concluyentes cuando carecen de excepciones (no controladas). Lo que se afirma del grupo vale 
+para cada individuo. 
+ 
+ 
+b. Incompletas, en las que no podemos ser precisos, porque ignoramos cómo se comportan las 
+excepciones: 
+ 
+ 
+Todo S es probablemente P. 
+ 
+ 
+El 84,6% de todos los S es probablemente P. 
+No sabemos si lo que se afirma del grupo valdrá para un individuo determinado. Cuando hablamos del 
+conjunto hacemos un juicio probable. Al referirnos a los individuos solamente cabe un juicio posible. 
+Hemos distinguido en esta variedad las generalidades que no precisan prueba porque se presumen 
+ciertas. 
+ 
+La diferencia entre ambos tipos de [[inducción]] es muy clara pero en la vida cotidiana pueden producirse 
+equívocos por la forma de hablar. Quien dice: Las aves vuelan, ¿se refiere a todas las aves o sólo a las 
+típicas? Únicamente por el contexto en que se produce la afirmación podemos adivinar si la [[inducción]] 
+pretende ser categórica o plausible. Para los casos de duda anotemos esta norma: antes de poner 
+objeciones, el prudente pide aclaraciones. No caigamos en el error del centinela que primero dispara y 
+luego pregunta. 
+_________________________________________________________________ 
+ 
+ 
+3. La generalización a partir de un sólo caso. 
+¿Es posible inducir a partir de unos pocos casos, incluso a partir de uno solo? Sí. Es 
+posible si se trata de un caso típico. Las características que corresponden a un caso 
+típico se pueden generalizar a todos los de su clase. Por ejemplo: para concluir que los 
+cuchillos de plástico (todos) se rompen sin necesidad de violentarlos, no precisamos 
+muchas pruebas. Basta con una o a lo sumo dos experiencias para afirmar que lo 
+observado puede aplicarse a todos los miembros de la misma clase. 
+ 
+S es P por ser S 
+Luego, probablemente todo S será P 
+ 
+Quiere decir que mi cuchillo de plástico se rompe por el mero hecho de ser un cuchillo 
+de plástico, esto es, que su composición es razón suficiente de su fragilidad. En 
+consecuencia, puedo suponer que lo mismo ocurrirá con todos los de la misma clase, 
+porque todos comparte la misma razón suficiente. 
+ 
+¿A cuenta de qué beberse el tonel entero pudiendo conocer la calidad del vino con sólo probar un 
+trago?15 
+ 
+ 
+* * * 
+ 
+ 
+                                                 
+15 Luciano: Hermótimo. 
+
+
+## Página 29
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+29
+Nos ocupamos también de las generalizaciones en los apartados siguientes: [[Argumentos]] 
+de generalización y Nuestra manera de pensar.  
+ 
+ Las [[falacias]] que comúnmente acompañan a las generalizaciones son: Generalización 
+Precipitada, [[Conclusión]] Desmesurada, Secundum quid, Casuística, Embudo. Conviene 
+examinarlas después de leer los [[Argumentos]] de generalización. 
+ 
+ 
+ 
+____________________________________________________________________ 
+RESUMEN DE LA [[INDUCCIÓN]] 
+  
+I. [[Inducción]] (del latín in ducere, llevar adentro) significa poner en el campo de la atención cierto 
+número de hechos particulares observados, como fundamento de una afirmación general. Con-
+vertimos en regla (generalizamos) aquello que hemos observado en los casos aislados. 
+ 
+II. Las inducciones se dividen en dos grandes tipos: 
+  
+ 
+ 
+a. Completas, que nos permiten afirmar algo con precisión: 
+ 
+ 
+ 
+ 
+Todo S es P 
+ 
+ 
+ 
+ 
+Todo S, menos S4 y S5, son P 
+ 
+ 
+   Son concluyentes cuando carecen de excepciones o éstas son conocidas. Lo que 
+afirman del grupo vale para cada individuo. 
+  
+ 
+ 
+b. Incompletas, en las que no podemos ser precisos, porque no sabemos cómo se 
+comportan las excepciones. 
+ 
+ 
+ 
+ 
+Todo S es probablemente P. 
+ 
+ 
+ 
+ 
+El 84,6% de todos los S es probablemente P. 
+ 
+  
+ 
+ 
+  
+ 
+ 
+   Concluyen con un mayor o menor grado de probabilidad. Lo que se afirma del grupo 
+no sabemos si valdrá para un individuo determinado. 
+ 
+ 
+   Son admisibles cuando se basan en datos ciertos, suficientes, y representativos. 
+ 
+ 
+   
+Hemos distinguido en este grupo las generalidades que se presumen ciertas y se 
+aceptan sin prueba, bien por tratarse de verdades comunes, bien por falta de razones 
+para rechazarlas. Ambas trasladan la carga de la prueba. 
+  
+ 
+ 
+La generalización a partir de un caso:  
+ 
+ 
+ 
+ 
+   Todo S es P por ser S 
+ 
+ 
+   Un solo ejemplo fundamenta una generalización cuando se trata de un caso típico. 
+_______________________________________________________________ 
+ 
+ 
+ 
+
+
+## Página 30
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+30
+ 
+LA [[DEDUCCIÓN]] 
+ 
+ 
+ 
+ 
+1. La [[inferencia]] deductiva 
+Acabamos de ver que los [[argumentos]] inductivos se basan en los datos que nos ofrece la 
+realidad. Parten de nuestras observaciones y nuestra experiencia. No es posible efectuar 
+una generalización sin sumar los hechos. La realidad impone las [[conclusiones]] y nos 
+obliga a modificarlas cuando cambia. Los [[argumentos]] inductivos vienen a decir en 
+líneas generales: así son las cosas. 
+ 
+Los deductivos, en cambio, se emplean para descubrir verdades que no apreciamos por 
+observación directa. Todo [[razonamiento]] deductivo podemos efectuarlo envueltos en una 
+manta, como dicen que hacía Luis Vives para pensar. La idea no es descabellada, 
+aunque nos parezca sofocante. 
+ 
+—Dígame, Don Luis, ¿morirá Sócrates? 
+— ¿Es hombre? 
+— Sí. 
+— Todos los hombres son mortales. 
+ 
+En el [[razonamiento]] deductivo aplicamos lo que ya sabemos (como seguro, probable o 
+posible) para interpretar lo desconocido. Ante un caso dudoso, rebuscamos una regla, un 
+principio, un grupo de cosas en el que se pueda integrar nuestro problema: si es hombre, 
+es mortal; si es jueves, habrá mercado; si la fruta está madura, es un alimento sano. 
+ 
+Discurrir no es más que sacar unas verdades de otras, o advertir que una clase menor se 
+comprende en otra mayor, y también un individuo en una especie. VARELA. 
+ 
+Como todo el contenido de la [[conclusión]] está prefigurado en las [[premisas]], decimos que 
+extraemos aquélla de éstas. De ahí el nombre de [[deducción]] dado a este procedimiento 
+que saca unas cosas de otras. 
+ 
+ 
+2. La fuerza de las deducciones. El [[razonamiento]] concluyente y el [[razonamiento]] 
+presuntivo. 
+ 
+ 
+a. El [[razonamiento]] concluyente o necesario 
+Se apoya en afirmaciones indudables, como es el caso de las inducciones completas. En 
+este apartado se incluyen las leyes matemáticas, las físicas y las definiciones científicas 
+o inequívocas. 
+ 
+Con tales [[premisas]] elaboramos los [[argumentos]] más sólidos. Si ambas [[premisas]] son 
+ciertas, la [[conclusión]] resulta irrefutable: afirma que las cosas no pueden ser de otra 
+manera. 
+
+
+## Página 31
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+31
+A es necesariamente B 
+Z es necesariamente A 
+_____________________ 
+Z es necesariamente B 
+Los mamíferos son animales vertebrados 
+La ballena es un mamífero 
+La ballena es un animal vertebrado. 
+ 
+Dado que la primera [[premisa]] no admite excepciones (todos los mamíferos son 
+vertebrados) podemos también concluir en los casos que no se adaptan a la regla: si no 
+es vertebrado, no es mamífero;  si no es mortal, no es hombre; si no es Jueves, no habrá 
+mercado; si la fruta no está madura, no es un alimento sano. 
+ 
+La forma estándar de los [[argumentos]] deductivos necesarios admite, pues, dos 
+variedades, que se distinguen por la segunda [[premisa]] (lo que sabemos del caso dudoso): 
+que es hombre (y será mortal) o que no es mortal (y no será hombre): 
+ 
+ 
+1. 
+Todo A es B 
+2. 
+Todo A es B 
+ 
+Z es A  
+ 
+Z no es B    
+ 
+ Luego Z es B 
+ 
+Luego Z no es A 
+ 
+ 
+1. Todas las aves se aparean en primavera. 
+   El águila es un ave. 
+   Luego el águila [necesariamente] se aparea en primavera. 
+ 
+2. Todos los hoteles de Benalmádena están llenos [sin excepción]. 
+   La agencia dice que me ha encontrado alojamiento. 
+   [Necesariamente] No es un hotel. 
+ 
+Existen también dos maneras incorrectas de resolver una [[deducción]], en las que 
+olvidamos la existencia de otras posibilidades a las que el [[argumento]] no se refiere. Por 
+ejemplo: 
+ 
+Todos los mamíferos son vertebrados. 
+Los reptiles son vertebrados 
+Luego los reptiles son mamíferos. 
+ 
+La primera [[premisa]] no afirma que solamente los mamíferos sean vertebrados. La única 
+[[conclusión]] legítima sería: mamíferos y reptiles son vertebrados. Otro ejemplo: 
+ 
+Todos los mamíferos son vertebrados. 
+Los reptiles no son mamíferos. 
+Luego los reptiles no son vertebrados. 
+ 
+En la primera [[premisa]] no se afirma nada sobre los animales que no son mamíferos, con 
+lo que no cabe ninguna [[conclusión]], salvo que nos conformemos con repetir: los reptiles 
+no son mamíferos. 
+ 
+Como vemos, en ambos ejemplos, la primera [[premisa]] no garantiza el paso de la segunda 
+a la [[conclusión]]. Sus fórmulas estándar son: 
+
+
+## Página 32
+
+USO DE RAZÓN.  LOS CAUCES DEL [[RAZONAMIENTO]]. © Ricardo García Damborenea 
+ 
+32
+ 
+3. 
+Todo A es B 
+ 
+4. 
+Todo A es B 
+ 
+Z no es A 
+ 
+ 
+Z es B 
+ 
+Luego Z no es B 
+ 
+ 
+Luego Z es A 
+ 
+ 
+Ejemplo del 3: 
+Todas las aves se aparean en primavera. 
+Dumbo no es un ave. 
+Luego Dumbo no se aparea en primavera. 
+ 
+Tal vez sea así, pero esa [[conclusión]] no está garantizada por la primera [[premisa]], que 
+solamente habla de aves. 
+ 
+Ejemplo del 4: 
+Todos los hoteles de Benalmádena están llenos. 
+La agencia dice que el alojamiento que pido está lleno. 
+Es un hotel. 
+ 
+Esto podrá ser verdad, pero no deductiva. La primera [[premisa]] no dice que todos los 
+alojamientos estén completos. Se refiere específicamente a los hoteles. Viene a ser tan 
+inconsecuente como: 
+ 
+Todos los mahometanos son infieles. 
+Los budistas son infieles. 
+Luego, los budistas son mahometanos. 
+ 
+En definitiva, un [[argumento]] deductivo es correcto o falaz según que la segunda [[premisa]] 
+cuente o no con el amparo de la primera para saltar a la [[conclusión]]. Esta circunstancia 
+sólo se da en dos situaciones: cuando el caso dudoso pertenece al mismo grupo al que se 
+refiere la regla y cuando no presenta las características que señala la regla. Si esto está 
+claro, ¡olvidémonos de reglas y fórmulas! Son útiles para comprender las cosas, pero 
+perturban la fluidez mental. Así que podemos limitarnos a aplicar el sentido común. 
+Cuando nos ofrezcan razones para justificar una [[conclusión]] exijamos que guarden 
+relación con ella. Con eso basta. 
+ 
+ 
+ 
+b. El [[razonamiento]] presuntivo 
+Su primera [[premisa]] afirma cosas que no son seguras, como ocurre en las 
+generalizaciones incompletas: S es probablemente P. Presume que las cosas ocurren 
+como suelen. Este es el caso de las generalidades, los testimonios de autoridades, las 
+creencias y la mayoría de las definiciones. Producen [[conclusiones]] presuntivas, 
+razonablemente presumibles, probables en mayor o menor grado. Por ello se conocen 
+estas deducciones como razonamientos presuntivos o plausibles. A esta variedad 
+corresponden casi todos nuestros [[argumentos]] deductivos desde que existe memoria 
+escrita. 
+ 
+Homero llamaba a Ulises orador seguro porque sabía conducir sus discursos según las opiniones 
+comúnmente aceptadas por los hombres. JENOFONTE.16 
+ 
+                                                 
+16 Jenofonte: Recuerdos de Sócrates, IV, VI. 

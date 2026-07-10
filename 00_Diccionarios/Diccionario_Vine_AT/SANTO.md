@@ -1,0 +1,29 @@
+---
+titulo: "SANTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SANTO"]
+---
+
+# SANTO
+
+C. Adjetivo
+
+qadôsh (÷ÈãåéùÑ, [[H6918]]), «santo». Las lenguas semíticas tienen dos formas originales de la raíz que son distintas. Una significa «puro» y «consagrado» como en el acádico qadistu y el hebreo qadesh («santo»). La palabra describe algo o alguien. La otra quiere decir «santidad» como una circunstancia o como un abstracto, de la misma manera que en arábigo al-qaddus («lo más santo o puro»). En hebreo el verbo qadash y la palabra qadesh combinan ambos elementos: descriptivo y estático. La comprensión tradicional de «separado» es solo un significado derivado y no el principal.
+
+Qadôsh es importante en el Pentateuco, en los escritos poéticos y proféticos, y se encuentra poco en la literatura histórica. El primero de 116 casos se encuentra en Éxo_19:6 (rva): «Y vosotros me seréis un reino de sacerdotes y una nación santa».
+
+En el Antiguo Testamento qadôsh tiene una fuerte connotación religiosa. En uno de sus sentidos el vocablo describe un objeto, lugar o día como «santo», en el sentido de «dedicado» a un propósito especial: «Luego tomará el sacerdote del agua santa en un vaso de barro» (Núm_5:17).
+
+En particular, el sábado se ha «dedicado» como un día de descanso: «Si apartas tu pie por respeto al sábado, para no hacer tu capricho en mi día santo; si al sábado llamas delicia, consagrado a Jehovah y glorioso; y si lo honras, no haciendo según tus propios caminos ni buscando tu propia conveniencia ni hablando tus propias palabras, entonces te deleitarás en Jehovah» (Isa_58:13-14 rva). Esta prescripción se basa en Gén_2:3, donde el Señor «santificó» o «dedicó» el sábado.
+
+Dios dedicó a Israel para que fuera su pueblo. Son «santos» por su relación con el Dios «santo».
+
+En cierto sentido, todo el pueblo es «santo» por ser miembros de la comunidad del pacto, independientemente de su fe y obediencia: «Y se juntaron contra Moisés y contra Aarón y les dijeron: ¡Basta ya de vosotros! Porque toda la congregación, todos ellos son santos, y en medio de ellos está Jehová; ¿por qué, pues, os levantáis vosotros sobre la congregación de Jehová?» (Núm_16:3). Dios se propuso que esta nación «santa» fuera un sacerdocio real «santo» entre las naciones (Éxo_19:6). Sobre la base de una íntima relación, Dios esperaba que su pueblo cumpliera con sus elevadas expectativas para ellos, demostrando que era una una nación «santa»: «Me seréis santos, porque yo, Jehovah, soy santo y os he separado de los pueblos para que seáis mios» (Lev_20:26 rva).
+
+Los sacerdotes fueron escogidos para servir en el Lugar Santo del tabernáculo o templo. Por su función de mediadores entre Dios e Israel y por su cercanía al templo, Dios los dedicó al oficio sacerdotal: «Serán santos para su Dios y no profanarán el nombre de su Dios; porque ellos presentarán las ofrendas quemadas, el pan de su Dios; por tanto, serán santos. El sacerdote no tomará mujer prostituta o privada de su virginidad. Tampoco tomará mujer divorciada de su marido, porque él está consagrado a su Dios. Por tanto, lo tendrás por santo, pues él ofrece el pan de tu Dios. Será santo para ti, porque santo soy yo, Jehovah, que os santificó» (Lev_21:6-8 rva). Aarón, el sumo sacerdote, era «el santo del Señor» (Sal_106:16 lba).
+
+El Antiguo Testamento clara y enfáticamente enseña que Dios es «santo» moralmente (Lev_11:44) y en poder (1Sa_6:20). Es el «santo de Israel» (Isa_1:4), «Dios santo» (Isa_5:16) y «el Santo» (Isa_40:25). Su nombre es «Santo»: «Porque así dijo el Alto y Sublime, el que habita la eternidad, y cuyo nombre es Santo: Yo habito en la altura y la santidad, y con el quebrantado y humilde de espíritu, para hacer vivir el espíritu de los humildes, y para vivificar el corazón de los quebrantados» (Isa_57:15). La declaración negativa: «No hay santo como Jehová, porque no hay ninguno aparte de ti; no hay roca como nuestro Dios» (1Sa_2:2 rva), señala que él es «santísimo» y que nadie es tan «santo» como él. Algunas pocas veces qadôsh se aplica a seres no humanos, alejados de este mundo y dotados de gran poder (Job_5:1; Dan_8:13). Los ángeles del séquito celestial son «santos»: «Y el valle de los montes será rellenado, porque el valle de los montes llegará hasta Azal. Y huiréis como huisteis a causa del terremoto que hubo en los días de Uzías, rey de Judá. Así vendrá Jehová mi Dios, y todos sus santos con él» (Zac_14:5 rva). Los serafines proclamaban el uno al otro la «santidad» de Dios: «Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos: toda la tierra está llena de su gloria» (Isa_6:3).
+
+En la Septuaginta el término hagios («santo») representa el vocablo hebreo qadôsh. 
+

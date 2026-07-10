@@ -1,0 +1,12 @@
+---
+titulo: "INFLAMAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#INFLAMAR"]
+---
+
+# INFLAMAR
+
+flogizo (öëïãßæù, [[G5394]]), encender, quemar. Se usa en sentido figurado, tanto en la voz activa como en la pasiva, en Stg_3:6, de la lengua. En primer lugar, de sus desastrosos efectos sobre todo el conjunto de las circunstancias de la vida y, en segundo lugar, de la agencia de Satanás al utilizar la lengua para este propósito: «inflama la rueda de la creación, y ella misma es inflamada por el infierno».¶ 
+
+

@@ -1,0 +1,20 @@
+---
+titulo: "PÚBLICO, PÚBLICAMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PÚBLICO,PÚBLICAMENTE"]
+---
+
+# PÚBLICO, PÚBLICAMENTE
+
+A. Adjetivo
+
+demosios (äçìüóéïò, [[G1219]]), perteneciente al pueblo (demos, pueblo). Se traduce «pública», de una cárcel (Hch_5:18, rv, rvr, rvr77, vm). Para su uso adverbial, véase B, Nota (3) .
+
+Nota: Para telonion, «banco de los tributos públicos» (cf. telones bajo PUBLICANO), véase BANCO.
+
+B. Adverbios
+
+Notas: (1) parresia, confianza, se utiliza adverbialmente en su caso dativo, y se traduce «públicamente» en Jua_18:20, de su testimonio público; Col_2:15 (con en, lit., «en claridad»). Véanse ABIERTAMENTE bajo ABRIR, C, Nº 1, CLARAMENTE, Nº 2, CONFIANZA, B, Nº 2, DENUEDO, A, Nº 1, DAR A CONOCER, Nº 5, LIBERTAD, A, Nº 5, LIBREMENTE bajo LIBRAR, C; (2) la frase en to fanero, lit., «en lo abierto» (manifiesto), se traduce con la frase adverbial «en público» en Mat_6:4, Mat_6:6, Mat_6:18; esta frase está omitida en estos pasajes en los mss. más comúnmente aceptados; (3) demosios, adjetivo que significa perteneciente al pueblo (cf. A) se utiliza adverbialmente en el caso dativo (Hch_16:37; Hch_18:20 y 20:20: «públicamente», rv, rvr). Como adjetivo se utiliza en 5:18: «público» (rv, rvr).¶ 
+
+

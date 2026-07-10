@@ -1,0 +1,12 @@
+---
+titulo: "CAUTERIZAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CAUTERIZAR"]
+---
+
+# CAUTERIZAR
+
+kausteriazo (êáõóôçñéÜæù, [[G2743]]), quemar con un hierro de cauterizar (cf. el vocablo castellano cáustico). Se halla, en los mejores mss., en 1Ti_4:2 : «teniendo cauterizada la conciencia». Otros tienen kauteriazo (de kauterion, hierro de cauterizar, o de marcar), marcar con un hierro candente, acto no tan severo como el indicado por el término anterior. La referencia es a apóstatas cuyas conciencias están cauterizadas por los efectos de su pecado.¶ 
+
+

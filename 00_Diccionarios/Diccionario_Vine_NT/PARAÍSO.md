@@ -1,0 +1,14 @@
+---
+titulo: "PARAÍSO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PARAÍSO"]
+---
+
+# PARAÍSO
+
+paradeisos (ðáñÜäåéóïò, [[G3857]]), es una palabra oriental, cuya mención más antigua se encuentra en el historiador Jenofonte, y que denota los parques de los reyes y príncipes persas. Tiene origen persa (persa antiguo, pairid'za, relacionado con el griego peri, alrededor y teicos, muralla), y de ahí pasó al griego. Véase lxx, p.ej., en Neh_2:8; Ecl_2:5; Cnt_4:13. Los traductores de la lxx usaron este término del huerto del Edén (Gén_2:8), y en otros casos (p.ej., Núm_24:6; Isa_1:30; Jer_29:5; Eze_31:8-9).
+
+En Luc_23:43, la promesa del Señor al ladrón arrepentido se cumplió en el mismo día; Cristo, en su muerte, habiendo encomendado su espíritu al Padre, fue de inmediato en espíritu al cielo mismo, la morada de Dios (la mención del Señor de aquel lugar como paraíso debe haber sido un gran aliento para el malhechor; para la mente oriental expresaba la suma total de bendición). Allá fue que el apóstol Pablo fue arrebatado (2Co_12:4), y le da el nombre de «el tercer cielo» (el v. 3 no introduce una visión diferente), más allá de los cielos de la creación natural; véase Heb_4:14, con referencia a la ascensión. Esta misma región es mencionada en Apo_2:7, donde el «árbol de vida», el antitipo figurativo del que estuvo en Edén, ofrecido al vencedor, es mencionado como estando en «el paraíso de Dios»; cf. Gén_2:8.¶ 
+
+

@@ -1,0 +1,12 @@
+---
+titulo: "COSTADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#COSTADO"]
+---
+
+# COSTADO
+
+pleura (ðëåõñÜ, [[G4125]]), lado, costado (cf. el término castellano pleuresía). Se usa del costado de Cristo, que fue atravesado por una lanza (Jua_19:34; Jua_20:20, Jua_20:25, Jua_20:27; algunos mss. tienen esta palabra en Mat_27:49); también aparece en Hch_12:7.¶ 
+
+

@@ -1,0 +1,12 @@
+---
+titulo: "CAMARERO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CAMARERO"]
+---
+
+# CAMARERO
+
+koiton, o ho epi tou koitonos (êïéôþí, [[G2846]]), lit., el que está sobre el dormitorio (epi, sobre; koito n, dormitorio). Denota camarero, funcionario que tenía varios deberes en las casas de los reyes y de los nobles. La importancia de la posición queda indicada por el hecho de que la gente de Tiro y de Sidón buscaron el favor de Herodes Agripa por mediación de Blasto (Hch_12:20). 
+
+

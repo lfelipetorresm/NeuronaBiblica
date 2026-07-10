@@ -1,0 +1,23 @@
+---
+titulo: "ABOMINACIÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#ABOMINACIÓN"]
+---
+
+# ABOMINACIÓN
+
+A. Nombre
+
+tô 'ebah (úÌåéòÅáÈä, [[H8441]]), «abominación; asqueroso, cosa detestable». Aparecen cognados de este vocablo únicamente en fenicio y en el arameo del tárgum. La palabra aparece 117 veces en todos los períodos.
+
+Primero, tô 'ebah define a las personas y los objetos como esencialmente únicos en el sentido de ser «peligrosos», «siniestros», «repulsivos» y «abominables» desde la perspectiva de otros. Este significado lo vemos por primera vez en Gén_43:32 : «Los egipcios no pueden comer pan con los hebreos, lo cual es abominación a los egipcios». Debido a sus diferencias culturales o sociales, a los egipcios les repugnaba comer pan con extranjeros (cf. Gén_46:34; Sal_88:8). Otra ilustración clara de este choque fundamental de voluntades aparece en Pro_29:27 : «Abominación es a los justos el hombre inicuo; y abominación es al impío el de caminos rectos». Al referirse a Dios, el término adquiere un matiz particular: describe a personas, cosas, hechos, relaciones y características que le son «detestables» o «abominables» porque son contrarias a su naturaleza. Dios abomina lo que tiene que ver con muerte e idolatría: «Nada abominable comerás» (Deu_14:3). Los que tienen hábitos que Dios aborrece también le son detestables: «La mujer no llevará ropa de hombre, ni el hombre se pondrá vestidos de mujer, porque el que hace esto es una abominación para Yahveh tu Dios» (Deu_22:5 bj). Lo contrario de tô 'ebah son reacciones como «deleite» y «amor» (Pro_15:8-9 lba).
+
+En segundo lugar, tô 'ebah se usa en algunos contextos para describir prácticas y objetos paganos: «Las esculturas de sus dioses quemarás en el fuego; no codiciarás plata ni oro de ellas para tomarlo para ti, para que no tropieces en ello, pues es abominación a Jehová tu Dios; y no traerás cosa abominable a tu casa» (Deu_7:25-26). En otros contextos, tô 'ebah describe repetidos fracasos en la observación de los reglamentos divinos: «Porque vuestro tumulto es mayor que el de las naciones que os rodean, porque no os habéis conducido según mis decretos ni habéis observado mis normas, y ni siquiera os habéis ajustado a las normas de las naciones que os rodean … a causa de todas tus abominaciones» (Eze_5:7, Eze_5:9 bj). tô 'ebah puede representar los propios cultos paganos, como en Deu_12:31, o el pueblo que los practica: «Porque todo el que hace estas cosas es una abominación para Yahveh tu Dios y por causa de estas abominaciones desaloja Yahveh tu Dios a esas naciones delante de ti» (Deu_18:12 bj). Por otro lado, si los israelitas son culpables de tales idolatrías, su fin será peor que el cautiverio: ser apedreados hasta la muerte (Deu_17:2-5).
+
+En tercer lugar, tô 'ebah se usa en la esfera de la jurisprudencia y de las relaciones familiares y tribales. Ciertos actos o características destruyen la armonía social y familiar; a estos actos y a las personas que los practican se les aplica el término tô 'ebah : «Seis cosas hay que aborrece Jahveh, y siete son abominación para su alma: ojos altaneros, lengua mentirosa, manos que derraman sangre inocente, corazón que fragua planes perversos … y el que siembra pleitos entre los hermanos» (Pro_6:16-19 bj). Dios dice: «Abominación a los hombres [es] el escarnecedor» (Pro_24:9), porque siembra su amargura entre el pueblo de Dios, quebrantando la unidad y la armonía.
+
+B. Verbo
+
+taab (úÌÈòÇá, [[H8581]]), «detestar o tratar como detestable, causar que sea una abominación, actuar en manera abominable». Este verbo aparece 21 veces, comenzando con Deu_7:26 : «No traerás cosa abominable a tu casa». 
+

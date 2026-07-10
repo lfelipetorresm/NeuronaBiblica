@@ -1,0 +1,12 @@
+---
+titulo: "PASAJE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#PASAJE"]
+---
+
+# PASAJE
+
+perioque (ðåñéï÷Þ, [[G4042]]), primariamente una circunferencia (peri, alrededor; eco, tener), denota entonces una porción circunscrita, aquello que es contenido, y, con referencia a un escrito o libro, una sección o pasaje de su contenido (Hch_8:32 : «el pasaje de la Escritura»; rv: «el lugar»).¶ 
+
+

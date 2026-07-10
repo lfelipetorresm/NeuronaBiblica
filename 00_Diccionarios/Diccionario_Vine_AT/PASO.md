@@ -1,0 +1,19 @@
+---
+titulo: "PASO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#PASO"]
+---
+
+# PASO
+
+A. Nombre
+
+pa'am (ôÌÇòÇí, [[H6471]]), «paso; pie; pedestal; pata; golpe; yunque». Se han constatado cognados de este nombre en ugarítico (pcn) y fenicio. Los casos de este vocablo en la Biblia llegan a 117 y se encuentran en todos los períodos del lenguaje.
+
+Los matices del término tienen que ver con el significado básico de «pie humano». El salmista usa esta acepción en Sal_58:10 (rva): «El justo se alegrará cuando vea la venganza, y lavará sus pies en la sangre del impío». En Éxo_25:12 (rva) el término se aplica a los «pedestales o pies» del arca del testimonio: «Para ella harás cuatro aros de oro fundido, los cuales pondrás en sus cuatro patas: dos aros a un lado de ella, y dos aros al otro lado». En otros pasajes el vocablo indica «pasos» que se dan: «Mis pasos se han mantenido en tus caminos, para que mis pies no resbalen» (Sal_17:5 rva). En Jue_5:28 el término se refiere a los «pasos» o «golpes» de los cascos de un caballo galopante. Este matiz de «golpe de pie» sobre el suelo (pasos) se extiende para significar el «golpe» de una lanza: «Dijo entonces Abisay a David … Déjame que lo clave en tierra con la lanza de un solo golpe» (1Sa_26:8 bj). Por último, pa'am también expresa un objeto con forma de pie, un «yunque» (Isa_41:7).
+
+B. Adverbio
+
+pa'am (ôÌÇòÇí, [[H6471]]), «una vez; ahora; nunca más; ya». Este vocablo actúa como un adverbio cuyo enfoque es un acontecimiento o un tiempo. Este es el énfasis que tiene en Éxo_10:17 (rva): «pero perdonad,por favor, mi pecado solo«una vez» más». La primera vez que se encuentra en la Biblia, el vocablo enfatiza la irrevocabilidad y el carácter absoluto de un acontecimiento: «Ahora, esta es hueso de mis huesos y carne de mi carne» (Gén_2:23 rva). La fuerza de este significado se percibe claramente en la traducción de Gén_18:32 (rva), donde Abraham dice a Dios: «Por favor, no se enoje mi Señor, si hablo solo una vez más». 
+

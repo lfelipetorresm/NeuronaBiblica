@@ -1,0 +1,21 @@
+---
+titulo: "SEPULTAR, ENTERRAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SEPULTAR,ENTERRAR"]
+---
+
+# SEPULTAR, ENTERRAR
+
+A. Verbo
+
+qabar (÷ÈáÇø, [[H6912]]), «sepultar, enterrar». Este verbo se encuentra en la mayoría de las lenguas semíticas, incluyendo ugarítico, acádico, arábigo, arameo, fenicio, así como en el arameo posbíblico. En el hebreo bíblico hay unos 130 casos del vocablo en todos los períodos.
+
+Esta raíz se usa casi exclusivamente en relación con seres humanos. (La única excepción es Jer_22:19; véase a continuación). Por lo general, este verbo representa el acto de colocar un cadáver en una sepultura o tumba. Este es el significado la primera vez que encontramos qabar : «Y tú vendrás a tus padres en paz y serás sepultado en buena vejez» (Gén_15:15). Un entierro digno era señal de bondad especial y de bendición divina. Como tal, era la obligación de los sobrevivientes responsables. Abraham compró la cueva de Macpela para enterrar a sus muertos. David agradeció a los hombres de Jabes de Galaad por la forma atrevida en que rescataron los cuerpos de Saúl y de Jonatán (1Sa_31:11-13), y por proporcionarles una digna «sepultura». Les dijo: «Benditos seáis vosotros de Jehovah, que habéis hecho esta misericordia con vuestro señor, con Saúl, dándole sepultura» (2Sa_2:5). Más tarde, David tomó los huesos de Saúl y de Jonatán y los sepultó en la tumba de la familia (2Sa_21:14); aquí el verbo significa tanto «enterrar» como «volver a enterrar». Una sepultura digna no era una simple consideración, sino una necesidad. Para que la tierra se mantuviera pura delante de Dios, los cuerpos tenían que sepultarse antes del anochecer: «Su cuerpo no colgará del árbol toda la noche, sino que ciertamente lo enterrarás el mismo día (pues el colgado es maldito de Dios), para que no contamines la tierra que el Señor tu Dios te da en heredad» (Deu_21:23 lba). O sea que, si no se enterraba el cuerpo, la bendición de Dios era quitada.
+
+No ser enterrado era señal de desaprobación divina sobre los sobrevivientes y la nación. Ahías el profeta dijo a Jeroboam: «Todo Israel hará duelo por él [el hijo de Jeroboam] y le sepultará; pues este es el único de los de Jeroboam que será sepultado, porque de la casa de Jeroboam solo en él se ha hallado algo bueno delante de Jehová Dios de Israel» (1Re_14:13 rva); y el resto de la familia sería comida por los perros y las aves de rapiña (v. 11; cf. Jer_8:2). Jeremías profetizó que Joacim «será enterrado con un entierro de asno, arrastrado y echado más allá de las puertas de Jerusalén» (Jer_22:19 rva). En general, los cuerpos se «sepultaban» en cuevas (Gén_25:9) y sepulcros, sepulturas o tumbas (Gén_50:5; Jue_8:32). En algunos casos, qabar se usa de manera elíptica para referirse a todo el proceso de muerte. En Job_27:15 (lba) leemos: «Sus sobrevivientes serán sepultados a causa de la plaga [en muerte] y sus viudas no podrán llorar».
+
+B. Nombre
+
+qeber (÷ÆáÆø, [[H6913]]), «tumba; sepulcro». Qeber aparece 67 veces y, la primera vez que aparece (Gén_23:4), el término se refiere a una tumba o sepultura. En Jer_5:16, el vocablo tiene el significado de «sepulcro» y, en Sal_88:11, qeber se refiere al «sepulcro» en el sentido del infierno. En Jue_8:32, el vocablo significa un «sepulcro familiar»; Jer_26:23 usa el témino indicando «lugar de sepultura» y más concretamente, una fosa abierta. 
+

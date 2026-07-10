@@ -1,0 +1,12 @@
+---
+titulo: "APIÑAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#APIÑAR"]
+---
+
+# APIÑAR
+
+epathroizo (ἐðáèñïßæù, [[G1865]]), reunirse demás (epi), dicho de multitudes (Luc_11:29). Se traduce «apiñándose» las multitudes; voz media (rvr); o «y juntándose» las gentes (rv).¶ 
+
+

@@ -1,0 +1,21 @@
+---
+titulo: "SANGRE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#SANGRE"]
+---
+
+# SANGRE
+
+dam (ãÌÈí, [[H1818]]), «sangre». Este es un término semítico común que tiene cognados en todas las lenguas semíticas. Está constatado unas 360 veces en hebreo bíblico y durante todos los períodos.
+
+Dam se usa para denotar la «sangre» de animales, aves y seres humanos (nunca de peces). En Gén_9:4 (rva), la «sangre» es sinónimo de vida: «Pero no comeréis carne con su vida, es decir, su sangre». El alto precio de la vida como don de Dios lleva a la prohibición de ingerir «sangre»: «Este será un estatuto perpetuo a través de vuestras generaciones. En cualquier lugar que habitéis, no comeréis nada de sebo ni nada de sangre» (Lev_3:17 rva). Son contadas las veces en que el término indica el color «carmesí»: «Cuando se levantaron temprano por la mañana y el sol resplandeció sobre las aguas, los de Moab vieron desde lejos las aguas rojas como sangre» (2Re_3:22 rva). En dos pasajes dam es una metáfora para «vino»: «Lava en vino su vestidura y en sangre de uvas su manto» (Gén_49:11 rva ; cf. Deu_32:14).
+
+Dam tiene varios matices. Primero, puede significar «sangre de violencia»: «No profanaréis la tierra donde estéis, porque la sangre humana profana la tierra. No se puede hacer expiación por la tierra, debido a la sangre que fue derramada en ella» (Núm_35:33 rva). Por esta razón, puede significar «muerte»: «Contra vosotros enviaré hambre y fieras dañinas que te privarán de hijos. Peste y sangre pasarán por en medio de ti, y traeré contra ti la espada» (Eze_5:17 rva).
+
+Luego, dam puede connotar «quitar la vida» o «derramar sangre»: «Si tienes que juzgar un caso demasiado difícil para tí, un asunto de sangre» (Deu_17:8 bj ; «entre sangre y sangre» rv ; «entre una clase de homicidio y otra» rvr). Derramar sangre quiere decir «asesinar»: «El que derrame sangre de hombre, su sangre será derramada por hombre; porque a imagen de Dios él hizo al hombre» (Gén_9:6 rva). La segunda cita indicada que el asesino debe sufrir la pena capital. En otros pasajes, la frase «derramar sangre» tiene que ver con la inmolación no ritual de un animal: «Cualquier hombre de la casa de Israel que dentro o fuera del campamento degüelle una vaca, un cordero … y no lo traiga a la entrada del tabernáculo de reunión para ofrecerlo como sacrificio a Jehovah delante del tabernáculo de Jehovah, ese hombre será considerado reo de sangre» (Lev_17:3-4 rva).
+
+En términos jurídicos, «ponerse contra la sangre del prójimo» significa presentarse ante un tribunal en contra del demandante, como acusador, testigo o juez: «No andarás chismeando entre tu pueblo. No atentarás contra la vida [«sangre» rv] de tu prójimo» (Lev_19:16). La frase «su sangre sea sobre él» quiere decir que la culpabilidad y la retribución por un acto de violencia recae sobre el culpable: «Cuando alguna persona maldiga a su padre o a su madre, morirá irremisiblemente. Ha maldecido a su padre o a su madre; su sangre será sobre ella» (Lev_20:9 rva). Indirectamente, y en el contexto de la legislación judía, esta frase sugiere que quien castiga a un reo de sangre quitándole la vida no será culpado de homicidio. En este caso, «sangre» indica responsabilidad por la muerte de otros: «Cualquiera que salga fuera de las puertas de tu casa, su sangre caerá sobre su propia cabeza, y nosotros quedaremos libres. Pero si alguien pone su mano sobre cualquiera que esté en la casa contigo, su sangre caerá sobre nuestra cabeza» (Jos_2:19 rva).
+
+La sangre de algún animal puede sustituir a la sangre de algún pecador en calidad de propiciación (cobertura) por su pecado: «Porque es la sangre la que hace expiación por la persona» (Lev_17:11 rva). El pecado de Adán ameritaba su muerte y acarreó la muerte sobre toda su descendencia (Rom_5:12); por eso, el ofrecimiento de la sangre de un animal no solo tipifica la cancelación de la pena, sino también la ofrenda perfecta que dio vida a Adán y a todos los representados por este sacrificio (Heb_10:4). El sacificio animal prefigura o tipológicamente representa la sangre de Cristo, quien realizó el gran y único sacrificio sustitutivo y eficaz; su ofrenda es la única que da vida a quienes están en él representados. El derramamiento de su «sangre» sella el pacto de vida entre Dios y la humanidad (Mat_26:28). 
+

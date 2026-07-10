@@ -1,0 +1,27 @@
+---
+titulo: "CORTAR, PACTAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#CORTAR,PACTAR"]
+---
+
+# CORTAR, PACTAR
+
+A. Verbo
+
+karat (ëÌÈøÇú, [[H3772]]), «cortar, talar; cortar un pacto; hacer un pacto; pactar». Este verbo también aparece en acádico, moabita y en hebreo posbíblico. Se constatan unos 290 casos del verbo en todos los tiempos del hebreo bíblico.
+
+Básicamente karat quiere decir «cortar o separar» alguna cosa de otra con el filo de un instrumento. El vocablo tiene varios usos y matices. Se puede cortar una rama (Núm_13:23) y «[blandir] el hacha para cortar un tronco» (Deu_19:5 rva). El término también se usa para indicar el acto de «derribar» ídolos de madera (Éxo_34:13). Karat puede señalar el «desmembramiento» de un cuerpo (1Sa_5:4). En Jer_34:18 este verbo significa «dividir en dos partes». «Cortar» también se aplica a la circuncisión. En Éxo_4:25 Séfora «tomó un pedernal afilado y cortó el prepucio de su hijo». Un uso relacionado aunque diferente se encuentra en Núm_11:33 donde significa «masticar» alimentos.
+
+«Cortar» puede significar «exterminar» o «destruir». Dios dijo a Noé: «No exterminaré ya más toda carne con aguas de diluvio» (Gén_9:11 : primera vez que se usa el verbo). Karat puede indicar exterminación espiritual y social. «Cortar» a alguien de esta manera no necesariamente significa matarlo físicamente; puede ser expulsado de la familia y separado de las bendiciones del pacto. Dios dijo a Abraham que «el varón incircunciso, el que no hubiere circuncidado la carne de su prepucio, aquella persona será cortada de su pueblo; ha violado mi pacto» (Gén_17:14).
+
+Uno de los usos más conocidos de este verbo es «hacer un pacto o pactar». El proceso mediante el cual Dios hizo un pacto con Abraham se llama «cortar»: «Aquel día hizo Jehová un pacto con Abram» (Gén_15:18). El término «pacto» aparece nueve veces antes de este incidente, aunque no en relación con karat. Sin embargo, un sinónimo de karat (batar), que se relaciona de manera directa con el proceso de «pactar» se encuentra en un pasaje inmediatamente anterior (Gén_15:10). Además, de aquí en adelante, en Génesis y a través de toda la Biblia, karat se asocia a menudo con «hacer un pacto». Por tanto, karat viene a ser una especie de término especializado para «pactar». En Génesis el vocablo indica a menudo una ceremonia en la que se partían en dos a los animales sacrificiales y el que pactaba pasaba en medio de los dos pedazos. Quien pasara entre los pedazos comprometía su fidelidad al pacto. Si esta fidelidad se quebrantaba, podrían él o sus animales esperar la muerte. La ceremonia no la creó Dios específicamente para tratar con Abraham; más bien fue una práctica muy conocida y generalizada en aquellos tiempos.
+
+Aunque la práctica de literalmente «cortar» un pacto fue desapareciendo, el término permaneció quizás en alusión a este proceso abrahámico de pactar (cf. Jer_34:18). En algunos casos queda bien claro que no hubo ninguna ceremonia de «cortar» literalmente y que karat es, más bien, un término especializado que expresa «llegar a un acuerdo por escrito» (Neh_9:38).
+
+B. Nombres
+
+keritût (ëÌÀøÄéúËú, [[H3748]]), se refiere a una «carta de divorcio». El vocablo tiene que ver con un documento por el que se «corta» un matrimonio: «Si un hombre toma una mujer y se casa con ella, y sucede que ella no le agrada por haber él hallado en ella alguna cosa vergonzosa, le escribirá una carta de divorcio, la entregará en su mano y la despedirá de su casa» (Deu_24:1). Keritût aparece 4 veces.
+
+kerutôt significa «vigas». El nombre, que aparece solo 3 veces, se refiere a «vigas», o sea, objetos «cortados» en 1Re_6:36 : «Hizo el atrio interior de tres hileras de piedras labradas y una hilera de vigas de cedro». 
+

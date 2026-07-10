@@ -1,0 +1,33 @@
+---
+titulo: "CONTINUIDAD, CONTINUAMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#CONTINUIDAD,CONTINUAMENTE"]
+---
+
+# CONTINUIDAD, CONTINUAMENTE
+
+A. Nombre
+
+tamîd (úÌÈîÄéã, [[H8548]]), «continuidad; continuamente; en todo tiempo; siempre». El vocablo procede de una raíz que significa «medir» y que se encuentra en asirio, arameo, arábigo y fenicio. Aparece unas 100 veces en todas las divisiones del Antiguo Testamento. Indica lo que se debe hacer regular o continuamente. Tamîd a menudo aparece como nombre. En Núm_4:7, el vocablo se usa junto con «pan» con el significado literal de «pan de continuidad» («pan de la [continua] presencia», lba) o pan «que siempre está allí». En otros grupos o pasajes, el término enfatiza «repetición permanente», por ejemplo, Éxo_29:42 menciona el «holocausto continuo» [literalmente «de continuidad»], es decir, la ofrenda que se ofrecía cada mañana y tarde. Dan_8:11 también habla del «sacrificio [holocausto] continuo».
+
+El uso secular indica que tamîd describe «continuidad en el tiempo», o una rutina o hábito. Tamîd puede tener también la connotación de una rutina que llega a su fin cuando un trabajo se ha concluido: «Apartarán gente para atravesar constantemente la tierra y sepultar a los que pasaron y que han quedado sobre la faz de la tierra, a fin de purificarla. Al cabo de siete meses harán el reconocimiento» (Eze_39:14 rva).
+
+B. Adjetivo
+
+tamîd (úÌÈîÄéã, [[H8548]]), «continuo». En Éxo_30:7-8, se ordena a Aarón quemar incienso mañana y tarde cuando prepara las lámparas. Se le dice que debe quemar «incienso delante de Jehová, continuamente, a través de vuestras generaciones» (rva). Se usa a menudo la misma expresión hebraica con referencia a las funciones sacerdotales (cf. Núm_28:6; Eze_46:15).
+
+C. Adverbio
+
+tamîd (úÌÈîÄéã, [[H8548]]), «siempre; continuamente; regularmente». Tiene un cognado en arábigo. Tamîd se usa primero como adverbio en Éxo_25:30 : «Y pondrás sobre la mesa el pan de la Presencia, continuamente, delante de mí» (rva ; «perpetuamente» lba, bj ; «siempre» bla, rv-95, nbe, lba). Algunas veces la continuidad se explica con lo que sigue, como en Isa_21:8 : «Oh Señor, sobre la torre del centinela estoy de pie continuamente de día, y todas las noches estoy apostado en mi guardia» (rva). Por su pacto con Jonatán, David le dijo a Mefiboset: «Y tú comerás siempre a mi mesa» (2Sa_9:7; cf. 2Sa_9:10).
+
+Tamîd se encuentra con mayor frecuencia en relación con los ritos diarios del tabernáculo y el templo: «Esto es lo que ofrecerás sobre el altar: dos corderos de un año cada día, continuamente» (Éxo_29:38). La variedad de traducciones en las diversas versiones indica que ambas ideas (regularidad y continuidad) están presentes en el término hebreo. En este pasaje, tamîd indica que los ritos debían realizarse regularmente y sin interrupción mientras durara el antiguo pacto.
+
+El mismo vocablo se usa acerca de Dios. Describe su presencia visible en el tabernáculo: «Así era continuamente: la nube lo cubría de día, y de noche la apariencia de fuego» (Núm_9:16). Describe el cuidado por su pueblo: «Tu misericordia y tu verdad me guarden continuamente» (Sal_40:11, lba); «Jehová te pastoreará siempre» (Isa_58:11).
+
+Tamîd tiene también que ver con Jerusalén: «Tus muros están constantemente delante de mí» (Isa_49:16 lba). El término describe la respuesta humana ante Dios: «A Jehová he puesto siempre delante de mí» (Sal_16:8); «Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca» (Sal_34:1); «Tu ley guardaré siempre, para siempre jamás» (Sal_119:44 rva). En contraposición, Israel es «un pueblo que en mi propia cara me provoca a ira continuamente» (Isa_65:3 rva). Y por último, se habla acerca de Sion escatológicamente: «Tus puertas estarán abiertas continuamente. No se cerrarán ni de día ni de noche, para que sean traídas a ti las riquezas de las naciones, y te sean conducidos sus reyes» (Isa_60:11 rva).
+
+Tamîd, como adverbio tiene la acepción de «acción ininterrumpida»: «Y pondrás sobre la mesa el pan de la Presencia, continuamente, delante de mí» (Éxo_25:30 rva). En Jer_6:7, leemos: «Ante mí hay de continuo enfermedades y heridas» (lba). En muchos pasajes, tamîd tiene el matiz de una «repetición habitual»: «Esto es lo que ofrecerás sobre el altar cada día, continuamente: dos corderos de un año. Ofrecerás uno de los corderos al amanecer, y el otro cordero lo ofrecerás al atardecer» (Éxo_29:38-39 rva).
+
+En su uso poético, tamîd se halla en contextos de fervorosa expresión religiosa: «Mis ojos están siempre puestos en Jehová, porque él sacará mis pies de la red» (Sal_25:15 rva). Puede expresar una fe inamovible en la fidelidad de Dios: «Tú, oh Señor, no retengas tu compasión de mí; tu misericordia y tu verdad me guarden continuamente» (Sal_40:11 lba). 
+

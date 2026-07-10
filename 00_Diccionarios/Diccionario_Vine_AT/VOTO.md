@@ -1,0 +1,35 @@
+---
+titulo: "VOTO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#VOTO"]
+---
+
+# VOTO
+
+A. Verbo
+
+nadar (ðÈãÇø, [[H5087]]), «hacer voto». Este verbo aparece en varias lenguas semíticas (ugarítico, fenicio y arameo). En las inscripciones fenicio-púnicas el verbo y su nombre derivado a menudo se refieren a sacrificios humanos y en un sentido más general significan una ofrenda. Nadar aparece 31 veces en el Antiguo Testamento.
+
+El verbo está distribuido por toda la literatura veterotestamentaria (narrativa, jurídica, poética, aunque relativamente poco en los libros proféticos). Más allá del Antiguo Testamento el verbo se encuentra en los rollos del Mar Muerto, en hebreo rabínico, medieval y moderno. Con todo, su uso declinó después del cautiverio.
+
+Tanto mujeres como hombres podían «hacer votos». Números 30 tiene que ver con las leyes que rigen los votos; cf. Núm_30:2 : «Cuando alguno hiciere voto a Jehová, o hiciere juramento ligando su alma con obligación»; y Núm_30:3 : «Mas la mujer, cuando hiciere voto a Jehová, y se ligare con obligación».
+
+La Septuaginta usa eujomai («desear»).
+
+B. Nombre
+
+neder (ðÆÆãÆø, [[H5088]]), «voto; ofrendas votivas». Este nombre aparece 60 veces en hebreo bíblico y a menudo (19 veces) se usa junto con el verbo: «Ni los votos [neder] que prometieres [nadar]» (Deu_12:17). Las versiones modernas traducen este conjunto de diversas formas: transforman el nombre con el verbo en una expresión idiomática: «Nada de lo que hayan prometido al Señor» (lvp); adoptan un uso técnico destacando el nombre: «Ninguna de tus ofrendas votivas» (bj) o bien traducen ambos términos como nombres: «los votos, las ofrendas» (nbe).
+
+El voto tiene dos formas básicas: incondicional y condicional. El «voto» incondicional es un «juramento» mediante el cual una persona se compromete sin esperar recompensa: «Pagaré mis votos a Jehová delante de todo su pueblo» (Sal_116:14). Quien así se compromete está obligado a cumplir. Una vez pronunciada, la palabra votiva tiene la misma fuerza de un juramento que, en la mayoría de los casos, no puede violarse: «Cuando alguno hiciere voto a Jehová, o hiciere juramento ligando su alma con obligación, no quebrantará su palabra; hará conforme a todo lo que salió de su boca» (Núm_30:2). El «voto» condicional generalmente contiene una cláusula previa detallando las condiciones necesarias para el cumplimiento del voto: «E hizo Jacob voto, diciendo: Si fuere Dios conmigo, y me guardare en este viaje en que voy, y me diere pan para comer y vestido para vestir, y si volviere en paz a casa de mi padre, Jehová será mi Dios … y de todo lo que me dieres, el diezmo apartaré para ti» (Gén_28:20-22).
+
+Los votos, por lo general, se hacían en situaciones muy serias. Jacob necesitaba la seguridad de la presencia del Señor antes de partir para Padan-aram (Gén_28:20-22). Jefté hizo un «voto» precipitado antes de salir para la batalla (Jue_11:30; cf. Núm_21:1-3); cuando Ana hizo su «voto», deseaba un niño de todo corazón (1Sa_1:11). Por más que los «votos» condicionados se hacen a menudo por desesperación, esto no altera el carácter obligatorio del mismo. Eclesiastés amplía la enseñanza veterotestamentaria sobre el «voto»: «Cuando hagas un voto a Dios, no tardes en cumplirlo … Cumple lo que prometes. Mejor es que no prometas, a que prometas y no cumplas … ni digas delante del mensajero que fue un error» (1Sa_5:4-6 rva). Primero, un «voto» siempre es para Dios. Aun los gentiles hacían «votos» (Jon_1:16). Segundo, el «voto» es voluntario y está abierto a cualquiera. En el Antiguo Testamento el «voto» no es patrimonio de personas piadosas ni es un requisito religioso. Tercero, una vez hecho el «voto» debe cumplirse. Un «voto» no se puede anular. Con todo, el Antiguo Testamento ofrecía la alternativa de «redimir» el «voto»; pagando el equivalente de su valor en plata, se podían redimir una persona, un campo o una casa dedicados por «voto» al Señor (Lev_27:1-25).
+
+Esta práctica decayó en los tiempos de Jesús. El Talmud, por tanto, desaprueba el «voto» y llama a «pecadores» a quienes lo hacen.
+
+Neder significa también una clase de ofrenda: «Allá llevaréis vuestros holocaustos, vuestros sacrificios, vuestros diezmos, la ofrenda alzada de vuestras manos, vuestras ofrendas votivas, vuestras ofrendas voluntarias» (Deu_12:6 rva). En particular el vocablo indica algún tipo de ofrenda por la paz u «ofrenda votiva» (Esd_7:16). Era también una especie de ofrenda de gratitud: «He aquí sobre los montes los pies del que trae buenas nuevas, del que anuncia la paz. Celebra, oh Judá, tus fiestas, cumple tus votos» (Nah_1:15). En estos casos aun los gentiles expresaban su gratitud a Dios probablemente con una ofrenda que prometieron a condición del cumplimiento de una plegaria (cf. Núm_21:1-3). Tales ofrendas podían también ser expresiones de celo hacia las cosas de Dios (Sal_22:25). A Dios se le podía ofrendar todo lo que no le fuera abominable (Lev_27:9 ss; Deu_23:18), incluyendo el servicio propio (Lev_27:2). Mientras que los paganos pensaban en términos de alimentar o cuidar a sus dioses, Dios rechaza esta intención en el cumplimiento de los «votos» dirigidos a él (Sal_50:9-13). En el paganismo el dios recompensa al cultuante por razón de su ofrenda y en proporción a su tamaño. Era una relación contractual que obligaba al dios a cancelar su deuda con el cultuante. En Israel nunca existió una relación como esta.
+
+Las expresiones extraordinarias y concretas de Israel de amor hacia Dios demuestran que con Moisés el amor era más que puro legalismo (Deu_6:4); era devoción espiritual. El Mesías de Dios se compromete a ofrecerse a sí mismo en sacrificio por el pecado (Sal_22:25; cf. Lev_27:2 ss). Este es el único sacrificio que Dios acepta de manera absoluta y sin condiciones. A la luz de esta realidad, todo ser humano tiene la obligación de cumplir su «voto» delante de Dios: «A ti, oh Dios de Sion, te pertenece la alabanza. A ti se deben cumplir los votos. A ti acude todo mortal» (Sal_65:1-2 nvi).
+
+La Septuaginta usa euje («oración; juramento; voto»). 
+

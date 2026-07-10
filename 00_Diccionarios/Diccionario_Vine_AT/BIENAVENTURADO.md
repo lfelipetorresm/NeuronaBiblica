@@ -1,0 +1,18 @@
+---
+titulo: "BIENAVENTURADO"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#BIENAVENTURADO"]
+---
+
+# BIENAVENTURADO
+
+'ashrê (àÇùÑÀøÅé, [[H835]]), «bienaventurado, feliz». De las 44 veces que aparece este nombre, 40 están en pasajes poéticos: 26 veces en los Salmos y 8 en Proverbios .
+
+El término comunica básicamente la «prosperidad» o «felicidad» que experimentan los que son favorecidos (bendecidos) por alguien superior. En la mayoría de los pasajes, quien otorga el favor es Dios mismo: «Bienaventurado tú, oh Israel. ¿Quién como tú, pueblo salvo por Jehová» (Deu_33:29). La persona bienaventurada no siempre goza de una situación «feliz»: «He aquí bienaventurado [feliz] es el hombre a quien Dios castiga; por tanto, no menospreciéis la corrección del Todopoderoso, porque él es quien hace la llaga, y él la vendará» (Job_5:17-18). Elifaz no quiso decir que la condición de Job era, en sí, «feliz»; sino que Dios estaba preocupado por él, por tanto era «bienaventurado». Su situación era «feliz» porque el resultado sería bueno. Job , por tanto, debería reírse de su adversidad (Job_5:22).
+
+A juzgar por las palabras lisonjeras de la reina de Sabá a Salomón (1Re_10:8), no siempre es Dios el causante de la «buenaventura».
+
+Ser «bienaventurado» ante Dios puede que no siempre tenga relación con las situaciones sociales o personales que hoy en día consideramos necesarias para alcanzar la «felicidad». Si bien «bienaventurado» es la traducción correcta de 'ashrê, hoy no se puede decir lo mismo de «feliz», que no tiene el mismo peso para los lectores modernos de la Biblia.
+
+

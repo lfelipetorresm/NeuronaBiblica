@@ -1,0 +1,12 @@
+---
+titulo: "MAYORMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#MAYORMENTE"]
+---
+
+# MAYORMENTE
+
+malista (ìÜëéóôá, [[G3122]]), especialmente, en gran manera, por encima de todo, es superlativo de mala, muchísimo. Se traduce «mayormente» (Hch_25:26; Hch_26:3; Gál_6:10; 1Ti_4:10; 1Ti_5:8, 1Ti_5:17; 2Ti_4:13; Tit_1:10, Tit_1:16; 2Pe_2:10); «en gran manera» (Hch_20:38); «especialmente» (Fil_4:22). Véanse ESPECIALMENTE, GRANDE S, etc.¶ 
+
+

@@ -1,0 +1,19 @@
+---
+titulo: "MANDAR, ORDENAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#MANDAR,ORDENAR"]
+---
+
+# MANDAR, ORDENAR
+
+tsawah (öÈåÈä, [[H6680]]), «mandar, ordenar». Este verbo solo se encuentra en hebreo bíblico (durante todos los períodos) y en arameo imperial (a partir de aproximadamente 500 a.C.). Hay unos 485 casos en la Biblia.
+
+En esencia, el vocablo se refiere a una comunicación oral mediante la cual un superior «ordena» o «manda» a un subalterno. El término expresa el contenido de lo que se dice. El faraón «ordenó» («mandó») a sus hombres acerca de Abraham, y ellos escoltaron al patriarca y a su comitiva hasta las fronteras de Egipto (Gén_12:20). Esta «orden» se refiere a una acción importante que tiene que ver con una situación particular. Tsawah también puede indicar el acto de «mandar» o establecer una regla bajo la que un subordinado tendrá que actuar cada vez que recurra una situación similar. En el huerto de Edén (primera vez que aparece el vocablo), Dios «mandó» («estableció la regla»): «De todo árbol del huerto podrás comer» (Gén_2:16). En este caso, el término no lleva implícito el contenido de la acción, más bien enfoca en la acción misma.
+
+Una de las fórmulas recurrentes en la Biblia es ««X» hizo todo lo que «Y» le mandó», por ejemplo, Rut «hizo todo lo que su suegra le había mandado» (Rut_3:6). Lo cual quiere decir que cumplió con las «órdenes» de Noemí. Una fórmula parecida, ««X» hizo justo lo que «Y» mandó», se encuentra por primera vez en Núm_32:25, donde los hijos de Rubén y Gad dijeron a Moisés que harían «como mi señor ha mandado». Estas fórmulas señalan el cumplimiento de las «órdenes» de un superior o bien la intención de cumplirlas.
+
+El verbo tsawah puede referirse a una comisión o a un encargo, tal como el acto de «mandar», «decir» o «enviar» a alguien a realizar alguna tarea. En Gén_32:4, Jacob «comisionó» a sus siervos que entregasen un mensaje a su hermano Esaú. Actuaron como sus emisarios. Jacob comisionó (literalmente «mandó») a sus hijos que lo enterraran en la cueva de Macpela (Gén_49:30), después murió. Esta «orden» fue su último testamento, o sea, una obligación o deber. Por tanto, el verbo indica una vez más el hecho de nombrar a alguien como su emisario.
+
+El sujeto más frecuente de este verbo es Dios. Sin embargo, no se le puede cuestionar ni «ordenar» que explique la obra de sus manos (Isa_45:11). Sus órdenes se las transmite a Moisés desde encima del propiciatorio (Éxo_25:22) y sus «mandamientos» en el Sinaí (Lev_7:38; cf. 17:1ss). En otros casos, lo que él «manda» simplemente acontece; su palabra es activa y poderosa (Sal_33:9). También emite «órdenes» mediante los profetas y para ellos (Jer_27:4), quienes explican, aplican y comunican los «mandamientos» de Dios (Jer_1:17). 
+

@@ -1,0 +1,24 @@
+---
+titulo: "IGUAL, IGUALDAD, IGUALMENTE"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#IGUAL,IGUALDAD,IGUALMENTE"]
+---
+
+# IGUAL, IGUALDAD, IGUALMENTE
+
+A. Adjetivo
+
+isos (ἴóïò, [[G2470]]), el mismo en tamaño, cantidad, calidad, etc. Se traduce «igual/es» en Mat_20:12; Jua_5:18; Fil_2:6; Apo_21:16. En la cita de Fil_2:6 el término se halla en plural neutro, lit: «igualdades»; en las versiones castellanas se traduce «ser igual a Dios». Esta traducción está evidentemente condicionada por la Vulgata Latina. Parece debida al hecho de que en latín no había una manera adecuada de representar la forma y significado precisos del griego. El plural neutro aquí denota los varios modos o estados en que le era posible para la naturaleza de la Deidad existir y manifestarse como divina (cf. The Incarnation, de Gifford, p. 20).
+
+Notas: (1) Kakeinos también se traduce como «de igual modo» en Hch_15:11; (2) para isangelos : «iguales a los ángeles» (Luc_20:36), véase, Nº 2;¶ (3) jomoios, adverbio que significa «igualmente», se traduce «de igual modo» en Rom_1:27; véase C, más abajo y ASIMISMO, Nº 1; (4) el adverbio josautos (véase ASIMISMO, Nº 4, y C más abajo) se traduce como «de igual manera» en Luc_22:20; Rom_8:26; (5) isotimos, traducido «igualmente preciosa», de la fe (2Pe_1:1), se trata bajo PRECIOSO.¶
+
+B. Nombre
+
+isotes (ἰóïôÞò, [[G2471]]), igualdad (relacionado con A). Se traduce «igualdad» en 2Co_8:14, dos veces; en Col_4:1, con el artículo: «lo que es … recto» (lit: «la igualdad»); esto es, equidad, justicia, lo que es conforme a equidad.¶ En la lxx, Job_36:29; Zac_4:7.¶
+
+C. Adverbios
+
+Notas: (1) Para jomoios, traducido «igualmente» en Luc_13:3 (en los mss. más comúnmente aceptados); v. 5 (tr); Jua_5:19; 1Pe_3:7; 1Pe_5:5, véase ASIMISMO, Nº 1; (2) Para josautos, traducido «igualmente» en Luc_13:3 (tr); v. 5, en los mss. más comúnmente aceptados, véase ASIMISMO, Nº 4. 
+
+

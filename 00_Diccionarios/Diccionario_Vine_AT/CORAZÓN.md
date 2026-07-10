@@ -1,0 +1,39 @@
+---
+titulo: "CORAZÓN"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineAT", "#CORAZÓN"]
+---
+
+# CORAZÓN
+
+A. Nombre
+
+leb (ìÅá, [[H3820]]), «corazón; mente; en medio de». Leb y su sinónimo lebab aparecen 860 veces en el Antiguo Testamento. La ley, los profetas y los salmos hablan a menudo acerca del «corazón». La raíz aparece también en acádico, asirio, egipcio, ugarítico, arameo, arábigo y en el hebraico posbíblico. Los nombres arameos correspondientes aparecen siete veces en el libro de Daniel .
+
+La primera vez que aparece «corazón» es en relación con seres humanos, en Gén_6:5 : «Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón era de ellos era de continuo solamente el mal». En Gén_6:6 leb se usa en relación con Dios: «Y se arrepintió Jehová de haber hecho hombre en la tierra, y le dolió en su corazón».
+
+«Corazón» puede referirse al órgano del cuerpo: «Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón» (Éxo_28:29); «Joab … tomando tres dardos en su mano, los clavó en el corazón de Absalón» (2Sa_18:14); «Mi corazón está acongojado» (Sal_38:10).
+
+Leb también puede referirse al interior («en medio») de algo: «Se cuajaron los abismos en el corazón del mar» (Éxo_15:8 lba); «El monte ardía con fuego hasta el corazón de los cielos» (Deu_4:11 rva); «Serás como el que yace en medio del mar» (Pro_23:34).
+
+Lebab puede señalar el fuero interno, en contraste con lo externo, como en Deu_30:14 : «Porque muy cerca de ti está la palabra, en tu boca y en tu corazón, para que la cumplas» (cf. Joe_2:13); «El hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón» (1Sa_16:7). A menudo lebab y «alma» se usan juntos para mayor énfasis, como en 2Cr_15:12 : «E hicieron pacto para buscar al Señor, Dios de sus padres, con todo su corazón y con toda su alma» (lba ; cf. 2Cr_15:15). Nepesh («alma»; vida; ser) se traduce varias veces como «corazón» en la rv . En cada caso, connota el «fuero interno» («hombre interior»): «Porque cual es su pensamiento en su corazón [nepesh]), tal es él» (Pro_23:7; «en su alma» rv ; «en su mente» rva ; «íntimos» rv-95 ; «dentro de sí» lba ; «en sí mismo» LBL).
+
+Leb puede referirse a la persona o a su personalidad: «Entonces Abraham se postró sobre su rostro y se rió diciendo en su corazón» (Gén_17:17 rva); también, «mi corazón ha percibido mucha sabiduría y ciencia» (Ecl_1:16). Leb se usa además en este sentido en cuanto a Dios: «Oseas daré pastores según mi corazón» (Jer_3:15).
+
+«Corazón» puede connotar la fuente de deseo, inclinación o voluntad: «El corazón de Faraón es terco» (Éxo_7:14 lba); «todo aquel que sea de corazón generoso, traiga … ofrenda al Señor» (Éxo_35:5 lba ; cf. vv. 21, 29); «Te alabaré, oh Jehová, Dios mío, con todo mi corazón» (Sal_86:12). Leb se usa también cuando Dios se expresa: «Ciertamente los plantaré en esta tierra, con todo mi corazón y con toda mi alma» (Jer_32:41 lba). Cuando dos personas están de acuerdo se dice que sus «corazones» están bien el uno con el otro: «¿Es recto tu corazón, como mi corazón es recto con tu corazón?» (2Re_10:15 rva). En 2Cr_24:4 (rv), «Joas tuvo voluntad de reparar la casa de Jehová» (en heb: «tuvo en su corazón»).
+
+El «corazón» se tiene como el centro de las emociones: «Amarás a Jehová tu Dios de todo tu corazón» (Deu_6:5); «Al verte, [Aarón] se alegrará en su corazón» (Éxo_4:14; cf. 1Sa_2:1). De la misma suerte hay corazones «alegres» (Jue_16:25), corazones «temerosos» (Isa_35:4) y corazones que «tiemblan» (1Sa_4:13).
+
+El «corazón» se tiene como el centro del conocimiento y de la sabiduría y como sinónimo de «mente». Esta acepción aparece a menudo cuando los verbos «conocer» y «saber» acompañan a «corazón»: «Reconoce asimismo en tu corazón» (Deu_8:5); y «Pero hasta hoy Jehová no os ha dado corazón para entender» (Deu_29:4). Salomón oró: «Da, pues, a tu siervo corazón entendido para juzgar a tu pueblo, y para discernir entre lo bueno y lo malo» (1Re_3:9; cf. 1Re_4:29). La memoria es una actividad del «corazón», como en Job_22:22 : «Pon sus palabras en tu corazón».
+
+El «corazón» se tiene como el centro de la conciencia y del carácter moral. ¿Cómo responde uno a la revelación de Dios y del mundo que nos rodea? Job responde: «No me reprochará mi corazón en todos mis días» (Job_27:6). Lo contrario aparece con David al que «le pesó en su corazón» (2Sa_24:10 lba). El «corazón» es la fuente de las acciones del ser humano: «En la integridad de mi corazón y con manos inocentes yo he hecho esto» (Gén_20:5 lba ; cf. v. 6). David anduvo «con rectitud de corazón» (1Re_3:6); y Ezequías «con corazón íntegro» delante de Dios (Isa_38:3). Únicamente la persona «de manos limpias y corazón puro» (Sal_24:4 lba) puede estar en la presencia de Dios.
+
+Leb puede referirse al centro de la rebelión y del orgullo. Dijo Dios: «Porque la intención del corazón del hombre es mala desde su juventud» (Gén_8:21 lba). Tiro es como todo ser humano: «Por cuanto tu corazón se enalteció, y porque, a pesar de ser hombre y no Dios, dijiste: «Yo soy un dios … »» (Eze_28:2 rva). Todos llegan a ser como Judá cuyo pecado «está grabado en la tabla de su corazón» (Jer_17:1).
+
+Dios controla el «corazón». Por su «corazón» natural, la única esperanza del ser humano está en la promesa de Dios: «Oseas daré corazón nuevo … y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne» (Eze_36:26). Por esto el pecador ora: «Crea en mí, oh Dios, un corazón puro» (Sal_51:10); y «Afirma mi corazón para que tema tu nombre» (Sal_86:11). También, como dice David: «Yo sé, oh Dios mío, que tú pruebas el corazón y que te agrada la rectitud» (1Cr_29:17). Por tanto, el pueblo de Dios busca su aprobación: «Escudriña mi mente y mi corazón» (Sal_26:2). El «corazón» simboliza el fuero interno del ser humano, su propia persona. Como tal, es la fuente de todo lo que hace (Pro_4:4). Todos sus pensamientos, deseos, palabras y acciones fluyen desde lo más profundo de su ser. Con todo, ninguna persona logra entender su propio «corazón» (Jer_17:9). Al seguir el ser humano su propio camino, su «corazón» se endurece cada vez más. Pero Dios circuncidará (recortará la inmundicia) del «corazón» de su pueblo, para que le amen y obedezcan con todo su ser (Deu_30:6).
+
+B. Adverbio
+
+leb (ìÅá, [[H3820]]), «tiernamente; amistosamente; confortablemente». Leb se usa como adverbio en Gén_34:3 : «Pero se sintió ligado a Dina … se enamoró de la joven y habló al corazón de ella» (rva ; «le habló tiernamente lba »). En Rut_2:13, «al corazón» (rv, rva, nrv) significa «amistosamente» o «bondadosamente»: «Has hablado con bondad a tu sierva». El vocablo significa «confortablemente» en 2Cr_30:22 y en Isa_40:2. 
+

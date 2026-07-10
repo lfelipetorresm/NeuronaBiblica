@@ -1,0 +1,18 @@
+---
+titulo: "LECTURA, LEER"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#LECTURA,LEER"]
+---
+
+# LECTURA, LEER
+
+A. Nombre
+
+anagnosis (ἀíÜãíùóéò, [[G320]]), denotaba, en griego no bíblico, reconocimiento o examen (encontrándose este último significado en los papiros); luego, lectura. En el NT, la lectura pública de las Escrituras (Hch_13:15; 2Co_3:14; 1Ti_4:13), donde el contexto pone en claro que la referencia que se hace es al cuidado demandado en la lectura de las Escrituras a una compañía, un deber que siempre exige de la exhortación «ocúpate». Más tarde, los lectores en las iglesias recibían el nombre de anagnostai .¶ En la lxx, Neh_8:8.¶
+
+B. Verbo
+
+anaginosko (ἀíáãéíþóêù, [[G314]]), primariamente, conocer con certeza, conocer de nuevo, reconocer (ana, de nuevo; ginosko, conocer). Se usa de leer caracteres escritos (p.ej., Mat_12:3, Mat_12:5; Mat_21:16; Mat_24:15); de la lectura privada de las Escrituras (Hch_8:28, Hch_8:30, Hch_8:32); de la lectura pública de las Escrituras (Luc_4:16; Hch_13:27; Hch_15:21; 2Co_3:15; Col_4:16, tres veces; 1Ts_5:27; Apo_1:3). En 2Co_1:13 hay un juego de palabras premeditado; primeramente: «porque no os escribimos otras cosas de las que leéis (anaginosko)» significa que no hay ningún significado escondido ni misterioso en sus Epístolas; cualesquiera dudas que hubieran podido suscitarse y salir a este respecto, lo que él quiere decir es lo que dice; luego sigue el similar verbo, epiginosko, reconocer, traducido «entender» en la rvr: «o también entendéis; y espero que hasta el fin las entenderéis». Esta paronomasia no puede ser reproducida en castellano. De forma similar, en 3:2 se ponen en este orden el verbo ginosko, conocer, y anaginosko, leer, y se aplican metafóricamente a la iglesia en Corin to como constituyendo una epístola, un mensaje al mundo, escrito por el apóstol y sus compañeros de misión, mediante su ministerio del evangelio y el consiguiente cambio en las vidas de los convertidos, siendo sus vidas «leídas y conocidas por todos los hombres». Para otros casos de paronomasia véase, p.ej., Rom_12:3 (froneo, juperfroneo, sofroneo)1Co_2:13-14 (sunkrino, anakrino), 2Ts_3:11 (ergazomai y periergazomai), 1Co_7:31 (craomai y katacraomai); 1Co_11:31 (diakrino y krino), 1Co_12:2 (ago y apago) y Fil_3:2-3 (katatome y peritome). 
+
+

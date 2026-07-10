@@ -1,0 +1,12 @@
+---
+titulo: "AVISTAR"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#AVISTAR"]
+---
+
+# AVISTAR
+
+anafaino (ἀíáöáßíù, [[G398]]), (ana, adelante, o arriba; faino, en voz activa, resplandecer, en la pasiva, ser traído a la luz), hacerse evidente, aparecer. Es posible que originalmente fuera un término náutico, aparecer a la vista y, en general, aparecer repentinamente. Se usa en voz pasiva, en Luc_19:11, del Reino de Dios; en voz activa, en Hch_21:3, «avistar». Véase MANIFESTAR.¶ 
+
+

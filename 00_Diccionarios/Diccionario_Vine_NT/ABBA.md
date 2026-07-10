@@ -1,0 +1,12 @@
+---
+titulo: "ABBA"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#ABBA"]
+---
+
+# ABBA
+
+abba (ἀââá̂, [[G5]]), es una palabra aramea, que se halla en Mar_14:36; Rom_8:15 y Gál_4:6. En la Gemara (comentario rabínico sobre la Misná, la enseñanza tradicional de los judíos) se afirma que los esclavos tenían prohibido dirigirse al padre de familia con este título. Se aproxima a un nombre personal, en contraste a «padre», vocablo con el que siempre se halla unido en el NT. Esto es probablemente debido al hecho de que al haber llegado «abba » a convertirse en la práctica en un nombre propio, personal, los judíos de habla helénica añadieron la palabra griega pater, padre, del lenguaje que usaban comúnmente. Abba es la palabra formada por los labios de los niños de pecho, e implica una confianza total; «padre» expresa un entendimiento inteligente de la relación. Las dos palabras juntas expresan el amor y la confianza inteligente del hijo. 
+
+

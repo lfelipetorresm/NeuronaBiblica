@@ -1,0 +1,12 @@
+---
+titulo: "CUMI"
+tipo: definicion_diccionario
+estado: Procesado
+etiquetas: ["#Diccionario", "#VineNT", "#CUMI"]
+---
+
+# CUMI
+
+koum o koumi (êïõ̂ì, [[G2891]]), del hebreo y arameo qum, levantarse. Es una palabra que usó el Señor en Mar_5:41 en su expresión: «Talita cumi»; talita es un vocablo femenino arameo que significa «doncella», y koumi o koum, que sigue, se interpreta como «a ti digo, levántate». Koum es el vocablo más bien atestiguado; en el Talmud, donde aparece este imperativo «siete veces en una sola página» (Edersheim, Life and Times of Jesus the Meáiah, i, p. 631).¶ 
+
+
