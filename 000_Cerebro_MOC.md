@@ -19,6 +19,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 *El motor exegético de raíces en Hebreo y Griego.*
 - [[Indice_Diccionario_Vine_AT]]
 - [[Indice_Diccionario_Vine_NT]]
+- [[00_Indice_Comentario_Partain_Reeves|Comentario al NT (Partain-Reeves)]]
 
 ### 🛡️ Lógica y Razonamiento (El Escudo)
 *Las herramientas para argumentar sólidamente y refutar el error.*
