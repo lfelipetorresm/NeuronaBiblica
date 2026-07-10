@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#UBICAR,PONER"]
 
 A. Verbo
 
-shîm (ùÑÄéí, [[H7760]]), «colocar, ubicar, poner, fijar». El vocablo también aparece en acádico (shamu), arameo (incluyendo arameo bíblico), arábigo y etiópico. Se encuentra unas 580 veces en hebreo bíblico, durante todos los períodos y casi exclusivamente en su raíz primaria.
+shîm (שִׁים, [[H7760]]), «colocar, ubicar, poner, fijar». El vocablo también aparece en acádico (shamu), arameo (incluyendo arameo bíblico), arábigo y etiópico. Se encuentra unas 580 veces en hebreo bíblico, durante todos los períodos y casi exclusivamente en su raíz primaria.
 
 La primera vez que shîm se encuentra indica «poner o ubicar» alguna persona u objeto en algún lugar: «Y Jehová Dios plantó un huerto en Edén al oriente; y puso allí al hombre que había formado» (Gén_2:8). En Éxo_40:8, el verbo significa «poner» algún objeto en forma vertical o perpendicular: «Finalmente pondrás el atrio alrededor, y la cortina a la entrada del atrio». Otros objetos se «ponen» en un sentido figurado, como por ejemplo, un muro. De ahí que Miqueas habla de «poner» un sitio, un muro, alrededor de una ciudad: «Han puesto sitio contra nosotros» (Miq_5:1 lba ; cf. 1Re_20:12). La misma imagen se usa en sentido figurado en relación a una muralla humana que se interpone en el camino: «Yo castigaré lo que hizo Amalec a Israel al oponérsele en el camino cuando subía de Egipto» (1Sa_15:2).
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#GLORIA"]
 
 A. Nombre
 
-tip'eret (úÌÄôÀàÆøÆú, [[H8597]]), «gloria, belleza, ornamento, distinción, orgullo». Este vocablo se encuentra unas 51 veces en todos los períodos del hebreo bíblico.
+tip'eret (תִּפְאֶרֶת, [[H8597]]), «gloria, belleza, ornamento, distinción, orgullo». Este vocablo se encuentra unas 51 veces en todos los períodos del hebreo bíblico.
 
 El término expresa «belleza» externa: «Harás vestiduras sagradas para tu hermano Aarón, que le den gloria y esplendor» (Éxo_28:2 rva : primera mención del vocablo). En Isa_4:2, la palabra califica el fruto de la tierra como la «belleza» o el «adorno» (lba) de los sobrevivientes de Israel.
 
@@ -23,5 +23,5 @@ En Isa_10:12, tipe'ret (o tip'arah) expresa un concepto demasiado alto de sí mi
 
 B. Verbo
 
-pa'ar (ôÌÈàÇø, [[H6286]]), «glorificar». Este verbo aparece 13 veces. Un ejemplo es Isa_60:9 : «Y al Santo de Israel, que te ha glorificado». 
+pa'ar (פָּאַר, [[H6286]]), «glorificar». Este verbo aparece 13 veces. Un ejemplo es Isa_60:9 : «Y al Santo de Israel, que te ha glorificado». 
 

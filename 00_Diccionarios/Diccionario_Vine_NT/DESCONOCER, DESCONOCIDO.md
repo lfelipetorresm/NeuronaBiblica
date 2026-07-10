@@ -13,6 +13,6 @@ agnoeo (ἀãíïÝù, [[G50]]), significa ser ignorante, desconocer. Se traduce
 
 B. Adjetivo
 
-xenos (îÝíïò, [[G3581]]), extraño; cf. con xenizo, en SORPRENDER, etc. Denota a un forastero, desconocido; y se traduce «desconocido» en 3Jn_1:5 : Véanse EXTRANJERO, FORASTERO, etc. 
+xenos (ξένος, [[G3581]]), extraño; cf. con xenizo, en SORPRENDER, etc. Denota a un forastero, desconocido; y se traduce «desconocido» en 3Jn_1:5 : Véanse EXTRANJERO, FORASTERO, etc. 
 
 

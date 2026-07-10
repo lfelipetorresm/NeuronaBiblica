@@ -9,6 +9,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#AZUFRE"]
 
 1. theion (èåé̂ïí, [[G2303]]), denotaba originalmente fuego del cielo. Está relacionado con el azufre. Los lugares tocados por rayos se llamaban theta, y, como el rayo deja un olor a azufre; como el azufre era utilizado en las purificaciones paganas, recibió el nombre de theion (Luc_17:29; Apo_9:17-18; Apo_14:10; Apo_19:20; Apo_20:10; Apo_21:8).¶
 
-2. theiodes (èåéþäçò, [[G2306]]), relacionado con el Nº 1, significa semejante al azufre, o consistente en azufre (Apo_9:17).¶ 
+2. theiodes (θειώδης, [[G2306]]), relacionado con el Nº 1, significa semejante al azufre, o consistente en azufre (Apo_9:17).¶ 
 
 

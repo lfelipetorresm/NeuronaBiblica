@@ -36,7 +36,7 @@ La provisión para los sacerdotes. Fuera o no que el adorador comiera una porci
 La santidad por contacto. Cierta transmisión podía hacerse directamente a varios de los objetos sagrados, pero no de manera secundaria (Hag 2:12). Cautelosos análisis han llevado a algunos expertos a la conclusión de que sólo los objetos, no las personas, llegaban a ser santos por el contacto con algo que lo fuera, pero no todos están convencidos de que existiera tal distinción. Del mismo modo, las regulaciones mesopotámicas prohibían el contacto con los objetos sagrados, pero no se discute el asunto del contagio. Un objeto que “contraía” santidad era confiscado por los sacerdotes y de ahí en adelante era restringido para el uso sagrado.
 
 ### Levítico 6:20
-La décima parte de un efa. Esto era alrededor de 5 copas de harina para 2 ofrendas, cada una de las cuales era una torta chata de unos 20 ó 25 cm de diámetro.
+La décima parte de un efa. Esto era alrededor de 5 copas de harina para 2 ofrendas, cada una de las cuales era una torta chata de unos 20 ף 25 cm de diámetro.
 
 ### Levítico 6:24-30
 El sacrificio por el pecado

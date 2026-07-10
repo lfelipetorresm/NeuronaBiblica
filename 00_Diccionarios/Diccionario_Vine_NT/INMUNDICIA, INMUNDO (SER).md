@@ -13,7 +13,7 @@ A. Nombres
 
 2. akathartes (ἀêáèÜôçò, [[G168]]), suciedad, inmundicia. Aparece en tr en lugar de B, Nº 1, en Apo_17:4.¶
 
-3. miasmo s (ìéáóìüò, [[G3394]]), relacionado con miaino (véanse CONTAMINAR, A, Nº 2, y cf. miasma, CONTAMINAR, B, Nº 1), denota primariamente el acto de contaminar, el proceso, en contraste con la cosa que contamina (miasma). Se halla en 2Pe_2:10 : «inmundicia» (rv, rvr, rvr77, vm ,, Besson; lba: «corrompidos»).¶
+3. miasmo s (μιασμός, [[G3394]]), relacionado con miaino (véanse CONTAMINAR, A, Nº 2, y cf. miasma, CONTAMINAR, B, Nº 1), denota primariamente el acto de contaminar, el proceso, en contraste con la cosa que contamina (miasma). Se halla en 2Pe_2:10 : «inmundicia» (rv, rvr, rvr77, vm ,, Besson; lba: «corrompidos»).¶
 
 4. ruparia (ῥõðáñßá, [[G4507]]), denota suciedad, inmundicia. Se usa metafóricamente de contaminación moral en Stg_1:21 (Cf. Nº 5 a continuación).¶
 
@@ -29,13 +29,13 @@ B. Adjetivos
 
 2. aniptos (ἄíéðôïò, [[G449]]), sin lavar (a, privativo; nipto, lavar). Aparece en Mat_15:20 : «sin lavar»; Mar_7:2 : «no lavadas», v. 5, tr : «inmundas», lit: «no lavadas», de las manos. Véase LAVAR.¶
 
-3. koinos (êïéíüò, [[G2839]]), común. Se traduce «inmundo» en Mar_7:2 : «inmundas» de las manos; v. 5; Rom_14:14, dos veces; Heb_10:29, en forma neutra; Apo_21:27, en los mss. más comúnmente aceptados. Véase, Nº 2.
+3. koinos (κοινός, [[G2839]]), común. Se traduce «inmundo» en Mar_7:2 : «inmundas» de las manos; v. 5; Rom_14:14, dos veces; Heb_10:29, en forma neutra; Apo_21:27, en los mss. más comúnmente aceptados. Véase, Nº 2.
 
 4. ruparos (ῥõðáñüò, [[G4508]]), relacionado con A, Nº 4 y Nº 5, sucio. Se dice de vestiduras míseras (Stg_2:2 : «andrajoso»); metafóricamente, de contaminación moral, «inmundo» (Apo_22:11, en los mss. más comúnmente aceptados). Véase ANDRAJOSO.¶
 
 C. Verbos
 
-1. koinoo (êïéíüù, [[G2840]]), hacer koinos, contaminar. Se traduce «inmundo» en Heb_9:13, donde se usa el participio pasivo perfecto con el artículo, «inmundos», lit: «aquellos que han sido contaminados»; en Apo_21:27 (tr): «que contamina»; los mss. más comúnmente aceptados tienen aquí B, Nº 3. Véase CONTAMINAR, A, Nº 1.
+1. koinoo (κοινόω, [[G2840]]), hacer koinos, contaminar. Se traduce «inmundo» en Heb_9:13, donde se usa el participio pasivo perfecto con el artículo, «inmundos», lit: «aquellos que han sido contaminados»; en Apo_21:27 (tr): «que contamina»; los mss. más comúnmente aceptados tienen aquí B, Nº 3. Véase CONTAMINAR, A, Nº 1.
 
 2. rupaino (ῥõðáßíù, [[G4510]]), hacer inmundo, contaminar (de A, Nº 4). Se usa en la voz pasiva, en un sentido ético (Apo_22:11; cf. B, Nº 4, en el mismo v: «sea inmundo todavía»). El tiempo aoristo señala la decisión terminante de aquello que es decretado. Algunos textos tienen aquí rupareuomai, con el mismo significado; otros tienen rupoo, en voz media, hacerse inmundos a sí mismos.¶
 

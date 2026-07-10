@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LIMPIAR,LIMPIO"]
 
 A. Verbo
 
-taher (èÈäÅø, [[H2891]]), «estar limpio, puro». La raíz de este vocablo aparece más de 200 veces en varias formas: verbo, adjetivo o nombre.
+taher (טָהֵר, [[H2891]]), «estar limpio, puro». La raíz de este vocablo aparece más de 200 veces en varias formas: verbo, adjetivo o nombre.
 
 Desde la caída de Adán y Eva, ninguno de sus descendientes está «limpio» («es puro») ante la presencia de un Dios santo: «¿Quién podrá decir: Yo he limpiado mi corazón, limpio estoy de mi pecado?» (Pro_20:9). Elifaz amonesta a Job al decir que nadie es inocente delante de Dios: «¿Será el hombre más justo que Dios? ¿Será el varón más puro que su Hacedor?» (Job_4:17 rva).
 
@@ -25,7 +25,7 @@ Algunos ritos requerían sangre como agente purificador: «Rociará sobre él la
 
 B. Adjetivo
 
-tahôr (èÈäåéø, [[H2889]]), «limpio; puro». El vocablo denota la ausencia de impureza, suciedad, contaminación o imperfección. Tiene que ver concretamente con sustancias genuinas y sin adulterar, asimismo con una condición espiritual y cúltica sin mácula.
+tahôr (טָהויר, [[H2889]]), «limpio; puro». El vocablo denota la ausencia de impureza, suciedad, contaminación o imperfección. Tiene que ver concretamente con sustancias genuinas y sin adulterar, asimismo con una condición espiritual y cúltica sin mácula.
 
 El oro es visto como un material libre de impurezas. Por eso, el arca del testimonio, el altar de incienso y el pórtico del templo se recubrieron «de oro puro» (Éxo_25:11; Éxo_37:11, Éxo_37:26; 2Cr_3:4). Algunos de los muebles y utensilios en el templo tales como: el propiciatorio, el candelabro, las fuentes, vasijas, tazones, jarros, despaviladeras, platillos, eran de «oro puro» (Éxo_37:6, Éxo_37:16-24). Entre las vestimentas del sumo sacerdote se encontraban «dos cadenillas de oro puro» y un «pectoral … de oro puro» (Éxo_28:14, Éxo_28:22, Éxo_28:36).
 

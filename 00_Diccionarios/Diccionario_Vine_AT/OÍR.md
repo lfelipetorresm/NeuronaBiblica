@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#OÍR"]
 
 A. Verbo
 
-shama' (ùÑÈîÇò, [[H8085]]), «oír, escuchar, atender, obedecer, publicar». El vocablo se encuentra en la mayoría de las lenguas semíticas, incluyendo en hebreo y arameo bíblico (9 veces). Shama' aparece en todos los períodos históricos del hebreo y unas 1:160 veces en la Biblia.
+shama' (שָׁמַע, [[H8085]]), «oír, escuchar, atender, obedecer, publicar». El vocablo se encuentra en la mayoría de las lenguas semíticas, incluyendo en hebreo y arameo bíblico (9 veces). Shama' aparece en todos los períodos históricos del hebreo y unas 1:160 veces en la Biblia.
 
 Básicamente este verbo significa «escuchar» con los oídos. Tiene varios matices. En Gén_37:17 un hombre le cuenta a José que «oyó» a sus hermanos decir: «Vamos a Dotán». En otras palabras, lo que el hombre «oyó» fue por casualidad. Shama' puede también usarse en el sentido de «escuchar indiscretamente» una conversación como cuando «Sara escuchaba junto a la entrada de la tienda que estaba detrás de» Abraham (Gén_18:10 rva).
 
@@ -29,9 +29,9 @@ Tener «un corazón que sabe escuchar» significa tener «entendimiento» o «di
 
 B. Nombres
 
-shôma' (ùÑåéîÇò, [[H8089]]), se refiere a «información casual; fama». El vocablo, poco frecuente en el Antiguo Testamento, se halla en Jos_6:27 (rva): «Jehová estuvo con Josué, y su fama se divulgó por toda la tierra».
+shôma' (שׁוימַע, [[H8089]]), se refiere a «información casual; fama». El vocablo, poco frecuente en el Antiguo Testamento, se halla en Jos_6:27 (rva): «Jehová estuvo con Josué, y su fama se divulgó por toda la tierra».
 
-shema' (ùÑÅîÇò, [[H8089]]), «información intencional; noticias». Se constatan 17 casos del nombre en el Antiguo Testamento. Encontramos un caso en Gén_29:13 (rva): «En cuanto Labán oyó las noticias [shema'] sobre Jacob, hijo de su hermana».
+shema' (שֵׁמַע, [[H8089]]), «información intencional; noticias». Se constatan 17 casos del nombre en el Antiguo Testamento. Encontramos un caso en Gén_29:13 (rva): «En cuanto Labán oyó las noticias [shema'] sobre Jacob, hijo de su hermana».
 
-shemû'ah (ùÑÀîåÌòÈä, [[H8052]]), «revelación; mensaje; doctrina». El término aparece 27 veces. Un ejemplo es Isa_28:9 : «¿A quién se enseñará ciencia, o a quién se hará entender doctrina [shemû'ah]?» (rvr, cf. nrv ; «mensaje» rva, lba). 
+shemû'ah (שְׁמוּעָה, [[H8052]]), «revelación; mensaje; doctrina». El término aparece 27 veces. Un ejemplo es Isa_28:9 : «¿A quién se enseñará ciencia, o a quién se hará entender doctrina [shemû'ah]?» (rvr, cf. nrv ; «mensaje» rva, lba). 
 

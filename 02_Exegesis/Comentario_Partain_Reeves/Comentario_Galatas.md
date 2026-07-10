@@ -33,7 +33,7 @@ Notas sobre Gálatas
  
 	 Fecha
  
-	 Es imposible fijar con certeza la fecha de la carta. Se puede suponer que Pablo escribió esta carta en el mismo período de tiempo en que escribió a los romanos y la segunda carta a los corintios, porque hay mucha semejanza entre las tres, pero no tenemos información precisa para poder fijar la fecha exacta. Varios comentaristas creen que fue escrita en el año 57 ó 58, pero otros dicen que fue escrita más temprano.
+	 Es imposible fijar con certeza la fecha de la carta. Se puede suponer que Pablo escribió esta carta en el mismo período de tiempo en que escribió a los romanos y la segunda carta a los corintios, porque hay mucha semejanza entre las tres, pero no tenemos información precisa para poder fijar la fecha exacta. Varios comentaristas creen que fue escrita en el año 57 σ 58, pero otros dicen que fue escrita más temprano.
  
 	 Propósito
  

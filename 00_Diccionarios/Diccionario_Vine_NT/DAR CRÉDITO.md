@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DARCRÉDITO"]
 
 # DAR CRÉDITO
 
-peithomai (ðåßèïìáé, [[G3982]]), en la voz media, dar crédito, obedecer, creer. Se traduce «daba … crédito» en Hch_27:11; véanse ASENTIR, CONFIAR, CRéDITO, CREER, ESTAR, OBEDECER, PERSUADIR(SE), SEGURO. 
+peithomai (πείθομαι, [[G3982]]), en la voz media, dar crédito, obedecer, creer. Se traduce «daba … crédito» en Hch_27:11; véanse ASENTIR, CONFIAR, CRéDITO, CREER, ESTAR, OBEDECER, PERSUADIR(SE), SEGURO. 
 
 

@@ -17,9 +17,9 @@ A. Verbos
 
 Nota: En tanto que epitimao significa simplemente una reprensión que puede ser inmerecida (p.ej., Mat_16:22), o ineficaz (p.ej., Luc_23:40), elenco implica una reprensión que conlleva convicción.
 
-4. kataginosko (êáôáãéíþóêù, [[G2607]]), se traduce con el verbo reprender en 1Jn_3:20-21, donde la traducción más justa sería con el verbo condenar, como en vm; cf. Gál_2:11 donde rv, rvr, vm traducen: «era de condenar» (la rvr77 traduce aquí «se había hecho digno de reprensión», lo que no comunica el sentido preciso: véase CONDENAR, A, Nº 1).¶
+4. kataginosko (καταγινώσκω, [[G2607]]), se traduce con el verbo reprender en 1Jn_3:20-21, donde la traducción más justa sería con el verbo condenar, como en vm; cf. Gál_2:11 donde rv, rvr, vm traducen: «era de condenar» (la rvr77 traduce aquí «se había hecho digno de reprensión», lo que no comunica el sentido preciso: véase CONDENAR, A, Nº 1).¶
 
-5. memfomai (ìÝìöïìáé, [[G3201]]), inculpar. Se traduce con el verbo reprender en Heb_8:8 : «reprendiéndolos». Véanse CONDENAR, A, Nº 5, INCULPAR, Nº 3.
+5. memfomai (μέμφομαι, [[G3201]]), inculpar. Se traduce con el verbo reprender en Heb_8:8 : «reprendiéndolos». Véanse CONDENAR, A, Nº 5, INCULPAR, Nº 3.
 
 Nota: En Fil_2:15 los textos más comúnmente aceptados tienen amomos, sin mancha (a, privativo; momos, mancha, tacha moral): «sin culpa» (rv; rvr: «sin mancha»; Besson: «intachables»; vm, lba: «sin tacha»); en tr aparece amometos (a, privativo, y momaomai, inculpar), que es el texto seguido por la rv: «sin culpa». Contrastar amemptos en el mismo v., sin culpa debido a la ausencia de inconsistencia o de cualquier base sobre la cual hacer una reprensión, en tanto que amomos indica la ausencia de mancha o de tacha. Podemos tener una tacha estando libres de culpa.
 

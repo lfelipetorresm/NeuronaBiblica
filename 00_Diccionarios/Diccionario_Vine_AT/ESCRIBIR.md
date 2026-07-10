@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ESCRIBIR"]
 
 A. Verbo
 
-katab (ëÌÈúÇá, [[H3789]]), «escribir, inscribir, describir, escribir al dictado, grabar». El verbo se encuentra en la mayoría de las lenguas semíticas (aunque no en acádico ni ugarítico). En el hebreo bíblico hay unos 203 casos confirmados (durante todos los períodos) y 7 en arameo.
+katab (כָּתַב, [[H3789]]), «escribir, inscribir, describir, escribir al dictado, grabar». El verbo se encuentra en la mayoría de las lenguas semíticas (aunque no en acádico ni ugarítico). En el hebreo bíblico hay unos 203 casos confirmados (durante todos los períodos) y 7 en arameo.
 
 Básicamente el término se refiere a apuntar un mensaje. El juicio (interdicción) divino contra los amalecitas debía anotarse en un libro (pergamino): «Jehová dijo a Moisés: Escribe esto para memoria en un libro, y di a Josué que raeré del todo la memoria de Amalec de debajo del cielo» (Éxo_17:14 : primera mención del vocablo).
 
@@ -25,7 +25,7 @@ Otro matiz de katab que se desprende de su significado básico es «escribir al 
 
 B. Nombres
 
-ketab (ëÌÀúÈá, [[H3791]]), «algo escrito»; registro; escritura». Este nombre aparece 17 veces en el Antiguo Testamento.
+ketab (כְּתָב, [[H3791]]), «algo escrito»; registro; escritura». Este nombre aparece 17 veces en el Antiguo Testamento.
 
 En 1Cr_28:19 ketab quiere decir «algo escrito», tal como un edicto: ««Todo esto», dijo David, «está por escrito, porque la mano de Jehovah está sobre mí, y él me ha hecho entender todos los detalles del diseño»» (rva). El vocablo también se refiere a un «registro» (Esd_2:62) y a «escritura» (Dan_10:21).
 

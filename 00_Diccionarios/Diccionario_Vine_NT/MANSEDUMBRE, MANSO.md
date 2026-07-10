@@ -15,7 +15,7 @@ El significado de prautes «no se expresa fácilmente en castellano, porque el t
 
 «En 2Co_10:1 el apóstol apela a la «mansedumbre … de Cristo». Se instruye a los cristianos que muestren «toda mansedumbre para con todos los hombres» (Tit_3:2), porque la mansedumbre conviene a «los escogidos de Dios» (Col_3:12). Al «hombre de Dios» se le apremia a exhibir esta virtud; tiene que seguir «la mansedumbre» por ella misma (1Ti_6:11; los textos más comúnmente aceptados tienen aquí el Nº 2), y estar a su servicio, y debe muy especialmente exhibir «espíritu de mansedumbre» con los «ignorantes y descarriados» (1Co_4:21; Gál_6:1); incluso a aquellos «que se oponen» hay que corregirlos con mansedumbre (2Ti_2:25). Santiago exhorta a sus «amados hermanos» a recibir «con mansedumbre la palabra implantada» (Stg_1:21). Pedro ordena «mansedumbre» en la exposición de la base de la esperanza cristiana (1Pe_3:15)»¶ (de Notes on Galatians, por Hogg y Vine, pp. 294,295).
 
-2. praupathia (ðñáõðáèßá, [[G4239]]), disposición mansa, mansedumbre (praus, manso; pasco, sufrir). Se encuentra en 1Ti_6:11, en los textos más comúnmente aceptados.¶
+2. praupathia (πραυπαθία, [[G4239]]), disposición mansa, mansedumbre (praus, manso; pasco, sufrir). Se encuentra en 1Ti_6:11, en los textos más comúnmente aceptados.¶
 
 B. Adjetivo
 

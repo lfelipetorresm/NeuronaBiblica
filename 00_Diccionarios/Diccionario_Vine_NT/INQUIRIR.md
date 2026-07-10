@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#INQUIRIR"]
 
 2. ekzeteo (ἐêæçôÝù, [[G1567]]), buscar afuera, buscar en pos. Se traduce «inquirieron» en 1Pe_1:10. Véanse BUSCAR, Nº 3, DEMANDAR, PROCURAR.
 
-3. punthanomai (ðõíèÜíïìáé, [[G4441]]), inquirir. Se traduce con este verbo en Hch_23:20. Véase PREGUNTAR.
+3. punthanomai (πυνθάνομαι, [[G4441]]), inquirir. Se traduce con este verbo en Hch_23:20. Véase PREGUNTAR.
 
 
 

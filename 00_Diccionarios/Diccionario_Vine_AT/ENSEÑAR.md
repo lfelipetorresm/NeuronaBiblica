@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ENSEÑAR"]
 
 A. Verbos
 
-lamad (ìÈîÇã, [[H3925]]), «enseñar, aprender, motivar a aprender». Este término semítico común se halla a lo largo de la historia del lenguaje hebraico y en el antiguo acádico y ugarítico. Lamad se encuentra alrededor de 85 veces en el hebreo veterotestamentario. En su modo simple y activo, el verbo tiene la acepción de «aprender», pero también puede encontrarse en una modalidad que da el sentido causativo de «enseñar». El vocablo se usa por vez primera en Deu_4:1 : «Ahora pues, oh Israel, oye los estatutos y decretos que yo os enseño».
+lamad (לָמַד, [[H3925]]), «enseñar, aprender, motivar a aprender». Este término semítico común se halla a lo largo de la historia del lenguaje hebraico y en el antiguo acádico y ugarítico. Lamad se encuentra alrededor de 85 veces en el hebreo veterotestamentario. En su modo simple y activo, el verbo tiene la acepción de «aprender», pero también puede encontrarse en una modalidad que da el sentido causativo de «enseñar». El vocablo se usa por vez primera en Deu_4:1 : «Ahora pues, oh Israel, oye los estatutos y decretos que yo os enseño».
 
 En Deu_5:1 lamad tiene que ver con aprender las leyes divinas: «Escucha, Israel, las leyes y decretos que proclamo hoy a vuestros oídos. Aprendedlos y tened cuidado de ponerlos por obra» (rva). En Sal_119:7 encontramos un significado similar. El término puede usarse en relación a aprender otras cosas: las obras de paganos (Sal_106:35); sabiduría (Pro_30:3); y guerra (Miq_4:3).
 
@@ -17,7 +17,7 @@ Casi la mitad de los casos de lamad se encuentran en Deuteronomio y Salmos, resa
 
 El término judío tardío talmud, «instrucción», se deriva de este verbo.
 
-yarah (éÈøÈä, [[H3384]]), «lanzar, enseñar, disparar, señalar». Esta raíz, que se encuentra en todos los períodos del lenguaje hebreo, aparece en el antiguo ugarítico con el significado de «disparar»; en hebreo moderno quiere decir «disparar» un arma de fuego. Yarah aparece alrededor de 80 veces en el Antiguo Testamento hebreo.
+yarah (יָרָה, [[H3384]]), «lanzar, enseñar, disparar, señalar». Esta raíz, que se encuentra en todos los períodos del lenguaje hebreo, aparece en el antiguo ugarítico con el significado de «disparar»; en hebreo moderno quiere decir «disparar» un arma de fuego. Yarah aparece alrededor de 80 veces en el Antiguo Testamento hebreo.
 
 El primer caso veterotestamentario del verbo es en Gén_31:51 : «He aquí este montón, y he aquí el memorial que he levantado [yarah, «lanzado»] entre tú y yo» (rva). Este significado básico de «lanzar» o «echar» se expresa en «echar» suertes (Jos_18:6) y cuando el ejército del faraón es «echado» o «arrojado» al mar (Éxo_15:4).
 
@@ -27,7 +27,7 @@ A partir de esta acepción, solo hay que dar un pequeño paso para llegar al con
 
 B. Nombre
 
-t'ôrah (úÌåéøÈä, [[H8451]]), «dirección; instrucción; orientación». T'ôrah, una de las palabras más importantes del Antiguo Testamento, se deriva de yarah. Si lo analizamos con el antecedente del verbo yarah, se hace evidente que t'ôrah es mucho más que ley o que una serie de reglas. T'ôrah no es restricción ni impedimento, sino todo lo contrario, el medio por el que se puede lograr una meta u objetivo. En su sentido más puro, t'ôrah se le dio a Israel para permitir que llegara a ser en realidad el pueblo especial de Dios y permaneciera como tal. Se podría decir que al guardar la t'ôrah, Israel se resguardaba. Es lamentable, pero Israel cayó en la trampa de guardar la t'ôrah como algo impuesto, un objeto en sí, en vez de ser un medio para llegar a ser lo que Dios se propuso con ella. El fin llegó a ser un medio. En vez de percibir la t'ôrah como una orientación, se desvirtuó en un cuerpo externo de reglamentos y, por tanto, una carga en lugar de un poder liberador y orientador. Esta carga, más el legalismo de la ley romana, forman el antecedente de la tradición de la ley que se discute en el Nuevo Testamento, en particular cuando Pablo lucha con ello en su carta a la iglesia de Roma.
+t'ôrah (תּוירָה, [[H8451]]), «dirección; instrucción; orientación». T'ôrah, una de las palabras más importantes del Antiguo Testamento, se deriva de yarah. Si lo analizamos con el antecedente del verbo yarah, se hace evidente que t'ôrah es mucho más que ley o que una serie de reglas. T'ôrah no es restricción ni impedimento, sino todo lo contrario, el medio por el que se puede lograr una meta u objetivo. En su sentido más puro, t'ôrah se le dio a Israel para permitir que llegara a ser en realidad el pueblo especial de Dios y permaneciera como tal. Se podría decir que al guardar la t'ôrah, Israel se resguardaba. Es lamentable, pero Israel cayó en la trampa de guardar la t'ôrah como algo impuesto, un objeto en sí, en vez de ser un medio para llegar a ser lo que Dios se propuso con ella. El fin llegó a ser un medio. En vez de percibir la t'ôrah como una orientación, se desvirtuó en un cuerpo externo de reglamentos y, por tanto, una carga en lugar de un poder liberador y orientador. Esta carga, más el legalismo de la ley romana, forman el antecedente de la tradición de la ley que se discute en el Nuevo Testamento, en particular cuando Pablo lucha con ello en su carta a la iglesia de Roma.
 
 C. Adjetivo
 

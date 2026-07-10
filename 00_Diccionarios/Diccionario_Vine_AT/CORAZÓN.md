@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CORAZÓN"]
 
 A. Nombre
 
-leb (ìÅá, [[H3820]]), «corazón; mente; en medio de». Leb y su sinónimo lebab aparecen 860 veces en el Antiguo Testamento. La ley, los profetas y los salmos hablan a menudo acerca del «corazón». La raíz aparece también en acádico, asirio, egipcio, ugarítico, arameo, arábigo y en el hebraico posbíblico. Los nombres arameos correspondientes aparecen siete veces en el libro de Daniel .
+leb (לֵב, [[H3820]]), «corazón; mente; en medio de». Leb y su sinónimo lebab aparecen 860 veces en el Antiguo Testamento. La ley, los profetas y los salmos hablan a menudo acerca del «corazón». La raíz aparece también en acádico, asirio, egipcio, ugarítico, arameo, arábigo y en el hebraico posbíblico. Los nombres arameos correspondientes aparecen siete veces en el libro de Daniel .
 
 La primera vez que aparece «corazón» es en relación con seres humanos, en Gén_6:5 : «Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón era de ellos era de continuo solamente el mal». En Gén_6:6 leb se usa en relación con Dios: «Y se arrepintió Jehová de haber hecho hombre en la tierra, y le dolió en su corazón».
 
@@ -35,5 +35,5 @@ Dios controla el «corazón». Por su «corazón» natural, la única esperanza 
 
 B. Adverbio
 
-leb (ìÅá, [[H3820]]), «tiernamente; amistosamente; confortablemente». Leb se usa como adverbio en Gén_34:3 : «Pero se sintió ligado a Dina … se enamoró de la joven y habló al corazón de ella» (rva ; «le habló tiernamente lba »). En Rut_2:13, «al corazón» (rv, rva, nrv) significa «amistosamente» o «bondadosamente»: «Has hablado con bondad a tu sierva». El vocablo significa «confortablemente» en 2Cr_30:22 y en Isa_40:2. 
+leb (לֵב, [[H3820]]), «tiernamente; amistosamente; confortablemente». Leb se usa como adverbio en Gén_34:3 : «Pero se sintió ligado a Dina … se enamoró de la joven y habló al corazón de ella» (rva ; «le habló tiernamente lba »). En Rut_2:13, «al corazón» (rv, rva, nrv) significa «amistosamente» o «bondadosamente»: «Has hablado con bondad a tu sierva». El vocablo significa «confortablemente» en 2Cr_30:22 y en Isa_40:2. 
 

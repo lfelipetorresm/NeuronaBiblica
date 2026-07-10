@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MATADOR"]
 
 # MATADOR
 
-foneus (öïíåýò, [[G5406]]), véase HOMICIDA, Nº 3. 
+foneus (φονεύς, [[G5406]]), véase HOMICIDA, Nº 3. 
 
 

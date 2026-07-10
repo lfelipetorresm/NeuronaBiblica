@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#FALSEDAD"]
 
 # FALSEDAD
 
-sheqer (ùÑÆ÷Æø, [[H8267]]), «falsedad; mentira». Esta raíz se encuentra únicamente en hebreo y arameo antiguo. La palabra sheqer se halla 113 veces en el Antiguo Testamento. Es muy poco frecuente en todos los libros menos los poéticos y proféticos, y aun así, su uso se concentra en los Salmos (24 casos), Proverbios (20 veces) y Jeremías (37 casos). Aparece por primera vez en Éxo_5:9 : «Hágase más pesado el trabajo de los hombres, para que se ocupen en él y no presten atención a palabras mentirosas».
+sheqer (שֶׁקֶר, [[H8267]]), «falsedad; mentira». Esta raíz se encuentra únicamente en hebreo y arameo antiguo. La palabra sheqer se halla 113 veces en el Antiguo Testamento. Es muy poco frecuente en todos los libros menos los poéticos y proféticos, y aun así, su uso se concentra en los Salmos (24 casos), Proverbios (20 veces) y Jeremías (37 casos). Aparece por primera vez en Éxo_5:9 : «Hágase más pesado el trabajo de los hombres, para que se ocupen en él y no presten atención a palabras mentirosas».
 
 En unos treinta y cinco pasajes, sheqer describe el campo de acción de la «lengua engañosa»: «hablar» (Isa_59:3), «enseñar» (Isa_9:15), «profetizar» (Jer_14:14) y «mentir» (Miq_2:11). También revela un «carácter engañoso» que se expresa en la forma de actuar: «actuar traicioneramente» (2Sa_18:13) y «tratar engañosamente» (Ose_7:1).
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MODESTIA"]
 
 # MODESTIA
 
-sofrosune (óùöñïóýíç, [[G4997]]), véase CORDURA, B. 
+sofrosune (σωφροσύνη, [[G4997]]), véase CORDURA, B. 
 
 

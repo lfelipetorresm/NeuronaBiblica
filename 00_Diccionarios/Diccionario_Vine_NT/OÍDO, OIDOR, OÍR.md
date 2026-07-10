@@ -27,20 +27,20 @@ Que Dios oiga la oración significa que da respuesta a la oración (p.ej., Jua_9
 
 2. eisakouo (åἰóáêïýù, [[G1522]]), oír a (eis, a, y Nº 1), tiene dos significados: (a) oír y obedecer (1Co_14:21 : «ni aun así me oirán»); (b) oír para dar respuesta, de Dios dando respuesta a la oración (Mat_6:7; Luc_1:13; Hch_10:31; Heb_5:7).¶
 
-3. diakouo (äéáêïýù, [[G1251]]), oír a través, oír del todo (dia, a través, y Nº 1). Se utiliza como término técnico de oír judicialmente, en Hch_23:35, de Félix con respecto a las acusaciones contra Pablo.¶ En la lxx, Deu_1:16; Job_9:33.¶
+3. diakouo (διακούω, [[G1251]]), oír a través, oír del todo (dia, a través, y Nº 1). Se utiliza como término técnico de oír judicialmente, en Hch_23:35, de Félix con respecto a las acusaciones contra Pablo.¶ En la lxx, Deu_1:16; Job_9:33.¶
 
 4. epakouo (ἐðáêïýù, [[G1873]]), escuchar a, oír con favor, en o sobre una ocasión (epi, sobre, y Nº 1). Se utiliza en 2Co_6:2 : «te he oído» (rv, rvr; rvr77: «te he escuchado»).¶
 
 5. epakroaomai (ἐðáêñïÜïìáé, [[G1874]]), escuchar atentamente a (epi, utilizado intensivamente, y un verbo relacionado con Nº 1). Se utiliza en Hch_16:25 : «los presos los oían» (rv, rvr; vm, Besson, rvr77, nvi, lba: «escuchaban»); este verbo expresa una atención fija en lo que se comunica.¶
 
-6. proakouo (ðñïáêïýù, [[G4257]]), significa oír antes (pro, Col_1:5), donde Lightfoot sugiere que la preposición contrasta lo que habían oído antes, el verdadero evangelio, con el falso evangelio de sus recientes maestros.¶
+6. proakouo (προακούω, [[G4257]]), significa oír antes (pro, Col_1:5), donde Lightfoot sugiere que la preposición contrasta lo que habían oído antes, el verdadero evangelio, con el falso evangelio de sus recientes maestros.¶
 
-7. parakouo (ðáñáêïýù, [[G3878]]), significa primariamente oír de pasada, mal o imperfectamente (para, junto, más allá, erróneo, y Nº 1); luego, en el NT, oír sin cuidado, dejar de oír (Mat_18:17, dos veces: «no … oyere», «no oyere»); en Mar_5:36 aparece en los mss. más comúnmente aceptados (en tr se da el Nº 1); en vm se traduce «entreoyendo»; vha: «sin hacer caso»; rvr77: «no haciendo caso». Parece evidente que el Señor no prestó atención a los de la casa del principal de la sinagoga ni a su mensaje de que la hija del principal había muerto.¶ Cf. el nombre parakoe, desobediencia.
+7. parakouo (παρακούω, [[G3878]]), significa primariamente oír de pasada, mal o imperfectamente (para, junto, más allá, erróneo, y Nº 1); luego, en el NT, oír sin cuidado, dejar de oír (Mat_18:17, dos veces: «no … oyere», «no oyere»); en Mar_5:36 aparece en los mss. más comúnmente aceptados (en tr se da el Nº 1); en vm se traduce «entreoyendo»; vha: «sin hacer caso»; rvr77: «no haciendo caso». Parece evidente que el Señor no prestó atención a los de la casa del principal de la sinagoga ni a su mensaje de que la hija del principal había muerto.¶ Cf. el nombre parakoe, desobediencia.
 
 8. enotizomai (ἐíùôßæïìáé, [[G1801]]), dar oído a, escuchar (de en, en, y ous, oído). Se utiliza en Hch_2:14, en el discurso de Pedro a los varones de Israel: «oíd» (rv, rvr; rvr77: «prestad atención»; Besson: «prestad oído»; vm: «prestad oídos»; lba y nvi coinciden con rvr77).¶
 
-9. peitharqueo (ðåéèáñ÷Ýù, [[G3980]]), obedecer a uno en autoridad, ser obediente (peithomai, ser persuadido; arque, principio, autoridad). Se traduce «haberme oído» en Hch_27:21 (rv, rvr; rvr77: «haberme hecho caso»; Besson: «escucharme»), en la observación de Pablo a los marineros náufragos de que debían haber hecho caso a su consejo. Véase OBEDECER.
+9. peitharqueo (πειθαρχέω, [[G3980]]), obedecer a uno en autoridad, ser obediente (peithomai, ser persuadido; arque, principio, autoridad). Se traduce «haberme oído» en Hch_27:21 (rv, rvr; rvr77: «haberme hecho caso»; Besson: «escucharme»), en la observación de Pablo a los marineros náufragos de que debían haber hecho caso a su consejo. Véase OBEDECER.
 
-10. proseco (ðñïóÝ÷ù, [[G4337]]), lit., asirse de, significa volverse a, poner la atención en. Se traduce «oían atentamente» en Hch_8:10. Véanse ATENDER, ATENTO, ATENTAMENTE, DAR, ESCUCHAR, GUARDAR, MIRAR, OCUPAR. 
+10. proseco (προσέχω, [[G4337]]), lit., asirse de, significa volverse a, poner la atención en. Se traduce «oían atentamente» en Hch_8:10. Véanse ATENDER, ATENTO, ATENTAMENTE, DAR, ESCUCHAR, GUARDAR, MIRAR, OCUPAR. 
 
 

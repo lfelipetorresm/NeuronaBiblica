@@ -15,7 +15,7 @@ A. Adverbios
 
 3. exes (ἑîÞò, [[G1836]]), adverbio relacionado con el verbo eco, tener, y que denota «en orden», sucesivamente, siguiente. Se utiliza como adjetivo, calificando al nombre «día» en Luc_9:37; Hch_21:1; Hch_25:17; en 27:18 se sobrentiende la palabra jemera, día; en Luc_7:11, en los mss. más comúnmente aceptados, sobrentendiéndose cronos, tiempo: «después» (rv, rvr, rvr77; lba, nvi: «poco después»); en vm y Besson se siguen ciertas autoridades antiguas, traduciendo «al día siguiente», lo mismo que lba, margen.¶
 
-4. metaxu (ìåôáîý, [[G3342]]), en medio, o entre, utilizado como preposición. Se traduce «siguiente» en Hch_13:42 (rv, rvr, rvr77, vm, Besson, lba, nvi); el significado literal es «en la semana entremedio». Véase ENTRE.
+4. metaxu (μεταξύ, [[G3342]]), en medio, o entre, utilizado como preposición. Se traduce «siguiente» en Hch_13:42 (rv, rvr, rvr77, vm, Besson, lba, nvi); el significado literal es «en la semana entremedio». Véase ENTRE.
 
 B. Verbos
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#Y"]
 
 # Y
 
-kai (êáß, [[G2352]]), conjunción. Tiene tres significados principales: «y», «también», «aun». Cuando kai significa «también» precede a la palabra que enfatiza, p. ej., en Jua_9:40 : «¿Acaso nosotros somos también ciegos?» Frecuentemente tiene un sentido ascendente o dirigiendo hacia un clímax, significando «incluso», «hasta», «aun», siendo aquello que se añade algo fuera de lo común, produciendo un clímax. Ejemplos de ello son Mat_5:46-47, donde «también» debería ser «aun»; Mar_1:27; Luc_6:33 (vm); Luc_10:17; Jua_12:42; Gál_2:13 (vm), 17, donde «también» debería ser «aun»; Efe_5:12.
+kai (καί, [[G2352]]), conjunción. Tiene tres significados principales: «y», «también», «aun». Cuando kai significa «también» precede a la palabra que enfatiza, p. ej., en Jua_9:40 : «¿Acaso nosotros somos también ciegos?» Frecuentemente tiene un sentido ascendente o dirigiendo hacia un clímax, significando «incluso», «hasta», «aun», siendo aquello que se añade algo fuera de lo común, produciendo un clímax. Ejemplos de ello son Mat_5:46-47, donde «también» debería ser «aun»; Mar_1:27; Luc_6:33 (vm); Luc_10:17; Jua_12:42; Gál_2:13 (vm), 17, donde «también» debería ser «aun»; Efe_5:12.
 
  Cuando va seguido por un «si» condicional, o por «aunque», kai significa frecuentemente «aun» (p. ej., Mat_26:35; Jua_8:14).
 

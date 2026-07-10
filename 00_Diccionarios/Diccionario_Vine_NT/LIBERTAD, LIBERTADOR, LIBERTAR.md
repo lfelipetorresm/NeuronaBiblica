@@ -25,7 +25,7 @@ En Gál_5:13 se usa dos veces. La fraseología usada es la de la manumisión de 
 
 Notas: (1) El nombre soteria, salvación, se traduce «libertad» en Hch_7:25 : «les daría libertad» (rv: «salud»; Besson: «salvación»). Véase . (2) El verbo apoluo, véase DESPEDIR, se traduce «ponerle en libertad» (Hch_3:13; Hch_4:23 : «puestos en libertad»; Hch_26:32 : «ser puesto en libertad»; Heb_13:23 : «está en libertad»). Véase también SOLTAR.
 
-6. lutrotes (ëõôñùôÞò, [[G3086]]), redentor, uno que libera (cf. apolutrosis, véase ). Se traduce «libertador» (Hch_7:35; rv, vm, rvr77, nvi: «juez»; lba coincide con rvr).¶
+6. lutrotes (λυτρωτής, [[G3086]]), redentor, uno que libera (cf. apolutrosis, véase ). Se traduce «libertador» (Hch_7:35; rv, vm, rvr77, nvi: «juez»; lba coincide con rvr).¶
 
 Nota: el verbo ruomai, rescatar de, se traduce en Rom_11:26 como «Libertador», del participio presente con artículo, usado como nombre. Esta misma construcción se usa en 1Ts_1:10 : «quien … libra»; se podría traducir, como en Rom_11:26, «nuestro Libertador», esto es, de las calamidades retributivas con que Dios visitará a los hombres al final de la edad presente. Es de esta ira venidera que son librados los creyentes. Véase LIBRAR, A, Nº 3.
 

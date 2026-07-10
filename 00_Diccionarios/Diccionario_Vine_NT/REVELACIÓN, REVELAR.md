@@ -17,7 +17,7 @@ B. Verbos
 
 »La utilización objetiva es aquella en la que se presenta algo a los sentidos, vista u oído, como, referente al pasado, (f) la verdad declarada a los hombres en el evangelio (Rom_1:17; 1Co_2:10; Gál_3:23); (g) la Persona de Cristo a Pablo en el camino a Damasco (Gál_1:16); (h) pensamientos antes ocultos en el corazón (Luc_2:35); referente al futuro, (i) la venida en gloria del Señor Jesús (Luc_17:30); (j) la salvación y gloria que esperan al creyente (Rom_8:18; 1Pe_1:5; 1Pe_5:1); (k) el verdadero valor del servicio (1Co_3:13); (1) la ira de Dios, en la cruz, contra el pecado, y en la revelación del Señor Jesús, contra el pecador (Rom_1:18); (m) el inicuo (2Ts_2:3, 2Ts_2:6, 2Ts_2:8)» (de Notes on Galatians, por Hogg y Vine, pp. 41-42). Véanse DESCUBRIR, MANIFESTAR, REVELAR.¶
 
-2. crematizo (÷ñçìáôßæù, [[G5537]]), dar una amonestación, instrucción o revelación divina, Se traduce «siendo avisados por revelación» (Mat_2:12); «avisados por revelación» (v. 22; rv: «amonestado por revelación»); «sido revelado» (Luc_2:26; rv: «recibido respuesta»).
+2. crematizo (χρηματίζω, [[G5537]]), dar una amonestación, instrucción o revelación divina, Se traduce «siendo avisados por revelación» (Mat_2:12); «avisados por revelación» (v. 22; rv: «amonestado por revelación»); «sido revelado» (Luc_2:26; rv: «recibido respuesta»).
 
 Esta palabra se deriva de crema, asunto, negocio. Las personas recibían nombres en base de la naturaleza de sus ocupaciones (véase la misma palabra en Hch_11:26; Rom_7:3); de ahí la idea de tratar con una persona y de recibir instrucción. En el caso de respuestas oraculares, la palabra se deriva de cresmos, oráculo. Véanse DESCUBRIR, MANIFESTAR. 
 

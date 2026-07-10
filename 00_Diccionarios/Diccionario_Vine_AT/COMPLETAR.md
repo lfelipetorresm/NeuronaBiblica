@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#COMPLETAR"]
 
 A. Verbo
 
-shalam (ùÑÈìÇí, [[H7999]]), «terminar, completar, reembolsar, remunerar, recompensar». La raíz hebrea denota perfección en el sentido de que está «completa» una condición o acción. Este concepto está presente cuando se describen objetos concretos. En tiempos de Nehemías, cuando había suficientes materiales de construcción a la mano y obreros disponibles, «la muralla [de Jerusalén] fue terminada» (Neh_6:15). Por otro lado, la raíz hebrea se encuentra también en vocablos con tantos matices y aplicaciones que a veces es muy difícil percibir su significado original y básico. En las diferentes versiones en castellano shalam se traduce como: «realizar, restaurar, pagar, reembolsar, recompensar, restituir, llenar, sobornar, ser vengativo, amistoso o pacífico, estar en paz, hacer las paces, ofrenda de paz, plenitud, totalidad, seguridad».
+shalam (שָׁלַם, [[H7999]]), «terminar, completar, reembolsar, remunerar, recompensar». La raíz hebrea denota perfección en el sentido de que está «completa» una condición o acción. Este concepto está presente cuando se describen objetos concretos. En tiempos de Nehemías, cuando había suficientes materiales de construcción a la mano y obreros disponibles, «la muralla [de Jerusalén] fue terminada» (Neh_6:15). Por otro lado, la raíz hebrea se encuentra también en vocablos con tantos matices y aplicaciones que a veces es muy difícil percibir su significado original y básico. En las diferentes versiones en castellano shalam se traduce como: «realizar, restaurar, pagar, reembolsar, recompensar, restituir, llenar, sobornar, ser vengativo, amistoso o pacífico, estar en paz, hacer las paces, ofrenda de paz, plenitud, totalidad, seguridad».
 
 La perfección y la plenitud se atribuyen en primer término a Dios. él en nada es deficiente; ninguna falta desvirtúa sus atributos; debilidad alguna limita su poder. Dios le recuerda a Job su independencia irrestricta y absoluta autosuficiencia: «¿Quién me ha dado primero para que yo le restituya? ¡Todo lo que hay debajo del cielo, mío es!» (Job_41:11 rva). Y el mismo Job lo admitía: «¿Quién le denunciará en su cara su camino?» (Job_21:31).
 
@@ -23,7 +23,7 @@ Las relaciones entre naciones se fundamentan sobre negociaciones «completas». 
 
 B. Adjetivo
 
-shalem (ùÑÈìÅí, [[H8003]]), «perfecto». Dios demanda la obediencia total de su pueblo: «Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos y guardando sus mandamientos» (1Re_8:61). Salomón no cumplió con este requisito porque «su corazón no era perfecto con Jehová su Dios» (1Re_11:4). Por otro lado, Ezequías protesta: «He andado delante de ti en verdad y con íntegro corazón» (2Re_20:3).
+shalem (שָׁלֵם, [[H8003]]), «perfecto». Dios demanda la obediencia total de su pueblo: «Sea, pues, perfecto vuestro corazón para con Jehová nuestro Dios, andando en sus estatutos y guardando sus mandamientos» (1Re_8:61). Salomón no cumplió con este requisito porque «su corazón no era perfecto con Jehová su Dios» (1Re_11:4). Por otro lado, Ezequías protesta: «He andado delante de ti en verdad y con íntegro corazón» (2Re_20:3).
 
 En sus negocios, se requiere de los israelitas «pesa exacta y justa … medida exacta y justa» (Deu_25:15 rva). 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MULTIPLICAR,CRECER"]
 
 A. Verbo
 
-rabah (øÈáÈä, [[H7235]]), «multiplicar, ser numeroso, engrandecer». Este verbo también se halla en acádico, arábigo, amorreo y arameo bíblico. En la Biblia hebraica se constatan unos 220 casos durante todas las épocas. El término debe compararse con gadal y rabab.
+rabah (רָבָה, [[H7235]]), «multiplicar, ser numeroso, engrandecer». Este verbo también se halla en acádico, arábigo, amorreo y arameo bíblico. En la Biblia hebraica se constatan unos 220 casos durante todas las épocas. El término debe compararse con gadal y rabab.
 
 Básicamente, el vocablo expresa crecimiento numérico, como hecho y como proceso. Dios dice a las bestias del mar y del aire: «Fructificad y multiplicad» (Gén_1:22 : el primer caso). En Gén_38:12 el término indica la consumación de algo que fue numeroso (en este caso, años y días): «Pasados muchos años [lit. «y los días se multiplicaron»], murió Bat-súa, la mujer de Judá» (rva). Cuando se usa con «días», el vocablo también puede significar «larga vida»: «Y como arena multiplicaré mis días» (Job_29:18; cf. Pro_4:10). A veces rabah se refiere a aumentar riquezas y, en casos como este, el aspecto concreto siempre se especifica con claridad (cf. Deu_8:13 rva : «Cuando se multipliquen la plata y el oro»).
 
@@ -21,7 +21,7 @@ Rabah a veces se usa con otro verbo para indicar un incremento en el uso o frecu
 
 B. Nombres
 
-'arbeh (àÇøÀáÌÆä, [[H697]]), «langosta». Este nombre, que aparece 24 veces, tiene que ver con enjambres de langostas voladoras: «Extiende tu mano sobre la tierra de Egipto, para traer la langosta, a fin de que suba sobre la tierra de Egipto y devore toda planta de la tierra» (Éxo_10:12 lba).
+'arbeh (אַרְבֶּה, [[H697]]), «langosta». Este nombre, que aparece 24 veces, tiene que ver con enjambres de langostas voladoras: «Extiende tu mano sobre la tierra de Egipto, para traer la langosta, a fin de que suba sobre la tierra de Egipto y devore toda planta de la tierra» (Éxo_10:12 lba).
 
 Son poco frecuentes los casos de otros términos derivados del mismo verbo. Marbeh, que aparece solo una vez, significa «abundancia» (Isa_33:23). Marbît, que se halla 5 veces, tiene la acepción de «un mayor número» (1Sa_2:33) o la «mitad más grande» (2Cr_9:6). El único ejemplo de tarbût significa «aumento» (Núm_32:14). Tarbît, que aparece 6 veces, puede significar «interés, incremento, usura» (Lev_25:36). 
 

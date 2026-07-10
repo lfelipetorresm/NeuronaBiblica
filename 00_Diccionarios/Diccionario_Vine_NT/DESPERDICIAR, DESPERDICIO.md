@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESPERDICIAR,DESPERDICIO"]
 
 A. Verbo
 
-diaskorpizo (äéáóêïñðßæù, [[G1287]]), esparcir. Se usa metafóricamente de malgastar propiedades (Luc_15:33); también en este mismo sentido se traduce «disipador» en 16:1. Véanse DISIPADOR, DISPERSAR, ESPARCIR.
+diaskorpizo (διασκορπίζω, [[G1287]]), esparcir. Se usa metafóricamente de malgastar propiedades (Luc_15:33); también en este mismo sentido se traduce «disipador» en 16:1. Véanse DISIPADOR, DISPERSAR, ESPARCIR.
 
 B. Nombre
 

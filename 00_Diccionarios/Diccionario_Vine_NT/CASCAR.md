@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CASCAR"]
 
 # CASCAR
 
-suntribo (óõíôñßâù, [[G4937]]). Véase APLASTAR, etc. 
+suntribo (συντρίβω, [[G4937]]). Véase APLASTAR, etc. 
 
 

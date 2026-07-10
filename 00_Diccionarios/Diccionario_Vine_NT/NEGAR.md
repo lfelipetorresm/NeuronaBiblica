@@ -15,6 +15,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#NEGAR"]
 
 4. apostereo (ἀðïóôåñÝù, [[G650]]), véase DEFRAUDAR, Nº 1, se traduce «no os neguéis» (1Co_7:5; rv, vm, vha: «defraudéis»; rvr77, Besson: «privéis»). Véase también PRIVAR.
 
-5. koluo (êùëýù, [[G2967]]), impedir, retener, prohibir, frecuentemente traducido prohibir e impedir. Se traduce «le niegues» en Luc_6:29. Véase PROHIBIR. 
+5. koluo (κωλύω, [[G2967]]), impedir, retener, prohibir, frecuentemente traducido prohibir e impedir. Se traduce «le niegues» en Luc_6:29. Véase PROHIBIR. 
 
 

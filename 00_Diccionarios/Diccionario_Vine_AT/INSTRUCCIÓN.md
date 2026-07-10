@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#INSTRUCCIÓN"]
 
 A. Nombre
 
-mûsar (îåÌñÈø, [[H4148]]), «instrucción; castigo; advertencia». Este nombre aparece 50 veces, la mayoría en Proverbios . Aparece por primera vez en Deu_11:2 : «Y comprended hoy, porque no hablo con vuestros hijos que no han sabido ni visto el castigo de Jehová vuestro Dios, su grandeza, su mano poderosa, y su brazo extendido».
+mûsar (מוּסָר, [[H4148]]), «instrucción; castigo; advertencia». Este nombre aparece 50 veces, la mayoría en Proverbios . Aparece por primera vez en Deu_11:2 : «Y comprended hoy, porque no hablo con vuestros hijos que no han sabido ni visto el castigo de Jehová vuestro Dios, su grandeza, su mano poderosa, y su brazo extendido».
 
 Uno de los propósitos principales de la literatura sapiencial era enseñar sabiduría y mûsar (Pro_1:2). Mûsar es disciplina y algo más. Como «disciplina» enseña a vivir correctamente en el temor del Señor, para que el sabio aprenda la lección antes de que lo tienten y pongan a prueba: «Cuando lo vi, reflexioné sobre ello; miré, y recibí instrucción» (Pro_24:32 lba). Se trata de una disciplina para toda la vida; de ahí la importancia de prestar atención a mûsar : El Antiguo Testamento se vale de muchos verbos para subrayar la necesidad de una respuesta adecuada: «oír, obedecer, amar, recibir, obtener, captar, defender, guardar». Asimismo, el rechazo de la instrucción queda evidente mediante diversos términos relacionados con mûsar : «rechazar, odiar, obviar, no amar, detestar, abandonar». Cuando mûsar se imparte como «instrucción», pero no se observa, el mûsar del «castigo» o de la «disciplina» pueden ser el paso siguiente: «La necedad es parte del corazón juvenil, pero la vara de la disciplina la corrige» (Pro_22:15 nvi).
 
@@ -21,5 +21,5 @@ La Septuaginta tiene la traducción paideia («educación; capacitación; instru
 
 B. Verbo
 
-yasar (éÈñÇø, [[H3256]]), «disciplinar». Este verbo se encuentra en hebreo y ugarítico con la acepción de «disciplinar». La raíz no se halla fuera de estas lenguas. El vocablo aparece 42 veces en el Antiguo Testamento; cf. Pro_19:18 : «Corrige a tu hijo mientras aún pueda ser corregido, pero no vayas a matarlo a causa del castigo» (bvp). 
+yasar (יָסַר, [[H3256]]), «disciplinar». Este verbo se encuentra en hebreo y ugarítico con la acepción de «disciplinar». La raíz no se halla fuera de estas lenguas. El vocablo aparece 42 veces en el Antiguo Testamento; cf. Pro_19:18 : «Corrige a tu hijo mientras aún pueda ser corregido, pero no vayas a matarlo a causa del castigo» (bvp). 
 

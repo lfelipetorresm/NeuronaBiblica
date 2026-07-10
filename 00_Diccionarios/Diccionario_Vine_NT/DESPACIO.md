@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESPACIO"]
 
 # DESPACIO
 
-braduploeo (âñáäõðëïÝù, [[G1020]]), navegar despacio (Hch_27:7); véase bajo NAVEGAR. 
+braduploeo (βραδυπλοέω, [[G1020]]), navegar despacio (Hch_27:7); véase bajo NAVEGAR. 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ESPANTAR,ESPANTADO,ESPANTO"]
 
 A. Verbos
 
-1. ptoeo (ðôïÝù, [[G4422]]), aterrorizar, espantar. Se usa en la voz pasiva (Luc_21:9 : «no os alarméis»; Luc_24:37 : «espantados»). Véase ALARMAR.¶
+1. ptoeo (πτοέω, [[G4422]]), aterrorizar, espantar. Se usa en la voz pasiva (Luc_21:9 : «no os alarméis»; Luc_24:37 : «espantados»). Véase ALARMAR.¶
 
 2. ekthambeo (ἐêèáìâÝù, [[G1568]]), forma intensiva de thambeo, asombrar (véase ASOMBRAR, Nº 4). Se halla solo en el Evangelio de Marcos; en 9:15: «se asombró» (rv: «se espantó»); en 14:33: «entristecerse» (rv: «atemorizarse»); en 16:5: «se espantaron» (rv, rvr); v. 6: «no os asustéis» (rv, rvr). Véanse ASOMBRAR, ASUSTAR, ENTRISTECER.¶
 

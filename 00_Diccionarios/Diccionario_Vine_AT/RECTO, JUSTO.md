@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#RECTO,JUSTO"]
 
 A. Adjetivo
 
-yashar (éÈùÑÈø, [[H3477]]), «recto; bueno; justo». Este adjetivo aparece primero en éxodo con un modismo: «Si escuchas atentamente la voz de Jehová tu Dios y haces lo recto ante sus ojos ; si prestas atención a sus mandamientos y guardas todas sus leyes, ninguna enfermedad de las que envié a Egipto te enviaré a ti, porque yo soy Jehová tu sanador» (Éxo_15:26 rva). El término es raro en el Pentateuco y en los escritos proféticos. Yashar predomina en pasajes poéticos y se usa idiomáticamente («hacer lo que es recto») en los libros históricos; cf. 1Re_15:5 : «Por cuanto David había hecho lo recto ante los ojos de Jehová, y de ninguna cosa que le mandase se había apartado en todos los días de su vida, salvo en lo tocante a Urías heteo».
+yashar (יָשָׁר, [[H3477]]), «recto; bueno; justo». Este adjetivo aparece primero en éxodo con un modismo: «Si escuchas atentamente la voz de Jehová tu Dios y haces lo recto ante sus ojos ; si prestas atención a sus mandamientos y guardas todas sus leyes, ninguna enfermedad de las que envié a Egipto te enviaré a ti, porque yo soy Jehová tu sanador» (Éxo_15:26 rva). El término es raro en el Pentateuco y en los escritos proféticos. Yashar predomina en pasajes poéticos y se usa idiomáticamente («hacer lo que es recto») en los libros históricos; cf. 1Re_15:5 : «Por cuanto David había hecho lo recto ante los ojos de Jehová, y de ninguna cosa que le mandase se había apartado en todos los días de su vida, salvo en lo tocante a Urías heteo».
 
 El significado básico está en la raíz «ser recto» en el sentido de «emparejar» o «nivelar». Los pies de los seres vivientes en la visión de Ezequiel eran derechos (Eze_1:7). Los israelitas llamaban «parejo» a un camino fácil de transitar. Tenía pocos altibajos en comparación con otros caminos (cf. Jer_31:9): «Vendrán con llanto, pero con consuelo los guiaré y los conduciré junto a los arroyos de aguas, por un camino parejo [«derecho» lba] en el cual no tropezarán. Porque yo soy un Padre para Israel, y Efraín es mi primogénito» (rva).
 
@@ -23,7 +23,7 @@ Las traducciones de la Septuaginta son: arestos («agradable»); dikaios («rect
 
 B. Verbo
 
-yashar (éÈùÑÇø, [[H3474]]), «ser o estar recto, parejo, derecho». Aunque este verbo se usa muy pocas veces en la Biblia, tiene muchos derivados.
+yashar (יָשַׁר, [[H3474]]), «ser o estar recto, parejo, derecho». Aunque este verbo se usa muy pocas veces en la Biblia, tiene muchos derivados.
 
 En acádico el verbo isharu significa «ser o estar recto; poner en orden», y el nombre misharum denota justicia y una vida de rectitud. El término hebreo tiene muchas palabras relacionadas en las lenguas semíticas (fenicio, ugarítico) y aun en egipcio.
 
@@ -31,7 +31,7 @@ Un caso del verbo está en 1Cr_13:4 (rva): «Toda la congregación dijo que se h
 
 C. Nombres
 
-yosher (ééùÑÆø, [[H3476]]), «rectitud». Este nombre aparece una 15 veces. Un caso es en Pro_2:13 : «Los que se apartan del camino recto para andar por sendas tenebrosas» (nvi).
+yosher (יישֶׁר, [[H3476]]), «rectitud». Este nombre aparece una 15 veces. Un caso es en Pro_2:13 : «Los que se apartan del camino recto para andar por sendas tenebrosas» (nvi).
 
 Otros nombres aparecen con menor frecuencia. Yishrah significa «rectitud» y aparece una vez (1Re_3:6).
 

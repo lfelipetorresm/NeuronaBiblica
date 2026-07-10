@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SIROFENICIA"]
 
 # SIROFENICIA
 
-surofoinikiáa o surofuniáa (óõñïöïéíßêéóóá, [[G4949]]), se emplea en Mar_7:26 como el nombre nacional de una mujer llamada «una mujer cananea» en Mat_15:22, esto es, no judía sino descendiente de los antiguos moradores de la tierra costera de Fenicia. El término denotaba probablemente una persona siria residiendo en la misma Fenicia.¶ Hay una tradición de que el nombre de la mujer era Justa, y el de su hija, Berenice (Homilƒas Clementinas, ii.19; iii.73). En Hch_21:2-3 se utilizan indistintamente ambas partes del término. 
+surofoinikiáa o surofuniáa (συροφοινίκισσα, [[G4949]]), se emplea en Mar_7:26 como el nombre nacional de una mujer llamada «una mujer cananea» en Mat_15:22, esto es, no judía sino descendiente de los antiguos moradores de la tierra costera de Fenicia. El término denotaba probablemente una persona siria residiendo en la misma Fenicia.¶ Hay una tradición de que el nombre de la mujer era Justa, y el de su hija, Berenice (Homilƒas Clementinas, ii.19; iii.73). En Hch_21:2-3 se utilizan indistintamente ambas partes del término. 
 
 

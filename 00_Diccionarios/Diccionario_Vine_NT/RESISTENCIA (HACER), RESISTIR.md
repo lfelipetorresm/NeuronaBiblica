@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RESISTENCIA(HACER),RESISTIR"]
 
 # RESISTENCIA (HACER), RESISTIR
 
-1. anthistemi (ἀíèßóôçìé, [[G436]]), poner en contra (anti, contra, jistemi, poner en pie), utilizado en la voz media (o pasiva) y en el 2º aoristo intransitivo y en el activo perfecto, significando enfrentarse, oponerse, resistir. Se traduce resistir en Mat_5:39; Luc_21:15; Hch_6:10; Hch_13:8; Rom_9:19; Rom_13:2 (para la segunda y tercera parte; en cuanto a la primera, véase Nº 3); Gál_2:11; Efe_6:13; 2Ti_3:8, dos veces; Stg_4:7; 1Pe_5:9; con el verbo oponerse en 2Ti_4:15 (rv: «ha resistido»). Véase OPONER.¶
+1. anthistemi (ἀíèßóôçìé, [[G436]]), poner en contra (anti, contra, jistemi, poner en pie), utilizado en la voz media (o pasiva) y en el 2Ί aoristo intransitivo y en el activo perfecto, significando enfrentarse, oponerse, resistir. Se traduce resistir en Mat_5:39; Luc_21:15; Hch_6:10; Hch_13:8; Rom_9:19; Rom_13:2 (para la segunda y tercera parte; en cuanto a la primera, véase Nº 3); Gál_2:11; Efe_6:13; 2Ti_3:8, dos veces; Stg_4:7; 1Pe_5:9; con el verbo oponerse en 2Ti_4:15 (rv: «ha resistido»). Véase OPONER.¶
 
 2. antikathistemi (ἀíôéêáèßóôçìé, [[G478]]), estar firmemente de pie en contra de (anti, en contra; katistemi, poner abajo, kata). Se traduce: «no habéis resistido» (Heb_12:4).¶ En la lxx, Deu_31:21; Jos_5:7; Miq_2:8.¶
 
@@ -15,9 +15,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#RESISTENCIA(HACER),RESISTIR"]
 
 4. antipipto (ἀíôéðßðôù, [[G496]]), lit. y primariamente, caer en contra o sobre (anti, contra; pipto, caer), luego luchar en contra, resistir. Se utiliza en Hch_7:51, de resistir al Espíritu Santo.¶
 
-5. diakoluo (äéáêùëýù, [[G1254]]), forma intensificada de koluo, resistir, prohibir (dia, a través, usado intensivamente), y se utiliza en Mat_3:14 : «resistía mucho» (rv; rvr: «se … oponía»; vm: «estorbaba del todo»), con referencia al esfuerzo natural y persistente (dia) para impedir que Cristo fuera bautizado.¶
+5. diakoluo (διακωλύω, [[G1254]]), forma intensificada de koluo, resistir, prohibir (dia, a través, usado intensivamente), y se utiliza en Mat_3:14 : «resistía mucho» (rv; rvr: «se … oponía»; vm: «estorbaba del todo»), con referencia al esfuerzo natural y persistente (dia) para impedir que Cristo fuera bautizado.¶
 
-6. theomaqueo (èåïìáèõÝù, [[G2313]]), se encuentra en tr en Hch_23:9, de resistir a Dios: «no resistamos a Dios». Cf. el correspondiente adjetivo theomacos, véase LUCHA, B, Nota .
+6. theomaqueo (θεομαθυέω, [[G2313]]), se encuentra en tr en Hch_23:9, de resistir a Dios: «no resistamos a Dios». Cf. el correspondiente adjetivo theomacos, véase LUCHA, B, Nota .
 
 Nota: Para antofthalmeo, traducido en Hch_27:15 (rv): «resistir contra», véase PONER PROA.¶ 
 

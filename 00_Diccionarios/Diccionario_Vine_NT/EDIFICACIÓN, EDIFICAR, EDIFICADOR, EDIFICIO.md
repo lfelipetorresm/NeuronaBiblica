@@ -21,6 +21,6 @@ Nota: El participio oikodomos, con el artículo, se traduce como «edificador» 
 
 2. epoikodomeo (ἐðïéêïäïìÝù, [[G2026]]), significa construir sobre, sobreedificar, edificar encima (epi, sobre). Se usa en Hch_20:32; 1Co_3:10, 1Co_3:12, 1Co_3:14; Efe_2:20; Col_2:7; Jud_1:20:¶
 
-3. sunoikodomeo (óõíïéêïäïìÝù, [[G4925]]), edificar juntamente (sun, con). Se usa en Efe_2:22, metafóricamente, de la iglesia, como morada de Dios.¶ 
+3. sunoikodomeo (συνοικοδομέω, [[G4925]]), edificar juntamente (sun, con). Se usa en Efe_2:22, metafóricamente, de la iglesia, como morada de Dios.¶ 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MALVADO,IMPÍO"]
 
 A. Nombres
 
-rasha' (øÈùÑÈò, [[H7563]]), «malvado; impío; culpable». Rasha se encuentra solamente en hebreo y arameo tardío. El vocablo aparece unas 260 veces como nombre o adjetivo, particularmente en la literatura poética veterotestamentaria. Son contados los casos en el Pentateuco y en los libros históricos. Es más frecuente en los libros proféticos.
+rasha' (רָשָׁע, [[H7563]]), «malvado; impío; culpable». Rasha se encuentra solamente en hebreo y arameo tardío. El vocablo aparece unas 260 veces como nombre o adjetivo, particularmente en la literatura poética veterotestamentaria. Son contados los casos en el Pentateuco y en los libros históricos. Es más frecuente en los libros proféticos.
 
 El significado estricto de rasha' se relaciona con el concepto de «maldad» o de «ser culpable». Es un término jurídico. La persona que ha pecado contra la ley es culpable: «Los que abandonan la ley alaban a los impíos [«malvados» nvi], pero los que guardan la ley contenderán con ellos» (Pro_28:4 rva). En ocasiones cuando la justicia no prevaleció en la historia de Israel, los «culpables» se exoneraban: «Cuando los justos dominan, el pueblo se alegra» (Pro_29:2; cf. 2Cr_6:23).
 
@@ -23,9 +23,9 @@ En el Antiguo Testamento hay otros dos nombres afines. Resha', que se halla unas
 
 B. Adjetivo
 
-rasha' (øÈùÑÈò, [[H7563]]), «malo; malvado; culpable». El mismo término sirve también como adjetivo. En ciertos casos una persona puede ser tan culpable que merece la muerte: «Cuando haya pleito entre algunos y acudan al tribunal para que los juzguen, absolverán al justo y condenarán al culpable» (Deu_25:1 rva). Las cualidades de alguien «malvado» ameritan que se le llame una persona «impía»: «¿Cuánto más a los malos hombres que mataron a un hombre justo en su casa, y sobre su cama? Ahora pues, ¿no he de demandar yo su sangre de vuestras manos, y quitaros de la tierra?» (2Sa_4:11; cf. Eze_3:18-19).
+rasha' (רָשָׁע, [[H7563]]), «malo; malvado; culpable». El mismo término sirve también como adjetivo. En ciertos casos una persona puede ser tan culpable que merece la muerte: «Cuando haya pleito entre algunos y acudan al tribunal para que los juzguen, absolverán al justo y condenarán al culpable» (Deu_25:1 rva). Las cualidades de alguien «malvado» ameritan que se le llame una persona «impía»: «¿Cuánto más a los malos hombres que mataron a un hombre justo en su casa, y sobre su cama? Ahora pues, ¿no he de demandar yo su sangre de vuestras manos, y quitaros de la tierra?» (2Sa_4:11; cf. Eze_3:18-19).
 
 C. Verbo
 
-rasha' (øÈùÑÈò, [[H7561]]), «ser impío, actuar impíamente». Este verbo se deriva del nombre rasha'. Hay una raíz similar en etíope y en árabe, con el respectivo significado de «olvidar» y «estar suelto». Este verbo aparece en 2Cr_6:37 : «[Si] ellos volvieren en sí en la tierra donde fueron llevados cautivos; si se convirtieren, y oraren a ti en la tierra de su cautividad, y dijeren: Pecamos, hemos hecho inicuamente, impíamente hemos hecho». 
+rasha' (רָשָׁע, [[H7561]]), «ser impío, actuar impíamente». Este verbo se deriva del nombre rasha'. Hay una raíz similar en etíope y en árabe, con el respectivo significado de «olvidar» y «estar suelto». Este verbo aparece en 2Cr_6:37 : «[Si] ellos volvieren en sí en la tierra donde fueron llevados cautivos; si se convirtieren, y oraren a ti en la tierra de su cautividad, y dijeren: Pecamos, hemos hecho inicuamente, impíamente hemos hecho». 
 

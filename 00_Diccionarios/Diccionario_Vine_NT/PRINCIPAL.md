@@ -13,7 +13,7 @@ protos (ðñù̂ôïò, [[G4413]]), denota el primero, tanto en el tiempo como e
 
 B. Nombres
 
-1. kefalaion (êåöÜëáéïí, [[G2774]]), relacionado con el adjetivo kefalaios, perteneciente a la cabeza, y a kefale, cabeza, denota el punto principal o cosa más importante de un asunto (Heb_8:1 : «el punto principal»; rv: «la suma»; vm: «Lo principal»); también se utiliza en Hch_22:28 (de capital, en cuanto a dinero): «una gran suma». Véanse PUNTO, SUMA.¶
+1. kefalaion (κεφάλαιον, [[G2774]]), relacionado con el adjetivo kefalaios, perteneciente a la cabeza, y a kefale, cabeza, denota el punto principal o cosa más importante de un asunto (Heb_8:1 : «el punto principal»; rv: «la suma»; vm: «Lo principal»); también se utiliza en Hch_22:28 (de capital, en cuanto a dinero): «una gran suma». Véanse PUNTO, SUMA.¶
 
 2. exoque (ἐîï÷Þ, [[G1851]]), primariamente proyección (relacionado con execo, sobresalir). Se utiliza en la frase katexoquen, lit., «según eminencia», y traducido «principales hombres» (Hch_25:23; rvr77: «hombres más importantes»; bbc traduce «de más relieve»).¶ En la lxx, Job_39:28.¶
 

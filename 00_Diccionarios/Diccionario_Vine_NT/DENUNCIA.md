@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DENUNCIA"]
 
 # DENUNCIA
 
-fasis (öÜóéò, [[G5334]]), relacionado con femi, hablar. Denota información, especialmente contra fraudes u otros delitos. Se traduce «avisó» en Hch_21:31 (vm: «noticia»; «denuncia» en la versión de bbc).
+fasis (φάσις, [[G5334]]), relacionado con femi, hablar. Denota información, especialmente contra fraudes u otros delitos. Se traduce «avisó» en Hch_21:31 (vm: «noticia»; «denuncia» en la versión de bbc).
 
 B. Verbo
 

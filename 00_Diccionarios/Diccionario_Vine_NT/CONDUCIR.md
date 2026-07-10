@@ -11,13 +11,13 @@ etiquetas: ["#Diccionario", "#VineNT", "#CONDUCIR"]
 
 2. eisago (åἴóáãù, [[G1521]]), traer adentro, introducir (eis, a, hacia; ago, transportar, llevar, acarrear). Se traduce conducir en Luc_22:54, de conducir al Señor de un sitio de Jerusalén a otro cuando estaba preso, «condujeron» (rv: «metieron»). Véanse ENTRAR, INTRODUCIR, METER, TRAER.
 
-3. kathistemi (êáèßóôçìé, [[G2525]]), lit., establecer, poner abajo (kata, abajo; tithemi, estar de pie), tiene, entre sus varios significados, el de llevar a un cierto lugar, de conducir (Hch_17:15); igualmente en la lxx en Jos_6:23; 1Sa_5:3; 2Cr_28:15. Véanse CONSTITUIR, DEJAR, ENCARGAR, ESTABLECER, PONER.
+3. kathistemi (καθίστημι, [[G2525]]), lit., establecer, poner abajo (kata, abajo; tithemi, estar de pie), tiene, entre sus varios significados, el de llevar a un cierto lugar, de conducir (Hch_17:15); igualmente en la lxx en Jos_6:23; 1Sa_5:3; 2Cr_28:15. Véanse CONSTITUIR, DEJAR, ENCARGAR, ESTABLECER, PONER.
 
-4. peripateo (ðåñéðáôÝù, [[G4043]]), se traduce «conducirse» en 1Ts_4:1, 1Ts_4:12; lit. «andar». Véase ANDAR, etc.
+4. peripateo (περιπατέω, [[G4043]]), se traduce «conducirse» en 1Ts_4:1, 1Ts_4:12; lit. «andar». Véase ANDAR, etc.
 
-5. poieo (ðïéÝù, [[G4160]]), significa: (a) hacer, en el sentido de hacer algo material; (b) hacer, esto es ejecutar acciones en el sentido de expresar mediante los actos los propios pensamientos y sentimientos. Se traduce con numerosos verbos, principalmente hacer, dar (en el sentido de producir, p.ej., un árbol «da» frutos), y se traduce como «conducir» en 3Jn_1:5 : «te conduces», (rv: «haces»). Véanse ACTUAR, CAUSAR, CELEBRAR, COMETER, CONSTITUIR, CONVERTIR, CUMPLIR, DAR, ECHAR, EFECTUAR, EJECUTAR, EJERCER, ESTABLECER, ESTAR, GUARDAR, HACER, LLEVAR, PASAR, PONER, PRACTICAR, PREPARAR, PRODUCIR, TOMAR, TRABAJAR, TRAMAR, USAR.
+5. poieo (ποιέω, [[G4160]]), significa: (a) hacer, en el sentido de hacer algo material; (b) hacer, esto es ejecutar acciones en el sentido de expresar mediante los actos los propios pensamientos y sentimientos. Se traduce con numerosos verbos, principalmente hacer, dar (en el sentido de producir, p.ej., un árbol «da» frutos), y se traduce como «conducir» en 3Jn_1:5 : «te conduces», (rv: «haces»). Véanse ACTUAR, CAUSAR, CELEBRAR, COMETER, CONSTITUIR, CONVERTIR, CUMPLIR, DAR, ECHAR, EFECTUAR, EJECUTAR, EJERCER, ESTABLECER, ESTAR, GUARDAR, HACER, LLEVAR, PASAR, PONER, PRACTICAR, PREPARAR, PRODUCIR, TOMAR, TRABAJAR, TRAMAR, USAR.
 
-6. prokopto (ðñïêüðôù, [[G4298]]), lit., cortar hacia adelante (un camino). Se traduce «conducirán» en 2Ti_2:16 (rv: «adelante irán»). Véanse ADELANTE, AVANZAR, AVENTAJAR, CRECER, IR.
+6. prokopto (προκόπτω, [[G4298]]), lit., cortar hacia adelante (un camino). Se traduce «conducirán» en 2Ti_2:16 (rv: «adelante irán»). Véanse ADELANTE, AVANZAR, AVENTAJAR, CRECER, IR.
 
 Nota: el adjetivo queiragogos, lit. conductor de la mano (queir, mano; ago, conducir), se usa como nombre (plural) en Hch_13:11 : «quien le condujese de la mano». Véase MANO, y LLEVAR ( DE LA MANO ). 
 

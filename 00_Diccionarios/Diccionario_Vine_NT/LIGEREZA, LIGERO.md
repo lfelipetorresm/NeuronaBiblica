@@ -19,6 +19,6 @@ B. Adjetivos
 
 C. Adverbio
 
-taqueos (ôá÷Ýùò, [[G5030]]), rápidamente, y mayormente traducido «pronto». Se traduce «con ligereza» en 1Ti_5:22, en la amonestación de Pablo a Timoteo. Véase PRONTO, y también FÁCILMENTE, ( DE ) PRISA. 
+taqueos (ταχέως, [[G5030]]), rápidamente, y mayormente traducido «pronto». Se traduce «con ligereza» en 1Ti_5:22, en la amonestación de Pablo a Timoteo. Véase PRONTO, y también FÁCILMENTE, ( DE ) PRISA. 
 
 

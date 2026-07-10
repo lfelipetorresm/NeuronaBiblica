@@ -15,6 +15,6 @@ A. Nombres
 
 B. Adverbio
 
-feidomenos (öåéäïìÝíùò, [[G5340]]), relacionado con feidomai, reservar, escatimar. Se traduce «escasamente» en 2Co_9:6, dos veces; de sembrar y segar.¶ Cf. con feidomai, véanse ESCATIMAR, PERDONAR. 
+feidomenos (φειδομένως, [[G5340]]), relacionado con feidomai, reservar, escatimar. Se traduce «escasamente» en 2Co_9:6, dos veces; de sembrar y segar.¶ Cf. con feidomai, véanse ESCATIMAR, PERDONAR. 
 
 

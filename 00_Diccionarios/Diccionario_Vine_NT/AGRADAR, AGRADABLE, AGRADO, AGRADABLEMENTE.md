@@ -25,7 +25,7 @@ B. Adjetivos
 
 2. asteios (ἀóôåé̂ïò, [[G791]]), lit: de la ciudad (de astu, ciudad; como el latín urbanus, de urbus, ciudad; castellano, urbano, de urbe), de ahí agradable, elegante (utilizado de las vestimentas en los escritos en papiros). Se dice de la forma externa de un niño (Hch_7:20), de Moisés «(sumamente) agradable», lit: «hermoso para Dios» (Heb_11:23 : «hermoso», rvr). Véase HERMOSO.¶
 
-3. dektos (äåêôüò, [[G1184]]), denota una persona o cosa que ha sido considerada favorablemente (Luc_4:19, Luc_4:24; Hch_10:35; 2Co_6:2, en este versículo se usa el Nº 5 en el segundo lugar; Fil_4:18). Véanse ACEPTABLE, ACEPTO.¶
+3. dektos (δεκτός, [[G1184]]), denota una persona o cosa que ha sido considerada favorablemente (Luc_4:19, Luc_4:24; Hch_10:35; 2Co_6:2, en este versículo se usa el Nº 5 en el segundo lugar; Fil_4:18). Véanse ACEPTABLE, ACEPTO.¶
 
 4. apodektos (ἀðüäåêôïò, [[G587]]), forma más fuerte del Nº 3 [apo, de (partitivo), usado intensivamente]. Significa agradable, en el sentido de aquello que se acepta con agrado (1Ti_2:3; 1Ti_5:4).¶
 

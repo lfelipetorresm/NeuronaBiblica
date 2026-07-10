@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#LUMBRERA"]
 
 # LUMBRERA
 
-lucnos (ëý÷íïò, [[G3088]]), véase LÁMPARA, Nº 2. 
+lucnos (λύχνος, [[G3088]]), véase LÁMPARA, Nº 2. 
 
 

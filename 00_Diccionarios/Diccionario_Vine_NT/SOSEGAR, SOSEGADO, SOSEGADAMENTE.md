@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#SOSEGAR,SOSEGADO,SOSEGADAMENTE"]
 
 A. Verbo
 
-kopazo (êïðÜæù, [[G2869]]), véase CALMAR. Se traduce «sosegose» (Mat_14:32, rv; rvr: «se calmó»).
+kopazo (κοπάζω, [[G2869]]), véase CALMAR. Se traduce «sosegose» (Mat_14:32, rv; rvr: «se calmó»).
 
 B. Adjetivo
 

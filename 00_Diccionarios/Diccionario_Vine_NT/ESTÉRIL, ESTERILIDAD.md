@@ -13,6 +13,6 @@ steira (óôåé̂ñïò, [[G4723]]), (de una raíz ster -, significando duro, f
 
 B. Nombre
 
-nekrosis (íÝêñùóéò, [[G3500]]), puesta a muerte (cf. MUERTE, MORIR). Se traduce «esterilidad» en Rom_4:19, de la matriz de Sara; «muerte» en 2Co_4:10, de llevar en nuestro cuerpo por todas partes la muerte de Jesús. Véase MUERTE.¶ 
+nekrosis (νέκρωσις, [[G3500]]), puesta a muerte (cf. MUERTE, MORIR). Se traduce «esterilidad» en Rom_4:19, de la matriz de Sara; «muerte» en 2Co_4:10, de llevar en nuestro cuerpo por todas partes la muerte de Jesús. Véase MUERTE.¶ 
 
 

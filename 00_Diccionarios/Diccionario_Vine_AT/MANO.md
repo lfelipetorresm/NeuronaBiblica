@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MANO"]
 
 # MANO
 
-yad (éÈã, [[H3027]]), «mano; lado; borde; al lado de; mano (medida), porción; soporte; monumento; virilidad (órgano sexual); poder; dominio». Este vocablo tiene cognados en la mayoría de las demás lenguas semíticas. En hebreo bíblico se constatan 1:618 casos del término durante todos los períodos.
+yad (יָד, [[H3027]]), «mano; lado; borde; al lado de; mano (medida), porción; soporte; monumento; virilidad (órgano sexual); poder; dominio». Este vocablo tiene cognados en la mayoría de las demás lenguas semíticas. En hebreo bíblico se constatan 1:618 casos del término durante todos los períodos.
 
 El significado básico del término es «ma- no»: «Y dijo Jehová Dios: He aquí el hombre es como uno de nosotros, sabiendo el bien y el mal: ahora, pues, que no alargue su mano, y tome también del árbol de la vida» (Gén_3:22 : primera mención del vocablo). La palabra a veces se usa junto a un objeto que puede asirse con una «mano»: «Si lo hiere con una piedra en la mano [literalmente «piedra de mano»]» (Núm_35:17 rva). En un uso similar, el término quiere decir «humano»: «Con su sagacidad hará prosperar el engaño en su mano; y en su corazón se engrandecerá, y sin aviso destruirá a muchos; y se levantará contra el Príncipe de los príncipes, pero será quebrantado, aunque no por mano humana» (Dan_8:25 rvr ; literalmente «sin mano será quebrantado» rv ; cf. Job_34:20).
 

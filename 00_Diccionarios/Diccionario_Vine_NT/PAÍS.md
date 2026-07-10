@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PAÍS"]
 
 # PAÍS
 
-cora (÷þñá, [[G5561]]), denota propiamente un espacio entre dos límites o lugares; así, tiene una gran variedad de significados; se traduce «país» en Luc_19:12; véanse CAMPO, HEREDAD, PROVINCIA, TERRITORIO, TIERRA. 
+cora (χώρα, [[G5561]]), denota propiamente un espacio entre dos límites o lugares; así, tiene una gran variedad de significados; se traduce «país» en Luc_19:12; véanse CAMPO, HEREDAD, PROVINCIA, TERRITORIO, TIERRA. 
 
 

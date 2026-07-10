@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CONSTRUCTOR"]
 
 # CONSTRUCTOR
 
-demiourgos (äçìéïõñãüò, [[G1217]]), lit., uno que trabaja para el pueblo (de demos, pueblo; ergon, trabajo). Una antigua inscripción habla de los magistrados de Tarso como demiourgoi ; este vocablo se usaba en este sentido antiguamente en varias ciudades de Grecia; también se halla utilizado de un artista; y vino a denotar, en su uso general, a un constructor o hacedor, y se usa de Dios como constructor de la ciudad celestial (Heb_11:10; rv: «hacedor»). En este pasaje, la primera palabra de las dos, tecnites, denota al arquitecto, diseñador; la segunda, demiourgos, al constructor mismo; la ciudad es el arquetipo de la ciudad terrena que Dios eligió para su pueblo terrenal.¶ Cf. ktistes, creador. 
+demiourgos (δημιουργός, [[G1217]]), lit., uno que trabaja para el pueblo (de demos, pueblo; ergon, trabajo). Una antigua inscripción habla de los magistrados de Tarso como demiourgoi ; este vocablo se usaba en este sentido antiguamente en varias ciudades de Grecia; también se halla utilizado de un artista; y vino a denotar, en su uso general, a un constructor o hacedor, y se usa de Dios como constructor de la ciudad celestial (Heb_11:10; rv: «hacedor»). En este pasaje, la primera palabra de las dos, tecnites, denota al arquitecto, diseñador; la segunda, demiourgos, al constructor mismo; la ciudad es el arquetipo de la ciudad terrena que Dios eligió para su pueblo terrenal.¶ Cf. ktistes, creador. 
 
 

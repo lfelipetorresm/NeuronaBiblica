@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#VENGAR"]
 
 A. Verbo
 
-naqam (ðÈ÷Çí, [[H5358]]), «vengar, vengarse, castigar». Esta raíz y sus derivados aparecen 87 veces en el Antiguo Testamento, con mayor frecuencia en el Pentateuco, Isaías y Jeremías. Se encuentra a veces en los libros históricos y en los Salmos. La raíz también aparece en arameo, asirio, arábigo, etiópico y hebreo tardío.
+naqam (נָקַם, [[H5358]]), «vengar, vengarse, castigar». Esta raíz y sus derivados aparecen 87 veces en el Antiguo Testamento, con mayor frecuencia en el Pentateuco, Isaías y Jeremías. Se encuentra a veces en los libros históricos y en los Salmos. La raíz también aparece en arameo, asirio, arábigo, etiópico y hebreo tardío.
 
 El canto de Lamec es un desafío desdeñoso a sus prójimos y un ataque patente a la justicia de Dios: «A un hombre maté por haberme herido y a un joven por haberme golpeado. Si siete veces será vengado Caín, Lamec lo será setenta veces siete» (Gén_4:23-24 rv-95).
 
@@ -25,7 +25,7 @@ En el pacto (alianza), Dios advierte que su venganza podría recaer sobre su pro
 
 B. Nombre
 
-naqam (ðÈ÷Èí, [[H5359]]), «venganza». El nombre se usa por primera vez en la promesa de Dios a Caín: «Cualquiera que matare a Caín, siete veces será castigado [«sufrirá venganza» lba]» (Gén_4:15).
+naqam (נָקָם, [[H5359]]), «venganza». El nombre se usa por primera vez en la promesa de Dios a Caín: «Cualquiera que matare a Caín, siete veces será castigado [«sufrirá venganza» lba]» (Gén_4:15).
 
 Hay casos en que alguien clama por «venganza» de sus enemigos, como cuando otra persona ha cometido adulterio con su mujer: «Porque los celos son el furor del hombre, y no perdonará en el día de la venganza» (Pro_6:34).
 

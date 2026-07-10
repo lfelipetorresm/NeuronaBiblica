@@ -9,7 +9,7 @@ etiquetas: ["#Comentario", "#ContextoCultural", "#1_Samuel"]
 # Contexto Cultural de [[1 Samuel]] - Capítulo 29
 
 ### 1 Samuel 29:1
-Afec y el manantial de Jezreel. Hay algunos sitios diferentes llamados Afec en varias partes de Canaán. Éste se destaca por su referencia a un manantial en el valle de Jezreel. Muy probablemente este Afec está en la parte meridional de la llanura de Sarón y específicamente es el emplazamiento de Ras el-Ain, la fuente del río Yarkon. Esto sugiere, entonces, que los filisteos pasaron revista a sus tropas primero en Afec (como hicieron antes de la Batalla de Eben-ezer en 1Sa 4:1) y luego se introdujeron 55 ó 65 km en Jezreel para confrontar a Saúl. Josefo conecta este Afec con Antípatris (ver Hch 23:31), a unos 40 km al sur de la Cesarea marítima.
+Afec y el manantial de Jezreel. Hay algunos sitios diferentes llamados Afec en varias partes de Canaán. Éste se destaca por su referencia a un manantial en el valle de Jezreel. Muy probablemente este Afec está en la parte meridional de la llanura de Sarón y específicamente es el emplazamiento de Ras el-Ain, la fuente del río Yarkon. Esto sugiere, entonces, que los filisteos pasaron revista a sus tropas primero en Afec (como hicieron antes de la Batalla de Eben-ezer en 1Sa 4:1) y luego se introdujeron 55 σ 65 km en Jezreel para confrontar a Saúl. Josefo conecta este Afec con Antípatris (ver Hch 23:31), a unos 40 km al sur de la Cesarea marítima.
 
 ### 1 Samuel 29:1-11
 La ayuda de David rechazada por los filisteos

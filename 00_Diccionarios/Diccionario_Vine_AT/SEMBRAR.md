@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SEMBRAR"]
 
 A. Verbo
 
-zara' (æÈøÇò, [[H2232]]), «sembrar, esparcir semilla, embarazar». Esta raíz fue de uso popular a través de la historia de la lengua hebrea y se aparece en varios idiomas semíticos, incluyendo acádico. El verbo se halla alrededor de 60 veces en el Antiguo Testamento hebreo. Se menciona por primera vez en Gén_1:29 en el resumen de las bendiciones de la creación que Dios encomendó a la humanidad: «Y todo árbol cuyo fruto lleva semilla».
+zara' (זָרַע, [[H2232]]), «sembrar, esparcir semilla, embarazar». Esta raíz fue de uso popular a través de la historia de la lengua hebrea y se aparece en varios idiomas semíticos, incluyendo acádico. El verbo se halla alrededor de 60 veces en el Antiguo Testamento hebreo. Se menciona por primera vez en Gén_1:29 en el resumen de las bendiciones de la creación que Dios encomendó a la humanidad: «Y todo árbol cuyo fruto lleva semilla».
 
 En una sociedad agrícola como la del antiguo Israel, zara' sería muy importante y de uso corriente, sobre todo en las descripciones de las siembras anuales (Jue_6:3; Gén_26:12). En sentido figurado, se dice que Yahveh «sembrará» a Israel en la tierra (Ose_2:23): Yahveh promete que en los postreros días «sembraré la casa de Israel y la casa de Judá de simiente de hombres y de simiente de animales» (Jer_31:27). Son siempre reconfortantes las palabras: «Los que sembraron con lágrimas, con regocijo segarán» (Sal_126:5). La ley universal de la siega, sembrar y cosechar, se aplica a todas las dimensiones y experiencias de la vida.
 
@@ -17,7 +17,7 @@ Un buen ejemplo de la necesidad de traducir libremente el significado básico de
 
 B. Nombre
 
-zera' (æÆÆøÇò, [[H2233]]), «semilla; simiente; siembra; siega; progenie; vástago; descendientes; posteridad». Este vocablo se encuentra unas 228 veces en hebreo bíblico y durante todos los períodos. Tiene cognados en arameo, fenicio, arábigo, etiópico y acádico.
+zera' (זֶֶרַע, [[H2233]]), «semilla; simiente; siembra; siega; progenie; vástago; descendientes; posteridad». Este vocablo se encuentra unas 228 veces en hebreo bíblico y durante todos los períodos. Tiene cognados en arameo, fenicio, arábigo, etiópico y acádico.
 
 Zera' tiene que ver con el proceso de esparcir «semilla» o «sembrar». Este es el énfasis en Gén_47:24 (rva): «Y sucederá que de los productos daréis la quinta parte al faraón. Las cuatro partes serán vuestras para sembrar las tierras, para vuestro sustento». La mejor traducción de Núm_20:5 es: «Este [desierto] no es un lugar de sembrados, ni de higueras, ni de viñas, ni de granados. ¡Ni siquiera hay agua para beber!» (rva). Asimismo con Eze_17:5 : «Tomó también de la simiente de la tierra, y la puso en un campo bueno para sembrar, la plantó junto a aguas abundantes». Un énfasis muy parecido se encuentra en Gén_8:22, en donde el término se refiere a la actividad periódica de «sembrar»: «Mientras la tierra permanezca, no cesarán la sementera y la siega, el frío y el calor, el verano y el invierno, el día y la noche».
 

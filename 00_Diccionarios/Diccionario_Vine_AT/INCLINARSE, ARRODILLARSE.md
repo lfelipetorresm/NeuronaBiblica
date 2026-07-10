@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#INCLINARSE,ARRODILLARSE"]
 
 # INCLINARSE, ARRODILLARSE
 
-kara' (ëÌÈøÇò, [[H3766]]), «inclinarse, agacharse, arrodillarse, encorvarse». Este término está tanto en hebreo moderno como ugarítico. En el Antiguo Testamento hebreo aparece alrededor de 35 veces. Kara' se encuentra por primera vez en la bendición de Jacob sobre su lecho de muerte dirigida a Judá: «Se encorvó, se echó como león» (Gén_49:9 rvr ; «se agazapa» lba ; «se agacha» rva).
+kara' (כָּרַע, [[H3766]]), «inclinarse, agacharse, arrodillarse, encorvarse». Este término está tanto en hebreo moderno como ugarítico. En el Antiguo Testamento hebreo aparece alrededor de 35 veces. Kara' se encuentra por primera vez en la bendición de Jacob sobre su lecho de muerte dirigida a Judá: «Se encorvó, se echó como león» (Gén_49:9 rvr ; «se agazapa» lba ; «se agacha» rva).
 
 La implicación de kara' parece ser doblar las piernas o rodillas, puesto que un nombre que quiere decir «pierna» se deriva del mismo vocablo. Una de las pruebas eliminatorias para el ejército de Gedeón fue «agacharse» para beber (Jue_7:5-6). «Arrodillarse» era un gesto común en la adoración a Dios (1Re_8:54; Esd_9:5; Isa_45:23; cf. Fil_2:10).
 

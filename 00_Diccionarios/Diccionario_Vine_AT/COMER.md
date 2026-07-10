@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#COMER"]
 
 A. Verbo
 
-'akal (àÈëÇì, [[H398]]), «comer, alimentar, ingerir, consumir, devorar». Este verbo se encuentra en todas las lenguas semíticas (excepto la etiópica) y en todos los períodos, desde el temprano acádico hasta el hebreo más tardío. El vocablo está unas 810 veces en el Antiguo Testamento hebreo y 9 veces en arameo.
+'akal (אָכַל, [[H398]]), «comer, alimentar, ingerir, consumir, devorar». Este verbo se encuentra en todas las lenguas semíticas (excepto la etiópica) y en todos los períodos, desde el temprano acádico hasta el hebreo más tardío. El vocablo está unas 810 veces en el Antiguo Testamento hebreo y 9 veces en arameo.
 
 En esencia, este radical se refiere al «consumo de alimentos por seres humanos y animales». En Gén_3:6 leemos que Eva tomó el fruto del árbol del conocimiento del bien y del mal y lo «comieron».
 
@@ -27,5 +27,5 @@ Dios ofrece muchas cosas buenas para «comer», como maná para los israelitas (
 
 B. Nombres
 
-'okel (àéëÆì, [[H400]]), «comida, alimento». El término se encuentra 44 veces en el Antiguo Testamento. En Gén_41:35, aparece dos veces con el sentido de «reservas alimenticias»: «Que ellos acumulen todos los alimentos de estos años buenos que vienen, que almacenen el trigo bajo la supervisión del faraón, y que los guarden en las ciudades para sustento» (rva). El vocablo se refiere al «alimento» de animales salvajes en Sal_104:21 : «Los leones rugen por la presa y reclaman a Dios su comida». En Sal_145:15, es también «el alimento» que Dios nos depara. El vocablo puede significar una ofrenda de «comida» (Mal_1:12). Un nombre relacionado, , también significa «alimento» y aparece 18 veces en el Antiguo Testamento. 
+'okel (איכֶל, [[H400]]), «comida, alimento». El término se encuentra 44 veces en el Antiguo Testamento. En Gén_41:35, aparece dos veces con el sentido de «reservas alimenticias»: «Que ellos acumulen todos los alimentos de estos años buenos que vienen, que almacenen el trigo bajo la supervisión del faraón, y que los guarden en las ciudades para sustento» (rva). El vocablo se refiere al «alimento» de animales salvajes en Sal_104:21 : «Los leones rugen por la presa y reclaman a Dios su comida». En Sal_145:15, es también «el alimento» que Dios nos depara. El vocablo puede significar una ofrenda de «comida» (Mal_1:12). Un nombre relacionado, , también significa «alimento» y aparece 18 veces en el Antiguo Testamento. 
 

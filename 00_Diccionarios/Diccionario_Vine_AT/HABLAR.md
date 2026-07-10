@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HABLAR"]
 
 A. Verbo
 
-dabar (ãÌÈáÇø, [[H1696]]), «hablar, decir». Este verbo se encuentra en todos los períodos del hebreo, en fenicio (a partir de ca. 900 a.C.) y en arameo imperial (a partir de ca. 500 a.C.). En hebreo veterotestamentario aparece unas 1.125 veces.
+dabar (דָּבַר, [[H1696]]), «hablar, decir». Este verbo se encuentra en todos los períodos del hebreo, en fenicio (a partir de ca. 900 a.C.) y en arameo imperial (a partir de ca. 500 a.C.). En hebreo veterotestamentario aparece unas 1.125 veces.
 
 El verbo no solo se enfoca en el contenido de la comunicación oral sino, y muy en particular, en el tiempo y las circunstancias (el contexto) en las que se habla. A diferencia de 'emer «decir», dabar a menudo aparece sin referencia al contenido de la comunicación. Quienes «hablan» son mayormente personas (Dios y seres humanos) o los órganos vocales. En Gén_8:15 (primer caso del verbo) Dios «habló» a Noé, mientras que, en Gén_18:5, quien habló a Abraham fue uno de los tres varones. Hay, sin embargo, excepciones a estas generalizaciones. Por ejemplo, en Job_32:7, donde Eliú observa que los «días» (es decir, la edad de una persona) tienen derecho a «hablar» primero. En 2Sa_23:2 David dice que el Espíritu del Señor le «habló»; quizás esto se refiere al Espíritu Santo, aunque muchos eruditos (sobre todo los de cuño liberal) no concuerdan.
 
@@ -17,7 +17,7 @@ Entre las acepciones especiales de este verbo se encuentran «decir» (Dan_9:21)
 
 B. Nombres
 
-dabar (ãÌÈáÈø, [[H1697]]), «palabra; asunto; algo». El nombre aparece 1,440 veces.
+dabar (דָּבָר, [[H1697]]), «palabra; asunto; algo». El nombre aparece 1,440 veces.
 
 Se refiere primero dabar a lo dicho, a la «palabra» o enunciado en sí, a diferencia de que es en esencia el acto de comunicar oralmente, de «hablar». Antes de la dispersión de la torre de Babel, todos los seres humanos hablaban las mismas «palabras» o lengua (Gén_11:1). El nombre puede referirse también al contenido de «hablar». Cuando Dios «hizo conforme a la palabra de Moisés» (Éxo_8:13), le concedió lo que pedía. El término puede indicar «asunto», como en Gén_12:17, donde se dice que Dios azotó al faraón con plagas «por causa [por el asunto] de Sarai». Un uso más especializado de este matiz son las «crónicas» (dabar) de los acontecimientos en la historia de Israel (cf. 1Re_14:19) o «los hechos» de un personaje en particular (1Re_11:41; cf. Gén_15:1). Dabar se puede usar como un término más general con el sentido de «algo». Así en Gén_24:66 la expresión «todo» quiere decir literalmente «todo acerca de algo». No se refiere a alguna cosa en particular, sino que es una generalización que toca sobre «algo» indefinido. El nombre también parece tener un estado casi técnico en los procedimientos jurídicos de Israel. Tener «cualquier asunto» delante de Moisés implicaba plantear un caso jurídico (Éxo_18:16).
 

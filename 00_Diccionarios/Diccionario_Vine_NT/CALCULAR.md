@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CALCULAR"]
 
 # CALCULAR
 
-psefizo (øçößæù, [[G5585]]), relacionado con psefos, piedra. Se usa en votaciones. Aparece en Luc_14:28 y Apo_13:18.¶ 
+psefizo (ψηφίζω, [[G5585]]), relacionado con psefos, piedra. Se usa en votaciones. Aparece en Luc_14:28 y Apo_13:18.¶ 
 
 

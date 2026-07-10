@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#QUEHACER"]
 
 # QUEHACER
 
-diakonia (äéáêïíßá, [[G1248]]), se traduce «quehaceres» en Luc_10:40 (rv: «servicios»). Véase MINISTERIO, Nº 1, y también SERVICIO, SERVIR, SOCORRO. 
+diakonia (διακονία, [[G1248]]), se traduce «quehaceres» en Luc_10:40 (rv: «servicios»). Véase MINISTERIO, Nº 1, y también SERVICIO, SERVIR, SOCORRO. 
 
 

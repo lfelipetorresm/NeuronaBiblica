@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#MANTO"]
 
 # MANTO
 
-1. clamus (÷ëáìýò, [[G5511]]), se traduce «manto» en Mat_27:28, Mat_27:31.¶ Se trataba de un manto corto que lo llevaban llevaba sobre el quiton, véase, emperadores, reyes, magistrados, oficiales del ejército, etc. Se usa del ropaje escarlata con el que los soldados revistieron a Cristo en escarnio en el pretorio de Pilato.
+1. clamus (χλαμύς, [[G5511]]), se traduce «manto» en Mat_27:28, Mat_27:31.¶ Se trataba de un manto corto que lo llevaban llevaba sobre el quiton, véase, emperadores, reyes, magistrados, oficiales del ejército, etc. Se usa del ropaje escarlata con el que los soldados revistieron a Cristo en escarnio en el pretorio de Pilato.
 
  Lo que se conocía como púrpura era un color indefinido. No hay contradicción en el hecho de que Marcos y Juan se refieran al manto como «púrpura» y Mateo como «escarlata». Los soldados se lo pusieron al Señor como burla de su regia condición.
 

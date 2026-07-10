@@ -11,7 +11,7 @@ A. Nombres
 
 1. agon (ἀãþí, [[G73]]), batalla, conflicto. Se traduce «lucha» (Col_2:1). Se implica en este pasaje una intensa lucha contra adversarios espirituales y humanos; véase CONFLICTO, Nº 1.
 
-2. pale (ðÜëç, [[G3823]]), lucha cuerpo a cuerpo (relacionado con pallo, mecer, vibrar). Se usa en sentido figurado en Efe_6:12, del conflicto espiritual en el que se hallan inmersos los creyentes.¶
+2. pale (πάλη, [[G3823]]), lucha cuerpo a cuerpo (relacionado con pallo, mecer, vibrar). Se usa en sentido figurado en Efe_6:12, del conflicto espiritual en el que se hallan inmersos los creyentes.¶
 
 B. Verbos
 
@@ -19,7 +19,7 @@ B. Verbos
 
 2. athleo (ἀèëÝù, [[G118]]), empeñarse en una competición (cf. el término castellano, atleta), contender en juegos públicos. Se usa en 2Ti_2:5 : «lucha como atleta … lucha» (rv: «lidia … lidiare»; vm: «contendiera como atleta … contendiere»).¶
 
-3. polemeo (ðïëåìÝù, [[G4170]]), (castellano, polémicas), luchar, hacer guerra. Se usa: (a) literalmente (Apo_12:7, dos veces, «luchaban»; Apo_13:4 : «luchar»; Apo_17:14 : «pelearán»; Apo_19:11 : «pelea»); (b) metafóricamente (Apo_2:16 : «pelearé»); (c) hiperbólicamente (Stg_4:2 : «lucháis»; rv: «guerreáis»). Véase PELEAR.¶
+3. polemeo (πολεμέω, [[G4170]]), (castellano, polémicas), luchar, hacer guerra. Se usa: (a) literalmente (Apo_12:7, dos veces, «luchaban»; Apo_13:4 : «luchar»; Apo_17:14 : «pelearán»; Apo_19:11 : «pelea»); (b) metafóricamente (Apo_2:16 : «pelearé»); (c) hiperbólicamente (Stg_4:2 : «lucháis»; rv: «guerreáis»). Véase PELEAR.¶
 
 Notas: El adjetivo theomacos (Hch_5:39), se traduce «luchando contra Dios»; lit: «luchadores contra Dios».¶ 
 

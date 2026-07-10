@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SEOL"]
 
 # SEOL
 
-sheôl (ùÑÀàåéì, [[H7585]]), «Seol». Los 65 casos de este vocablo están distribuidos en todos los períodos del hebreo bíblico.
+sheôl (שְׁאויל, [[H7585]]), «Seol». Los 65 casos de este vocablo están distribuidos en todos los períodos del hebreo bíblico.
 
 Primero, el vocablo se refiere a un estado de muerte: «Porque en la muerte no hay memoria de ti; en el Seol, ¿quién te alabará?» (Sal_6:5; cf. 18:5). Es el lugar de descanso final de todos los seres humanos: «Pasan sus días en prosperidad, y en paz descienden al Seol» (Job_21:13). Ana confesó que es el Dios omnipotente que traduce a las personas al sheôl (muerte); los mata (1Sa_2:6). «Sheol» se usa paralelamente con los términos hebreos «abismo» o «infierno» (Job_26:6), «corrupción» o «putrefacción» (Sal_16:10) y «destrucción» (Pro_15:11).
 

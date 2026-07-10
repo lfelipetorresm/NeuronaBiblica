@@ -15,6 +15,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MANIFESTACIÓN"]
 
 4. epifaneia (ἐðéöÜíåéá, [[G2015]]), véase, se traduce «manifestación» en 2Ti_4:1; Tit_2:13. Véase asimismo RESPLANDOR.
 
-5. fanerosis (öáíÝñùóéò, [[G5321]]), manifestación (relacionado con faneroo y faneros, véanse MANIFESTAR, A, Nº 8 y B, Nº 7). Aparece en 1Co_12:7 y 2Co_4:2.¶ 
+5. fanerosis (φανέρωσις, [[G5321]]), manifestación (relacionado con faneroo y faneros, véanse MANIFESTAR, A, Nº 8 y B, Nº 7). Aparece en 1Co_12:7 y 2Co_4:2.¶ 
 
 

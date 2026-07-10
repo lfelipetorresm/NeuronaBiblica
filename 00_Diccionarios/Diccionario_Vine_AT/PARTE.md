@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PARTE"]
 
 A. Partícula
 
-bad (áÌÇã, [[H905]]), «parte; porción; ramas; retazo; vara; renuevo; solo; solos; solamente; aparte de; además». Este vocablo se encuentra unas 219 veces en todos los períodos del hebreo de la Biblia.
+bad (בַּד, [[H905]]), «parte; porción; ramas; retazo; vara; renuevo; solo; solos; solamente; aparte de; además». Este vocablo se encuentra unas 219 veces en todos los períodos del hebreo de la Biblia.
 
 Primero, bad quiere decir una «parte o porción». En Éxo_30:34 se refiere a la porción o cantidad de especias que se mezclaban para fabricar el incienso del culto a Dios. En Job_18:13 el término indica los miembros o partes del maligno (cf. Job_41:12 : «miembros» de un cocodrilo).
 
@@ -21,5 +21,5 @@ Cuarto, en la mayoría de los casos (152 veces), este vocablo es precedido por l
 
 B. Verbo
 
-badad (áÌÈãÇã, [[H909]]), «aislarse, estar solo». El verbo tiene un cognado arábigo. Una de las 3 veces que aparece está en Sal_102:7 : «No logro conciliar el sueño; parezco ave solitaria sobre el tejado» (nvi). 
+badad (בָּדַד, [[H909]]), «aislarse, estar solo». El verbo tiene un cognado arábigo. Una de las 3 veces que aparece está en Sal_102:7 : «No logro conciliar el sueño; parezco ave solitaria sobre el tejado» (nvi). 
 

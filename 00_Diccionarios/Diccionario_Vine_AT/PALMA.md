@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PALMA"]
 
 A. Nombre
 
-kap (ëÌÇó, [[H3709]]), «palma (de la mano)». Se han constatado cognados de este nombre en acádico, ugarítico, arameo, arábigo, etiópico y egipcio. Aparece unas 193 veces en hebreo bíblico y durante todos los períodos.
+kap (כַּף, [[H3709]]), «palma (de la mano)». Se han constatado cognados de este nombre en acádico, ugarítico, arameo, arábigo, etiópico y egipcio. Aparece unas 193 veces en hebreo bíblico y durante todos los períodos.
 
 Básicamente, kap se refiere a la parte del cuerpo humano llamada «palma de la mano», a diferencia de los dedos, pulgares y el dorso de la mano. Es lo que quiere decir en Lev_14:15 cuando, como parte del rito de purificación de un leproso se dice que «el sacerdote tomará el log [«cuartillo» bj] de aceite y echará parte de él en la palma de su mano izquierda» (rva). Esta acepción básica se matiza de varias formas.
 
@@ -33,5 +33,5 @@ Kap se aplica también a varios objetos hundidos, huecos, flexibles o martillado
 
 B. Verbo
 
-kapap (ëÌÈôÇó, [[H3721]]), «doblar, inclinarse». El término se encuentra 5 veces en los libros poéticos de la Biblia y tiene cognados en acádico y arábigo. Un ejemplo del verbo se halla en Isa_58:5 rva : «¿Acaso el doblegar la cabeza como junco y el acostarse sobre cilicio y ceniza … ?» 
+kapap (כָּפַף, [[H3721]]), «doblar, inclinarse». El término se encuentra 5 veces en los libros poéticos de la Biblia y tiene cognados en acádico y arábigo. Un ejemplo del verbo se halla en Isa_58:5 rva : «¿Acaso el doblegar la cabeza como junco y el acostarse sobre cilicio y ceniza … ?» 
 

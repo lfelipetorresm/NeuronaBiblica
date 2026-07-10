@@ -13,11 +13,11 @@ A. Nombres
 
 2. eupoiia (åὐðïéßá, [[G2140]]), beneficencia, bien hacer (de eu, bien, y poeio, hacer). Se traduce como verbo en Heb_13:16 : «hacer bien»; lit: bien hacer. Véase HACER.¶
 
-3. bios (âßïò, [[G979]]), denota: (a) vida, el tiempo de una vida; (b) medios de vida, vivir. Se traduce «bienes» en Luc_15:12, Luc_15:30 (rv: «hacienda»); y en 1Jn_3:17; también en la rv . Véanse SUSTENTO, VIDA.
+3. bios (βίος, [[G979]]), denota: (a) vida, el tiempo de una vida; (b) medios de vida, vivir. Se traduce «bienes» en Luc_15:12, Luc_15:30 (rv: «hacienda»); y en 1Jn_3:17; también en la rv . Véanse SUSTENTO, VIDA.
 
-4. kalodidaskalos (êáëïäéäÜóêáëïò, [[G2567]]), denota un maestro de lo que es bueno (kalos, bueno; didaskalos, maestro), en Tit_2:3. Véase MAESTRO.¶
+4. kalodidaskalos (καλοδιδάσκαλος, [[G2567]]), denota un maestro de lo que es bueno (kalos, bueno; didaskalos, maestro), en Tit_2:3. Véase MAESTRO.¶
 
-5. katorthoma (êáôüñèùìá, [[G2735]]), aparece en algunos manuscritos (tr) en lugar de diorthoma, que tiene el mismo significado: «cosas bien gobernadas». Véanse COSAS, GOBERNAR.¶
+5. katorthoma (κατόρθωμα, [[G2735]]), aparece en algunos manuscritos (tr) en lugar de diorthoma, que tiene el mismo significado: «cosas bien gobernadas». Véanse COSAS, GOBERNAR.¶
 
 6. ousia (ïὐóßá, [[G3776]]), derivado de un participio presente de eimi, ser. Denota sustancia, propiedades (Luc_15:12-13 : «bienes»; rv: «hacienda»).¶
 
@@ -35,13 +35,13 @@ B. Verbos
 
 3. euergeteo (åὐåñãåôÝù, [[G2109]]), otorgar un beneficio, hacer bien (eu, bien, y una forma verbal relacionada con ergon). Se usa en Hch_10:38. Véase HACER BIENES.¶
 
-4. kalopoieo (êáëïðïéÝù, [[G2569]]), hacer bien, excelentemente, actuar honorablemente (kalos, bueno; poieo, hacer). Aparece en 2Ts_3:13.¶ Las dos partes de la palabra aparecen separadamente en Rom_7:21; 2Co_13:7; Gál_6:9; Stg_4:17.
+4. kalopoieo (καλοποιέω, [[G2569]]), hacer bien, excelentemente, actuar honorablemente (kalos, bueno; poieo, hacer). Aparece en 2Ts_3:13.¶ Las dos partes de la palabra aparecen separadamente en Rom_7:21; 2Co_13:7; Gál_6:9; Stg_4:17.
 
 Nota: La distinción entre los Nº 2 y 4 sigue la que hay entre agathos y kalos (véase C, Nº 1 y 4).
 
 5. axioo (ἀîéüù, [[G515]]), considerar digno (axios), considerar apropiado. Se traduce «no le parecía bien» en Hch_15:38. Véanse DIGNO, ESTIMAR, MERECER, PARECER, QUERER, TENER POR DIGNO.
 
-6. diablepo (äéáâëÝðù, [[G1227]]), ver claramente (dia, a través, y blepo, tener vista; véase VER), Se traduce «verás bien» en Mat_7:5 y Luc_6:42 (en la primera cita, la rv traduce «mirarás»). Véanse también MIRAR, VER.¶
+6. diablepo (διαβλέπω, [[G1227]]), ver claramente (dia, a través, y blepo, tener vista; véase VER), Se traduce «verás bien» en Mat_7:5 y Luc_6:42 (en la primera cita, la rv traduce «mirarás»). Véanse también MIRAR, VER.¶
 
 7. epiginosko (ἐðéãéíþóêù, [[G1921]]), denota observar, percibir totalmente, y también descubrir, determinar. Se traduce «bien conocidos» en 2Co_6:9. Véanse CONOCER, CERCIORAR, COMPRENDER, ENTENDER, INFORMAR, RECONOCER, SABER.
 
@@ -65,7 +65,7 @@ El plural neutro se usa también de los bienes materiales, riquezas, etc. (Luc_1
 
 3. eusemos (åὔóçìïò, [[G2154]]), denota primariamente patente o glorioso (como en el Sal_81:3, lxx; rvr: «solemne»);¶ después, destacado, fácil de entender (1Co_14:9 : «bien comprensible», rv: «bien significante»). Véase COMPRENSIBLE.¶
 
-4. kalos (êáëüò, [[G2570]]), denota aquello que es intrínsecamente bueno, y, así, hermoso, honroso; como: (a) de aquello que está bien adaptado a sus circunstancias o fines; p.ej., fruto (Mat_3:10); un árbol (Mat_12:33); tierra (Mat_13:8, Mat_13:23); peces (Mat_13:48); la ley (Rom_7:16; 1Ti_1:8); toda criatura de Dios (1Ti_4:4); un fiel ministro de Cristo y la doctrina que enseña (1Ti_4:6); (b) de aquello que es éticamente bueno, correcto, noble, honorable (p.ej., Gál_4:18; 1Ti_5:10, 1Ti_5:25; 1Ti_6:18; Tit_2:7, Tit_2:14; Tit_3:8, Tit_3:14). La palabra no aparece en Apocalipsis. En realidad, ya no aparece después de 1 Pedro.
+4. kalos (καλός, [[G2570]]), denota aquello que es intrínsecamente bueno, y, así, hermoso, honroso; como: (a) de aquello que está bien adaptado a sus circunstancias o fines; p.ej., fruto (Mat_3:10); un árbol (Mat_12:33); tierra (Mat_13:8, Mat_13:23); peces (Mat_13:48); la ley (Rom_7:16; 1Ti_1:8); toda criatura de Dios (1Ti_4:4); un fiel ministro de Cristo y la doctrina que enseña (1Ti_4:6); (b) de aquello que es éticamente bueno, correcto, noble, honorable (p.ej., Gál_4:18; 1Ti_5:10, 1Ti_5:25; 1Ti_6:18; Tit_2:7, Tit_2:14; Tit_3:8, Tit_3:14). La palabra no aparece en Apocalipsis. En realidad, ya no aparece después de 1 Pedro.
 
 Se traduce prácticamente siempre como adjetivo, «buen/o/a/os/ as», y también como comparativo, «mejor». En algunas ocasiones se traduce como «bien», cuando actúa como adverbio (p.ej., en Mat_15:26; 1Co_7:26, segunda vez); y cuando se usa como sustantivo, como en Heb_5:14.
 

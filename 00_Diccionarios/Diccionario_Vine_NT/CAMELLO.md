@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CAMELLO"]
 
 # CAMELLO
 
-kamelos (êÜìçëïò, [[G2574]]), de una palabra hebrea que significa portador. Se usa en proverbios para indicar: (a) algo casi o totalmente imposible (Mat_19:24, y pasajes paralelos); (b) los actos de una persona que se cuida de no pecar en temas triviales, pero que no pone cuidado en asuntos más importantes (Mat_23:24). 
+kamelos (κάμηλος, [[G2574]]), de una palabra hebrea que significa portador. Se usa en proverbios para indicar: (a) algo casi o totalmente imposible (Mat_19:24, y pasajes paralelos); (b) los actos de una persona que se cuida de no pecar en temas triviales, pero que no pone cuidado en asuntos más importantes (Mat_23:24). 
 
 

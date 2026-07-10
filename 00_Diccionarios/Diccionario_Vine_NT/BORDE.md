@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#BORDE"]
 
 # BORDE
 
-kraspedon (êñÜóðåäïí, [[G2899]]), era primariamente la extremidad o parte prominente de una cosa, borde; de ahí el fleco de una prenda de vestir, o un pequeño borde, colgando del borde del manto o del capote. Los judíos los ponían en sus mantos para que les recordasen la Ley, según Núm_15:38; Deu_22:12; Zac_8:23.¶ Este es el significado en Mat_23:5 («flecos»). En Mat_9:20; Mat_14:36; Mar_6:56; Luc_8:44, se usa del borde del manto de Cristo (en el primer pasaje la rv tiene «franja»). Véase FLECO.¶ 
+kraspedon (κράσπεδον, [[G2899]]), era primariamente la extremidad o parte prominente de una cosa, borde; de ahí el fleco de una prenda de vestir, o un pequeño borde, colgando del borde del manto o del capote. Los judíos los ponían en sus mantos para que les recordasen la Ley, según Núm_15:38; Deu_22:12; Zac_8:23.¶ Este es el significado en Mat_23:5 («flecos»). En Mat_9:20; Mat_14:36; Mar_6:56; Luc_8:44, se usa del borde del manto de Cristo (en el primer pasaje la rv tiene «franja»). Véase FLECO.¶ 
 
 

@@ -13,7 +13,7 @@ A. Nombres
 
 2. afrosune (ἀöñïóýíç, [[G877]]), carencia de sentido. Se traduce «insensatez» en Mar_7:22. Véase LOCURA.
 
-3. moria (ìùñßá, [[G3472]]), denota locura, insensatez, y se traduce «insensatez» en 1Co_3:19. Véase LOCURA.
+3. moria (μωρία, [[G3472]]), denota locura, insensatez, y se traduce «insensatez» en 1Co_3:19. Véase LOCURA.
 
 B. Adjetivos
 
@@ -25,6 +25,6 @@ B. Adjetivos
 
 4. asunetos (ἀóýíåôïò, [[G801]]), denota sin discernimiento (a, privativo; suniemi, comprender). Se traduce «insensato» (Rom_10:19). Véanse ENTENDER, ENTENDIDO, ENTENDIMIENTO, B, Nº 4.
 
-5. moros (ìùñüò, [[G3474]]), denota primariamente obtuso, lento (de una raíz mu, ser tonto); de ahí, estúpido, ignorante, insensato. Se usa: (a) de personas (Mat_5:22 : «fatuo»); aquí el término significa moralmente indigno, truhán; un reproche más serio que «Raca» o «necio» en la frase anterior del mismo versículo. Esto último escarnece la mente de un hombre, calificándolo de estúpido; moros ataca su corazón y carácter; de ahí que el Señor lo condene con mayor severidad; en 7:26: «insensato»; 23:17: «insensatos», v. 19: «necios»; 25:2,3,8: «insensatas»; en 1Co_3:18 : «ignorante». El apóstol Pablo lo usa de sí mismo y de sus colaboradores, en 4:10: «insensatos»; esto es, a los ojos de sus adversarios; (b) de cosas o cuestiones (2Ti_2:23) «necias e insensatas»; igualmente en Tit_3:9; en 1Co_1:25 : «lo insensato de Dios», no moria, insensatez como una cualidad personal (véase A, Nº 3), sino adjetivamente, aquello que es considerado por los ignorantes como una manera de hacer carente de sentido, insensata; del mismo modo en el v. 27: «lo necio del mundo».¶ 
+5. moros (μωρός, [[G3474]]), denota primariamente obtuso, lento (de una raíz mu, ser tonto); de ahí, estúpido, ignorante, insensato. Se usa: (a) de personas (Mat_5:22 : «fatuo»); aquí el término significa moralmente indigno, truhán; un reproche más serio que «Raca» o «necio» en la frase anterior del mismo versículo. Esto último escarnece la mente de un hombre, calificándolo de estúpido; moros ataca su corazón y carácter; de ahí que el Señor lo condene con mayor severidad; en 7:26: «insensato»; 23:17: «insensatos», v. 19: «necios»; 25:2,3,8: «insensatas»; en 1Co_3:18 : «ignorante». El apóstol Pablo lo usa de sí mismo y de sus colaboradores, en 4:10: «insensatos»; esto es, a los ojos de sus adversarios; (b) de cosas o cuestiones (2Ti_2:23) «necias e insensatas»; igualmente en Tit_3:9; en 1Co_1:25 : «lo insensato de Dios», no moria, insensatez como una cualidad personal (véase A, Nº 3), sino adjetivamente, aquello que es considerado por los ignorantes como una manera de hacer carente de sentido, insensata; del mismo modo en el v. 27: «lo necio del mundo».¶ 
 
 

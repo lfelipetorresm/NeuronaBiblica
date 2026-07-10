@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ASAMBLEA"]
 
 A. Nombre
 
-qahal (÷ÈäÈì, [[H6951]]), «asamblea; congregación». Cognados que se derivan de este nombre se encuentran en arameo y siríaco. Qahal aparece 123 veces en todos los períodos del hebreo de la Biblia.
+qahal (קָהָל, [[H6951]]), «asamblea; congregación». Cognados que se derivan de este nombre se encuentran en arameo y siríaco. Qahal aparece 123 veces en todos los períodos del hebreo de la Biblia.
 
 En muchos contextos, el vocablo significa una asamblea que se congrega para planificar o llevar a cabo un consejo de guerra. Uno de los primeros ejemplos se encuentra en Gén_49:6. En 1Re_12:3, «toda la congregación de Israel» pidió que Roboam aligerase la carga de impuestos que les había dejado Salomón. Cuando Roboam rehusó, se apartaron de él y rechazaron su alianza feudal (militar) con él. Qahal tiene la acepción de «ejército» en Eze_17:17 : «Y ni con gran ejército ni con mucha compañía hará Faraón nada por él en la batalla».
 
@@ -19,5 +19,5 @@ A veces qahal representa todos los varones de Israel con derecho a ofrecer sacri
 
 B. Verbo
 
-qahal (÷ÇäÈì, [[H6950]]), «congregar». El verbo qahal, que aparece 39 veces, se deriva del nombre qahal. Al igual que el nombre, el término se usa en todos los períodos del hebreo bíblico. Significa «congregarse» como un qahal en situaciones de conflicto o guerra, con fines religiosos y para juicios: «Entonces Salomón reunió ante sí en Jerusalén los ancianos [qahal] de Israel» (1Re_8:1). 
+qahal (קַהָל, [[H6950]]), «congregar». El verbo qahal, que aparece 39 veces, se deriva del nombre qahal. Al igual que el nombre, el término se usa en todos los períodos del hebreo bíblico. Significa «congregarse» como un qahal en situaciones de conflicto o guerra, con fines religiosos y para juicios: «Entonces Salomón reunió ante sí en Jerusalén los ancianos [qahal] de Israel» (1Re_8:1). 
 

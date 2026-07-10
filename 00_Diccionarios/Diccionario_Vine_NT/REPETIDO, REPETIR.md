@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#REPETIDO,REPETIR"]
 
 A. Adverbio
 
-polakis (ðïëëÜêéò, [[G4178]]), relacionado con polus, mucho, muchos, y significando «repetidamente», «frecuentemente», se traduce «repetidas veces» (2Co_8:22); en los demás pasajes: «muchas veces»; véase VEZ, y también MUCHO.
+polakis (πολλάκις, [[G4178]]), relacionado con polus, mucho, muchos, y significando «repetidamente», «frecuentemente», se traduce «repetidas veces» (2Co_8:22); en los demás pasajes: «muchas veces»; véase VEZ, y también MUCHO.
 
 B. Verbo
 

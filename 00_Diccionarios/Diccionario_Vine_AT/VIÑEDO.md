@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#VIÑEDO"]
 
 # VIÑEDO
 
-kerem (ëÌÆøÆí, [[H3754]]), «viñedo, viña». Este vocablo hebreo está relacionado con otras lenguas semíticas (acádico, karmu ; arábigo, karm). El vocablo está repartido equitativamente en todo el Antiguo Testamento y se usa 92 veces. El primer caso se encuentra en Gén_9:20.
+kerem (כֶּרֶם, [[H3754]]), «viñedo, viña». Este vocablo hebreo está relacionado con otras lenguas semíticas (acádico, karmu ; arábigo, karm). El vocablo está repartido equitativamente en todo el Antiguo Testamento y se usa 92 veces. El primer caso se encuentra en Gén_9:20.
 
 Isaías ofrece una descripción gráfica del trabajo relacionado con preparar, plantar y cultivar un «viñedo» (Isa_5:1-7). Las «viñas» se ubicaban en las faldas de las montañas (Isa_5:1). Antes de plantar los tiernos sarmientos se quitaban todas las piedras (Isa_5:2). Una torre (atalaya) permitía vigilar todo el «viñedo» (Isa_5:2) y de la roca se labraba un lagar (Isa_5:2). Hecho todo esto la «viña» estaba lista y se esperaba que a los pocos años diera cosechas. Mientras tanto, el kerem requería podas regulares (Lev_25:3-4). El tiempo entre plantar y recoger la primera cosecha se consideraba tan importante que al propietario lo eximían del servicio militar: «¿Quién ha plantado una viña y aún no ha disfrutado de ella? ¡Que se vaya y regrese a su casa! No sea que muera en la batalla y algún otro la disfrute» (Deu_20:6).
 

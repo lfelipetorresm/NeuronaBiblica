@@ -13,7 +13,7 @@ A. Nombres
 
 2. energeia (ἐíÝñãåéá, [[G1753]]), traducido «obra de Satanás» en 2Ts_2:9, se trata bajo . Véanse también ACTIVIDAD, PODER y POTENCIA.
 
-3. poiesis (ðïßçóéò, [[G4162]]), acción (relacionado con poieo, hacer). Se traduce «lo que hace» en Stg_1:25 (rvr, rvr77, vm, lba; bbc: «obra»; bnc: «obras»).¶
+3. poiesis (ποίησις, [[G4162]]), acción (relacionado con poieo, hacer). Se traduce «lo que hace» en Stg_1:25 (rvr, rvr77, vm, lba; bbc: «obra»; bnc: «obras»).¶
 
 Nota: El verbo ergazomai, obrar, trabajar, producir, se traduce «¿Qué obras haces?» en Jua_6:30 (vm: «¿qué obras tú»?) Véase a continuación, B, Nº 1.
 
@@ -21,7 +21,7 @@ B. Verbos
 
 1. ergazomai (ἐñãÜæïìáé, [[G2038]]), se utiliza: (1) intransitivamente, trabajar, trabaja, trabajo y sus inflexiones (p.ej., Mat_21:28; Jua_5:17; Jua_9:4 b; Rom_4:4-5; 1Co_4:12; 1Co_9:6; 1Ts_2:9; 1Ts_4:11; 2Ts_3:8, 2Ts_3:10-12; para el juego de palabras en el v. 11, véase ENTRETENERSE); (II) transitivamente: (a) llevar algo a cabo, producir, ejecutar (p.ej., Mat_26:10 : «ha hecho»; Jua_6:28 : «poner en práctica», rv: «obremos»; v. 30: «qué obra haces», véase Nota bajo A; 9:4a: «hacer», rv: «obrar»; Hch_10:35 : «que … hace»; Hch_13:41 : «hago», rv: «obro»; Rom_2:10 : «que hace», rv: «que obra»; Rom_13:10 : «hace», rv, rvr; 1Co_16:10 : «hace», rv, rvr; 2Co_7:10 a, en los textos más comúnmente aceptados, tr presenta Nº 2; Gál_6:10 : «hagamos», rv, rvr; Efe_4:28 : «haciendo», rv: «obrando»; Heb_11:33 : «hicieron», rv: «obraron»; 2Jn_1:8 : «cosas que hemos obrado», rv; rvr traduce libremente «de vuestro trabajo»); (b) ganarse la vida trabajando, trabajar para (Jua_6:27 : «trabajad», rv, rvr). Véanse SOMETER, HACER, NEGOCIAR, PONER, PRACTICA, PRESTAR, PRODUCIR, SERVICIO, TRABAJAR.
 
-2. katergazomai (êáôåñãÜæïìáé, [[G2716]]), forma enfática del Nº 1, cuyo significado es hacer, conseguir, llevar a cabo con una actividad fatigosa. Se traduce con el verbo obrar en Stg_1:20 (tr; véase Nº 1); véanse ACABAR, COMETER, HACER, OCUPARSE, PRODUCIR.
+2. katergazomai (κατεργάζομαι, [[G2716]]), forma enfática del Nº 1, cuyo significado es hacer, conseguir, llevar a cabo con una actividad fatigosa. Se traduce con el verbo obrar en Stg_1:20 (tr; véase Nº 1); véanse ACABAR, COMETER, HACER, OCUPARSE, PRODUCIR.
 
 3. energeo (ἐíåñãÝù, [[G1754]]), lit., trabajar en. Se traduce con el verbo obrar en Rom_7:5; Gál_5:6; véase ACTUAR, Nº 1, etc. 
 

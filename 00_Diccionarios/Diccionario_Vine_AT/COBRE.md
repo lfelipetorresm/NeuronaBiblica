@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#COBRE"]
 
 # COBRE
 
-nejoshet (ðÀçéùÑÆú, [[H5178]]), «cobre; bronce; cadenas de bronce». Existen cognados de este vocablo en fenicio, arameo, arábigo y etiópico. Está presente unas 136 veces en todas las épocas del hebreo bíblico.
+nejoshet (נְחישֶׁת, [[H5178]]), «cobre; bronce; cadenas de bronce». Existen cognados de este vocablo en fenicio, arameo, arábigo y etiópico. Está presente unas 136 veces en todas las épocas del hebreo bíblico.
 
 nejoshet básicamente significa «cobre». Se refiere al mineral: «Tierra en la cual no comerás el pan con escasez, pues nada te faltará en ella; tierra cuyas piedras son de hierro y de cuyas montañas extraerás cobre» (Deu_8:9). El término puede también referirse al cobre refinado: «Zila también dio a luz a Tubal-caín, maestro de todos los que trabajan el bronce [«cobre» bj, bla] y el hierro» (Gén_4:22 rva).
 

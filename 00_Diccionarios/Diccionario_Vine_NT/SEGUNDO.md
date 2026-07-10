@@ -7,13 +7,13 @@ etiquetas: ["#Diccionario", "#VineNT", "#SEGUNDO"]
 
 # SEGUNDO
 
-1. deuteros (äåýôåñïò, [[G1208]]), denota segundo en orden con o sin idea de tiempo (p.ej., Mat_22:26, Mat_22:39; 2Co_1:15; Apo_2:11); en Apo_14:8 (vm; rv en sus distintas revisiones sigue un texto inferior, traduciendo «otro ángel»). Se utiliza en el género neutro, deuteron, en sentido adverbial, significando una segunda vez (p.ej., Jua_3:4; Jua_21:16; Hch_7:13; Apo_19:3, rv; rvr: «otra vez»; rvr77: «por segunda vez»; Jud_1:5 : «después», Besson: «la segunda vez»); utilizado con ek (de) idiomáticamente, significando la preposición «por la segunda vez» (Mar_14:72; Jua_9:24 : ə volvieron a llamar», lit., «llamaron por segunda vez»; Hch_11:9; Heb_9:28); en 1Co_12:28 : «luego», esto es, «en segundo lugar».
+1. deuteros (δεύτερος, [[G1208]]), denota segundo en orden con o sin idea de tiempo (p.ej., Mat_22:26, Mat_22:39; 2Co_1:15; Apo_2:11); en Apo_14:8 (vm; rv en sus distintas revisiones sigue un texto inferior, traduciendo «otro ángel»). Se utiliza en el género neutro, deuteron, en sentido adverbial, significando una segunda vez (p.ej., Jua_3:4; Jua_21:16; Hch_7:13; Apo_19:3, rv; rvr: «otra vez»; rvr77: «por segunda vez»; Jud_1:5 : «después», Besson: «la segunda vez»); utilizado con ek (de) idiomáticamente, significando la preposición «por la segunda vez» (Mar_14:72; Jua_9:24 : ə volvieron a llamar», lit., «llamaron por segunda vez»; Hch_11:9; Heb_9:28); en 1Co_12:28 : «luego», esto es, «en segundo lugar».
 
 Nota: En Hch_13:33 algunos mss. tienen protos : «en el primer salmo»; los salmos primero y segundo constituían uno solo originalmente, formando un prólogo a todo el libro; de ahí la numeración de la lxx .
 
 2. Deuteraios (äåõôåñáé̂ïò, [[G1206]]), adjetivo con sentido adverbial (derivado del Nº 1). Se utiliza en Hch_28:13 : «segundo día».¶
 
-3. Deuteroprotos (äåõôåñüðñùôïò, [[G1207]]), aparece en Luc_6:1 en muchos mss. antiguos (véase Versión Revisada Inglesa, margen), y significa literalmente «segundo-primero», dicho de un sábado. Esta lectura es seguida por Reina (1569): «un sábado segundo del primero»; rv: «en un sábado segundo del primero », Besson: «un sábado segundo primero »; lba, margen: «El segundo primer día de reposo». rvr, rvr77, lba y vm siguen los textos que lo omiten.
+3. Deuteroprotos (δευτερόπρωτος, [[G1207]]), aparece en Luc_6:1 en muchos mss. antiguos (véase Versión Revisada Inglesa, margen), y significa literalmente «segundo-primero», dicho de un sábado. Esta lectura es seguida por Reina (1569): «un sábado segundo del primero»; rv: «en un sábado segundo del primero », Besson: «un sábado segundo primero »; lba, margen: «El segundo primer día de reposo». rvr, rvr77, lba y vm siguen los textos que lo omiten.
 
 (Nota del Traductor: Es de gran interés la nota que da J. N. Darby en el margen de su traducción de la Biblia al inglés, la New Translation, que se copia textualmente a continuación):
 

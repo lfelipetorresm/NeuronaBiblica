@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#BASTARDO"]
 
 # BASTARDO
 
-nothos (íüèïò, [[G3541]]), denota hijo ilegítimo, nacido fuera del legítimo matrimonio (Heb_12:8).¶ 
+nothos (νόθος, [[G3541]]), denota hijo ilegítimo, nacido fuera del legítimo matrimonio (Heb_12:8).¶ 
 
 

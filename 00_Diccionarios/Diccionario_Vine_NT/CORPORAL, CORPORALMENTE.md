@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#CORPORAL,CORPORALMENTE"]
 
 A. Adjetivo
 
-somatikos (óùìáôéêüò, [[G4984]]), corporal. Se usa en Luc_3:22, del Espíritu Santo al tomar forma corporal; en 1Ti_4:8 del ejercicio corporal.¶
+somatikos (σωματικός, [[G4984]]), corporal. Se usa en Luc_3:22, del Espíritu Santo al tomar forma corporal; en 1Ti_4:8 del ejercicio corporal.¶
 
 B. Adverbio
 

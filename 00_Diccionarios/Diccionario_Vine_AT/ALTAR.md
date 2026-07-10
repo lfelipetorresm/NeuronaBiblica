@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ALTAR"]
 
 # ALTAR
 
-misbeaj (îÄæÀáÌÅçÇ, [[H4196]]), «altar». Este nombre tiene cognados en arameo, siríaco y arábigo. En cada una de estas lenguas la raíz es mdbj. Misbeaj se encuentra unas 396 veces en el Antiguo Testamento.
+misbeaj (מִזְבֵּחַ, [[H4196]]), «altar». Este nombre tiene cognados en arameo, siríaco y arábigo. En cada una de estas lenguas la raíz es mdbj. Misbeaj se encuentra unas 396 veces en el Antiguo Testamento.
 
 El vocablo denota un lugar alto en el que se hacen sacrificios, como en Gén_8:20 (el primer caso): «Y edificó Noé un altar a Yahveh, y tomó de todo animal limpio y de toda ave limpia, y ofreció holocausto en el altar». Más adelante el término se referirá a una mesa sobre la que se quema incienso: «Harás asimismo un altar para quemar el incienso; de madera de acacia lo harás» (Éxo_30:1).
 

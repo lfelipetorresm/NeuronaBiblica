@@ -13,9 +13,9 @@ A. Nombres
 
 Los judíos recibieron señales confirmativas de lo que Dios había cumplido en el sacrificio expiatorio de Cristo, su resurrección y ascensión, y del envío del Espíritu Santo, para que dieran su reconocimiento, como en Pentecostés, así como actos sobrenaturales en el ministerio apostólico, así como las operaciones sobrenaturales en las iglesias, tales como los dones de lenguas y de profecía. No hay registro de permanencia de tales dones después de las circunstancias registradas en Hch_19:1-20.
 
-2. suáemon (óýóóçìïí, [[G4953]]), signo o señal fijos, que han sido dispuestos de previo acuerdo con otros (sun, con). Se utiliza en Mar_14:44 : «les había dado señal» (rv: «señal común»), de la seña convenida entre Judas y los captores del Señor.¶
+2. suáemon (σύσσημον, [[G4953]]), signo o señal fijos, que han sido dispuestos de previo acuerdo con otros (sun, con). Se utiliza en Mar_14:44 : «les había dado señal» (rv: «señal común»), de la seña convenida entre Judas y los captores del Señor.¶
 
-3. tupos (ôýðïò, [[G5179]]), para lo cual véase EJEMPLO, A, Nº 4, se traduce «señal» en Jua_20:25 (dos veces), de las señales dejadas por los clavos en las manos de Cristo. Véanse también FIGURA, Nº 1, FORMA, Nº 3, LUGAR, A, Notas, MODELO.
+3. tupos (τύπος, [[G5179]]), para lo cual véase EJEMPLO, A, Nº 4, se traduce «señal» en Jua_20:25 (dos veces), de las señales dejadas por los clavos en las manos de Cristo. Véanse también FIGURA, Nº 1, FORMA, Nº 3, LUGAR, A, Notas, MODELO.
 
 Notas: (1) Koinonia, véase, se traduce «en señal de compañerismo» en Gál_2:9 (vm: «de comunión»); véase también COMPAÑERISMO, A, Nº 1, etc.
 
@@ -25,17 +25,17 @@ Notas: (1) Koinonia, véase, se traduce «en señal de compañerismo» en Gál_2
 
 B. Adjetivo
 
-taktos (ôáêôüò, [[G5002]]), adjetivo relacionado con taáo (véase C, más abajo, Nº 3), ordenado, fijado, establecido, «señalado»; se dice de un día establecido, «un día señalado, Herodes» (Hch_12:21). En la lxx, Job_12:5.¶
+taktos (τακτός, [[G5002]]), adjetivo relacionado con taáo (véase C, más abajo, Nº 3), ordenado, fijado, establecido, «señalado»; se dice de un día establecido, «un día señalado, Herodes» (Hch_12:21). En la lxx, Job_12:5.¶
 
 C. Verbos
 
-1. semeioo (óçìåéüù, [[G4593]]), de semeion, señal (véase A, Nº 1, anterior), significa marcar, señalar; en la voz media, señalar para uno mismo, y así empleado en 2Ts_3:14, en una instrucción a tomar nota precautoria de aquel que rehúsa obedecer la palabra del apóstol dada por medio de la Epístola.¶ En la lxx, Sal_5:6.¶
+1. semeioo (σημειόω, [[G4593]]), de semeion, señal (véase A, Nº 1, anterior), significa marcar, señalar; en la voz media, señalar para uno mismo, y así empleado en 2Ts_3:14, en una instrucción a tomar nota precautoria de aquel que rehúsa obedecer la palabra del apóstol dada por medio de la Epístola.¶ En la lxx, Sal_5:6.¶
 
-2. kataseio (êáôáóåßù, [[G2678]]), lit., sacudir abajo (kata, abajo; seio, sacudir), de dar un apretón de manos o de agitarlas, expresa algo más vigorosamente el acto de invitar mediante una seña (Hch_12:17; Hch_13:16; Hch_19:33; Hch_21:40). Neuo y sus compuestos (véase SEÑA) se refieren principalmente a un movimiento de la cabeza; kataseio, al de la mano.¶
+2. kataseio (κατασείω, [[G2678]]), lit., sacudir abajo (kata, abajo; seio, sacudir), de dar un apretón de manos o de agitarlas, expresa algo más vigorosamente el acto de invitar mediante una seña (Hch_12:17; Hch_13:16; Hch_19:33; Hch_21:40). Neuo y sus compuestos (véase SEÑA) se refieren principalmente a un movimiento de la cabeza; kataseio, al de la mano.¶
 
-3. taáo (ôÜóóù, [[G5021]]), se traduce señalar en Hch_28:23 : «habiéndole señalado»; en rv también en 22:10: «está señalado» (rvr: «está ordenado»). Véanse ORDENAR, B, Nº 1, y también DEDICAR, DISPONER, ESTABLECER, PONER.
+3. taáo (τάσσω, [[G5021]]), se traduce señalar en Hch_28:23 : «habiéndole señalado»; en rv también en 22:10: «está señalado» (rvr: «está ordenado»). Véanse ORDENAR, B, Nº 1, y también DEDICAR, DISPONER, ESTABLECER, PONER.
 
-4. protaáo (ðñïôÜóóù, [[G4384]]), (de pro, antes, y Nº 3), disponer de antemano. Se traduce «tiempos señalados» en Hch_17:26; en la rvr se parafrasea «les ha prefijado el orden de los tiempos».¶
+4. protaáo (προτάσσω, [[G4384]]), (de pro, antes, y Nº 3), disponer de antemano. Se traduce «tiempos señalados» en Hch_17:26; en la rvr se parafrasea «les ha prefijado el orden de los tiempos».¶
 
 Notas: (1) Jistemi, estar en pie, poner en pie, se traduce con el verbo señalar en Hch_1:23 : «señalaron». Véanse ESTAR EN PIE, PONER EN PIE, etc.
 

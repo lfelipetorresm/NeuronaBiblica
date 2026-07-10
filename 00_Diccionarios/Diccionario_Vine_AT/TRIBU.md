@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#TRIBU"]
 
 A. Nombres
 
-matteh (îÇèÌÆä, [[H4294]]), «bastón; cayado; vara; cetro; tallo; rama; tribu». Este es un nombre propiamente hebreo. Aparece 251 veces a partir de Gén_38:18 : «Entonces Judá dijo: ¿Qué prenda te daré? Ella respondió: Tu sello, tu cordón, y tu báculo que tienes en tu mano. Y él se los dio, y se llegó a ella, y ella concibió de él». El vocablo es más frecuente en Números y Josué, donde el significado es generalmente «tribu».
+matteh (מַטֶּה, [[H4294]]), «bastón; cayado; vara; cetro; tallo; rama; tribu». Este es un nombre propiamente hebreo. Aparece 251 veces a partir de Gén_38:18 : «Entonces Judá dijo: ¿Qué prenda te daré? Ella respondió: Tu sello, tu cordón, y tu báculo que tienes en tu mano. Y él se los dio, y se llegó a ella, y ella concibió de él». El vocablo es más frecuente en Números y Josué, donde el significado es generalmente «tribu».
 
 La acepción básica de matteh es «cayado», el «báculo» que usaban los pastores. Como garantía del cabrito que prometió enviar a su nuera, Judá le entregó en prenda su «báculo» de pastor (Gén_38:17-18). Moisés pastoreaba ovejas cuando presenció la visión de la zarza ardiente; aún era pastor cuando el Señor transformó su «cayado» («vara») en serpiente como señal de su presencia y poder a través de su siervo (Éxo_4:2 ss). Su «vara» figura prominentemente durante la peregrinación por el desierto y se conocía como «la vara de Dios» por los poderes milagrosos que se le atribuían: «Y dijo Moisés a Josué: Escógenos varones, y sal a pelear contra Amalec; mañana yo estaré sobre la cumbre del collado, y la vara de Dios en mi mano» (Éxo_17:9). La «vara» era también símbolo de autoridad. Los magos egipcios también tenían sus «varas» como símbolos de su poder sobre el reino de lo mágico y las usaron para replicar varios milagros (Éxo_7:12). Aarón tuvo su «vara», la única que floreció, mientras que las once varas («por cada casa de los padres, de todos los príncipes de ellos»; Núm_17:2) no florecieron.
 
@@ -21,7 +21,7 @@ Un uso derivado de matteh es «tribu», término que aparece unas 183 veces. Cad
 
 Los diversos significados de matteh se reflejan en la Septuaginta: fule («tribu, nación; pueblo») y rabdos («vara; cayado; cetro»).
 
-shebet (ùÑÅáÆè, [[H7626]]), «tribu; vara». En hebreo moderno este vocablo denota mayormente «tribu» en sentido técnico. Un verbo acádico, shabatu, quiere decir «golpear», y el nombre shabitu significa «vara» o «cetro». Un sinónimo hebraico de shebet es matteh («vara» o «tribu») y lo que se aplica a matteh es también relevante para shebet.
+shebet (שֵׁבֶט, [[H7626]]), «tribu; vara». En hebreo moderno este vocablo denota mayormente «tribu» en sentido técnico. Un verbo acádico, shabatu, quiere decir «golpear», y el nombre shabitu significa «vara» o «cetro». Un sinónimo hebraico de shebet es matteh («vara» o «tribu») y lo que se aplica a matteh es también relevante para shebet.
 
 La «vara», como herramienta, la usaban los pastores (Lev_27:32) y maestros (2Sa_7:14). Es un símbolo de autoridad en las manos de un gobernante, ya sea como cetro (Amó_1:5, Amó_1:8)o instrumento de guerra y opresión: «Los quebrantarás con vara de hierro; como vasija de alfarero los desmenuzarás» (Sal_2:9; cf. Zac_10:11). Un excelente ejemplo de un uso metafórico del vocablo es la siguiente descripción del gobierno mesiánico: «Sino que juzgará con justicia a los pobres, y con equidad arbitrará a favor de los afligidos de la tierra. Golpeará la tierra con la vara de su boca» (Isa_11:4 rva).
 
@@ -31,5 +31,5 @@ Las traducciones de la Septuaginta son: fule («tribu; nación; pueblo»); rabdo
 
 B. Nombre
 
-natah (ðÈèÈä, [[H5186]]), «alargar, extender, estirar, esparcir». Esta raíz tiene el mismo significado en hebreo bíblico, mishnaico y moderno, así como en arábigo. Un ejemplo de batah se encuentra en Éxo_9:22 : «Extiende tu mano hacia el cielo». 
+natah (נָטָה, [[H5186]]), «alargar, extender, estirar, esparcir». Esta raíz tiene el mismo significado en hebreo bíblico, mishnaico y moderno, así como en arábigo. Un ejemplo de batah se encuentra en Éxo_9:22 : «Extiende tu mano hacia el cielo». 
 

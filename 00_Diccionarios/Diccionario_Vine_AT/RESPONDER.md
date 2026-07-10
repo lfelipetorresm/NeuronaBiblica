@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#RESPONDER"]
 
 # RESPONDER
 
-'anah (òÈðÈä, [[H6030]]), «responder, contestar, replicar». Esta raíz se encuentra en la mayoría de las lenguas semíticas, aunque con muchas acepciones. Con el mismo significado básico de 'anah, aparece en ugarítico, acádico, arábigo, hebreo posbíblico y arameo bíblico. Hay que distinguir este término de otro 'anah cuyo significado es bien diferente: «oprimir, subyugar».
+'anah (עָנָה, [[H6030]]), «responder, contestar, replicar». Esta raíz se encuentra en la mayoría de las lenguas semíticas, aunque con muchas acepciones. Con el mismo significado básico de 'anah, aparece en ugarítico, acádico, arábigo, hebreo posbíblico y arameo bíblico. Hay que distinguir este término de otro 'anah cuyo significado es bien diferente: «oprimir, subyugar».
 
 Se constatan unos 320 casos de 'anah en hebreo bíblico. Una de las dos acepciones de 'anah es «responder», aunque no necesariamente con una respuesta verbal. Por ejemplo, en Gén_35:3 (rva) Jacob dice a su casa: «Levantémonos y subamos a Bet-el; y haré allí altar al Dios que me respondió en el día de mi angustia». La «respuesta» que menciona Jacob se encuentra en Gén_28:10 ss. Basta decir que siendo Dios el que inicia el encuentro y habla con Jacob, el peso de la comunicación recae más bien sobre la visión de la escalera y la relación con Dios que representa. El significado es aun más evidente en Éxo_19:18, donde Dios «responde» a una situación al pie del Sinaí con truenos.
 

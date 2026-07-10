@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CONDICIÓN"]
 
 2. squema (ó÷ç̂ìá, [[G4976]]), véase APARIENCIA, Nº 5.
 
-3. tapeinos (ôáðåéíüò, [[G5011]]), humilde. Se traduce «de humilde condición» en Stg_1:9. Véase HUMILDE. 
+3. tapeinos (ταπεινός, [[G5011]]), humilde. Se traduce «de humilde condición» en Stg_1:9. Véase HUMILDE. 
 
 

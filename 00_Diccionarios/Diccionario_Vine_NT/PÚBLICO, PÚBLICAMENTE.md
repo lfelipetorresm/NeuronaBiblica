@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PÚBLICO,PÚBLICAMENTE"]
 
 A. Adjetivo
 
-demosios (äçìüóéïò, [[G1219]]), perteneciente al pueblo (demos, pueblo). Se traduce «pública», de una cárcel (Hch_5:18, rv, rvr, rvr77, vm). Para su uso adverbial, véase B, Nota (3) .
+demosios (δημόσιος, [[G1219]]), perteneciente al pueblo (demos, pueblo). Se traduce «pública», de una cárcel (Hch_5:18, rv, rvr, rvr77, vm). Para su uso adverbial, véase B, Nota (3) .
 
 Nota: Para telonion, «banco de los tributos públicos» (cf. telones bajo PUBLICANO), véase BANCO.
 

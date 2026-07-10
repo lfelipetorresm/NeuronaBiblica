@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CINCO"]
 
 # CINCO
 
-pente (ðÝíôå, [[G4002]]), se deriva, según algunos, de palabras que sugieren cinco dedos de una mano, o un puño. Esta palabra es frecuente en los Evangelios. Pentakis, cinco veces, se halla en 2Co_11:24;¶ pentakosioi, quinientos, en Luc_7:41 y 1Co_15:6;¶ pentakisquilioi, cinco mil (quilios, un millar, mil), en Mat_14:21; Mat_16:9 y pasajes correspondientes. Véanse CINCUENTA, QUINCE, QUINIENTOS, QUINTO, MIL, VECES. 
+pente (πέντε, [[G4002]]), se deriva, según algunos, de palabras que sugieren cinco dedos de una mano, o un puño. Esta palabra es frecuente en los Evangelios. Pentakis, cinco veces, se halla en 2Co_11:24;¶ pentakosioi, quinientos, en Luc_7:41 y 1Co_15:6;¶ pentakisquilioi, cinco mil (quilios, un millar, mil), en Mat_14:21; Mat_16:9 y pasajes correspondientes. Véanse CINCUENTA, QUINCE, QUINIENTOS, QUINTO, MIL, VECES. 
 
 

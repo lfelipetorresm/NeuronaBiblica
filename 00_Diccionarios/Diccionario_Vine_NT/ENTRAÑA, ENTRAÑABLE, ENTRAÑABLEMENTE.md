@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ENTRAÑA,ENTRAÑABLE,ENTRAÑABLEMENTE"]
 
 A. Nombre
 
-splancnon (óðëÜã÷íïí, [[G4698]]), siempre en el plural. Denota propiamente los órganos físicos de los intestinos, y se usa una vez en sentido literal (Hch_1:18), Para su utilización por parte de los hebreos y griegos, véanse, Nº 2. Se traduce «entrañable» en Luc_1:78, en relación con la palabra «misericordia»; 2Co_6:12 : «en vuestro propio corazón» (rv: «entrañas»); 2Co_7:15 : «su cariño» (rv: «sus entrañas»); Fil_1:8 : «entrañable amor» (rv: «entrañas»); Fil_2:1 : «afecto entrañable» (rv: «entrañas»); Col_3:12 : «entrañable» (rv: «entrañas»); v. 12: «como a mí mismo» (rv: «como a mis entrañas»); v. 20: «mi corazón» (rv: «mis entrañas»); 1Jn_3:17 : «corazón» (rv: «entrañas»). Véanse ENTRAÑAS.¶
+splancnon (σπλάγχνον, [[G4698]]), siempre en el plural. Denota propiamente los órganos físicos de los intestinos, y se usa una vez en sentido literal (Hch_1:18), Para su utilización por parte de los hebreos y griegos, véanse, Nº 2. Se traduce «entrañable» en Luc_1:78, en relación con la palabra «misericordia»; 2Co_6:12 : «en vuestro propio corazón» (rv: «entrañas»); 2Co_7:15 : «su cariño» (rv: «sus entrañas»); Fil_1:8 : «entrañable amor» (rv: «entrañas»); Fil_2:1 : «afecto entrañable» (rv: «entrañas»); Col_3:12 : «entrañable» (rv: «entrañas»); v. 12: «como a mí mismo» (rv: «como a mis entrañas»); v. 20: «mi corazón» (rv: «mis entrañas»); 1Jn_3:17 : «corazón» (rv: «entrañas»). Véanse ENTRAÑAS.¶
 
 B. Adjetivo
 

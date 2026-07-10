@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SUFICIENTE"]
 
 # SUFICIENTE
 
-day (ãÌÇé, [[H1767]]), «suficiente; abundante; bastar; lo necesario». Hay cognados de esta palabra en arameo tardío, siríaco y fenicio. Los 42 casos bíblicos aparecen en todos los períodos del hebreo de la Biblia.
+day (דַּי, [[H1767]]), «suficiente; abundante; bastar; lo necesario». Hay cognados de esta palabra en arameo tardío, siríaco y fenicio. Los 42 casos bíblicos aparecen en todos los períodos del hebreo de la Biblia.
 
 El vocablo se traduce de diferentes maneras según las exigencias del caso. La acepción «suficiente» se nota claramente en Éxo_36:7 : «Pues ya había material suficiente para hacer toda la obra, y aun sobraba» (rva). En Jer_49:9 se justifica una traducción diferente: «Si vinieran ladrones de noche, solo destruirían hasta que les bastara» (lba ; cf. Abdías 5). En Pro_25:16, el término se refiere a la capacidad del sistema digestivo: «¿Hallaste miel? Come solo lo suficiente, no sea que te hartes de ella y la vomites» (rva). En otros pasajes el vocablo se refiere a dinero (Deu_15:8). En Jer_51:58, day con el prefijo y preposición be quiere decir «solo para»: «Los pueblos habrán trabajado [solo] para nada [«en vano» lba], y las naciones se habrán fatigado solo para el fuego» (rva). La frase «hasta que sobreabunde» significa hasta que no se necesite más (Mal_3:10; «hasta que ya no quede» bj ; «hasta la última gota» bla). El término aparece en Éxo_36:5 con el prefijo y preposición min : «El pueblo trae mucho más de lo que se necesita para la obra que Jehová ha mandado que se haga».
 

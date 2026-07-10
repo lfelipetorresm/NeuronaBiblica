@@ -11,9 +11,9 @@ A. Verbos
 
 1. axioo (ἀîéüù, [[G515]]), considerar digno, tener por digno. Se usa: (1) de la estima tenida por Dios: (a) favorablemente (2Ts_1:11 : «que nuestro Dios os tenga por dignos de su llamamiento», lo cual sugiere gracia; no dice «haceros dignos»); Heb_3:3 : «de … mayor gloria», de Cristo en comparación con Moisés; (b) desfavorablemente (Heb_10:29 : «¿Cuánto mayor castigo?»); (2) por un centurión, negativamente, con respecto a sí mismo (Luc_7:7); (3) por una iglesia, con respecto a sus ancianos (1Ti_5:17), donde «honor» probablemente tiene el significado de «honorarium », esto es, apoyo material. Véanse también ESTIMAR, MERECER, PARECER, QUERER, TENER POR DIGNO.¶
 
-2. kataxioo (êáôáîéüù, [[G2661]]), forma intensificada del Nº 1, aparece en Luc_20:35; Luc_21:36, en algunos textos; Hch_5:41; 2Ts_1:5. Véase TENER POR DIGNO.¶
+2. kataxioo (καταξιόω, [[G2661]]), forma intensificada del Nº 1, aparece en Luc_20:35; Luc_21:36, en algunos textos; Hch_5:41; 2Ts_1:5. Véase TENER POR DIGNO.¶
 
-3. katiscuo (êáôéó÷ýù, [[G2729]]), ser fuerte contra (kata, contra, e iscuo, ser fuerte, poderoso). Se traduce como «tenido por digno» en Luc_21:36, donde aparece en los más acreditados mss.; el tr tiene el Nº 2, de donde proviene esta traducción en la rv, rvr, rvr77; en la vha se traduce a base de esta lectura: «que prevalezcáis»; véase PREVALECER, etc.
+3. katiscuo (κατισχύω, [[G2729]]), ser fuerte contra (kata, contra, e iscuo, ser fuerte, poderoso). Se traduce como «tenido por digno» en Luc_21:36, donde aparece en los más acreditados mss.; el tr tiene el Nº 2, de donde proviene esta traducción en la rv, rvr, rvr77; en la vha se traduce a base de esta lectura: «que prevalezcáis»; véase PREVALECER, etc.
 
 B. Nombre
 

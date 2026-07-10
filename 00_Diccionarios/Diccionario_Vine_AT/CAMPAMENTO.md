@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CAMPAMENTO"]
 
 # CAMPAMENTO
 
-majaneh (îÈçÂðÆÆä, [[H4264]]), «campamento, hueste». Este nombre, derivado del verbo hanah, se encuentra 214 veces en la Biblia, particularmente en el Pentateuco y en los libros históricos. No es muy frecuente en los libros poéticos y proféticos.
+majaneh (מָחֲנֶֶה, [[H4264]]), «campamento, hueste». Este nombre, derivado del verbo hanah, se encuentra 214 veces en la Biblia, particularmente en el Pentateuco y en los libros históricos. No es muy frecuente en los libros poéticos y proféticos.
 
 A los que viajaban se les llamaban «campamento» (cf. Gén_32:8 rvr, rva, rv-95, bj, nbe, bla), es decir, una compañía («cuadrilla» nrv ; «parte» bnc ; «grupo» lvp). Naamán se puso delante de Eliseo con «toda su compañía» (2Re_5:15). Viajeros, comerciantes y soldados pasaban mucho tiempo viajando. «Acampaban» durante la noche.
 

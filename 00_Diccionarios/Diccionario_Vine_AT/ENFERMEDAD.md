@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ENFERMEDAD"]
 
 A. Verbo
 
-jalah (çÈìÈä, [[H2470]]), «estar enfermo, débil». Este verbo es de uso corriente en todos los períodos del lenguaje hebreo y aparece unas 60 veces en la Biblia hebraica. Se encuentra en el texto por primera vez casi al final de Génesis cuando a José le avisan que su «padre está enfermo» (Gén_48:1).
+jalah (חָלָה, [[H2470]]), «estar enfermo, débil». Este verbo es de uso corriente en todos los períodos del lenguaje hebreo y aparece unas 60 veces en la Biblia hebraica. Se encuentra en el texto por primera vez casi al final de Génesis cuando a José le avisan que su «padre está enfermo» (Gén_48:1).
 
 Examinando los usos de jalah se puede percibir que a menudo se empleaba con cierta falta de precisión y que el factor decisivo en determinar su significado debe ser el contexto. Cuando Sansón dijo a Dalila que si lo ataban con mimbres verdes se «debilitaría y sería como cualquiera de los hombres» (Jue_16:7), obviamente el verbo no significa «estar enfermo», a menos de que ello implicara un estado por debajo de lo normal para él. Cuando se describe a Joram como enfermo debido a las heridas sufridas en batalla (2Re_8:29), quizás sea mejor decir que se sintió débil. Los animales cojos o «enfermos» que se ofrecen para el sacrificio (Mal_1:8) son, más bien, imperfectos e inaceptables.
 
@@ -17,7 +17,7 @@ El vocablo a veces se usa en sentido metafórico para decir que alguien se está
 
 B. Nombre
 
-holî (çÃìÄé, [[H2483]]), «enfermedad». El nombre aparece unas 23 veces. El uso del término en la descripción del Siervo Sufriente en Isa_53:3-4 «experimentado en quebranto … sufrió nuestros dolores» («varón de dolores» viene de otro vocablo, bazah) ha resultado en una diversidad de traducciones: «sufrimiento … enfermedades» (rva, nrv); «quebranto … dolores» (rvr); «aflicción … enfermedades» (lba); «dolencias» (bj); «dolor … sufrimiento» (nbe, lvp), «sufrimiento … dolores» (bla).
+holî (חֳלִי, [[H2483]]), «enfermedad». El nombre aparece unas 23 veces. El uso del término en la descripción del Siervo Sufriente en Isa_53:3-4 «experimentado en quebranto … sufrió nuestros dolores» («varón de dolores» viene de otro vocablo, bazah) ha resultado en una diversidad de traducciones: «sufrimiento … enfermedades» (rva, nrv); «quebranto … dolores» (rvr); «aflicción … enfermedades» (lba); «dolencias» (bj); «dolor … sufrimiento» (nbe, lvp), «sufrimiento … dolores» (bla).
 
 El significado de «enfermedad» se expresa claramente en Deu_7:15 : «Jehovah quitará de ti toda dolencia y todas las terribles enfermedades [madweh] de Egipto» (rva). Holî se usa metafóricamente para expresar la aflicción de la tierra (Ose_5:13). 
 

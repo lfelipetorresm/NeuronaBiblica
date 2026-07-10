@@ -25,7 +25,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#LUEGO"]
 
 9. paracrema (ðáñá÷ñç̂ìá, [[G3916]]), véase INMEDIATAMENTE, Nº 3.
 
-10. Tacus (ôá÷ýò, [[G5036]]), rápido, veloz. Se usa en Stg_1:19. Se traduce «luego» en Mar_9:39; véanse BREVE, PRONTO, etc.
+10. Tacus (ταχύς, [[G5036]]), rápido, veloz. Se usa en Stg_1:19. Se traduce «luego» en Mar_9:39; véanse BREVE, PRONTO, etc.
 
 Notas: (1) Eiten aparece en Mar_4:28 en los textos más comúnmente aceptados, «luego» y «después», en lugar de eita (véase Nº 2); (2) jos, traducido «como», cuando», se traduce «luego que», como conjunción, en Fil_2:23; (3) jotan, cuando, se traduce «luego» en 1Co_15:54; (4) joutos, así, se traduce «luego» en Rom_11:26 (vm traduce «de esta manera»); (5) kakeithen, de allí, se traduce «luego» en Hch_13:21; (6) ara, así que, es una conjunción que se traduce «luego» en Col_5:14. 
 

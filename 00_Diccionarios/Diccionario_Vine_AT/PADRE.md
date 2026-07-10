@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PADRE"]
 
 # PADRE
 
-'ab (àÈá, [[H1]]), «padre; abuelo; antepasado; ancestro». Hay cognados de este vocablo en ugarítico, acádico y fenicio, además de otras lenguas semíticas. Se constatan unos 1.120 casos en el hebreo de la Biblia y durante todos los períodos.
+'ab (אָב, [[H1]]), «padre; abuelo; antepasado; ancestro». Hay cognados de este vocablo en ugarítico, acádico y fenicio, además de otras lenguas semíticas. Se constatan unos 1.120 casos en el hebreo de la Biblia y durante todos los períodos.
 
 Fundamentalmente, 'ab se refiere a la relación familiar que representa el término «padre». Este es su significado en la primera cita en que aparece el vocablo: «Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne» (Gén_2:24). En pasajes poéticos, el vocablo a veces se encuentra paralelamente con 'Em, «madre»: «A la fosa digo: Tú eres mi padre, y a los gusanos: Mi madre y mi hermana» (Job_17:14 rva). También se usa 'ab con relación a «madre» para referirse a padres de familia (Lev_19:3). Sin embargo, a diferencia del término 'em, la palabra 'ab jamás se aplica a animales.
 

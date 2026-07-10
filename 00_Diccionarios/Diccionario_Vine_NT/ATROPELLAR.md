@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ATROPELLAR"]
 
 # ATROPELLAR
 
-katapateo (êáôáðáôÝù, [[G2662]]), hollar, pisotear, se usa en Lucas como «se atropellaban». Véanse HOLLAR, PISOTEAR. 
+katapateo (καταπατέω, [[G2662]]), hollar, pisotear, se usa en Lucas como «se atropellaban». Véanse HOLLAR, PISOTEAR. 
 
 

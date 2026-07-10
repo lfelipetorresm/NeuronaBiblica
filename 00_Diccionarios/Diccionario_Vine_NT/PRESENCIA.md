@@ -9,9 +9,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#PRESENCIA"]
 
 A. Nombres
 
-1. prosopon (ðñüóùðïí, [[G4383]]), véase ROSTRO, y también APARIENCIA, Nº 4.
+1. prosopon (πρόσωπον, [[G4383]]), véase ROSTRO, y también APARIENCIA, Nº 4.
 
-2. parousia (ðáñïõóßá, [[G3952]]), véase ADVENIMIENTO.
+2. parousia (παρουσία, [[G3952]]), véase ADVENIMIENTO.
 
 B. Adverbios Y Preposiciones
 
@@ -23,6 +23,6 @@ B. Adverbios Y Preposiciones
 
 4. apenanti (ἀðÝíáíôé, [[G561]]), enfrente de, delante de. Se traduce «en presencia» en Hch_3:16 (rv, rvr); véase DELANTE, A, Nº 3, ENFRENTE, Nº 2.
 
-5. katenopion (êáôåíþðéïí, [[G2714]]), (kata, abajo, y enopion, delante), tiene un significado intensivo, en la mismísima presencia de, y se traduce «delante de la presencia» en Jud_1:24  (vm; rv y rvr: «delante»). Véase DELANTE, A, Nº 8. 
+5. katenopion (κατενώπιον, [[G2714]]), (kata, abajo, y enopion, delante), tiene un significado intensivo, en la mismísima presencia de, y se traduce «delante de la presencia» en Jud_1:24  (vm; rv y rvr: «delante»). Véase DELANTE, A, Nº 8. 
 
 

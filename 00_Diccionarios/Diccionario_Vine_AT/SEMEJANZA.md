@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#SEMEJANZA"]
 
 A. Verbo
 
-damah (ãÌÈîÈä, [[H1819]]), «ser semejante, parecerse, ser o actuar (como alguien), igualar o comparar, concebir o imaginar, comparar o ponderar». Este verbo se encuentra en hebreo bíblico unas 28 veces. Tiene cognados en arameo bíblico, acádico y arábigo. Damah quiere decir «ser semejante» en Sal_102:6 (rva): «Soy semejante al búho del desierto; soy como la lechuza de los sequedales».
+damah (דָּמָה, [[H1819]]), «ser semejante, parecerse, ser o actuar (como alguien), igualar o comparar, concebir o imaginar, comparar o ponderar». Este verbo se encuentra en hebreo bíblico unas 28 veces. Tiene cognados en arameo bíblico, acádico y arábigo. Damah quiere decir «ser semejante» en Sal_102:6 (rva): «Soy semejante al búho del desierto; soy como la lechuza de los sequedales».
 
 B. Nombre
 
-demût (ãÌÀîåÌú, [[H1823]]), «semejanza; figura; forma; molde; patrón; diseño; réplica». Excepto 5 casos, todos los usos de este nombre se encuentran en los libros poéticos y proféticos de la Biblia.
+demût (דְּמוּת, [[H1823]]), «semejanza; figura; forma; molde; patrón; diseño; réplica». Excepto 5 casos, todos los usos de este nombre se encuentran en los libros poéticos y proféticos de la Biblia.
 
 Primero, el vocablo indica el «patrón» que sirve de guía para fabricar un objeto: «El rey Acaz fue a Damasco, al encuentro de Tiglat-pileser, rey de Asiria. Y cuando vio el altar que estaba en Damasco, el rey Acaz envió al sacerdote Urías el diseño y el modelo del altar, conforme a toda su construcción» (2Re_16:10 rva).
 

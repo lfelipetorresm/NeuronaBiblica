@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#AFRENTA"]
 
 A. Nombre
 
-jerpah (äÆøÀôÌÈä, [[H2781]]), «afrenta, oprobio». Este nombre se encuentra en el Antiguo Testamento y en hebreo rabínico. En el hebreo moderno se ha reemplazado con otros nombres. Jerpah aparece 70 veces en el Antiguo Testamento hebraico. Son muy pocos los casos en el Pentateuco y en los libros históricos. El nombre aparece con más frecuencia en los Salmos, en los profetas mayores y en Daniel . El primer ejemplo lo encontramos en Gén_30:23 : «Ella concibió y dio a luz un hijo, y dijo: Dios ha quitado mi afrenta».
+jerpah (הֶרְפָּה, [[H2781]]), «afrenta, oprobio». Este nombre se encuentra en el Antiguo Testamento y en hebreo rabínico. En el hebreo moderno se ha reemplazado con otros nombres. Jerpah aparece 70 veces en el Antiguo Testamento hebraico. Son muy pocos los casos en el Pentateuco y en los libros históricos. El nombre aparece con más frecuencia en los Salmos, en los profetas mayores y en Daniel . El primer ejemplo lo encontramos en Gén_30:23 : «Ella concibió y dio a luz un hijo, y dijo: Dios ha quitado mi afrenta».
 
 «Afrenta» u «oprobio» tienen un doble uso. Por un lado, los términos denotan una condición social. La mujer soltera (Isa_4:1) o la mujer sin hijos (Gén_30:23) cargaban con un sentimiento de deshonra en una sociedad en donde el matrimonio y la fertilidad eran altamente valorados. La destrucción de Jerusalén y el cautiverio trajeron «oprobio» para Judá: «Oh Señor, conforme a tu justicia, apártense, por favor, tu ira y tu furor de sobre Jerusalén, tu ciudad, tu santo monte. Porque a causa de nuestros pecados y por la maldad de nuestros padres, Jerusalén y tu pueblo han sido entregados a la afrenta en medio de todos los que nos rodean» (Dan_9:16 rva). Por lo mismo, la «afrenta» de una persona o nación les acarreaba desprecio, burlas e insultos y chismes de amplia difusión.
 
@@ -19,5 +19,5 @@ Las traducciones en la Septuaginta son: oneidismos («afrenta; injuria; deshonra
 
 B. Verbo
 
-jarap (äÈøÇó, [[H2778]]), «hablar ásperamente; afrentar». La raíz de estos términos (que significan «ser ásperos o bruscos») se encuentra en las lenguas semíticas septentrionales y meridionales. En hebreo, el verbo se refiere a una forma de hablar, o sea, de reprochar a alguien. El vocablo se halla unas 50 veces en el Antiguo Testamento, como por ejemplo en Sal_42:10 : «Mientras mis huesos se quebrantan, mis enemigos me afrentan diciéndome cada día: ¿Dónde está tu Dios?» (rva). 
+jarap (הָרַף, [[H2778]]), «hablar ásperamente; afrentar». La raíz de estos términos (que significan «ser ásperos o bruscos») se encuentra en las lenguas semíticas septentrionales y meridionales. En hebreo, el verbo se refiere a una forma de hablar, o sea, de reprochar a alguien. El vocablo se halla unas 50 veces en el Antiguo Testamento, como por ejemplo en Sal_42:10 : «Mientras mis huesos se quebrantan, mis enemigos me afrentan diciéndome cada día: ¿Dónde está tu Dios?» (rva). 
 

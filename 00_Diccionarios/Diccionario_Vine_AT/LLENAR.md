@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LLENAR"]
 
 A. Verbo
 
-male' (îÈìÅà, [[H4390]]), «llenar; cumplir, realizar; rebasar, ordenar; dotar». Este verbo se encuentra en todas las lenguas semíticas (incluyendo el arameo bíblico) y durante todos los períodos. El término está comprobado en hebreo bíblico unas 250 veces.
+male' (מָלֵא, [[H4390]]), «llenar; cumplir, realizar; rebasar, ordenar; dotar». Este verbo se encuentra en todas las lenguas semíticas (incluyendo el arameo bíblico) y durante todos los períodos. El término está comprobado en hebreo bíblico unas 250 veces.
 
 Básicamente, male' se refiere a «estar lleno» debido a la acción de otros. En 2Re_4:6 (rva), el vocablo indica estar completamente «lleno»: «Y sucedió que cuando las vasijas estuvieron llenas, dijo». El verbo a veces tiene un sentido figurado, como en Gén_6:13, cuando Dios observa que «la tierra está llena de violencia».
 
@@ -29,5 +29,5 @@ En contextos militares, «llenarse la mano» significa prepararse para la batall
 
 B. Adjetivo
 
-male' (îÈìÅà, [[H4390]])«lleno». El adjetivo male' se encuentra 67 veces. El significado básico del término es «lleno» o «lleno de» (Rut_1:21; Deu_6:11). 
+male' (מָלֵא, [[H4390]])«lleno». El adjetivo male' se encuentra 67 veces. El significado básico del término es «lleno» o «lleno de» (Rut_1:21; Deu_6:11). 
 

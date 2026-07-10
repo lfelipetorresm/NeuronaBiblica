@@ -11,8 +11,8 @@ etiquetas: ["#Diccionario", "#VineNT", "#COMENZAR"]
 
 2. enarcomai (ἐíÜñ÷ïìáé, [[G1728]]), lit., comenzar en (en, en, con el Nº 1). Se usa en Gál_3:3 : «Habiendo comenzado por el Espíritu», para referirse al tiempo de la conversión; similarmente en Fil_1:6 : «el que comenzó en vosotros la buena obra». El en puede tomarse en sentido literal en estos pasajes.¶
 
-3. proenarcomai (ðñïåíÜñ÷ïìáé, [[G4278]]), lit., empezar en antes (pro, con el Nº 2). Se usa en 2Co_8:6 : «comenzó antes», y en el v. 10: «comenzasteis antes» (rv, rvr).¶
+3. proenarcomai (προενάρχομαι, [[G4278]]), lit., empezar en antes (pro, con el Nº 2). Se usa en 2Co_8:6 : «comenzó antes», y en el v. 10: «comenzasteis antes» (rv, rvr).¶
 
-4. mello (ìÝëëù, [[G3192]]), estar a punto de. Se traduce con el verbo comenzar en Hch_1  9:27 : «comience a ser destruida». Véanse DETENER(SE), ESTAR, ESTAR A PUNTO, HABER, IR, PARA, PUNTO, QUERER, VENIR, VENIDERO. 
+4. mello (μέλλω, [[G3192]]), estar a punto de. Se traduce con el verbo comenzar en Hch_1  9:27 : «comience a ser destruida». Véanse DETENER(SE), ESTAR, ESTAR A PUNTO, HABER, IR, PARA, PUNTO, QUERER, VENIR, VENIDERO. 
 
 

@@ -9,15 +9,15 @@ etiquetas: ["#Diccionario", "#VineNT", "#PIEDAD,PIADOSO(SER),PIADOSAMENTE"]
 
 A. Nombres
 
-1. eusebeia (åὐóÝâåéá, [[G2150]]), de eu, bien, y sebomai, ser devoto, denota aquella piedad que, caracterizada por una actitud en pos de Dios, hace aquello que le es agradable a él. Este y el verbo y adverbio correspondientes (véase más abajo) son frecuentes en las Epístolas Pastorales, pero no aparecen en las Epístolas anteriores de Pablo. El apóstol Pedro utiliza el nombre cuatro veces en su 2ª Epístola (2Pe_1:3, 2Pe_1:6-7; 2Pe_3:11). Los otros pasajes en que aparece son Hch_3:12; 1Ti_2:2; 1Ti_3:16; 1Ti_4:7-8; 1Ti_6:3, 1Ti_6:5-6, 1Ti_6:11; 2Ti_3:5; Tit_1:1. En 1Ti_6:3 : «la doctrina que es conforme a la piedad» significa aquella que es coherente con la piedad, en contraste a las falsas enseñanzas; en Tit_1:1 : «la verdad que es según la piedad» es aquella que produce piedad; en 1Ti_3:16 : «el misterio de la piedad» es la piedad en su incorporación en, y comunicada mediante, las verdades de la fe con respecto a Cristo; en 2Pe_3:11 se encuentra en plural, significando acciones piadosas.¶
+1. eusebeia (åὐóÝâåéá, [[G2150]]), de eu, bien, y sebomai, ser devoto, denota aquella piedad que, caracterizada por una actitud en pos de Dios, hace aquello que le es agradable a él. Este y el verbo y adverbio correspondientes (véase más abajo) son frecuentes en las Epístolas Pastorales, pero no aparecen en las Epístolas anteriores de Pablo. El apóstol Pedro utiliza el nombre cuatro veces en su 2× Epístola (2Pe_1:3, 2Pe_1:6-7; 2Pe_3:11). Los otros pasajes en que aparece son Hch_3:12; 1Ti_2:2; 1Ti_3:16; 1Ti_4:7-8; 1Ti_6:3, 1Ti_6:5-6, 1Ti_6:11; 2Ti_3:5; Tit_1:1. En 1Ti_6:3 : «la doctrina que es conforme a la piedad» significa aquella que es coherente con la piedad, en contraste a las falsas enseñanzas; en Tit_1:1 : «la verdad que es según la piedad» es aquella que produce piedad; en 1Ti_3:16 : «el misterio de la piedad» es la piedad en su incorporación en, y comunicada mediante, las verdades de la fe con respecto a Cristo; en 2Pe_3:11 se encuentra en plural, significando acciones piadosas.¶
 
-2. theosebeia (èåïóÝâåéá, [[G2317]]), de theos, Dios, y sebomai ; véase Nº 1; denota temor a, o reverencia de, Dios (1Ti_2:10).¶ Cf. el adjetivo theosebes, «temeroso de Dios» (Jua_9:31).¶ En la lxx, Gén_20:11 y Job_28:28.¶
+2. theosebeia (θεοσέβεια, [[G2317]]), de theos, Dios, y sebomai ; véase Nº 1; denota temor a, o reverencia de, Dios (1Ti_2:10).¶ Cf. el adjetivo theosebes, «temeroso de Dios» (Jua_9:31).¶ En la lxx, Gén_20:11 y Job_28:28.¶
 
 Nota: Para eleeo, traducido «recibid … en piedad» en la rv en Jud_1:22, véase MISERICORDIA, B, Nº 1.
 
 B. Verbos
 
-1. sebo (óÝâù, [[G4576]]), reverenciar, destacando el sentimiento de asombro o de devoción. Se traduce «piadosos», «piadosas» en Hch_13:43, Hch_13:50; Hch_17:4, Hch_17:17. Véanse ADORAR, A, Nº 3, HONRAR, C, Nº 4, etc.
+1. sebo (σέβω, [[G4576]]), reverenciar, destacando el sentimiento de asombro o de devoción. Se traduce «piadosos», «piadosas» en Hch_13:43, Hch_13:50; Hch_17:4, Hch_17:17. Véanse ADORAR, A, Nº 3, HONRAR, C, Nº 4, etc.
 
 2. eusebeo (åὐóåâÝù, [[G2151]]), reverenciar, mostrar piedad hacia cualquiera a quien se le deba cualquier consideración engendrada por una relación (cf. eusebes, piadoso, devoto, véase C, Nº 1). Se utiliza en 1Ti_5:4, de la obligación que tienen los hijos y nietos de expresar de una manera práctica su piedad «para con su propia familia»; en Hch_17:23 de adorar a Dios. Véase ADORAR, A, Nº 1.
 

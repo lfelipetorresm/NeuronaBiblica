@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#VIRGINIDAD"]
 
 # VIRGINIDAD
 
-parthenia (ðáñèåíßá, [[G3932]]), relacionado con parthenos, véanse DONCELLA, Nº 2, y VIRGEN, aparece en Luc_2:36.¶ En la lxx, Jer_3:4.¶ 
+parthenia (παρθενία, [[G3932]]), relacionado con parthenos, véanse DONCELLA, Nº 2, y VIRGEN, aparece en Luc_2:36.¶ En la lxx, Jer_3:4.¶ 
 
 

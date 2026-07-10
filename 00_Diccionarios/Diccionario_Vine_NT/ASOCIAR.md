@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ASOCIAR"]
 
 # ASOCIAR
 
-sunapasago (óõíáðÜãù, [[G4879]]), se traduce «asociándoos (con los humildes)» en Rom_12:16. Véase ARRASTRAR. 
+sunapasago (συναπάγω, [[G4879]]), se traduce «asociándoos (con los humildes)» en Rom_12:16. Véase ARRASTRAR. 
 
 

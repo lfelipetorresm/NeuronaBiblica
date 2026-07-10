@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ULTRAJAR"]
 
 # ULTRAJAR
 
-1. blasfemeo (âëáóöçìÝù, [[G987]]), hablar profanamente, injuriar, ultrajar. Se traduce «os ultrajan» (1Pe_4:4, rv, rvr; Besson: «vituperándoos»); veánse BLASFEMAR, B, CALUMNIAR, CENSURAR, DECIR, DIFAMAR, HABLAR, INJURIAR, MAL, VITUPERAR.
+1. blasfemeo (βλασφημέω, [[G987]]), hablar profanamente, injuriar, ultrajar. Se traduce «os ultrajan» (1Pe_4:4, rv, rvr; Besson: «vituperándoos»); veánse BLASFEMAR, B, CALUMNIAR, CENSURAR, DECIR, DIFAMAR, HABLAR, INJURIAR, MAL, VITUPERAR.
 
 2. epereazo (ἐðçñåÜæù, [[G1908]]), para lo cual veáse CALUMNIAR, B, 2, se encuentra en distintos mss. en Mat_5:44, y se traduce «que os ultrajan».
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PERFECTO"]
 
 A. Adjetivos
 
-tamîm (úÌÈîÄéí, [[H8549]]), «perfecto; sin mácula; sincero; entero; total; completo; cabal; lleno». Los 91 casos del vocablo están esparcidos en toda la literatura bíblica; 51 de estos se encuentran en pasajes que tienen que ver con ofrendas cúlticas.
+tamîm (תָּמִים, [[H8549]]), «perfecto; sin mácula; sincero; entero; total; completo; cabal; lleno». Los 91 casos del vocablo están esparcidos en toda la literatura bíblica; 51 de estos se encuentran en pasajes que tienen que ver con ofrendas cúlticas.
 
 Tamîm quiere decir «completo», o sea, el estado de estar entero o de ser total: «Y del sacrificio de las ofrendas de paz, traerá una ofrenda encendida al Señor: el sebo, la cola entera, que cortará cerca del espinazo» (Lev_3:9 lba). El sol se detuvo por «un día entero» cuando Josué peleaba con los gabaonitas (Jos_10:13). En Lev_23:15 Dios ordena siete sábados «completos» después de la fiesta de las primicias más cincuenta días, entonces se ofrecería la ofrenda de las primicias del grano. Cuando se vendía una casa ubicada dentro de una ciudad amurallada, la misma podía ser rescatada en el plazo de un año «completo», o de otra manera, esta pasaría a pertenecer en perpetuidad al nuevo dueño y a sus descendientes (Lev_25:30).
 
@@ -23,9 +23,9 @@ Otro adjetivo, tam, se encuentra 15 veces. Tiene un cognado en ugarítico y sign
 
 B. Nombre
 
-tom (úÌéí, [[H8537]]), «totalidad». Este nombre, que tiene 25 casos, significa «totalidad» con los siguientes matices: llenura (Job_21:23), inocencia o simplicidad (2Sa_15:11), integridad (Gén_20:5).
+tom (תּים, [[H8537]]), «totalidad». Este nombre, que tiene 25 casos, significa «totalidad» con los siguientes matices: llenura (Job_21:23), inocencia o simplicidad (2Sa_15:11), integridad (Gén_20:5).
 
 C. Verbo
 
-tamam (úÌÈîÇí, [[H8552]]), «estar completo, terminado, sin mácula; ser consumado». El verbo, que se encuentra 64 veces, tiene cognados en arameo, siríaco y arábigo. El término significa «estar terminado o completo» en Gén_47:18 (rva): «Cuando se acabó aquel año, fueron a él». 
+tamam (תָּמַם, [[H8552]]), «estar completo, terminado, sin mácula; ser consumado». El verbo, que se encuentra 64 veces, tiene cognados en arameo, siríaco y arábigo. El término significa «estar terminado o completo» en Gén_47:18 (rva): «Cuando se acabó aquel año, fueron a él». 
 

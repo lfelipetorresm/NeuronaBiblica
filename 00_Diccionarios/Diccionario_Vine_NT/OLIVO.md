@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#OLIVO"]
 
 2. agrielaios (ἀãñéÝëáéïò, [[G65]]), adjetivo (de agrios, que crece en los campos, silvestre, y Nº 1), denotando «del olivo silvestre». Se utiliza como nombre en Rom_11:17, Rom_11:24 : «olivo silvestre».¶
 
-3. kalielaios (êáëëéÝëáéïò, [[G2565]]), el olivo de huerto (de kalos, hermosura, y Nº 1). Se utiliza en Rom_11:24 : «el buen olivo».¶
+3. kalielaios (καλλιέλαιος, [[G2565]]), el olivo de huerto (de kalos, hermosura, y Nº 1). Se utiliza en Rom_11:24 : «el buen olivo».¶
 
 Nota: Para elaion, traducido «de los olivos» en Luc_19:29; Luc_21:37, véase OLIVAR. 
 

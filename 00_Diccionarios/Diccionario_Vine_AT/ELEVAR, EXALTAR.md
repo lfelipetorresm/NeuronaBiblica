@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ELEVAR,EXALTAR"]
 
 A. Verbo
 
-rûm (øåÌí, [[H7311]]), «elevar, exaltar». Esta raíz se encuentra también en ugarítico (con los radicales r-m), fenicio, arameo (incluyendo en la Biblia, 4 veces), arábigo y etiópico. En el arameo extrabíblico se escribe r'm. La palabra se halla en todos los períodos del hebreo de la Biblia unas 190 veces. Tiene un parentesco cercano con la raíz rmm, «levantarse, apartarse», que únicamente aparece 4 veces.
+rûm (רוּם, [[H7311]]), «elevar, exaltar». Esta raíz se encuentra también en ugarítico (con los radicales r-m), fenicio, arameo (incluyendo en la Biblia, 4 veces), arábigo y etiópico. En el arameo extrabíblico se escribe r'm. La palabra se halla en todos los períodos del hebreo de la Biblia unas 190 veces. Tiene un parentesco cercano con la raíz rmm, «levantarse, apartarse», que únicamente aparece 4 veces.
 
 Básicamente, rûm representa «estar en un plano más alto» o bien un «desplazamiento hacia arriba». La primera de estas acepciones se encuentra la primera vez en que el término aparece en la Biblia: «El diluvio duró cuarenta días sobre la tierra. Las aguas crecieron y levantaron el arca, y se elevó sobre la tierra» (Gén_7:17 rva). Cuando se trata de seres humanos, el verbo puede referirse a «su estatura física»; por ejemplo, los espías enviados a Canaán informaron que «este pueblo es más grande y más alto que nosotros. Las ciudades son grandes y fortificadas hasta el cielo» (Deu_1:28 rva).
 
@@ -31,7 +31,7 @@ Levantar o alzar los ojos o el corazón denota «orgullo» y «arrogancia»: «Y
 
 B. Nombres
 
-rûm (øåÌí, [[H7312]]), «altura, altivez». Este vocablo aparece 6 veces. En Pro_25:3 significa «altura» y en Isa_2:11 «altivez».
+rûm (רוּם, [[H7312]]), «altura, altivez». Este vocablo aparece 6 veces. En Pro_25:3 significa «altura» y en Isa_2:11 «altivez».
 
-marôm (îÇøåéí, [[H4791]]), «plano más alto; altura; alta posición social». Marôm se encuentra unas 54 veces en el hebreo bíblico. También se ha comprobado en ugarítico y en antiguo sudarábigo. La primera vez que se usa (Jue_5:18) alude a «una superficie más elevada». En Job_16:19 y 33:5 el término tiene la acepción de «altura» refiriéndose a la morada de Dios. Job_5:11 usa el vocablo con la connotación de una «alta posición social». Marôm puede también significar «exaltarse a sí mismo» (2Re_19:22; Sal_73:8). 
+marôm (מַרוים, [[H4791]]), «plano más alto; altura; alta posición social». Marôm se encuentra unas 54 veces en el hebreo bíblico. También se ha comprobado en ugarítico y en antiguo sudarábigo. La primera vez que se usa (Jue_5:18) alude a «una superficie más elevada». En Job_16:19 y 33:5 el término tiene la acepción de «altura» refiriéndose a la morada de Dios. Job_5:11 usa el vocablo con la connotación de una «alta posición social». Marôm puede también significar «exaltarse a sí mismo» (2Re_19:22; Sal_73:8). 
 

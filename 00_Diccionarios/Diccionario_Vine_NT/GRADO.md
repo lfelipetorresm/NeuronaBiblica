@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#GRADO"]
 
 # GRADO
 
-bathmos (âáèìüò, [[G898]]), denota peldaño, primariamente de un umbral o escalera, y está relacionado con baino, ir. En forma figurada, una posición, una etapa en una ocupación, grado (1Ti_3:13, de fieles diáconos).¶
+bathmos (βαθμός, [[G898]]), denota peldaño, primariamente de un umbral o escalera, y está relacionado con baino, ir. En forma figurada, una posición, una etapa en una ocupación, grado (1Ti_3:13, de fieles diáconos).¶
 
 Nota: El adverbio asmenos, gozosamente, traducido «con gozo» en Hch_21:17, se traduce «de buen grado» en Hch_2:41 (vha, Besson; tr); véanse GOZO, GOZOSO, C.¶ 
 

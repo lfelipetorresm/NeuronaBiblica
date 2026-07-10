@@ -11,11 +11,11 @@ A. Adjetivos
 
 1. jomoios (ὅìïéïò, [[G3664]]), parecido, semejante, tal como. Se utiliza: (a) de apariencia o forma (Jua_9:9; Apo_1:13, Apo_1:15; Apo_2:18; Apo_4:3, dos veces, 6,7; Apo_9:7, dos veces, 10,19; Apo_11:1; Apo_13:2, Apo_13:11; Apo_14:14); (b) de capacidad, condición, naturaleza (Mat_22:39; Hch_17:29; Gál_5:21; 1Jn_3:2; Apo_13:4; Apo_18:18; Apo_21:11, Apo_21:18); (c) de comparación en parábolas (Mat_13:31, Mat_13:33, Mat_13:44-45, Mat_13:47; Mat_20:1; Luc_13:18-19, Luc_13:21); (d) de acción, pensamiento, etc. (Mat_11:16; Mat_13:52; Luc_6:47-48, Luc_6:49; Luc_7:31-32; Luc_12:36; Jua_8:55; Jud_1:7).¶
 
-2. paromoios (ðáñüìïéïò, [[G3946]]), muy parecido (para, al lado, y Nº 1). Se utiliza en Mar_7:13, en plural neutro: «muchas cosas hacéis semejantes»; en tr también en el v. 8 del mismo capítulo.¶
+2. paromoios (παρόμοιος, [[G3946]]), muy parecido (para, al lado, y Nº 1). Se utiliza en Mar_7:13, en plural neutro: «muchas cosas hacéis semejantes»; en tr también en el v. 8 del mismo capítulo.¶
 
 3. jomoiopathes (ὁìïéïðáèÞò, [[G3663]]), se utiliza en Hch_14:15; Stg_5:17, y significa de sentimientos o pasiones semejantes; véase bajo, B.¶
 
-4. summorfos (óýììïñöïò, [[G4833]]), véase CONFORMAR, B, Nº 1. Significa poseyendo la misma forma con (sun, con; morfe, forma). Se traduce «semejante» en Fil_3:21.
+4. summorfos (σύμμορφος, [[G4833]]), véase CONFORMAR, B, Nº 1. Significa poseyendo la misma forma con (sun, con; morfe, forma). Se traduce «semejante» en Fil_3:21.
 
 5. toioutos (ôïéïõ̂ôïò, [[G5108]]), significa «tal», y se traduce «cosa semejante» en Efe_5:27; «semejante» (Stg_4:16). Véanse TAL, y también HOMBRE, PERSONA.
 
@@ -25,11 +25,11 @@ B. Verbos
 
 2. eoika (ἔïéêá, [[G1503]]), tiempo perfecto con un sentido presente (de un presente obsoleto, eiko). Denota ser semejante, parecerse (Stg_1:6, Stg_1:23).¶ En la lxx, Job_6:3, Job_6:25.¶
 
-3. paromoiazo (ðáñïìïéÜæù, [[G3945]]), ser semejante (de para, al lado, y una forma verbal derivada de jomoios, A, Nº 1). Se utiliza en Mat_23:27 (quizás con fuerza intensiva), en la comparación que hace el Señor de los escribas y fariseos con sepulcros blanqueados.¶
+3. paromoiazo (παρομοιάζω, [[G3945]]), ser semejante (de para, al lado, y una forma verbal derivada de jomoios, A, Nº 1). Se utiliza en Mat_23:27 (quizás con fuerza intensiva), en la comparación que hace el Señor de los escribas y fariseos con sepulcros blanqueados.¶
 
 4. afomoioo (ἀöïìïéüù, [[G871]]), hacer semejante (apo, de, desde, y Nº 1). Se utiliza en Heb_7:3, de Melquisedec como «hecho semejante» al hijo de Dios, esto es, en los hechos revelados y omitidos en el registro de Génesis.¶
 
-5. summorfizo (óõììïñößæù, [[G4832]]), hacer de forma semejante a otra persona o cosa, hacer semejante (sun, con; morfe, forma). Se encuentra en Fil_3:10, en la voz pasiva del verbo: «llegando a ser semejante» (rv: «en conformidad»; mejor «creciendo en conformidad») «llegando a ser semejante» (rv: «en conformidad»; mejor aún, «creciendo en conformidad») a la muerte de Cristo, indicando ello la aprehensión práctica de la muerte del yo carnal, y el cumplimiento de su parte de los sufrimientos que siguen a los sufrimientos de Cristo. Algunos textos tienen el verbo alternativo summorfoo, que tiene prácticamente el mismo significado.
+5. summorfizo (συμμορφίζω, [[G4832]]), hacer de forma semejante a otra persona o cosa, hacer semejante (sun, con; morfe, forma). Se encuentra en Fil_3:10, en la voz pasiva del verbo: «llegando a ser semejante» (rv: «en conformidad»; mejor «creciendo en conformidad») «llegando a ser semejante» (rv: «en conformidad»; mejor aún, «creciendo en conformidad») a la muerte de Cristo, indicando ello la aprehensión práctica de la muerte del yo carnal, y el cumplimiento de su parte de los sufrimientos que siguen a los sufrimientos de Cristo. Algunos textos tienen el verbo alternativo summorfoo, que tiene prácticamente el mismo significado.
 
 C. Adverbios
 

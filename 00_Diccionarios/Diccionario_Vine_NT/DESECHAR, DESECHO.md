@@ -25,11 +25,11 @@ A. Verbos
 
 8. ekptuo (ἐêðôýù, [[G1609]]), escupir afuera (ek, afuera; ptuo, escupir), esto es, abominar, excecrar. Se usa en Gál_4:14 : «desechasteis», donde la frase es elíptica: «aunque mi enfermedad os repelía, no rehusasteis dar oído a mi mensaje».¶
 
-9. paraiteomai (ðáñáéôÝïìáé, [[G3868]]), además de los significados de rogar a otro (Mar_15:6, en los mss. más acreditados); rehusar, pedir que lo excusen (Luc_14:18-19; Luc_12:25). Se traduce con el verbo desechar en 1Ti_4:7; 2Ti_2:23; Tit_3:10; Heb_12:25, dos veces. Véanse ADMITIR, EXCUSAR, PEDIR, REHUSAR, ROGAR.
+9. paraiteomai (παραιτέομαι, [[G3868]]), además de los significados de rogar a otro (Mar_15:6, en los mss. más acreditados); rehusar, pedir que lo excusen (Luc_14:18-19; Luc_12:25). Se traduce con el verbo desechar en 1Ti_4:7; 2Ti_2:23; Tit_3:10; Heb_12:25, dos veces. Véanse ADMITIR, EXCUSAR, PEDIR, REHUSAR, ROGAR.
 
 B. Nombre
 
-peripsema (ðåñßøçìá, [[G4067]]), aquello que es borrado; se relaciona con peripsao, borrarlo todo alrededor (peri, alrededor; psao, borrar); de ahí, hez, desecho, basura. Se usa metafóricamente en 1Co_4:13. Esta, y la palabra sinónima perikatharma, basura: «se usaban especialmente para referirse a los criminales condenados de la más ruin especie, que eran sacrificados como ofrendas de expiación … debido a lo degradado de sus vidas» (Lightfoot).¶
+peripsema (περίψημα, [[G4067]]), aquello que es borrado; se relaciona con peripsao, borrarlo todo alrededor (peri, alrededor; psao, borrar); de ahí, hez, desecho, basura. Se usa metafóricamente en 1Co_4:13. Esta, y la palabra sinónima perikatharma, basura: «se usaban especialmente para referirse a los criminales condenados de la más ruin especie, que eran sacrificados como ofrendas de expiación … debido a lo degradado de sus vidas» (Lightfoot).¶
 
 C. Adjetivo
 

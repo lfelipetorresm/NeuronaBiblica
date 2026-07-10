@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ZELOTE"]
 
 # ZELOTE
 
-zelotes (æçëùôÞò, [[G2208]]), véase CELOSO, C. 
+zelotes (ζηλωτής, [[G2208]]), véase CELOSO, C. 
 
 

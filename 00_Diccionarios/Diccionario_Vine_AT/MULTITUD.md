@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MULTITUD"]
 
 A. Nombre
 
-hamôn (äÈîåéï, [[H1995]]), «multitud; barullo; agitación; tumulto; alboroto; conmoción; desorden; trastorno; bullicio; muchedumbre; abundancia». Este nombre se encuentra 85 veces en hebreo bíblico, durante todos los períodos.
+hamôn (הָמוין, [[H1995]]), «multitud; barullo; agitación; tumulto; alboroto; conmoción; desorden; trastorno; bullicio; muchedumbre; abundancia». Este nombre se encuentra 85 veces en hebreo bíblico, durante todos los períodos.
 
 El vocablo se refiere a mucha «conmoción o agitación»: «Mira desde el cielo y contempla desde la excelsa morada de tu santidad y de tu gloria: ¿Dónde están tu celo y tu poderío? La conmoción de tu corazón y tu compasión me han sido retenidas» (Isa_63:15 rva).
 
@@ -27,6 +27,6 @@ Por último, hamôn se refiere a un grupo de personas que se organizan alrededor
 
 B. Verbo
 
-hamah (äÈîÈä, [[H1993]]), «hacer ruido, ser bullicioso, rugir, gemir, ladrar, sonar». Este verbo, que aparece 33 veces en hebreo bíblico, tiene cognados en arameo y arábigo. Encontramos un ejemplo en Sal_83:2 (rva): «Porque he aquí que rugen tus enemigos, y los que te aborrecen han levantado la cabeza». 
+hamah (הָמָה, [[H1993]]), «hacer ruido, ser bullicioso, rugir, gemir, ladrar, sonar». Este verbo, que aparece 33 veces en hebreo bíblico, tiene cognados en arameo y arábigo. Encontramos un ejemplo en Sal_83:2 (rva): «Porque he aquí que rugen tus enemigos, y los que te aborrecen han levantado la cabeza». 
 
 

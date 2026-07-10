@@ -21,6 +21,6 @@ B. Verbos
 
 2. anapempo (ἀíáðÝìðù, [[G375]]), lit. «enviar arriba» (ana, arriba, y pempo, enviar; véase ENVIAR). Se traduce con el verbo remitir en Luc_23:7 : «le remitió a Herodes»; v. 15: «os remití». Véase ENVIAR, Nº 4, VOLVER.
 
-3. paradidomi (ðáñáäßäùìé, [[G3860]]), véase ENTREGAR, A, Nº 6. Se traduce «remitía la causa al que juzga justamente» (1Pe_2:23, rv; vm: «remitía»; rvr, rvr77, lba: «encomendaba»; Besson: «se entregaba»). Véanse también DAR, ENCARCELAR, ENCOMENDAR, ENSEÑAR, EXPONER, TRANSMITIR. 
+3. paradidomi (παραδίδωμι, [[G3860]]), véase ENTREGAR, A, Nº 6. Se traduce «remitía la causa al que juzga justamente» (1Pe_2:23, rv; vm: «remitía»; rvr, rvr77, lba: «encomendaba»; Besson: «se entregaba»). Véanse también DAR, ENCARCELAR, ENCOMENDAR, ENSEÑAR, EXPONER, TRANSMITIR. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ESTRATAGEMA"]
 
 # ESTRATAGEMA
 
-kubeia (êõâåßá, [[G2940]]), o kubia; denota jugar a los dados (de kubos, cubo, dado, de los que se usan en el juego); de ahí, metafóricamente, trucos, estratagemas (Efe_4:14).¶ 
+kubeia (κυβεία, [[G2940]]), o kubia; denota jugar a los dados (de kubos, cubo, dado, de los que se usan en el juego); de ahí, metafóricamente, trucos, estratagemas (Efe_4:14).¶ 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TENERABUNDANCIA"]
 
 # TENER ABUNDANCIA
 
-periáeuo (ðåñéóóåýù, [[G4052]]), véase ABUNDANCIA, B. Se traduce con la frase verbal «tener abundancia» en Luc_15:17, Fil_4:12, dos veces; v. 18. 
+periáeuo (περισσεύω, [[G4052]]), véase ABUNDANCIA, B. Se traduce con la frase verbal «tener abundancia» en Luc_15:17, Fil_4:12, dos veces; v. 18. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#REVENTAR"]
 
 # REVENTAR
 
-lakeo o lasko (ëÜóêù, [[G2997]]), primariamente, cascar o aplastar, denota reventar partiéndose con un chasquido, abrirse rompiéndose (siempre denotando el hacer ruido). Se utiliza en Hch_1:18.¶ 
+lakeo o lasko (λάσκω, [[G2997]]), primariamente, cascar o aplastar, denota reventar partiéndose con un chasquido, abrirse rompiéndose (siempre denotando el hacer ruido). Se utiliza en Hch_1:18.¶ 
 
 

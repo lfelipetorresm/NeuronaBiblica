@@ -9,13 +9,13 @@ etiquetas: ["#Diccionario", "#VineNT", "#SEPARACIÓN,SEPARADO,SEPARAR"]
 
 A. Nombres
 
-1. lusis (ëýóéò, [[G3080]]), desligamiento (relacionado con luo, véase DESATAR). Se utiliza en 1Co_7:27, de divorcio, y se traduce: «No procures soltarte» en rv, rvr, rvr77 (Besson: «ruptura»; lba: «separarte»; nvi traduce más ajustadamente: «separación»). En la segunda parte del versículo se utiliza luo .¶ En la lxx, Ecl_8:1, con el significado de «interpretación».¶
+1. lusis (λύσις, [[G3080]]), desligamiento (relacionado con luo, véase DESATAR). Se utiliza en 1Co_7:27, de divorcio, y se traduce: «No procures soltarte» en rv, rvr, rvr77 (Besson: «ruptura»; lba: «separarte»; nvi traduce más ajustadamente: «separación»). En la segunda parte del versículo se utiliza luo .¶ En la lxx, Ecl_8:1, con el significado de «interpretación».¶
 
-2. fragmos (öñáãìüò, [[G5418]]), principalmente vallado, cerca (relacionado con fraáo, vallar, tapar, cerrar). Se utiliza metafóricamente en Efe_2:14, de «la pared intermedia de separación». El término «partición» es epexegético de la «pared intermedia», esto es, «la pared medianera, o sea, la partición» entre judío y gentil. J. A. Robinson sugiere que Pablo tenía en mente la barrera entre los atrios exterior e interior del templo, donde había avisos escritos que advertían a los gentiles que no pasaran más allá bajo pena de muerte (véase Josefo, Antigüedades, xv. 11:5; Guerras, v. 5:2; vi. 2:4; cf. Hch_21:29). Véase VALLADO.
+2. fragmos (φραγμός, [[G5418]]), principalmente vallado, cerca (relacionado con fraáo, vallar, tapar, cerrar). Se utiliza metafóricamente en Efe_2:14, de «la pared intermedia de separación». El término «partición» es epexegético de la «pared intermedia», esto es, «la pared medianera, o sea, la partición» entre judío y gentil. J. A. Robinson sugiere que Pablo tenía en mente la barrera entre los atrios exterior e interior del templo, donde había avisos escritos que advertían a los gentiles que no pasaran más allá bajo pena de muerte (véase Josefo, Antigüedades, xv. 11:5; Guerras, v. 5:2; vi. 2:4; cf. Hch_21:29). Véase VALLADO.
 
 B. Preposición
 
-coris (÷ùñßò, [[G5565]]), aparte de, fuera de (cf. aneu, fuera, palabra menos frecuente que esta). Se traduce «separados de mí» en Jua_15:5. Véanse APARTE, FUERA, SIN.
+coris (χωρίς, [[G5565]]), aparte de, fuera de (cf. aneu, fuera, palabra menos frecuente que esta). Se traduce «separados de mí» en Jua_15:5. Véanse APARTE, FUERA, SIN.
 
 C. Verbos
 
@@ -25,10 +25,10 @@ C. Verbos
 
 3. apospao (ἀðïóðÜù, [[G645]]), véase ARRASTRAR, Nº 4. Se utiliza en Hch_21:1, de apartarse o partir de, separarse, y se traduce: «Después de separarnos de ellos». Después de la escena descrita al final del cap. 20, bien puede tener el sentido de haberse desgarrado o apartado de ellos bien a pesar suyo. Cf. el mismo verbo en Luc_22:41. Véanse también PARTIR, SACAR.
 
-4. corizo (÷ùñßæù, [[G5563]]), poner aparte, separar. Se traduce separar en Rom_8:35, Rom_8:39; en la voz media, separarse uno mismo (véase IR, Nº 14); en la voz pasiva aparece en Heb_7:26 : «apartado». El verbo se refiere aquí a la resurrección de Cristo, no al hecho de su santidad en los días de su carne; se trata de una lista progresiva en este respecto: que las primeras tres cualidades se aplican a que estaba totalmente exento de pecado, la siguiente a su resurrección, y la última a su ascensión. Véanse APARTAR, IR, SALIR.
+4. corizo (χωρίζω, [[G5563]]), poner aparte, separar. Se traduce separar en Rom_8:35, Rom_8:39; en la voz media, separarse uno mismo (véase IR, Nº 14); en la voz pasiva aparece en Heb_7:26 : «apartado». El verbo se refiere aquí a la resurrección de Cristo, no al hecho de su santidad en los días de su carne; se trata de una lista progresiva en este respecto: que las primeras tres cualidades se aplican a que estaba totalmente exento de pecado, la siguiente a su resurrección, y la última a su ascensión. Véanse APARTAR, IR, SALIR.
 
 5. apocorizomai (ἀðï÷ùñßæïìáé, [[G673]]), significa separar de (apo); en la voz media: «se separaron el uno del otro» (Hch_15:39; rv: «se apartaron»). Véase DESVANECER, Nº 1.
 
-6. diistemi (äéÀóôçìé, [[G1339]]), poner aparte, separar (dia, aparte; jistemi, hacer estar de pie). Se utiliza en la voz activa en Luc_24:51 : «se separó» (rvr; rv: «se fue de ellos»). Véase PASAR, Nº 20. 
+6. diistemi (διΐστημι, [[G1339]]), poner aparte, separar (dia, aparte; jistemi, hacer estar de pie). Se utiliza en la voz activa en Luc_24:51 : «se separó» (rvr; rv: «se fue de ellos»). Véase PASAR, Nº 20. 
 
 

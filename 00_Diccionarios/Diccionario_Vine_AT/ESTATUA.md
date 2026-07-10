@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ESTATUA"]
 
 # ESTATUA
 
-tselem (öÆìÆí, [[H6754]]), «estatua; imagen: copia». Cognados de este vocablo se han encontrado en ugarítico y fenicio (tal vez), acádico, arameo y arábigo. Hay 17 casos del término en el hebreo bíblico.
+tselem (צֶלֶם, [[H6754]]), «estatua; imagen: copia». Cognados de este vocablo se han encontrado en ugarítico y fenicio (tal vez), acádico, arameo y arábigo. Hay 17 casos del término en el hebreo bíblico.
 
 El vocablo significa «estatua»: «Y todo el pueblo del país fue a la casa de ba'al y la derribaron, destruyeron completamente sus altares» (2Re_11:18 lba ; cf. Núm_33:52).
 

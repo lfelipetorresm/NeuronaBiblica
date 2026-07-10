@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#INSISTIR,INSISTENCIA"]
 
 A. Verbos
 
-1. diabebaioomai (äéáâåâáéüïìáé, [[G1226]]), (dia, intensivo, y bebaio, confirmar, asegurar), denota afirmar enérgicamente, «afirman» (1Ti_1:7); «que insistas con firmeza» (Tit_3:8).¶
+1. diabebaioomai (διαβεβαιόομαι, [[G1226]]), (dia, intensivo, y bebaio, confirmar, asegurar), denota afirmar enérgicamente, «afirman» (1Ti_1:7); «que insistas con firmeza» (Tit_3:8).¶
 
 2. epimeno (ἐðéìÝíù, [[G1961]]), permanecer, perseverar. Se traduce «insistieran» en Jua_8:7 (rv: «perseverasen»). Véase PERMANECER, etc.
 

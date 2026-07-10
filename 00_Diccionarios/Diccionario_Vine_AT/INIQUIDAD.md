@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#INIQUIDAD"]
 
 A. Verbo
 
-'awa (òÈåÈä, [[H5753]]), «hacer iniquidad». Este verbo se encuentra en la Biblia 17 veces. En arábigo tiene el significado de «doblar» o «desviarse del camino». 'Awah se usa a menudo como sinónimo de jata, «pecar», como en Sal_106:6 : «Hemos pecado [jata] como nuestros padres; hemos hecho iniquidad [awah']; hemos actuado impíamente [rasha']» (rva).
+'awa (עָוָה, [[H5753]]), «hacer iniquidad». Este verbo se encuentra en la Biblia 17 veces. En arábigo tiene el significado de «doblar» o «desviarse del camino». 'Awah se usa a menudo como sinónimo de jata, «pecar», como en Sal_106:6 : «Hemos pecado [jata] como nuestros padres; hemos hecho iniquidad [awah']; hemos actuado impíamente [rasha']» (rva).
 
 B. Nombres
 
-'awon (òÇåéï, [[H5771]]), «iniquidad; culpa; castigo». Este nombre, que se encuentra 231 veces en el Antiguo Testamento, se limita al hebreo y arameo bíblico. Los libros proféticos y poéticos usan 'awon con frecuencia. En todo el Pentateuco hay unos 50 casos del vocablo. Además, el uso en los libros históricos es infrecuente. La primera enunciación de 'awon proviene de los labios de Caín, con la connotación especial de «castigo»: «Y dijo Caín a Jehová: Grande es mi castigo para ser soportado» (Gén_4:13).
+'awon (עַוין, [[H5771]]), «iniquidad; culpa; castigo». Este nombre, que se encuentra 231 veces en el Antiguo Testamento, se limita al hebreo y arameo bíblico. Los libros proféticos y poéticos usan 'awon con frecuencia. En todo el Pentateuco hay unos 50 casos del vocablo. Además, el uso en los libros históricos es infrecuente. La primera enunciación de 'awon proviene de los labios de Caín, con la connotación especial de «castigo»: «Y dijo Caín a Jehová: Grande es mi castigo para ser soportado» (Gén_4:13).
 
 El significado básico de 'awon es «iniquidad». El término indica una ofensa, intencional o no, en contra de la Ley de Dios. Posee el mismo significado veterotestamentario fundamental con jatta't, «pecado», por lo que los vocablos jatta't y 'awon son virtualmente sinónimos: «He aquí que esto [el carbón encendido] ha tocado tus labios [los de Isaías]; tu culpa ['awon] ha sido quitada, y tu pecado [jatta't] ha sido perdonado (Isa_6:7 rva).
 
@@ -29,7 +29,7 @@ El sentido de 'awon abarca las dimensiones de pecado, juicio y «castigo» por e
 
 En la Septuaginta el vocablo tiene las siguientes acepciones: adikia («maldad; iniquidad»); hamartia («pecado; error») y anomia («sin ley; anarquía»). En las traducciones en castellano (sobre todo en las protestantes) el término «iniquidad» es bastante uniforme, aunque también se encuentra el vocablo «pecado» y términos más especializados como «culpa», «delito», «maldad» y «falta» (particularmente en traducciones católicas).
 
-'awen (àÈåÆÆï, [[H205]]), «iniquidad; infortunio, desgracia». Este nombre se deriva de una raíz que significa «fuerte», y que se encuentra únicamente en las lenguas semíticas nordoccidentales. El término aparece unas 80 veces y casi exclusivamente en lenguaje profético-poético. Isaías se destaca por su uso del vocablo. La primera vez que se encuentra es en Núm_23:21 : «él no ha notado iniquidad en Jacob, ni ha visto maldad en Israel. Jehová su Dios está con él; en medio de él hay júbilo de rey» (rva).
+'awen (אָוֶֶן, [[H205]]), «iniquidad; infortunio, desgracia». Este nombre se deriva de una raíz que significa «fuerte», y que se encuentra únicamente en las lenguas semíticas nordoccidentales. El término aparece unas 80 veces y casi exclusivamente en lenguaje profético-poético. Isaías se destaca por su uso del vocablo. La primera vez que se encuentra es en Núm_23:21 : «él no ha notado iniquidad en Jacob, ni ha visto maldad en Israel. Jehová su Dios está con él; en medio de él hay júbilo de rey» (rva).
 
 La acepción «desgracia» o «infortunio» se pone de manifiesto en las maquinaciones de los malos en contra de los justos: «Si alguien viene a verme, habla mentira. Su corazón acumula iniquidad para sí, y saliendo afuera, lo divulga» (Sal_41:6 rva). 'Awen en este sentido es sinónimo de 'êd, «desastre» (Job_18:12). En un sentido muy real 'awen es parte de la existencia humana, y como tal el vocablo es idéntico a 'amall, «trabajo», como en Sal_90:10 : «Los días de nuestra vida son setenta años; y en los más robustos, ochenta años. La mayor parte de ellos es duro trabajo y vanidad; pronto pasan, y volamos» (rva).
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#FIGURA"]
 
 # FIGURA
 
-1. tupos (ôýðïò, [[G5179]]), tipo, figura, modelo. Se traduce «figuras»; esto es, representaciones de dioses (Hch_7:43); en Rom_5:14, de Adán como una «figura» de Cristo. Véanse EJEMPLO, A, Nº 4, FORMA, MODELO, SEÑAL.
+1. tupos (τύπος, [[G5179]]), tipo, figura, modelo. Se traduce «figuras»; esto es, representaciones de dioses (Hch_7:43); en Rom_5:14, de Adán como una «figura» de Cristo. Véanse EJEMPLO, A, Nº 4, FORMA, MODELO, SEÑAL.
 
 2. antitupos (ἀíôßôõðïò, [[G499]]), véase ( QUE ) CORRESPONDE. Se traduce «figura» en Heb_9:24, del tabernáculo terreno, como figura del verdadero en el cielo.
 

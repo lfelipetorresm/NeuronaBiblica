@@ -13,7 +13,7 @@ A. Adjetivos
 
 Nota: para la diferencia entre esta palabra y Nº 2, véase Nota al final del Nº 2.
 
-2. palaios (ðáëáéüò, [[G3820]]), similar a B, Nº 1 (en castellano, paleo, paleontología, etc.). Se usa de lo que es de larga duración, viejo en años, etc., un vestido, vino (en contraste a neos, nuevo; véase NUEVO) (Mat_9:16-17; Mar_2:21-22, dos veces; Luc_5:36-37, Luc_5:39, dos veces); de los tesoros de la verdad divina (Mat_13:52), en comparación con kainos, nuevo; véase NUEVO; de lo que pertenece al pasado, p.ej., la personalidad del ahora creyente antes de su conversión, su «hombre viejo»; viejo porque ha sido superado por lo que es nuevo (Rom_6:6; Efe_4:22, en contraste con kainos, nuevo; Col_3:9, en contraste con neos); del pacto en relación con la Ley (2Co_3:14); de la levadura, metafórica del mal moral (1Co_5:7-8, en contraste con neos); de lo que fue entregado hace mucho tiempo y que sigue en vigor, un mandamiento antiguo ( 1Jn_2:7, dos veces), aquello que era familiar y bien conocido en contraste a aquello que es reciente (kainos) .¶
+2. palaios (παλαιός, [[G3820]]), similar a B, Nº 1 (en castellano, paleo, paleontología, etc.). Se usa de lo que es de larga duración, viejo en años, etc., un vestido, vino (en contraste a neos, nuevo; véase NUEVO) (Mat_9:16-17; Mar_2:21-22, dos veces; Luc_5:36-37, Luc_5:39, dos veces); de los tesoros de la verdad divina (Mat_13:52), en comparación con kainos, nuevo; véase NUEVO; de lo que pertenece al pasado, p.ej., la personalidad del ahora creyente antes de su conversión, su «hombre viejo»; viejo porque ha sido superado por lo que es nuevo (Rom_6:6; Efe_4:22, en contraste con kainos, nuevo; Col_3:9, en contraste con neos); del pacto en relación con la Ley (2Co_3:14); de la levadura, metafórica del mal moral (1Co_5:7-8, en contraste con neos); de lo que fue entregado hace mucho tiempo y que sigue en vigor, un mandamiento antiguo ( 1Jn_2:7, dos veces), aquello que era familiar y bien conocido en contraste a aquello que es reciente (kainos) .¶
 
 Nota: palaios denota viejo, antiguo, «sin la referencia al principio y al origen que va implícita en arcaios » (Abbott-Smith), distinción esta observada en los papiros (Moulton y Milligan). En tanto que en algunas ocasiones parece que no hay ninguna diferencia que se pueda distinguir, con todo «es evidente que siempre que se desea hacer énfasis en dirigirse hacia el principio, sea este principio el que fuere, se prefiere arcaios (p.ej., de Satanás, Apo_12:9; Apo_20:2; véase Nº 1). Lo que … es antiguo en el sentido de más o menos desgastado … es siempre palaios » (Trench).
 
@@ -21,7 +21,7 @@ Para palaios, véase también VIEJO.
 
 B. Adverbios
 
-1. palai (ðÜëáé, [[G3819]]), denota hace mucho tiempo, de antiguo (Heb_1:1 : «en otro tiempo» (rvr; vha . «antiguamente», vm: «antiguo tiempo»); en Jud_1:4, «desde antes»; se usa como adjetivo en 2Pe_1:9, «antiguos» pecados. Véanse ANTES, MUCHO, TIEMPO, YA.
+1. palai (πάλαι, [[G3819]]), denota hace mucho tiempo, de antiguo (Heb_1:1 : «en otro tiempo» (rvr; vha . «antiguamente», vm: «antiguo tiempo»); en Jud_1:4, «desde antes»; se usa como adjetivo en 2Pe_1:9, «antiguos» pecados. Véanse ANTES, MUCHO, TIEMPO, YA.
 
 2. ekpalai (ἔêðáëáé, [[G1597]]), desde antiguo, de largo tiempo (ek, de, desde, y Nº 1). Aparece en 2Pe_2:3, «de largo tiempo»; también en 3:5. Véanse LARGO, TIEMPO.
 

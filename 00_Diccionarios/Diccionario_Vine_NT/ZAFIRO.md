@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ZAFIRO"]
 
 # ZAFIRO
 
-sapfiros o sapfeiros (óÜðöéñïò ï óÜðöåéñïò, [[G4552]]), se menciona en Apo_21:19 como el segundo de los cimientos de la Jerusalén celestial (cf. Isa_54:11).¶ Era una de las piedras en el pectoral del sumo sacerdote (Éxo_28:18; Éxo_39:11). Como indicación de su valor, véase Job_28:16; Eze_28:13. Véase también Éxo_24:10; Eze_1:26; Eze_10:1. El zafiro tiene varios matices de azul y tiene una dureza solo inferior a la diamante. Nota : Para juakinthinos, «de zafiro» (Apo_9:17), véase JACINTO. 
+sapfiros o sapfeiros (σάπφιρος ο σάπφειρος, [[G4552]]), se menciona en Apo_21:19 como el segundo de los cimientos de la Jerusalén celestial (cf. Isa_54:11).¶ Era una de las piedras en el pectoral del sumo sacerdote (Éxo_28:18; Éxo_39:11). Como indicación de su valor, véase Job_28:16; Eze_28:13. Véase también Éxo_24:10; Eze_1:26; Eze_10:1. El zafiro tiene varios matices de azul y tiene una dureza solo inferior a la diamante. Nota : Para juakinthinos, «de zafiro» (Apo_9:17), véase JACINTO. 
 
 

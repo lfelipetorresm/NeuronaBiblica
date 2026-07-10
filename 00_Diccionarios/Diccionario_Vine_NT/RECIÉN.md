@@ -13,6 +13,6 @@ artigennetos (ἀñôéãÝííçôïò, [[G738]]), recién nacido (arti, recien
 
 B. Adverbio
 
-prosfatos (ðñïóöÜôùò, [[G4373]]), denota recientemente, últimamente; del adjetivo prosfatos, nuevo, fresco, reciente; primariamente recién muerto (Heb_10:20; fatos, muerto): véase NUEVO, A, Nº 3; el adverbio se utiliza en Hch_18:2 : «recién venido de Italia» (rv: «hacía poco»).¶ En la lxx, Deu_24:5; Eze_11:3.¶ 
+prosfatos (προσφάτως, [[G4373]]), denota recientemente, últimamente; del adjetivo prosfatos, nuevo, fresco, reciente; primariamente recién muerto (Heb_10:20; fatos, muerto): véase NUEVO, A, Nº 3; el adverbio se utiliza en Hch_18:2 : «recién venido de Italia» (rv: «hacía poco»).¶ En la lxx, Deu_24:5; Eze_11:3.¶ 
 
 

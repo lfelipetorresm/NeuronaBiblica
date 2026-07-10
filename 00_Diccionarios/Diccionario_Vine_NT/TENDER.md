@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#TENDER"]
 
 # TENDER
 
-1. stronnuo o stronnumi (óôñùííýù, [[G4766]]), tender. Se traduce así en Mat_21:8, dos veces; Mar_11:8, dos veces, la segunda solo en tr); véanse DISPONER, HACER LA CAMA.
+1. stronnuo o stronnumi (στρωννύω, [[G4766]]), tender. Se traduce así en Mat_21:8, dos veces; Mar_11:8, dos veces, la segunda solo en tr); véanse DISPONER, HACER LA CAMA.
 
 2. jupostronnuo (ὑðïóôñùííýù, [[G5291]]), tender debajo (jupo, debajo, y Nº 1), de vestidos. Se emplea en Luc_19:36.¶
 

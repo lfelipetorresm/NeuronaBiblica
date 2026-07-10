@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#LUMINAR"]
 
 # LUMINAR
 
-foster (öùóôÞñ, [[G5458]]), véase FULGOR, FULGURAR, A. 
+foster (φωστήρ, [[G5458]]), véase FULGOR, FULGURAR, A. 
 
 

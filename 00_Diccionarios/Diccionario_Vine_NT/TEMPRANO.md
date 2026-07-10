@@ -19,6 +19,6 @@ B. Adjetivos
 
 C. Adverbio
 
-proi (ðñùÀ, [[G4404]]), temprano por la mañana, de madrugada. Se deriva de pro, antes (véase B, Nº 2). Se traduce «muy temprano» en Mat_20:1 (Besson; rvr: «por la mañana»); «por la mañana temprano» (Mat_21:18, Besson; rvr: «por la mañana»); «temprano» (Mar_16:9, Besson; rvr: «la mañana»); «temprano» (Jua_18:28, vm, Besson; rvr: «de mañana»); «temprano» (Jua_20:1, vm, Besson; rvr: «de mañana»); véase MAÑANA, B. 
+proi (πρωΐ, [[G4404]]), temprano por la mañana, de madrugada. Se deriva de pro, antes (véase B, Nº 2). Se traduce «muy temprano» en Mat_20:1 (Besson; rvr: «por la mañana»); «por la mañana temprano» (Mat_21:18, Besson; rvr: «por la mañana»); «temprano» (Mar_16:9, Besson; rvr: «la mañana»); «temprano» (Jua_18:28, vm, Besson; rvr: «de mañana»); «temprano» (Jua_20:1, vm, Besson; rvr: «de mañana»); véase MAÑANA, B. 
 
 

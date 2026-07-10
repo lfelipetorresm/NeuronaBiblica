@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#DESNUDEZ"]
 
 A. Nombres
 
-'erwah (òÆøÀåÈä, [[H6172]]), «desnudez; indecencia». Treinta y dos de las 53 veces que aparece este nombre se encuentran en las leyes sociales de Levítico 18  y 20. El resto de los casos están diseminados por los varios períodos de la literatura veterotestamentaria, con la notable excepción de la literatura poética.
+'erwah (עֶרְוָה, [[H6172]]), «desnudez; indecencia». Treinta y dos de las 53 veces que aparece este nombre se encuentran en las leyes sociales de Levítico 18  y 20. El resto de los casos están diseminados por los varios períodos de la literatura veterotestamentaria, con la notable excepción de la literatura poética.
 
 Este término se usa para los órganos sexuales masculinos y femeninos. En la primera ocasión en que se usa, 'erwah implica exhibición vergonzosa: «Cam, el padre de Canaán, vio la desnudez de su padre … Entonces Sem y Jafet tomaron un manto, lo pusieron sobre sus propios hombros, y yendo hacia atrás, cubrieron la desnudez de su padre. Como tenían vuelta la cara, ellos no vieron la desnudez de su padre (Gén_9:22-23 rva). Este vocablo se usa a menudo para significar la «desnudez» femenina (los órganos sexuales descubiertos) y simboliza la vergüenza. En Lam_1:8 Jerusalén asolada y devastada se describe como una mujer cuya desnudez ha sido expuesta. Descubrir la desnudez es un eufemismo frecuente para la cohabitación: «Ningún hombre se acerque a una mujer que sea su parienta cercana para descubrir su desnudez» (Lev_18:6).
 
@@ -23,11 +23,11 @@ Dos nombres, ta'ar y m'ôrah, tienen otro sentido. Ta'ar, que se repite 13 veces
 
 B. Adjetivos
 
-'arôm (òÈøåéí, [[H6174]]), o 'arom (òÈøéí, [[H6174]]), «desnudo». El vocablo aparece 16 veces. El primer caso es en Gén_2:25 : «Estaban ambos desnudos, el hombre y su mujer, y no se avergonzaban».
+'arôm (עָרוים, [[H6174]]), o 'arom (עָרים, [[H6174]]), «desnudo». El vocablo aparece 16 veces. El primer caso es en Gén_2:25 : «Estaban ambos desnudos, el hombre y su mujer, y no se avergonzaban».
 
 Otro adjetivo, del cual hay 6 ejemplos en la poesía bíblica, es 'eryah. Parece ser una variante de 'erwah y aparece, por ejemplo, en Eze_16:22 : «Cuando estabas desnuda y descubierta».
 
 C. Verbo
 
-'arah (òÈøÈä, [[H6168]]), «verter, descubrir, destruir, extenderse». Este verbo, que aparece 14 veces en el hebreo bíblico, tiene cognados en acádico, fenicio, egipcio y siríaco. En Isa_32:15, el término significa «verter» o «derramar»: «Hasta que se derrame sobre nosotros el Espíritu desde lo alto» (lba). El verbo indica «descubrir» en Lev_20:19. 'Arah tiene la acepción de «destruir» en Isa_3:17 (rvr): «Por tanto, el Señor raerá la cabeza de las hijas de Sion, y Jehová descubrirá sus vergüenzas». En Sal_37:35, el término significa «extenderse». 
+'arah (עָרָה, [[H6168]]), «verter, descubrir, destruir, extenderse». Este verbo, que aparece 14 veces en el hebreo bíblico, tiene cognados en acádico, fenicio, egipcio y siríaco. En Isa_32:15, el término significa «verter» o «derramar»: «Hasta que se derrame sobre nosotros el Espíritu desde lo alto» (lba). El verbo indica «descubrir» en Lev_20:19. 'Arah tiene la acepción de «destruir» en Isa_3:17 (rvr): «Por tanto, el Señor raerá la cabeza de las hijas de Sion, y Jehová descubrirá sus vergüenzas». En Sal_37:35, el término significa «extenderse». 
 

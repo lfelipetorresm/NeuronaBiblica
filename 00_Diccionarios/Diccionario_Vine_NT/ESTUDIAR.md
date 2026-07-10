@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ESTUDIAR"]
 
 # ESTUDIAR
 
-manthano (ìáíèÜíù, [[G3129]]),: véase APRENDER, Nº 1.
+manthano (μανθάνω, [[G3129]]),: véase APRENDER, Nº 1.
 
 

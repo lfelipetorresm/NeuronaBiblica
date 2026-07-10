@@ -9,6 +9,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#REINA"]
 
 Véase también REY.
 
-basiliáa (âáóßëéóóá, [[G938]]), femenino de basileus, rey. Se utiliza: (a) de la reina de Sabá (Mat_12:42; Luc_11:31); de Candace (Hch_8:27); (b) metafóricamente, de Babilonia (Apo_18:8).¶ 
+basiliáa (βασίλισσα, [[G938]]), femenino de basileus, rey. Se utiliza: (a) de la reina de Sabá (Mat_12:42; Luc_11:31); de Candace (Hch_8:27); (b) metafóricamente, de Babilonia (Apo_18:8).¶ 
 
 

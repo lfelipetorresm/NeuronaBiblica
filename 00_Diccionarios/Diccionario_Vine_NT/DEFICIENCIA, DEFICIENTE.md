@@ -13,6 +13,6 @@ justerema (ὑóôÝñçìá, [[G5303]]), (relacionado con justereo, estar atrá
 
 B. Verbo
 
-leipo (ëåßðù, [[G3007]]), dejar, denota: (a) transitivamente, en la voz pasiva, ser dejado atrás, carecer (Stg_1:4 : «sin que os falte cosa alguna»; v. 5: «tiene falta»; 2:15: «tienen necesidad»); (b) intransitivamente, en la voz activa (Luc_18:22 : «falta»; Tit_1:5 : «lo deficiente», rv: «lo que falta»; Tit_3:13 : «les falte»). Véanse FALTAR, FALTA, NECESIDAD, TENER NECESIDAD.¶ 
+leipo (λείπω, [[G3007]]), dejar, denota: (a) transitivamente, en la voz pasiva, ser dejado atrás, carecer (Stg_1:4 : «sin que os falte cosa alguna»; v. 5: «tiene falta»; 2:15: «tienen necesidad»); (b) intransitivamente, en la voz activa (Luc_18:22 : «falta»; Tit_1:5 : «lo deficiente», rv: «lo que falta»; Tit_3:13 : «les falte»). Véanse FALTAR, FALTA, NECESIDAD, TENER NECESIDAD.¶ 
 
 

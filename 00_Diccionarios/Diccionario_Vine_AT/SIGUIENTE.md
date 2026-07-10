@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SIGUIENTE"]
 
 # SIGUIENTE
 
-'ajer (àÇçÅø, [[H312]]), «siguiente; diferente; otro». El vocablo se encuentra 166 veces y en todos los períodos de la literatura bíblica.
+'ajer (אַחֵר, [[H312]]), «siguiente; diferente; otro». El vocablo se encuentra 166 veces y en todos los períodos de la literatura bíblica.
 
 La primera acepción del término es temporal y aparece en Gén_17:21 : «Mas yo estableceré mi pacto con Isaac, el que Sara te dará a luz por este tiempo el año que viene («siguiente» (rv)». El vocablo se encuentra por primera vez en la Biblia en Gén_4:25 (rva): «Adán conoció de nuevo a su mujer, y ella dio a luz un hijo y llamó su nombre Set, diciendo: Porque Dios me ha sustituido otro ['ajer] hijo en lugar de Abel».
 

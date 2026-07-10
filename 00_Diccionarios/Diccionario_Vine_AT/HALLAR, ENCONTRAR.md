@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HALLAR,ENCONTRAR"]
 
 # HALLAR, ENCONTRAR
 
-matsa' (îÈöÈà, [[H4672]]), «hallar, encontrar, encontrarse, conseguir». Este vocablo se encuentra en todas las ramas de las lenguas semíticas (incluyendo arameo bíblico) y durante todos los períodos. Se ha constatado en hebreo bíblico (unas 455 veces) y posbíblico.
+matsa' (מָצָא, [[H4672]]), «hallar, encontrar, encontrarse, conseguir». Este vocablo se encuentra en todas las ramas de las lenguas semíticas (incluyendo arameo bíblico) y durante todos los períodos. Se ha constatado en hebreo bíblico (unas 455 veces) y posbíblico.
 
 Matsa' tiene que ver con «hallar» a un sujeto u objeto que se ha perdido o extraviado, o bien «encontrar» el lugar en que está. La búsqueda puede ser intencional y hallarse o no lo que se busca, como en el caso de los sodomitas que, intentando «encontrar» la puerta de la casa de Lot, fueron cegados por los visitantes (Gén_19:11). En un uso muy parecido, la paloma que soltó Noé buscó donde posarse y no «encontró» (Gén_8:9). En otras circunstancias, se puede «hallar» a algo o a alguien sin haberse propuesto hacerlo, como lo expresa Caín cuando dice: «Cualquiera que me hallare, me matará» (Gén_4:14).
 

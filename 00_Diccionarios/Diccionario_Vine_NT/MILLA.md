@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MILLA"]
 
 # MILLA
 
-milion (ìßëéïí, [[G3400]]), una milla romana; término de origen latino, equivalente a 1536 metros. Se usa en Mat_5:41.¶ 
+milion (μίλιον, [[G3400]]), una milla romana; término de origen latino, equivalente a 1536 metros. Se usa en Mat_5:41.¶ 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#YELMO"]
 
 # YELMO
 
-perikefalaia (ðåñéêåöáëáßá, [[G4030]]), de pere, alrededor, y kefale, cabeza. Se emplea en sentido figurado en Efe_6:17, con referencia a la salvación, y 1Ts_5:8, donde se describe como «la esperanza de salvación». La cabeza no debe ser considerada en este pasaje como denotando el asiento del intelecto; no tiene este sentido en el resto de las Escrituras. En Efe_6:17 la salvación es una experiencia presente de la liberación de los creyentes por parte del Señor como aquellos que están involucrados en un conflicto espiritual; en 1Ts_5:8, la esperanza es la del retorno del Señor, que alienta al creyente a resistir al espíritu de la edad en la que vive.¶ 
+perikefalaia (περικεφαλαία, [[G4030]]), de pere, alrededor, y kefale, cabeza. Se emplea en sentido figurado en Efe_6:17, con referencia a la salvación, y 1Ts_5:8, donde se describe como «la esperanza de salvación». La cabeza no debe ser considerada en este pasaje como denotando el asiento del intelecto; no tiene este sentido en el resto de las Escrituras. En Efe_6:17 la salvación es una experiencia presente de la liberación de los creyentes por parte del Señor como aquellos que están involucrados en un conflicto espiritual; en 1Ts_5:8, la esperanza es la del retorno del Señor, que alienta al creyente a resistir al espíritu de la edad en la que vive.¶ 
 
 

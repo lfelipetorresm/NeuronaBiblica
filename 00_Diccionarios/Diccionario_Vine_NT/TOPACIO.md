@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TOPACIO"]
 
 # TOPACIO
 
-topazion (ôïðÜæéïí, [[G5116]]), es mencionado en Apo_21:20, como la novena de las piedras de los cimientos del muro de la Jerusalén celestial. Esta piedra es de color amarillo, aunque hay topacios de otros colores, siendo casi tan dura como el diamante. Tiene la propiedad de la doble refracción, y cuando se calienta o frota se electriza.¶ En la lxx, Éxo_28:17; Éxo_39:10; Job_28:19; Sal_119:127 : «oro y topacio»; Eze_28:13.¶ 
+topazion (τοπάζιον, [[G5116]]), es mencionado en Apo_21:20, como la novena de las piedras de los cimientos del muro de la Jerusalén celestial. Esta piedra es de color amarillo, aunque hay topacios de otros colores, siendo casi tan dura como el diamante. Tiene la propiedad de la doble refracción, y cuando se calienta o frota se electriza.¶ En la lxx, Éxo_28:17; Éxo_39:10; Job_28:19; Sal_119:127 : «oro y topacio»; Eze_28:13.¶ 
 
 

@@ -13,7 +13,7 @@ Nota: En la frase «hombre de pecado» (2Ts_2:3), el término sugiere la idea de
 
 2. adikia (ἀäéêßá, [[G93]]), denota injusticia, lit: «irrectitud» (a, privativo; dike, derecho), condición de no ser derecho, sea ante Dios, en base de la norma de su santidad y rectitud, o con el hombre, en base de la norma de lo que el hombre sabe que es recto mediante su conciencia. En Luc_16:8 y 18:6, las frases, lit: son, «el mayordomo de irrectitud» y «el juez de irrectitud», donde el genitivo subjetivo describe el carácter de ellos; en 18:6 el significado es «injusticia», lo mismo que en Rom_9:14. Por lo general, este término se traduce «injusticia»; pero se traduce «iniquidad» en Hch_1:18; Rom_6:13; 2Ts_2:10; 2Ti_2:19. Véanse AGRAVIO, INJUSTICIA, MALDAD.
 
-3. paranomia (ðáñáíïìßá, [[G3892]]), quebrantamiento de la ley (para, contra; nomos, ley). Denota transgresión, y se traduce «iniquidad» en 2Pe_2:16 (rv, rvr; vm, rvr77: «transgresión»).¶
+3. paranomia (παρανομία, [[G3892]]), quebrantamiento de la ley (para, contra; nomos, ley). Denota transgresión, y se traduce «iniquidad» en 2Pe_2:16 (rv, rvr; vm, rvr77: «transgresión»).¶
 
 Nota: Para el adjetivo anomos, «que está sin ley», y traducido «inicuo/s» en Mar_15:28 (tr); Luc_22:37; Hch_2:23; 2Ts_2:8; 2Pe_2:8, véase LEY ( SIN ). Para athesmos en 2Pe_2:7; 2Pe_3:17, véase MALVADO, Nº 2. 
 

@@ -13,19 +13,19 @@ A. Verbos
 
 2. airo (áἴñù, [[G142]]), levantar, llevarse, quitar. Se usa en muchas ocasiones con su significado literal. Se traduce «destruirán» en Jua_11:48 (rv: «quitarán»). Véase QUITAR, etc.
 
-3. diaftheiro (äéáöèåßñù, [[G1311]]), véase CORROMPER, A, Nº 5.
+3. diaftheiro (διαφθείρω, [[G1311]]), véase CORROMPER, A, Nº 5.
 
-4. kathaireo (êáèáéñÝù, [[G2507]]), arrojar abajo, derribar con fuerza, etc. Se traduce destruir en Hch_13:19; Hch_19:27, donde la rvr77 traduce con toda propiedad «despojada de su majestad». Véanse BAJAR, DERRIBAR, QUITAR, REFUTAR.
+4. kathaireo (καθαιρέω, [[G2507]]), arrojar abajo, derribar con fuerza, etc. Se traduce destruir en Hch_13:19; Hch_19:27, donde la rvr77 traduce con toda propiedad «despojada de su majestad». Véanse BAJAR, DERRIBAR, QUITAR, REFUTAR.
 
-5. luo (ëýù, [[G3089]]), desatar, deshacer, separar, quebrantar, derribar. Se traduce con el verbo destruir en Jua_2:19, del templo del cuerpo del Señor. Véase DESATAR.
+5. luo (λύω, [[G3089]]), desatar, deshacer, separar, quebrantar, derribar. Se traduce con el verbo destruir en Jua_2:19, del templo del cuerpo del Señor. Véase DESATAR.
 
-6. kataluo (êáôáëýù, [[G2647]]), (kata, abajo, intensivo, y el Nº 5), destruir totalmente, derribar totalmente. Se traduce «abrogar», de la Ley (Mat_5:17, dos veces); con el verbo derribar, del templo (Mat_24:2; Mat_26:61; Mat_27:40; Mar_13:2; Mar_14:58; Mar_15:29), y con el verbo destruir (Luc_21:6); en Hch_6:14, de Jerusalén; en Gál_2:18, de la Ley como medio de justificación; en Rom_14:20, del daño producido al bienestar espiritual de alguien (en el v. 15 se usa apollumi, Nº 1, en el mismo sentido); en Hch_5:38 y 39 del fracaso de los propósitos; en 2Co_5:1, de la muerte del cuerpo. Véanse ABROGAR, ALOJAR, DERRIBAR, DESHACER, DESVANECER, POSAR.
+6. kataluo (καταλύω, [[G2647]]), (kata, abajo, intensivo, y el Nº 5), destruir totalmente, derribar totalmente. Se traduce «abrogar», de la Ley (Mat_5:17, dos veces); con el verbo derribar, del templo (Mat_24:2; Mat_26:61; Mat_27:40; Mar_13:2; Mar_14:58; Mar_15:29), y con el verbo destruir (Luc_21:6); en Hch_6:14, de Jerusalén; en Gál_2:18, de la Ley como medio de justificación; en Rom_14:20, del daño producido al bienestar espiritual de alguien (en el v. 15 se usa apollumi, Nº 1, en el mismo sentido); en Hch_5:38 y 39 del fracaso de los propósitos; en 2Co_5:1, de la muerte del cuerpo. Véanse ABROGAR, ALOJAR, DERRIBAR, DESHACER, DESVANECER, POSAR.
 
-7. katargeo (êáôáñãÝù, [[G2673]]),: véase ABOLIR, etc.
+7. katargeo (καταργέω, [[G2673]]),: véase ABOLIR, etc.
 
 8. olothreuo (ὀëïèñåýù, [[G3645]]), destruir, especialmente en el sentido de matar degollando. Se halla en Heb_11:28 : «el que destruía», donde la rvr77 traduce el participio presente con el artículo mediante el nombre «exterminador».¶ Véase B, Nº 1, más abajo. Este verbo aparece con frecuencia en la lxx, p.ej., Éxo_12:23; Jos_3:10; Jos_7:25; Jer_2:30; Jer_5:6; Jer_22:7.
 
-9. ftheiro (öèåßñù, [[G5351]]), véase CORROMPER, A, Nº 4.
+9. ftheiro (φθείρω, [[G5351]]), véase CORROMPER, A, Nº 4.
 
 Nota: El nombre fthora (véase B, Nº 6), se traduce como destruir, en forma de verbo, en Col_2:22 : «se destruyen» (lit: «son … para destrucción»).
 
@@ -43,12 +43,12 @@ Nota: El nombre apoleia, véase más abajo, II, Nº 1. Se traduce «destructor»
 
 2. eremosis (ἐñÞìùóéò, [[G2050]]), véase DESOLADOR, C.
 
-3. kathairesis (êáèáßñåóéò, [[G2506]]), relacionado con A, Nº 3, tomar abajo. Se usa tres veces en 2 Co; y se traduce como «destrucción» en todos los pasajes (2Co_10:4; 2Co_10:8 y 2Co 13:10).¶
+3. kathairesis (καθαίρεσις, [[G2506]]), relacionado con A, Nº 3, tomar abajo. Se usa tres veces en 2 Co; y se traduce como «destrucción» en todos los pasajes (2Co_10:4; 2Co_10:8 y 2Co 13:10).¶
 
-4. katastrofe (êáôáóôñïöÞ, [[G2692]]), lit: girar abajo (kata, abajo; strofe, giro; cf. el término castellano, catástrofe). Se usa: (a) literalmente (2Pe_2:6); (b) metafóricamente (2Ti_2:14 : «perdición»), esto es, derruyendo la fe.¶ Cf. Nº 3.
+4. katastrofe (καταστροφή, [[G2692]]), lit: girar abajo (kata, abajo; strofe, giro; cf. el término castellano, catástrofe). Se usa: (a) literalmente (2Pe_2:6); (b) metafóricamente (2Ti_2:14 : «perdición»), esto es, derruyendo la fe.¶ Cf. Nº 3.
 
 5. olethros (ὄëåèñïò, [[G3639]]), ruina, destrucción, relacionado con A, Nº 8. Se traduce destrucción en todos los pasajes excepto uno. Se usa en 1Co_5:5, del efecto sobre la condición física de un creyente errado, con el propósito de que redunde en su provecho espiritual; en 1Ts_5:3 y 2Ts_1:9, del efecto de los juicios divinos sobre los hombres en la introducción del Día del Señor y de la revelación del Señor Jesús; en 1Ti_6:9, de las consecuencias de complacer a la carne, referidas a la destrucción física, y posiblemente la de todo el ser, en tanto que la siguiente palabra apoleia (véase el Nº 1) acentúa el carácter final, eterno e irrevocable de la ruina.¶
 
-6. fthora (öèïñÜ, [[G5356]]), relacionado con A, Nº 9. Denota la destrucción que viene con la corrupción. Se usa dos veces en 2Pe_2:12, traducidas respectivamente «destrucción» y «perdición»; en Col_2:22 se traduce como verbo: «todas se destruyen» (lit: «todas para destrucción»). Véanse CORRUPCIÓN, PERDICIÓN. 
+6. fthora (φθορά, [[G5356]]), relacionado con A, Nº 9. Denota la destrucción que viene con la corrupción. Se usa dos veces en 2Pe_2:12, traducidas respectivamente «destrucción» y «perdición»; en Col_2:22 se traduce como verbo: «todas se destruyen» (lit: «todas para destrucción»). Véanse CORRUPCIÓN, PERDICIÓN. 
 
 

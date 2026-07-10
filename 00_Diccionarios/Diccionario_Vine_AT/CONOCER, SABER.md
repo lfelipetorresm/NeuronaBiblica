@@ -7,13 +7,13 @@ etiquetas: ["#Diccionario", "#VineAT", "#CONOCER,SABER"]
 
 # CONOCER, SABER
 
-nakar (ðÈëÇø, [[H5234]]), «conocer, considerar, reconocer, atender». Este verbo, que se encuentra tanto en hebreo moderno como antiguo, aparece aproximadamente 50 veces en el Antiguo Testamento hebraico. La primera vez es en Gén_27:23 : «No lo reconoció» (lba).
+nakar (נָכַר, [[H5234]]), «conocer, considerar, reconocer, atender». Este verbo, que se encuentra tanto en hebreo moderno como antiguo, aparece aproximadamente 50 veces en el Antiguo Testamento hebraico. La primera vez es en Gén_27:23 : «No lo reconoció» (lba).
 
 El significado básico del término tiene que ver con percepción mediante la vista, el tacto o el oído. A veces la oscuridad hace imposible el reconocimiento (Rut_3:14). A menudo se reconocen a las personas por sus voces (Jue_18:3). Nakar a veces tiene la acepción de «prestar atención a»; es una forma especial de reconocimiento: «¡Bendito sea el que se haya fijado en ti!» (Rut_2:19 rva).
 
 El verbo puede significar «reconocer» una especie de percepción intelectual: «Ni su lugar lo volverá a reconocer» (Job_7:10 rva ; cf. Sal_103:16). El sentido «distinguir» se encuentra en Esd_3:13 : «Y por causa del griterío, el pueblo no podía distinguir la voz de los gritos de alegría de la voz del llanto del pueblo» (rva).
 
-yada' (éÈãÇò, [[H3045]]), «saber, entender, comprender, conocer». Este verbo aparece en ugarítico, acádico, fenicio, arábigo (infrecuentemente) y en hebreo en todos los períodos. En la Biblia, el vocablo aparece unas 1.040 veces (995 en hebreo y 47 en arameo).
+yada' (יָדַע, [[H3045]]), «saber, entender, comprender, conocer». Este verbo aparece en ugarítico, acádico, fenicio, arábigo (infrecuentemente) y en hebreo en todos los períodos. En la Biblia, el vocablo aparece unas 1.040 veces (995 en hebreo y 47 en arameo).
 
 En esencia, yada' significa: (1) saber por observación y reflexión, y (2) saber por experiencia. Un ejemplo de la primera acepción sería Gén_8:11, donde Noé «comprendió» que las aguas habían disminuido después de ver la hoja de olivo en el pico de la paloma; lo «supo» después de observar y reflexionar sobre lo que había visto. En efecto, no vio ni experimentó personalmente que las aguas habían menguado. En contraste con este «saber» que es fruto de la reflexión, encontramos el «saber» que viene de la experiencia con los cinco sentidos, de examinar y demostrar, de reflexionar y considerar (saber de primera mano). Por tanto yada' se usa como un paralelismo sinónimo de «oír» (Éxo_3:7), «ver» (Gén_18:21), «percibir» y «ver» (Job_28:7). José informó a sus hermanos que uno de ellos tendría que permanecer en Egipto para que él pudiera «saber» si ellos eran o no hombres honrados (Gén_42:33). En el huerto de Edén, a Adán y Eva se les prohibió comer del árbol cuyo fruto les daría la experiencia del mal y, por ende, el conocimiento del bien y del mal. Por lo general, el corazón juega un papel importante en «saber» (comprender). Debido a que experimentaron la presencia sustentadora de Dios durante su peregrinaje en el desierto, los israelitas «comprendieron» en sus corazones que Dios les estaba disciplinando y cuidando como un padre vela por un hijo (Deu_8:5). Un corazón desviado puede estorbar esta comprensión (Sal_95:10).
 
@@ -29,9 +29,9 @@ Dios no se dio a conocer por su nombre Jehová a Abraham, Isaac y Jacob, aunque 
 
 B. Nombre
 
-da'at (ãÌÇòÇú, [[H1847]]), «conocimiento». Varios nombres se derivan de yada' y el más frecuente es da'at, que aparece 90 veces en el Antiguo Testamento. Un ejemplo está en Gén_2:9 : «El árbol del conocimiento del bien y del mal» (rva). El vocablo también aparece en Éxo_31:3.
+da'at (דַּעַת, [[H1847]]), «conocimiento». Varios nombres se derivan de yada' y el más frecuente es da'at, que aparece 90 veces en el Antiguo Testamento. Un ejemplo está en Gén_2:9 : «El árbol del conocimiento del bien y del mal» (rva). El vocablo también aparece en Éxo_31:3.
 
 C. Participio
 
-maddûa' (îÇãÌåÌòÇ, [[H4069]]), «por qué». Este término, que aparece 72 veces, está relacionado con el verbo yada'. Éxo_1:18 es un ejemplo: «¿Por qué habéis hecho esto de dejar con vida a los niños varones?» 
+maddûa' (מַדּוּעַ, [[H4069]]), «por qué». Este término, que aparece 72 veces, está relacionado con el verbo yada'. Éxo_1:18 es un ejemplo: «¿Por qué habéis hecho esto de dejar con vida a los niños varones?» 
 

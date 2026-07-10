@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SALIR,IR"]
 
 A. Verbo
 
-Yatsa' (éÈöÇà, [[H3318]]), «sale, salir, proceder, sacar, partir». Este verbo aparece en todas las lenguas semíticas, incluyendo en arameo bíblico y en hebreo. Se encuentra en todos los períodos de la lengua hebrea. El Antiguo Testamento constata el término unas 1.070 veces.
+Yatsa' (יָצַא, [[H3318]]), «sale, salir, proceder, sacar, partir». Este verbo aparece en todas las lenguas semíticas, incluyendo en arameo bíblico y en hebreo. Se encuentra en todos los períodos de la lengua hebrea. El Antiguo Testamento constata el término unas 1.070 veces.
 
 Básicamente, el vocablo significa «alejarse de algún punto», así como bô' («venir») indica movimiento hacia algún punto. Yatsa' es el término usado para «salir», desde la perspectiva de quien observa o relata el hecho, o sea, «aparecer». Por ejemplo, Gén_2:10 (el primer caso del término) informa que un río «salía» o «fluía» del huerto de Edén.
 
@@ -29,7 +29,7 @@ Los «sacó» de la esclavitud a la libertad (Éxo_13:3).
 
 B. Sustantivos
 
-môtsa' (îåéöÈà, [[H4161]]), «punto de salida, lo que sale, salida». La palabra aparece 23 veces. Môtsa' es uno de los términos para indicar el «este» (cf. Sal_19:6) de donde «sale» el sol. El mismo vocablo se usa en la visión de Ezequiel para indicar una «salida» del templo (Eze_42:11); o puede señalar el «punto de partida» de un viaje (Núm_33:2). Môtsa' puede referirse a «lo que sale», por ejemplo «lo que sale de los labios» (Núm_30:13), y la «salida» del alba y del anochecer (Sal_65:8). Por último, el término se refiere también al propio acto de «salir», como cuando Oseas dice que la «salida» de Dios para redimir a su pueblo es tan segura como el alba (Sal_6:3).
+môtsa' (מויצָא, [[H4161]]), «punto de salida, lo que sale, salida». La palabra aparece 23 veces. Môtsa' es uno de los términos para indicar el «este» (cf. Sal_19:6) de donde «sale» el sol. El mismo vocablo se usa en la visión de Ezequiel para indicar una «salida» del templo (Eze_42:11); o puede señalar el «punto de partida» de un viaje (Núm_33:2). Môtsa' puede referirse a «lo que sale», por ejemplo «lo que sale de los labios» (Núm_30:13), y la «salida» del alba y del anochecer (Sal_65:8). Por último, el término se refiere también al propio acto de «salir», como cuando Oseas dice que la «salida» de Dios para redimir a su pueblo es tan segura como el alba (Sal_6:3).
 
-tôtsa'ôt (úÌåéöÈàåéú, [[H8444]]), «salida». El término tôtsa'ôt puede connotar tanto el lugar de «salida» (punto de partida, Pro_4:23) como el propio hecho de «salir» o «partir» (p. ej., «escapar», Sal_68:20). Sin embargo, el vocablo también puede referirse al extremo o «límite» de un territorio, el lugar del que uno «sale» para otro territorio (Jos_15:7). 
+tôtsa'ôt (תּויצָאוית, [[H8444]]), «salida». El término tôtsa'ôt puede connotar tanto el lugar de «salida» (punto de partida, Pro_4:23) como el propio hecho de «salir» o «partir» (p. ej., «escapar», Sal_68:20). Sin embargo, el vocablo también puede referirse al extremo o «límite» de un territorio, el lugar del que uno «sale» para otro territorio (Jos_15:7). 
 

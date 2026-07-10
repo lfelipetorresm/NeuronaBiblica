@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LABIO,ORILLA"]
 
 # LABIO, ORILLA
 
-sapah (ùÒÈôÈä, [[H8193]]), «labio; orilla, borde». Este vocablo hebreo tiene relación con lenguas cognadas en las que el término significa «labio» u «orilla» (cf. el acádico saptu). Sapah ha cambiado muy poco durante la historia de la lengua hebrea. Aparece unas 175 veces en el Antiguo Testamento, sobre todo en la literatura poética. El vocablo es más frecuente en los libros proféticos, excepto Isaías (13 veces) y Ezequiel (7 veces).
+sapah (שָׂפָה, [[H8193]]), «labio; orilla, borde». Este vocablo hebreo tiene relación con lenguas cognadas en las que el término significa «labio» u «orilla» (cf. el acádico saptu). Sapah ha cambiado muy poco durante la historia de la lengua hebrea. Aparece unas 175 veces en el Antiguo Testamento, sobre todo en la literatura poética. El vocablo es más frecuente en los libros proféticos, excepto Isaías (13 veces) y Ezequiel (7 veces).
 
 «Labio» es en primer término una parte del cuerpo de seres humanos. Los «labios» de Isaías fueron ritualmente purificados por una brasa ardiente (Isa_6:7). Apretar los «labios» fue muestra de malos pensamientos y motivaciones: «El que entrecierra sus ojos para planear perversidades, el que aprieta sus labios, consuma el mal» (Pro_16:30 rva).
 

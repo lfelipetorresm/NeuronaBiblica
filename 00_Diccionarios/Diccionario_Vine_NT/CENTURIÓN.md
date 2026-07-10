@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CENTURIÓN"]
 
 2. jekatontarques (ἑêáôïíôÜñ÷çò, [[G1543]]), tiene el mismo significado que el Nº 1 (p.ej., Hch_10:1, Hch_10:22). En la lxx esta palabra aparece con frecuencia, para denotar capitanes de cientos.
 
-3. kenturion (êåíôõñßùí, [[G2760]]), es una transliteración griega de la palabra latina centurio, que significa prácticamente lo mismo que el Nº 1 (Mar_15:39, Mar_15:44-45). Había diez centuriones por cohorte cuando esta estaba en la plenitud de sus efectivos. Había varios en Jerusalén bajo el capitán mayor, o tribuno, mencionado en Hch_21:31.¶ 
+3. kenturion (κεντυρίων, [[G2760]]), es una transliteración griega de la palabra latina centurio, que significa prácticamente lo mismo que el Nº 1 (Mar_15:39, Mar_15:44-45). Había diez centuriones por cohorte cuando esta estaba en la plenitud de sus efectivos. Había varios en Jerusalén bajo el capitán mayor, o tribuno, mencionado en Hch_21:31.¶ 
 
 

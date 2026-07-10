@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#NOTICIA"]
 
 # NOTICIA
 
-logos (ëüãïò, [[G3056]]), palabra. Se traduce «noticia» (Hch_11:22); esto es, historia, narración. Véase PALABRA. 
+logos (λόγος, [[G3056]]), palabra. Se traduce «noticia» (Hch_11:22); esto es, historia, narración. Véase PALABRA. 
 
 

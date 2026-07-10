@@ -11,7 +11,7 @@ A. Nombres
 
 1. rantismos (ῥáíôéóìüò, [[G4473]]), rociamiento, aspersión. Se traduce «rociada» en Heb_12:24 (rvr; rv: «esparcimiento»; vm: «aspersión»; vha: «rociamiento»); «ser rociados» (1Pe_1:2, rv, rvr, vm, lba; Besson: «aspersión»). Véase ASPERSIÓN, Nº 2.¶
 
-2. proscusis (ðñüó÷õóéò, [[G4378]]), derramamiento o rociamiento (véase, Nº 1). Se traduce «rociamiento» en Heb_11:28 (vm).¶
+2. proscusis (πρόσχυσις, [[G4378]]), derramamiento o rociamiento (véase, Nº 1). Se traduce «rociamiento» en Heb_11:28 (vm).¶
 
 B. Verbo
 

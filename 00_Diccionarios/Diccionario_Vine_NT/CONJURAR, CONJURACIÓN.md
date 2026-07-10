@@ -17,6 +17,6 @@ A. Verbos
 
 B. Nombre
 
-sunomosia (óõíùìïóßá, [[G4945]]), denota, lit., jurar juntos (sun, con; omnumi, jurar), coligarse bajo juramento, y por ello una conjuración (Hch_23:13).¶ 
+sunomosia (συνωμοσία, [[G4945]]), denota, lit., jurar juntos (sun, con; omnumi, jurar), coligarse bajo juramento, y por ello una conjuración (Hch_23:13).¶ 
 
 

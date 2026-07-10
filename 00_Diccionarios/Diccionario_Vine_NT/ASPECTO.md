@@ -13,6 +13,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ASPECTO"]
 
 3. orasis (ὅñáóéò, [[G3706]]), relacionado con eidon (véase Nº 1). denota: (a) una visión (lo mismo que el nombre relacionado, orama, p.ej., Hch_7:31); orasis significa especialmente el acto de ver, orama aquello que es visto (Hch_2:17; Apo_9:17); (b) apariencia, o aspecto (Apo_4:3), traducido como «aspecto» (dos veces; rv: «parecer» y «aspecto»). Véase .¶,
 
-4. prosopon (ðñüóùðïí, [[G4383]]), se traduce como «aspecto» en Mat_16:3 y Luc_9:53. Véanse APARIENCIA, ROSTRO, etc. 
+4. prosopon (πρόσωπον, [[G4383]]), se traduce como «aspecto» en Mat_16:3 y Luc_9:53. Véanse APARIENCIA, ROSTRO, etc. 
 
 

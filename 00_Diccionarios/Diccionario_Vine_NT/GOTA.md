@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#GOTA"]
 
 # GOTA
 
-thrombos (èñüìâïò, [[G2361]]), Véase GRANDE GOTA. 
+thrombos (θρόμβος, [[G2361]]), Véase GRANDE GOTA. 
 
 

@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#TRASTORNAR"]
 
 2. anatrepo (ἀíáôñÝðù, [[G396]]), lit: girar arriba o sobre, volcar (ana, arriba; trepo, girar), trastornar. Se emplea: (a) literalmente, en los mss. más comúnmente aceptados, en Jua_2:1-5, en lugar de anastrefo en tr : «volcó las mesas» (rv: «trastornó»); (b) metafóricamente, en 2Ti_2:19 : «trastornan la fe de algunos»; en Tit_1:11 : «que trastornan casas enteras», esto es, familias. Moulton y Milligan (Vocabulary) dan una adecuada ilustración procedente de un papiro del siglo II, de la completa perturbación de una familia por la conducta libertina de uno de sus miembros.¶
 
-3. diastrefo (äéáóôñÝöù, [[G1294]]), distorsionar (dia, a través; strefo, girar, volver). Se traduce «trastornar» en Hch_13:10; véase PERVERTIR, A, Nº 1, etc.
+3. diastrefo (διαστρέφω, [[G1294]]), distorsionar (dia, a través; strefo, girar, volver). Se traduce «trastornar» en Hch_13:10; véase PERVERTIR, A, Nº 1, etc.
 
 Notas: (1) Katastrefo, volcar, trastornar, se traduce con este último verbo en la rv en Mat_21:12; Mar_11:15 : «trastornó» en ambos pasajes (rvr: «volcó»): véase VOLCAR.
 

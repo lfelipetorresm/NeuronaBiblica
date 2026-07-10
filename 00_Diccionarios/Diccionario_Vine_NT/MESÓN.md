@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#MESÓN"]
 
 # MESÓN
 
-1. kataluma (êáôÜëõìá, [[G2646]]), véase APOSENTO, Nº 2.
+1. kataluma (κατάλυμα, [[G2646]]), véase APOSENTO, Nº 2.
 
 2. pandoqueion, o pandokeion (ðáíäï÷åé̂ïí, [[G3829]]), lit: lugar donde todos son recibidos (pas, todo; decomai, recibir). Denota una casa para recepción de extraños, un caravanserai, traducido «mesón» en Luc_10:34, en la parábola del buen samaritano. Allí se podía guardar el ganado y también las bestias de carga. Este término debe ser distinguido del Nº 1.¶ Cf. pandoqueus en el siguiente versículo, véase MESONERO.¶ 
 

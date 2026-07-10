@@ -13,7 +13,7 @@ A. Verbos
 
 2. jesucazo (ἡóõ÷Üæù, [[G2270]]), estar quedo, reposar de la labor. Se traduce «descansaron» en Luc_23:56. Véanse CALLAR, DESISTIR, TRANQUILIDAD.
 
-3. kataskenoo (êáôáóêçíüù, [[G2681]]), plantar la propia tienda, alojarse. Se traduce «descansará» en Hch_2:26. Véanse ANIDAR, MORAR, NIDO.
+3. kataskenoo (κατασκηνόω, [[G2681]]), plantar la propia tienda, alojarse. Se traduce «descansará» en Hch_2:26. Véanse ANIDAR, MORAR, NIDO.
 
 B. Nombre
 

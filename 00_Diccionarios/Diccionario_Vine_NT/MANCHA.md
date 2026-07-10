@@ -11,7 +11,7 @@ A. Nombres
 
 1. momos (ìù̂ìïò, [[G3470]]), relacionado con momaomai (véanse CENSURAR, VITUPERAR), significa: (a) mancha (solo en la lxx); (b) vergüenza, desgracia moral, en metáfora de los licenciosos (2Pe_2:13 : «manchas»).¶
 
-2. spilas (óðéëÜò, [[G4694]]), roca o arrecife. Se traduce erróneamente en Jud_1:12  como «manchas» (rv, rvr, rvr77, vm, Besson, nvi); su verdadero significado lo da lba: «escollos ocultos», sobre los que golpea el mar, constituyendo una metáfora descriptiva de hombres cuya conducta es un peligro para los demás.¶ El significado de «manchas» es posterior, y la traducción parece haber sido influenciada por el pasaje paralelo de 2Pe_2:13, donde aparece spiloi, «manchas», Nº 3.
+2. spilas (σπιλάς, [[G4694]]), roca o arrecife. Se traduce erróneamente en Jud_1:12  como «manchas» (rv, rvr, rvr77, vm, Besson, nvi); su verdadero significado lo da lba: «escollos ocultos», sobre los que golpea el mar, constituyendo una metáfora descriptiva de hombres cuya conducta es un peligro para los demás.¶ El significado de «manchas» es posterior, y la traducción parece haber sido influenciada por el pasaje paralelo de 2Pe_2:13, donde aparece spiloi, «manchas», Nº 3.
 
 3. spilos (óðé̂ëïò, [[G4696]]), véase INMUNDICIA, A, Nº 6.
 

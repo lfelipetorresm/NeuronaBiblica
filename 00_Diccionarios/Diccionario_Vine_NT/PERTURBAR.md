@@ -13,6 +13,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PERTURBAR"]
 
 3. apostrefo (ἀðïóôñÝöù, [[G654]]), girar afuera (apo, de, desde; strefo, girar). Se usa metafóricamente en el sentido de pervertir en Luc_23:14 : «que perturba» (rv: «que desvía»; rvr77: «alborotador»; vm: «pervertidor»); cf. diastrefo en v. 2; véase PERVERTIR.
 
-4. taraáo (ôáñÜóóù, [[G5015]]), se traduce con el verbo perturbar en Gál_1:7 : «que os perturban»; Gál_5:10 : «que os perturba»; véase TURBAR. 
+4. taraáo (ταράσσω, [[G5015]]), se traduce con el verbo perturbar en Gál_1:7 : «que os perturban»; Gál_5:10 : «que os perturba»; véase TURBAR. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MEJILLA"]
 
 # MEJILLA
 
-siagon (óéáãþí, [[G4600]]), denota primariamente la mandíbula, y, luego, «mejilla» (Mat_5:39; Luc_6:29).¶ 
+siagon (σιαγών, [[G4600]]), denota primariamente la mandíbula, y, luego, «mejilla» (Mat_5:39; Luc_6:29).¶ 
 
 

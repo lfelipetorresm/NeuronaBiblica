@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ESTATUTO,ORDENANZA"]
 
 A. Nombres
 
-joq (çé÷, [[H2706]]), «estatuto; prescripción; gobierno; ley; reglamento». Este nombre se deriva del verbo jaqaq, «labrar, determinar, decretar». Joq se encuentra 127 veces en el hebreo de la Biblia.
+joq (חיק, [[H2706]]), «estatuto; prescripción; gobierno; ley; reglamento». Este nombre se deriva del verbo jaqaq, «labrar, determinar, decretar». Joq se encuentra 127 veces en el hebreo de la Biblia.
 
 El primer caso de joq está en Gén_47:22 : «Solamente no compró la tierra de los sacerdotes, porque los sacerdotes tenían ración [joq] de parte del faraón» (rva). El vocablo es frecuente en Deuteronomio y Salmos aunque figura poco en los libros históricos y en los profetas.
 
@@ -19,7 +19,7 @@ El vocablo joq también significa «ley» o «estatuto». En términos generales
 
 Por último y más importante, joq también denomina la «ley» que proviene de Dios: «Cuando tienen un pleito, vienen a mí, y yo juzgo entre uno y otro, dándoles a conocer los estatutos [joq] de Dios y sus leyes [t'ôrah] (Éxo_18:16 lba). Los sinónimos de joq son mitswah («mandamiento»); mishpat («juicio»); berît («pacto»); t'ôrah («ley»); y 'edût («testimonio»). No es fácil distinguir entre estos sinónimos, puesto que a menudo se encuentran juntos: «Guardad cuidadosamente los mandamientos [mitswah] de Jehovah vuestro Dios y sus testimonios ['edah] y leyes [joq] que te ha mandado» (Deu_6:17 rva).
 
-juqqah (çË÷ÌÈä, [[H2708]]), «estatuto; reglamento; prescripción; término». Este nombre se encuentra unas 104 veces.
+juqqah (חֻקָּה, [[H2708]]), «estatuto; reglamento; prescripción; término». Este nombre se encuentra unas 104 veces.
 
 Encontramos juqqa, y sus sinónimos mishmeret, mishwah y t'ôrah, por primera vez en las palabras de encomio de Dios para Abraham e Isaac: «Porque Abraham obedeció mi voz y guardó mi ordenanza [mishmeret], mis mandamientos [mishwah], mis estatutos [juqqah] y mis instrucciones [t'ôrah]» (Gén_26:5). Juqqah se usa principalmente en el Pentateuco y en particular en los libros de Levítico y Números. Muy poco se encuentra en los libros poéticos y en los escritos proféticos (excepto Jeremías y Ezequiel ).
 
@@ -37,7 +37,7 @@ La Septuaginta ofrece las siguientes traducciones de joq y de juqqah : prostagma
 
 B. Verbo
 
-jaqaq (çÈ÷Ç÷, [[H2710]]), «labrar, determinar, decretar». Esta raíz se encuentra en las lenguas semíticas con los significados ya citados o bien con el sentido de «ser veraz» (arábigo), «ser justo» (acádico). Este verbo aparece menos de 20 veces en el Antiguo Testamento.
+jaqaq (חָקַק, [[H2710]]), «labrar, determinar, decretar». Esta raíz se encuentra en las lenguas semíticas con los significados ya citados o bien con el sentido de «ser veraz» (arábigo), «ser justo» (acádico). Este verbo aparece menos de 20 veces en el Antiguo Testamento.
 
 Hallamos a jaqaq en Isa_22:16 (rva) con la acepción de «labrar o tallar»: «Que hayas labrado aquí un sepulcro para ti». En Isa_10:1 el verbo significa «decretar»: «¡Ay de los que decretan estatutos inicuos, y de los que constantemente escriben decisiones injustas!» (lba). 
 

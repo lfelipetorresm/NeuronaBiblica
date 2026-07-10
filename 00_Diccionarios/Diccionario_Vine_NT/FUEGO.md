@@ -35,20 +35,20 @@ A. Nombres
 
 Nota: Véase también bajo LLAMA.
 
-2. pura (ðõñÜ, [[G4443]]), (del Nº 1), denota un montón de material combustible recogido para ser encendido (de esta palabra procede el término castellano «pira»), «fuego» (Hch_28:2; rvr77: «hoguera»), y v. 3 (vha: «hoguera»).¶
+2. pura (πυρά, [[G4443]]), (del Nº 1), denota un montón de material combustible recogido para ser encendido (de esta palabra procede el término castellano «pira»), «fuego» (Hch_28:2; rvr77: «hoguera»), y v. 3 (vha: «hoguera»).¶
 
 3. anthrakia (ἀíèñáêßá, [[G439]]), carbón ardiente. Se traduce «fuego» en Jua_18:18 (rvr; rv: «ascuas»; rvr77: «brasas de carbón»; nm: «fuego de carbón»); véase BRASAS.
 
-4. purosis (ðýñùóéò, [[G4451]]), relacionado con puroo, encender; significa: (a) incendio; (b) refinamiento, metafóricamente en 1Pe_4:12 : «fuego», o más bien «prueba mediante fuego» (nm: «fuego de tribulaciones»; rv: «examinados por fuego»); la referencia es a la de la refinación del oro (1Pe_1:7). Véase INCENDIO.
+4. purosis (πύρωσις, [[G4451]]), relacionado con puroo, encender; significa: (a) incendio; (b) refinamiento, metafóricamente en 1Pe_4:12 : «fuego», o más bien «prueba mediante fuego» (nm: «fuego de tribulaciones»; rv: «examinados por fuego»); la referencia es a la de la refinación del oro (1Pe_1:7). Véase INCENDIO.
 
 Nota: El nombre fos, relacionado con fao, dar luz, se traduce «fuego» en Mar_14:54; Luc_22:56 (rv, rvr; rvr77: «lumbre»). Véase LUZ.
 
 B. Adjetivo
 
-purinos (ðýñéíïò, [[G4447]]), igneo (relacionado con A, Nº 1). Se traduce «de fuego» en Apo_9:17.¶ En la lxx, Eze_28:14, Eze_28:16.¶
+purinos (πύρινος, [[G4447]]), igneo (relacionado con A, Nº 1). Se traduce «de fuego» en Apo_9:17.¶ En la lxx, Eze_28:14, Eze_28:16.¶
 
 C. Verbo
 
-puroo (ðõñüù, [[G4448]]), encender, quemar (de pur, fuego), siempre utilizado en voz pasiva en el NT. Se traduce «de fuego» en Efe_6:16 (rv, rvr; rvr77, Besson: «encendidos»), metafóricamente, de los dardos del Maligno; quizá la mejor traducción sería «con la punta encendida», para expresar mejor el sentido verbal de este término. Los mss. más comúnmente aceptados tienen el artículo repetido, lit: «los dardos del maligno, los encendidos», destacándose con ello su peculiar poder destructor. Algunos mss. omiten la repetición del artículo. En la antigüedad los dardos eran frecuentemente cubiertos con material ardiente. Véanse ENCENDER, QUEMAR, etc. 
+puroo (πυρόω, [[G4448]]), encender, quemar (de pur, fuego), siempre utilizado en voz pasiva en el NT. Se traduce «de fuego» en Efe_6:16 (rv, rvr; rvr77, Besson: «encendidos»), metafóricamente, de los dardos del Maligno; quizá la mejor traducción sería «con la punta encendida», para expresar mejor el sentido verbal de este término. Los mss. más comúnmente aceptados tienen el artículo repetido, lit: «los dardos del maligno, los encendidos», destacándose con ello su peculiar poder destructor. Algunos mss. omiten la repetición del artículo. En la antigüedad los dardos eran frecuentemente cubiertos con material ardiente. Véanse ENCENDER, QUEMAR, etc. 
 
 

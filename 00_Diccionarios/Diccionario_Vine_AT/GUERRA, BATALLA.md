@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#GUERRA,BATALLA"]
 
 A. Nombre
 
-miljamah (îÄìÀçÈîÈä, [[H4421]]), «guerra; batalla; escaramuza; combate». Este vocablo tiene un cognado en ugarítico. Aparece 315 veces en el hebreo bíblico durante todos los períodos.
+miljamah (מִלְחָמָה, [[H4421]]), «guerra; batalla; escaramuza; combate». Este vocablo tiene un cognado en ugarítico. Aparece 315 veces en el hebreo bíblico durante todos los períodos.
 
 El vocablo significa «guerra» o una confrontación total entre dos fuerzas (Gén_14:2). Puede referirse a hostilidades en forma más concreta; una «batalla»: «Y ordenaron contra ellos batalla en el valle de Sidim» (Gén_14:8). El término no solo implica el objetivo general, sino también el ardor de una lucha mano a mano: «¡Estruendo de batalla hay en el campamento!» (Éxo_32:17 rva). Miljamah se refiere además al arte marcial, o sea, al «combate»: «Jehovah es un guerrero» (Éxo_15:3 rva).
 
@@ -17,5 +17,5 @@ En el Antiguo Testamento hay varios principios que al parecer regían en una «g
 
 B. Verbo
 
-lajam (ìÈçÇí, [[H3898]]), «librar batalla, batallar, pelear, luchar, guerrear». El verbo aparece 171 veces en el hebreo bíblico. La primera mención es en Éxo_1:10 : «Ahora, pues, seamos sabios para con él, para que no se multiplique, y acontezca que viniendo guerra, él también se una a nuestros enemigos, y pelee contra nosotros, y se vaya de la tierra». 
+lajam (לָחַם, [[H3898]]), «librar batalla, batallar, pelear, luchar, guerrear». El verbo aparece 171 veces en el hebreo bíblico. La primera mención es en Éxo_1:10 : «Ahora, pues, seamos sabios para con él, para que no se multiplique, y acontezca que viniendo guerra, él también se una a nuestros enemigos, y pelee contra nosotros, y se vaya de la tierra». 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HUESTE,EJÉRCITO"]
 
 A. Nombre
 
-tsaba' (öÈáÈà, [[H6633]]), «hueste; servicio militar; guerra; ejército; trabajo; trabajo forzado; conflicto». Esta palabra tiene cognados, verbales o nombres, en acádico, ugarítico, arábigo y etiópico. El nombre aparece 486 veces en hebreo bíblico y en todos los períodos de la lengua.
+tsaba' (צָבָא, [[H6633]]), «hueste; servicio militar; guerra; ejército; trabajo; trabajo forzado; conflicto». Esta palabra tiene cognados, verbales o nombres, en acádico, ugarítico, arábigo y etiópico. El nombre aparece 486 veces en hebreo bíblico y en todos los períodos de la lengua.
 
 El vocablo incluye varias ideas que están interrelacionadas: un grupo; ímpetu; dificultad; y fuerza. Estas ideas subyacen en el concepto general de «servicio» para un superior y no para uno mismo. Tsaba'se usa generalmente para significar «servicio militar», pero a veces también se usa con referencia al «servicio» en general (bajo un superior o para él). En Núm_1:2-3 el término significa «servicio militar»: «Haced un censo de toda la congregación de los hijos de Israel … Contaréis, según sus escuadrones, a todos los que en Israel, por ser de 20 años para arriba, puedan ir a la guerra» (rva). La idea es más concreta en Jos_22:12, donde el vocablo tiene que ver con servir en una campaña militar: «Cuando oyeron esto los hijos de Israel, se juntó toda la congregación de los hijos de Israel en Silo, para subir a pelear contra ellos». En Núm_31:14 'tsaba se refiere a la propia batalla: «Y Moisés se enojó contra los oficiales del ejército … que volvían de la campaña militar» (rva).
 
@@ -23,5 +23,5 @@ La connotación de un servicio no militar para un superior aparece en Núm_4:2-3
 
 B. Verbo
 
-tsaba' (öÈáÈà, [[H6633]]), «hacer guerra, pelear, reclutar, servir en el culto». La forma verbal del vocablo aparece 14 veces en hebreo bíblico. En Núm_31:7, 'tsaba significa «hacer guerra»: «Hicieron la guerra contra Madián, como Jehovah había mandado a Moisés» (rva ; «pelearon» rvr). En 2Re_25:19, el término significa «reclutar», «enlistar» o «enrolar» un «ejército». Otra acepcción de 'tsaba, «servir en el culto», se encuentra Núm_4:23 : «De edad de treinta años arriba hasta cincuenta años los contarás; todos los que entran en compañía, para hacer servicio en el tabernáculo de reunión». 
+tsaba' (צָבָא, [[H6633]]), «hacer guerra, pelear, reclutar, servir en el culto». La forma verbal del vocablo aparece 14 veces en hebreo bíblico. En Núm_31:7, 'tsaba significa «hacer guerra»: «Hicieron la guerra contra Madián, como Jehovah había mandado a Moisés» (rva ; «pelearon» rvr). En 2Re_25:19, el término significa «reclutar», «enlistar» o «enrolar» un «ejército». Otra acepcción de 'tsaba, «servir en el culto», se encuentra Núm_4:23 : «De edad de treinta años arriba hasta cincuenta años los contarás; todos los que entran en compañía, para hacer servicio en el tabernáculo de reunión». 
 

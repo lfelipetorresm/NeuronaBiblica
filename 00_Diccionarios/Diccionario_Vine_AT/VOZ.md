@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#VOZ"]
 
 # VOZ
 
-qôl (÷åéì, [[H6963]]), «voz; sonido; ruido». Este vocablo también se encuentra en ugarítico («sonido»), acádico («llamar»), arábigo («decir») y fenicio, etiópico y antiguo arábigo meridional («voz»). Qôl aparece unas 506 veces en la Biblia y durante todos los períodos.
+qôl (קויל, [[H6963]]), «voz; sonido; ruido». Este vocablo también se encuentra en ugarítico («sonido»), acádico («llamar»), arábigo («decir») y fenicio, etiópico y antiguo arábigo meridional («voz»). Qôl aparece unas 506 veces en la Biblia y durante todos los períodos.
 
 La primera acepción de la palabra denota el «sonido» que producen las cuerdas vocales. Incluye la voz humana: «Nunca hubo un día semejante, ni antes ni después de aquel día, cuando Jehovah escuchó la voz de un hombre; porque Jehovah combatía por Israel» (Jos_10:14 rva). También incluye los sonidos vocales de los animales: «Samuel entonces dijo: ¿Pues qué balido de ovejas y bramido de vacas es este que yo oigo con mis oídos?» (1Sa_15:14). Por lo mismo, qôl se usa con referencia a la «voz» de objetos inanimados personificados: «Y él le dijo: ¿Qué has hecho? La voz de la sangre de tu hermano clama a mí desde la tierra» (Gén_4:10).
 

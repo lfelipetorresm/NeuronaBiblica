@@ -23,6 +23,6 @@ B. Verbos
 
 3. apostegazo (ἀðïóôåãÜæù, [[G648]]), significa descubrir un techo [apo, de (partitivo); stege, techo], (Mar_2:4).¶
 
-4. faneroo (öáíåñüù, [[G5319]]), véase MANIFESTAR, etc. Se traduce con el verbo descubrir en Apo_3:18. 
+4. faneroo (φανερόω, [[G5319]]), véase MANIFESTAR, etc. Se traduce con el verbo descubrir en Apo_3:18. 
 
 

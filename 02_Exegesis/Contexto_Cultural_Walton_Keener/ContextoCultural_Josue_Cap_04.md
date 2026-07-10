@@ -12,7 +12,7 @@ etiquetas: ["#Comentario", "#ContextoCultural", "#Josue"]
 Cruzaron el Jordán
 
 ### Josué 4:13
-Cuarenta mil soldados. La palabra que se traduce como “mil” puede referirse a veces a una división militar. Este último sentido puede estar implicado aquí, aunque se trata de un asunto complejo. Para mayor información ver el comentario sobre Éxo 12:37. Compare esta cifra con la población estimada de Jericó de 1.500 ó 2.000 personas.
+Cuarenta mil soldados. La palabra que se traduce como “mil” puede referirse a veces a una división militar. Este último sentido puede estar implicado aquí, aunque se trata de un asunto complejo. Para mayor información ver el comentario sobre Éxo 12:37. Compare esta cifra con la población estimada de Jericó de 1.500 ף 2.000 personas.
 
 ### Josué 4:13
 Las llanuras de Jericó. Jericó está a casi 8 km del Jordán, y entre los dos hay una amplia área plana que cubre toda esa región.

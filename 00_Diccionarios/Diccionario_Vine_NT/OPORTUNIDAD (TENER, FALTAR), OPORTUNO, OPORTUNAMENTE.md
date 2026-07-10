@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineNT", "#OPORTUNIDAD(TENER,FALTAR),OPORTUNO,OPOR
 
 A. Nombres
 
-1. kairos (êáéñüò, [[G2540]]), primariamente, una medida debida. Se utiliza de un período definido, de un tiempo, una sazón, y se traduce «oportunidad» en Gál_6:10. Véanse TIEMPO.
+1. kairos (καιρός, [[G2540]]), primariamente, una medida debida. Se utiliza de un período definido, de un tiempo, una sazón, y se traduce «oportunidad» en Gál_6:10. Véanse TIEMPO.
 
 2. eukairia (åὐêáéñßá, [[G2120]]), un tiempo apropiado, oportunidad (eu, bien, y Nº 1). Se usa en Mat_26:16 y Luc_22:6.¶ Cf. eukairos, véase C más abajo.
 
-3. topos (ôüðïò, [[G5117]]), lugar. Se traduce «oportunidad» en Heb_12:17 (rv: «lugar»). Véase LUGAR, A, Nº 1.
+3. topos (τόπος, [[G5117]]), lugar. Se traduce «oportunidad» en Heb_12:17 (rv: «lugar»). Véase LUGAR, A, Nº 1.
 
 B. Verbos
 

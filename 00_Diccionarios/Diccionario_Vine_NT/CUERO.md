@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CUERO"]
 
 # CUERO
 
-dermatinos (äåñìÜôéíïò, [[G1193]]), denota de piel, cuero (de derma, piel, cuero de animales, relacionada con dero, azotar; cf. con los términos castellanos dermis, dermatitis, dermatología, etc.); se traduce «de cuero» en Mat_3:4; Mar_1:6.¶ 
+dermatinos (δερμάτινος, [[G1193]]), denota de piel, cuero (de derma, piel, cuero de animales, relacionada con dero, azotar; cf. con los términos castellanos dermis, dermatitis, dermatología, etc.); se traduce «de cuero» en Mat_3:4; Mar_1:6.¶ 
 
 

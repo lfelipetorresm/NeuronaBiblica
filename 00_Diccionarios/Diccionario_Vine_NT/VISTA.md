@@ -21,7 +21,7 @@ B. Verbos
 
 2. atenizo (ἀôåíßæù, [[G816]]), de atenes, tenso, atento, denota mirar fijando la vista, traducido «fijar la vista» en 2Co_3:7; «fijarán la vista», v. 13. Véanse FIJAR, A, Nº 1, MIRAR, Nº 7, etc.
 
-3. muopazo (ìõùðÜæù, [[G3467]]), ser corto de vista (muo, cerrar; ops, ojo; cf. los términos castellanos miope, miopía), se traduce «tiene la vista muy corta» (2Pe_1:9; vm: «teniendo cerrados los ojos»; Besson: «muy corto de vista»; nvi: «es un miope»). Véase CORTO, Nº 1.
+3. muopazo (μυωπάζω, [[G3467]]), ser corto de vista (muo, cerrar; ops, ojo; cf. los términos castellanos miope, miopía), se traduce «tiene la vista muy corta» (2Pe_1:9; vm: «teniendo cerrados los ojos»; Besson: «muy corto de vista»; nvi: «es un miope»). Véase CORTO, Nº 1.
 
 Nota: Para prosopon, traducido «no era conocido de vista» (Gál_1:22); «de vista» (1Ts_2:17); véase ROSTRO, Nº 1, etc. 
 

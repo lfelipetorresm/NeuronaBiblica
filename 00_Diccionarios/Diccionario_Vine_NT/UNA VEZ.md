@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#UNAVEZ"]
 
 2. efapax (ἐöÜðáî, [[G2178]]), forma intensificada de Nº 1 (epi, sobre), significa: (a) «una vez por todas» (Rom_6:10); «una vez para siempre» (Heb_7:27; Heb_9:12; Heb_10:10); (b) a la vez (1Co_15:6).¶
 
-3. pote (ðïôÝ, [[G4218]]), significa una vez, en otro tiempo. Se emplea en Luc_22:32 en el sentido de «cuando». Veáse TIEMPO, B, Nº 7, etc. 
+3. pote (ποτέ, [[G4218]]), significa una vez, en otro tiempo. Se emplea en Luc_22:32 en el sentido de «cuando». Veáse TIEMPO, B, Nº 7, etc. 
 
 

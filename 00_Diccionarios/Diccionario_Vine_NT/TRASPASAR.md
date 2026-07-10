@@ -9,15 +9,15 @@ etiquetas: ["#Diccionario", "#VineNT", "#TRASPASAR"]
 
 Con El Significado de Transgredir
 
-1. parercomai (ðáñÝñ÷ïìáé, [[G3928]]), pasar por el lado (para, al lado; ercomai, venir), pasar más allá, y por ello, metafóricamente, transgredir. Se traduce «no habiéndote desobedecido jamás»; lit. y como lo traduce la vm: «sin haber nunca traspasado tu mandamiento»; cf. F. Lacueva, Nuevo Testamento Interlineal, loc. cit.; véase PASAR, A, Nº 2, etc.
+1. parercomai (παρέρχομαι, [[G3928]]), pasar por el lado (para, al lado; ercomai, venir), pasar más allá, y por ello, metafóricamente, transgredir. Se traduce «no habiéndote desobedecido jamás»; lit. y como lo traduce la vm: «sin haber nunca traspasado tu mandamiento»; cf. F. Lacueva, Nuevo Testamento Interlineal, loc. cit.; véase PASAR, A, Nº 2, etc.
 
 Con El Significado Físico de Atravesar
 
-2. diercomai (äéÝñ÷ïìáé, [[G1330]]), ir a través. Se traduce «una espada traspasará» (Luc_2:35); en Heb_4:14, de Cristo, que traspasó los cielos creados hacia el trono de Dios; véanse ANDAR, ATRAVESAR, IR, y, especialmente, PASAR, A, Nº 3.
+2. diercomai (διέρχομαι, [[G1330]]), ir a través. Se traduce «una espada traspasará» (Luc_2:35); en Heb_4:14, de Cristo, que traspasó los cielos creados hacia el trono de Dios; véanse ANDAR, ATRAVESAR, IR, y, especialmente, PASAR, A, Nº 3.
 
 3. ekkenteo (ἐêêåíôÝù, [[G1574]]), primariamente, pinchar para afuera (ek, fuera; kenteo, pinchar), significa traspasar (Jua_19:37; Apo_1:7).¶
 
-4. peripeiro (ðåñéðåßñù, [[G4044]]), poner en un espetón, y, por ello, atravesar, traspasar. Se emplea metafóricamente en 1Ti_6:10, de atormentar el alma de uno con muchos dolores: «fueron traspasados de muchos dolores».¶
+4. peripeiro (περιπείρω, [[G4044]]), poner en un espetón, y, por ello, atravesar, traspasar. Se emplea metafóricamente en 1Ti_6:10, de atormentar el alma de uno con muchos dolores: «fueron traspasados de muchos dolores».¶
 
 Notas: (1) Para metatithemi, traducido «os hayáis traspasado» (Gál_1:6,, «os hayáis alejado»), véase ALEJAR, Nº 4; véanse también CAMBIAR, TRASLADAR, TRASPONER.
 

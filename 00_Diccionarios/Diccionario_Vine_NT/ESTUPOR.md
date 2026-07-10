@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ESTUPOR"]
 
 # ESTUPOR
 
-katanuxis (êáôÜíõîéò, [[G2659]]), aguijonamiento (relacionado con katanuáo, golpear o aguijonear violentamente, Hch_2:37). Se usa en Rom_11:8 : «estupor» (rv: «remordimiento»; rvr77: «sopor»; lba«estupor»; Besson: «entorpecimiento»). Se sugiere que este significado surgió de la influencia del verbo katanustazo, cabecear o caer dormido (Field, Notes on the Translation of the NT .). Es evidente que lo que se significa es el embotamiento del sentido espiritual.¶ En la lxx, Sal_60:3; Isa_29:10.¶ 
+katanuxis (κατάνυξις, [[G2659]]), aguijonamiento (relacionado con katanuáo, golpear o aguijonear violentamente, Hch_2:37). Se usa en Rom_11:8 : «estupor» (rv: «remordimiento»; rvr77: «sopor»; lba«estupor»; Besson: «entorpecimiento»). Se sugiere que este significado surgió de la influencia del verbo katanustazo, cabecear o caer dormido (Field, Notes on the Translation of the NT .). Es evidente que lo que se significa es el embotamiento del sentido espiritual.¶ En la lxx, Sal_60:3; Isa_29:10.¶ 
 
 

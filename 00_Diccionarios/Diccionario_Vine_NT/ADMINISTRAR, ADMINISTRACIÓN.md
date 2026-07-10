@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ADMINISTRAR,ADMINISTRACIÓN"]
 
 A. Verbo
 
-diakoneo (äéáêïíÝù, [[G1247]]), servir. Se traduce «administrar» en 2Co_8:19-20; 1Pe_1:1. Véase SERVIR. También se traduce como ayudar, diaconado (ejercer el), expedir, ministrar.
+diakoneo (διακονέω, [[G1247]]), servir. Se traduce «administrar» en 2Co_8:19-20; 1Pe_1:1. Véase SERVIR. También se traduce como ayudar, diaconado (ejercer el), expedir, ministrar.
 
 B. Nombre
 

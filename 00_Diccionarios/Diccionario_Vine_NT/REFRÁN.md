@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#REFRÁN"]
 
 # REFRÁN
 
-paroimia (ðáñïéìßá, [[G3942]]), denotando un dicho al lado del camino (de paroimos, al lado del camino), se traduce «refrán» en 2Pe_2:22 (vm, Besson; rv, rvr: «proverbio»). Véase ALEGORÍA. 
+paroimia (παροιμία, [[G3942]]), denotando un dicho al lado del camino (de paroimos, al lado del camino), se traduce «refrán» en 2Pe_2:22 (vm, Besson; rv, rvr: «proverbio»). Véase ALEGORÍA. 
 
 

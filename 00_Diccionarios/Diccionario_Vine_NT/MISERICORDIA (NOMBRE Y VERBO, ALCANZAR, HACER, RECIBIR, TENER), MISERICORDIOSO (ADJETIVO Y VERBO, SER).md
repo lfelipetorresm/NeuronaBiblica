@@ -23,7 +23,7 @@ B. Verbos
 
 1. eleeo (ἐëåÝù, [[G1653]]), relacionado con A, Nº 1, significa, en general, sentir simpatía con otra persona en su miseria, y especialmente simpatía manifestada en actos. (a) En la voz activa, tener compasión o misericordia de, mostrar misericordia a (p.ej., Mat_9:27; Mat_15:22; Mat_17:15; Mat_18:33; Mat_20:30-31; tres veces en Marcos, cuatro en Lucas; Rom_9:15-16, Rom_9:18; Rom_11:32; Rom_12:8; Fil_2:27; Jud_1:22,23); (b) en la voz pasiva, que se le dé a uno misericordia o compasión, alcanzar o recibir misericordia (Mat_5:7; Rom_11:30-31; 1Co_7:25; 2Co_4:1; 1Ti_1:13, 1Ti_1:16; 1Pe_2:10). Véanse ALCANZAR, HACER MISERICORDIA, RECIBIR.
 
-2. splancnizomai (óðëáã÷íßæïìáé, [[G4697]]), ser movido a compasión, a misericordia. Se traduce «movido a misericordia» (Mat_18:27); «teniendo misericordia» (Mar_1:41); Mar_9:22 : «ten misericordia»; Luc_10:33 y 15:20: «fue movido a misericordia». Véase COMPADECER, A, Nº 2, para el estudio de la palabra.
+2. splancnizomai (σπλαγχνίζομαι, [[G4697]]), ser movido a compasión, a misericordia. Se traduce «movido a misericordia» (Mat_18:27); «teniendo misericordia» (Mar_1:41); Mar_9:22 : «ten misericordia»; Luc_10:33 y 15:20: «fue movido a misericordia». Véase COMPADECER, A, Nº 2, para el estudio de la palabra.
 
 3. oikteiro u oiktiro (ïἰêôßñù, [[G3627]]), relacionado con A, Nº 2, tener compasión de (de oiktos, compasión; oi es una interjección, = ¡oh!). Se usa en Rom_9:15 (dos veces), donde sigue al Nº 1; lo que se establece aquí y en Éxo_33:19, de la lxx, de donde se cita, es que la misericordia y compasión de Dios no son determinadas por nada externo a sus atributos. Hablando generalmente, oiktiro es un término más intenso que eleeo .
 
@@ -35,11 +35,11 @@ C. Adjetivos.
 
 2. eusplancnos (åὔóðëáã÷íïò, [[G2155]]), compasivo, de corazón tierno, lit: «de buen corazón» (eu, bien, y splancnon, véase ). Se traduce «misericordiosos» en Efe_4:32; 1Pe_3:8.¶
 
-3. polusplancnos (ðïëýóðëáã÷íïò, [[G4184]]), denota muy compasivo o lleno de compasión (polus, muy; splanchnon, corazón); en plural, los afectos, cf. Nº 2. Se usa en Stg_5:11 : «muy misericordioso».¶
+3. polusplancnos (πολύσπλαγχνος, [[G4184]]), denota muy compasivo o lleno de compasión (polus, muy; splanchnon, corazón); en plural, los afectos, cf. Nº 2. Se usa en Stg_5:11 : «muy misericordioso».¶
 
 4. oiktirmon (ïἰêôßñìùí, [[G3629]]), compasivo, misericordioso hacia los males de otros. Es término más intenso que el Nº 1 (relacionado con A, Nº 2). Se lo utiliza dos veces en Luc_6:36 : «misericordiosos»; Stg_5:11 : «compasivo».¶
 
-5. aneleos o anileos (ἀíÝëåïò o áíßëåùò, [[G448]]), inmisericorde o sin misericordia (a, privativo; n, eufónico, y A, Nº 1, o jileos, véase PROPICIO). Se utiliza en Stg_2:13, «sin misericordia», y se dice del juicio que recaerá sobre el que no muestre misericordia.¶
+5. aneleos o anileos (ἀíÝëåïò o ανίλεως, [[G448]]), inmisericorde o sin misericordia (a, privativo; n, eufónico, y A, Nº 1, o jileos, véase PROPICIO). Se utiliza en Stg_2:13, «sin misericordia», y se dice del juicio que recaerá sobre el que no muestre misericordia.¶
 
 6. aneleemon (ἀíåëåÞìùí, [[G415]]), sin misericordia (a, privativo; n, eufónico, y Nº 1). Se utiliza en Rom_1:21.¶
 

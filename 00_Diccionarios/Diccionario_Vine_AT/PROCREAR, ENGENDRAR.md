@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PROCREAR,ENGENDRAR"]
 
 A. Verbo
 
-yalad (éÈìÇã, [[H3205]]), «procrear, dar a luz, engendrar, generar». Este verbo se halla en todas las lenguas semíticas y en casi todas las formas verbales. La excepción más notable es en arameo bíblico. Si embargo, el verbo arameo se encuentra ampliamente fuera de la Biblia. El verbo yalad está unas 490 veces en la Biblia.
+yalad (יָלַד, [[H3205]]), «procrear, dar a luz, engendrar, generar». Este verbo se halla en todas las lenguas semíticas y en casi todas las formas verbales. La excepción más notable es en arameo bíblico. Si embargo, el verbo arameo se encuentra ampliamente fuera de la Biblia. El verbo yalad está unas 490 veces en la Biblia.
 
 En esencia, el vocablo se refiere a la acción de «dar a luz» y a su resultado, «procrear, engendrar» hijos. Dios maldijo a la mujer multiplicando su dolor en el parto (cf. Gén_3:16 : primer caso de yalad). La segunda acepción tiene un ejemplo en Gén_4:18, donde se registra que Irad «engendró» a Mehujael. Este verbo también puede usarse en relación a animales; en Gén_30:39, los fuertes entre el ganado de Labán «engendraron» crías listadas, pintadas y salpicadas.
 
@@ -23,7 +23,7 @@ La Septuaginta traduce yalad con términos que expresan «dar a luz» (tinknein)
 
 B. Nombre
 
-yeled (éÆÆìÆã, [[H3206]]), «muchacho; niño». El nombre yeled difiere de ben («hijo») porque especifica con mayor claridad la relación paternal. Por ejemplo, la criatura que Noemí crió fue un «niño» (Rut_4:16).
+yeled (יֶֶלֶד, [[H3206]]), «muchacho; niño». El nombre yeled difiere de ben («hijo») porque especifica con mayor claridad la relación paternal. Por ejemplo, la criatura que Noemí crió fue un «niño» (Rut_4:16).
 
 Yeled, que aparece 89 veces en la Biblia, se traduce con varios vocablos en la Septuaginta. Otros nombres que se construyen a base de yalad incluyen yaldah («niña»; 3 veces), yalîd («hijo» o «esclavo»: 3 veces), yillôd («recién nacido»; 5 veces), walad («criatura»; una vez), ledah («dar a luz» o «alumbramiento»; 4 veces), môledet («progenie, parentesco, linaje»; 22 veces) y tôledôt («descendientes, contemporáneos, generación, genealogía, registro familiar»; 39 veces). 
 

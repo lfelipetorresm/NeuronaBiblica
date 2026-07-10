@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#POLVO"]
 
 # POLVO
 
-'apar (òÈôÈø, [[H6083]]), «polvo; terrones; yeso; ceniza». Se encuentran cognados de este vocablo en ugarítico, acádico, arameo, siríaco y arábigo. Aparece unas 110 veces en todas las épocas del hebreo bíblico.
+'apar (עָפָר, [[H6083]]), «polvo; terrones; yeso; ceniza». Se encuentran cognados de este vocablo en ugarítico, acádico, arameo, siríaco y arábigo. Aparece unas 110 veces en todas las épocas del hebreo bíblico.
 
 El nombre se refiere a «tierra suelta y porosa» o sea «polvo». En la primera ocasión en que se usa en la Biblia, 'apar parece significar eso mismo, «tierra suelta y porosa»: «Entonces Jehová Dios formó al hombre del polvo de la tierra. Sopló en su nariz aliento de vida» (Gén_2:7). En Gén_13:16, el término se refiere a las «partículas más menudas del suelo»: «Yo haré que tu descendencia sea como el polvo de la tierra» (rva). Cuando se escribe en plural, el nombre puede significar un «montón de polvo» o sea «terrones»: «No había hecho aún la tierra, y la hierba, ni los primeros terrones del orbe» (Pro_8:26 nbe ; «ni el principio del polvo del mundo» rvr, cf. nrv ; «polvo primordial» nvi, cf. bj ; «polvo primero» lba).
 

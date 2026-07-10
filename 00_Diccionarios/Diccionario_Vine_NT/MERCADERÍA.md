@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#MERCADERÍA"]
 
 A. Nombre
 
-gomos (ãüìïò, [[G1117]]), se traduce «mercadería» en Apo_18:11-12; véase CARGAMENTO en CARGAR, B, Nº 3.
+gomos (γόμος, [[G1117]]), se traduce «mercadería» en Apo_18:11-12; véase CARGAMENTO en CARGAR, B, Nº 3.
 
 B. Verbo
 

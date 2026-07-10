@@ -17,12 +17,12 @@ etiquetas: ["#Diccionario", "#VineNT", "#PARAQUE,PARAQUENO"]
 
 5. joste (ὅóôç, [[G5620]]), partícula consecutiva, se traduce «para que» en 1Pe_1:21. Véanse MANERA, MODO, etc.
 
-6. me (ìÞ, [[G3165]]), partícula negativa utilizada frecuentemente como conjunción, se traduce en ocasiones «para que no» (p.ej., Mar_13:36); en Hch_13:40 tiene este sentido, lit., «para que no venga sobre vosotros».
+6. me (μή, [[G3165]]), partícula negativa utilizada frecuentemente como conjunción, se traduce en ocasiones «para que no» (p.ej., Mar_13:36); en Hch_13:40 tiene este sentido, lit., «para que no venga sobre vosotros».
 
-7. jina me (ἵíá ìÞ, [[G3363]]), a fin de que no. Se traduce «para que no» en pasajes como Mat_7:1; Mat_26:5, etc.; Luc_16:28. Véanse QUE NO, NO SEA QUE.
+7. jina me (ἵíá μή, [[G3363]]), a fin de que no. Se traduce «para que no» en pasajes como Mat_7:1; Mat_26:5, etc.; Luc_16:28. Véanse QUE NO, NO SEA QUE.
 
-8. mepote o me pote (ìÞðïôå, [[G3379]]), denota no sea que, si quizás, para que no. Se traduce «para que no» en Mat_4:6; Mat_13:15; Mar_4:12; véanse NO SEA QUE, QUE NO, SI ACASO, SI QUIZA.
+8. mepote o me pote (μήποτε, [[G3379]]), denota no sea que, si quizás, para que no. Se traduce «para que no» en Mat_4:6; Mat_13:15; Mar_4:12; véanse NO SEA QUE, QUE NO, SI ACASO, SI QUIZA.
 
-9. mepos (ìÞðùò, [[G3381]]), utilizada como conjunción, denota no sea que, si de alguna manera. Se traduce «para que no» en 2Co_2:7. Véanse MANERA, D, Nº 5, NO SEA QUE. 
+9. mepos (μήπως, [[G3381]]), utilizada como conjunción, denota no sea que, si de alguna manera. Se traduce «para que no» en 2Co_2:7. Véanse MANERA, D, Nº 5, NO SEA QUE. 
 
 

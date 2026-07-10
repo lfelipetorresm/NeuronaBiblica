@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SIRTE"]
 
 # SIRTE
 
-surtis (óýñôéò, [[G4950]]),: «la Sirte» Mayor y la Menor se encuentran en la costa septentrional de África, entre los cabos de Túnez y Barce; el actual Golfo de Sidra es la Sirte Mayor. Desde la más remota antigüedad han sido consideradas por los marinos como peligrosas para la navegación, tanto por los bancos de arena como por las corrientes cruzadas de las aguas. En el viaje descrito en Hch_27:17 la nave había dejado el refugio de la isla de Clauda, e iba a la deriva, impelida por el viento Euroclidon, un viento del noreste. Bien podían temer los marinos quedar encallados en las Sirtes llevando tal rumbo. Sin embargo, el carácter cambiante de esta tempestad los llevó finalmente al mar Adriático.¶ 
+surtis (σύρτις, [[G4950]]),: «la Sirte» Mayor y la Menor se encuentran en la costa septentrional de África, entre los cabos de Túnez y Barce; el actual Golfo de Sidra es la Sirte Mayor. Desde la más remota antigüedad han sido consideradas por los marinos como peligrosas para la navegación, tanto por los bancos de arena como por las corrientes cruzadas de las aguas. En el viaje descrito en Hch_27:17 la nave había dejado el refugio de la isla de Clauda, e iba a la deriva, impelida por el viento Euroclidon, un viento del noreste. Bien podían temer los marinos quedar encallados en las Sirtes llevando tal rumbo. Sin embargo, el carácter cambiante de esta tempestad los llevó finalmente al mar Adriático.¶ 
 
 

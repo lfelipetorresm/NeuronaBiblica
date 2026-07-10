@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DISTINCIÓN,DISTINGUIDO,DISTINGUIR"]
 
 A. Nombres
 
-1. diastole (äéáóôïëÞ, [[G1293]]), véase DIFERENCIA, B.
+1. diastole (διαστολή, [[G1293]]), véase DIFERENCIA, B.
 
 2. eusquemon (åὑó÷Þìùí, [[G2158]]), significa elegante, decoroso, de posición honrosa. Se traduce «de distinción» en Hch_17:12. Véase DECENTE, DECOROSO, HONESTO, NOBLE.
 
@@ -23,8 +23,8 @@ El grado comparativo, entimoteros se usa, en los mss. más acreditados, de grado
 
 C. Verbos
 
-1. diakrino (äéáêñßíù, [[G1252]]), lit: separar totalmente (dia, aparte), hacer distinción. Se traduce «distinguir» en 1Co_4:7; en Mat_16:3, se usa de discriminar entre las variables condiciones del cielo. Véanse DIFERENCIA, DISCERNIR, DISPUTAR, DUDAR, EXAMINAR, JUZGAR.
+1. diakrino (διακρίνω, [[G1252]]), lit: separar totalmente (dia, aparte), hacer distinción. Se traduce «distinguir» en 1Co_4:7; en Mat_16:3, se usa de discriminar entre las variables condiciones del cielo. Véanse DIFERENCIA, DISCERNIR, DISPUTAR, DUDAR, EXAMINAR, JUZGAR.
 
-2. dokimazo (äïêéìÜæù, [[G1381]]), significa someter a prueba, probar, examinar, con el fin de decidir. Se traduce «distinguir» en Luc_12:56, del estado del cielo; véanse APROBAR, COMPROBAR, DESIGNAR, DISTINGUIR, EXAMINAR, PONER, PROBAR, PRUEBA, SOMETER. 
+2. dokimazo (δοκιμάζω, [[G1381]]), significa someter a prueba, probar, examinar, con el fin de decidir. Se traduce «distinguir» en Luc_12:56, del estado del cielo; véanse APROBAR, COMPROBAR, DESIGNAR, DISTINGUIR, EXAMINAR, PONER, PROBAR, PRUEBA, SOMETER. 
 
 

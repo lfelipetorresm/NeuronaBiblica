@@ -9,10 +9,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#PUERTO"]
 
 A. Nombre
 
-limen (ëéìÞí, [[G3040]]), se menciona en Hch_27:8 : «Buenos Puertos», y v. 12, dos veces. Buenos Puertos es un nombre compuesto con el adjetivo kalos, hermoso, bello de apariencia. Véase también BIEN, C, Nº 4. La primera mención que se encuentra de puertos en la Biblia es en Gén_49:13.¶
+limen (λιμήν, [[G3040]]), se menciona en Hch_27:8 : «Buenos Puertos», y v. 12, dos veces. Buenos Puertos es un nombre compuesto con el adjetivo kalos, hermoso, bello de apariencia. Véase también BIEN, C, Nº 4. La primera mención que se encuentra de puertos en la Biblia es en Gén_49:13.¶
 
 B. Verbo
 
-parabalo (ðáñáâÜëëù, [[G3846]]), (para, al lado de; balo, arrojar), significa, en su acepción náutica, «tocar en», traducido «tomamos puerto» (Hch_20:15, rv, rvr; vm: «arribamos»), o, quizá, cruzar, de un lugar a otro (rvr77 traduce «cruzamos»); cf. F. Lacueva, Nuevo Testamento Interlineal, loc. cit.). En Mar_4:30 este verbo aparece en tr («compararemos»); los textos más comúnmente aceptados tienen tithemi, exponer (junto con «parábola»). Véase COMPARAR, Nº 2.¶ 
+parabalo (παραβάλλω, [[G3846]]), (para, al lado de; balo, arrojar), significa, en su acepción náutica, «tocar en», traducido «tomamos puerto» (Hch_20:15, rv, rvr; vm: «arribamos»), o, quizá, cruzar, de un lugar a otro (rvr77 traduce «cruzamos»); cf. F. Lacueva, Nuevo Testamento Interlineal, loc. cit.). En Mar_4:30 este verbo aparece en tr («compararemos»); los textos más comúnmente aceptados tienen tithemi, exponer (junto con «parábola»). Véase COMPARAR, Nº 2.¶ 
 
 

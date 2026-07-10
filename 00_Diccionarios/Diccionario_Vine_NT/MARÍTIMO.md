@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MARÍTIMO"]
 
 # MARÍTIMO
 
-parathalaáios (ðáñáèáëÜóóéïò, [[G3864]]), al lado del mar (para, lado, y thalaáa, véase MAR, Nº 1). Se usa en Mat_4:13 : «ciudad marítima».¶ 
+parathalaáios (παραθαλάσσιος, [[G3864]]), al lado del mar (para, lado, y thalaáa, véase MAR, Nº 1). Se usa en Mat_4:13 : «ciudad marítima».¶ 
 
 

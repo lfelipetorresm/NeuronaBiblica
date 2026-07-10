@@ -7,9 +7,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#CASI"]
 
 # CASI
 
-1. squedon (scedon) (ó÷åäüí, [[G4975]]), es un adverbio usado: (a) de localidad (Hch_19:26), o (b) de grado (Hch_13:44; Heb_9:22).¶
+1. squedon (scedon) (σχεδόν, [[G4975]]), es un adverbio usado: (a) de localidad (Hch_19:26), o (b) de grado (Hch_13:44; Heb_9:22).¶
 
-2. pou (ðïý, [[G4225]]), partícula indefinida que significa «en alguna parte», en algún lugar, casi. Tiene un significado limitativo con numerales (p.ej., Rom_4:19). Al referirse a un cierto pasaje del AT, se traduce como «en cierto lugar» en Heb_2:6 y 4:4; al no mencionar cuál era el pasaje al que se refería, el escritor reconocía lo familiarizados que estaban sus lectores con el AT. Véanse CIERTAMENTE, CIERTO, LUGAR.
+2. pou (πού, [[G4225]]), partícula indefinida que significa «en alguna parte», en algún lugar, casi. Tiene un significado limitativo con numerales (p.ej., Rom_4:19). Al referirse a un cierto pasaje del AT, se traduce como «en cierto lugar» en Heb_2:6 y 4:4; al no mencionar cuál era el pasaje al que se refería, el escritor reconocía lo familiarizados que estaban sus lectores con el AT. Véanse CIERTAMENTE, CIERTO, LUGAR.
 
 3. jos (os) (ὡò, [[G5613]]), significa generalmente «como». Usado con numerales significa «alrededor de» (p.ej., Mar_5:13; Mar_8:9; Jua_1:40; Jua_6:19; Jua_11:18; Hch_1:15; Apo_8:1, rvr: «como»). Como «casi» se traduce solo en 2Pe_3:16 (rvr; vha: «como también»). Véanse COMO, LUEGO, MANERA, MODO.
 

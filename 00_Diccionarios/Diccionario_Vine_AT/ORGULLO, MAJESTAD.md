@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#ORGULLO,MAJESTAD"]
 
 A. Verbo
 
-ga'ah (âÌÈàÈä, [[H1342]]), «ser orgulloso, enaltecer». Este verbo se encuentra 7 veces en hebreo bíblico. Aparece en Éxo_15:1 en el sentido de «enaltecer»: «¡Cantaré a Jehová, pues se ha enaltecido grandemente [«ha triunfado» lba]! ¡Ha arrojado al mar caballos y jinetes!» (rva).
+ga'ah (גָּאָה, [[H1342]]), «ser orgulloso, enaltecer». Este verbo se encuentra 7 veces en hebreo bíblico. Aparece en Éxo_15:1 en el sentido de «enaltecer»: «¡Cantaré a Jehová, pues se ha enaltecido grandemente [«ha triunfado» lba]! ¡Ha arrojado al mar caballos y jinetes!» (rva).
 
 B. Nombres
 
-ga'ôn (âÌÈàåéï, [[H1347]]), «orgullo». Esta raíz se encuentra únicamente en las lenguas semíticas del noroeste, como ugarítico: gan, «orgullo». El nombre es un término poético que solo se halla en los libros poéticos, los profetas (12 veces en Isaías), la canción de Moisés (Éxo_15:7) y en Levítico (Éxo_26:19). En hebreo rabínico, ga'ôn se refiere a un hombre de grandes conocimientos. Un ga'ôn encabezaba las academias rabínicas de Susa y Pumbadita en Babilonia. El gaón Sa'adyà fue uno de los más destacados.
+ga'ôn (גָּאוין, [[H1347]]), «orgullo». Esta raíz se encuentra únicamente en las lenguas semíticas del noroeste, como ugarítico: gan, «orgullo». El nombre es un término poético que solo se halla en los libros poéticos, los profetas (12 veces en Isaías), la canción de Moisés (Éxo_15:7) y en Levítico (Éxo_26:19). En hebreo rabínico, ga'ôn se refiere a un hombre de grandes conocimientos. Un ga'ôn encabezaba las academias rabínicas de Susa y Pumbadita en Babilonia. El gaón Sa'adyà fue uno de los más destacados.
 
 En un sentido positivo ga'ôn, como el verbo, quiere decir «excelencia» o «majestad». La majestad de Dios se manifestó liberando a Israel y atravesando el Mar Rojo (Éxo_15:7). Por tanto, Israel, como pueblo redimido se considera una expresión de la «majestad» de Dios: «él nos escoge nuestra heredad, la gloria [«hermosura» rvr ; «orgullo» rva, nvi, bj, nbe] de Jacob a quien él ama» (Sal_47:4 lba, cf. bla). En este contexto, el significado de ga'ôn está muy próximo al de kabôd, «gloria».
 

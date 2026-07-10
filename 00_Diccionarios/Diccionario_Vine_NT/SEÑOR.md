@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#SEÑOR"]
 
 A. Nombres
 
-1. kurios (êýñéïò, [[G2962]]), propiamente adjetivo, que significa la posesión de poder (kuros) o autoridad. Se utiliza como nombre, y se traduce en la Escritura bien como «amo» o «señor», siendo un título de amplio significado que aparece en cada uno de los libros del NT, excepto en Tito y las Epístolas de Juan. Se utiliza: (a) de un propietario, como en Luc_19:39, cf. Mat_20:8; Hch_16:16; Gál_4:1; o de uno que tiene cosas a su disposición, como el sábado (Mat_12:8); (b) de un amo, esto es, alguien a quien debe prestársele servicio por cualquier razón (Mat_6:24; Mat_24:50; Efe_6:5); (c) de un emperador o rey (Hch_25:26; Apo_17:14); (d) de ídolos, en sentido irónico (1Co_8:5, cf. Isa_26:13); (e) como título de respeto dirigido a un padre (Mat_21:30), un marido (1Pe_3:6), un amo (Mat_13:27; Luc_13:8), un gobernante (Mat_27:63), un ángel (Hch_10:4; Apo_7:14); (f) como título de cortesía dirigido a un extraño (Jua_12:21; Jua_20:15; Hch_16:30); desde el comienzo de su ministerio, esta fue la forma común de tratamiento dada al Señor Jesús, tanto por el pueblo (Mat_8:2; Jua_4:11), como por sus discípulos (Mat_8:25; Luc_5:8; Jua_6:68); (g) kurios es la forma en que la lxx y el NT traducen el hebreo Jehová, véase Mat_4:7; Stg_5:11; y también Adon, Señor (Mat_22:44), y Adonai, Señor (Mat_1:22); también se utiliza para traducir Elohim, Dios (1Pe_1:25).
+1. kurios (κύριος, [[G2962]]), propiamente adjetivo, que significa la posesión de poder (kuros) o autoridad. Se utiliza como nombre, y se traduce en la Escritura bien como «amo» o «señor», siendo un título de amplio significado que aparece en cada uno de los libros del NT, excepto en Tito y las Epístolas de Juan. Se utiliza: (a) de un propietario, como en Luc_19:39, cf. Mat_20:8; Hch_16:16; Gál_4:1; o de uno que tiene cosas a su disposición, como el sábado (Mat_12:8); (b) de un amo, esto es, alguien a quien debe prestársele servicio por cualquier razón (Mat_6:24; Mat_24:50; Efe_6:5); (c) de un emperador o rey (Hch_25:26; Apo_17:14); (d) de ídolos, en sentido irónico (1Co_8:5, cf. Isa_26:13); (e) como título de respeto dirigido a un padre (Mat_21:30), un marido (1Pe_3:6), un amo (Mat_13:27; Luc_13:8), un gobernante (Mat_27:63), un ángel (Hch_10:4; Apo_7:14); (f) como título de cortesía dirigido a un extraño (Jua_12:21; Jua_20:15; Hch_16:30); desde el comienzo de su ministerio, esta fue la forma común de tratamiento dada al Señor Jesús, tanto por el pueblo (Mat_8:2; Jua_4:11), como por sus discípulos (Mat_8:25; Luc_5:8; Jua_6:68); (g) kurios es la forma en que la lxx y el NT traducen el hebreo Jehová, véase Mat_4:7; Stg_5:11; y también Adon, Señor (Mat_22:44), y Adonai, Señor (Mat_1:22); también se utiliza para traducir Elohim, Dios (1Pe_1:25).
 
 «Así, la utilización de la palabra en el NT sigue dos líneas principales: una –a –f, común y general, y la otra, g, peculiar de los judíos, derivada de la traducción griega del AT.
 
@@ -33,7 +33,7 @@ A. Nombres
 
 »El título «Señor», dado al Salvador, reposa en su pleno significado sobre la resurrección (Hch_2:36; Rom_10:9; Rom_14:9), y solo se entra en su realidad en el Espíritu Santo (1Co_12:3)» (de Notes on Theáalonians, de Hogg y Vine, p. 25).
 
-2. despotes (äåóðüôçò, [[G1203]]), amo, señor, uno que posee autoridad suprema. Se utiliza como título para dirigirse a Dios en Luc_2:29; Hch_4:24 : «Soberano Señor» (rv, vm: «Señor»); Apo_6:10; con, referencia a Cristo (2Ti_2:21; 2Pe_2:1); se traduce «amos» en 1Ti_6:1-2; Tit_2:9; 1Pe_2:18. Véase AMO.¶
+2. despotes (δεσπότης, [[G1203]]), amo, señor, uno que posee autoridad suprema. Se utiliza como título para dirigirse a Dios en Luc_2:29; Hch_4:24 : «Soberano Señor» (rv, vm: «Señor»); Apo_6:10; con, referencia a Cristo (2Ti_2:21; 2Pe_2:1); se traduce «amos» en 1Ti_6:1-2; Tit_2:9; 1Pe_2:18. Véase AMO.¶
 
 3. oikodespotes (ïἰêïäåóðüôçò, [[G3617]]),: «señor de la casa» (oikos, casa; y Nº 2), así traducido en Mar_14:14. Se traduce mayormente: «padre de familia». Véanse FAMILIA, A, Nº 5, PADRE, A, Nº 2.
 
@@ -43,14 +43,14 @@ Notas: (1) En pasajes como Hch_6:7, rv sigue una variante textual con muy poca a
 
 B. Verbo
 
-kurieuo (êõñéåýù, [[G2961]]), denota ser señor de, ejercer señorío sobre, enseñorearse de, y se traduce «ser Señor» en Rom_14:9; «de señores» en 1Ti_6:15 (lit., «los que señorean»). Con el verbo enseñorearse se traduce en Luc_22:25; Rom_6:9 (vm: «no tiene más dominio»); v. 14 (vm: «no tendrá dominio»); Rom_7:1 (vm: «tiene dominio»); 2Co_1:24 (vm: «tengamos dominio»). Véase ENSEÑOREARSE, Nº 1.¶
+kurieuo (κυριεύω, [[G2961]]), denota ser señor de, ejercer señorío sobre, enseñorearse de, y se traduce «ser Señor» en Rom_14:9; «de señores» en 1Ti_6:15 (lit., «los que señorean»). Con el verbo enseñorearse se traduce en Luc_22:25; Rom_6:9 (vm: «no tiene más dominio»); v. 14 (vm: «no tendrá dominio»); Rom_7:1 (vm: «tiene dominio»); 2Co_1:24 (vm: «tengamos dominio»). Véase ENSEÑOREARSE, Nº 1.¶
 
 C. Adjetivo
 
-kuriakos (êõñéáêüò, [[G2960]]), de kurios (véase A, Nº 1), significa perteneciente a un señor o amo. Solo se utiliza con referencia a Cristo; en 1Co_11:20, de la cena del Señor (véase FIESTA); en Apo_1:10, del día del Señor (véase DÍA).¶
+kuriakos (κυριακός, [[G2960]]), de kurios (véase A, Nº 1), significa perteneciente a un señor o amo. Solo se utiliza con referencia a Cristo; en 1Co_11:20, de la cena del Señor (véase FIESTA); en Apo_1:10, del día del Señor (véase DÍA).¶
 
 D. Frase
 
-maran-atha (ìáñÜí -ἀèÜ, [[G3134]]), véase MARANATA. Se traduce «el Señor viene» en 1Co_16:22, rvr (rv: «Maranatha»; Besson, «Maran Atha»; vm: «Maran-atha»; lba: «Maranata»; nvi: «¡Señor, ven!»).¶ 
+maran-atha (μαράν -ἀèÜ, [[G3134]]), véase MARANATA. Se traduce «el Señor viene» en 1Co_16:22, rvr (rv: «Maranatha»; Besson, «Maran Atha»; vm: «Maran-atha»; lba: «Maranata»; nvi: «¡Señor, ven!»).¶ 
 
 

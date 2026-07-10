@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SACIAR"]
 
 # SACIAR
 
-saba' (ùÒÈáÇò, [[H7646]]), «satisfecho, saciado, harto, hastiado». El vocablo se encuentra en acádico y ugarítico, así como en todos los períodos del hebreo. En el Antiguo Testamento hebraico aparece unas 96 veces. La primera vez que se usa en el texto veterotestamentario, saba' expresa el sentimiento de «llenura o saciedad»: «Jehová os dará en la tarde carne para comer, y en la mañana pan hasta saciaros» (Éxo_16:8). Como en este caso, el término se usa a menudo en paralelismo con «comer» o «pastar» en el caso de ganado (Jer_50:19). También la tierra puede sentirse «saciada o harta» de lluvia (Job_38:27).
+saba' (שָׂבַע, [[H7646]]), «satisfecho, saciado, harto, hastiado». El vocablo se encuentra en acádico y ugarítico, así como en todos los períodos del hebreo. En el Antiguo Testamento hebraico aparece unas 96 veces. La primera vez que se usa en el texto veterotestamentario, saba' expresa el sentimiento de «llenura o saciedad»: «Jehová os dará en la tarde carne para comer, y en la mañana pan hasta saciaros» (Éxo_16:8). Como en este caso, el término se usa a menudo en paralelismo con «comer» o «pastar» en el caso de ganado (Jer_50:19). También la tierra puede sentirse «saciada o harta» de lluvia (Job_38:27).
 
 En un pasaje de notoria dificultad (Hab_2:5), se dice que el que es dado al vino «no se saciará», nunca tiene suficiente. En lugar de «vino», el Habacuc de los Rollos del Mar Muerto coloca «riqueza», lo cual parece más apropiado en un contexto que señala a Asiria como el foco de la acusación del profeta.
 

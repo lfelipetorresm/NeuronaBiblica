@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#AMIGO"]
 
 # AMIGO
 
-rea' (øÅòÇ, [[H7453]]), «amigo; compañero; camarada». Este nombre aparece cerca de 187 veces en la Biblia. En 2Sa_13:3 el término se refiere a un «amigo»: «Y Amnón tenía un amigo que se llamaba Jonadab». La misma palabra puede usarse para un marido (Jer_3:20) o un amante (Cnt_5:16).
+rea' (רֵעַ, [[H7453]]), «amigo; compañero; camarada». Este nombre aparece cerca de 187 veces en la Biblia. En 2Sa_13:3 el término se refiere a un «amigo»: «Y Amnón tenía un amigo que se llamaba Jonadab». La misma palabra puede usarse para un marido (Jer_3:20) o un amante (Cnt_5:16).
 
 En otro sentido, rea puede referirse a cualquier persona con la que uno tiene relaciones recíprocas: «Y dijeron cada uno a su compañero: Venid y echemos suertes» (Jon_1:7). El término se halla además en frases como «unos a otros», tal es el caso de Gén_11:3 : «Y se dijeron unos a otros» (cf. Gén_31:49).
 

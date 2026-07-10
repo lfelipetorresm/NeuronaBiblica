@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CUADRUPLICADO"]
 
 # CUADRUPLICADO
 
-tetraploos (ôåôñáðëüïò, [[G5073]]), adjetivo. Se halla en Luc_19:8.¶ 
+tetraploos (τετραπλόος, [[G5073]]), adjetivo. Se halla en Luc_19:8.¶ 
 
 

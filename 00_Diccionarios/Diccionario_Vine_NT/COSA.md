@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#COSA"]
 
 # COSA
 
-1. logos (ëüãïò, [[G3056]]), palabra, cuenta, etc. Se traduce «cosa» en Luc_1:4; Hch_20:24; Jud_1:15 : Véanse ASUNTO, CAUSA, CUENTA, DECIR, DERECHO, DICHO, DISCURSO, FAMA, HABLAR, HECHO, MANDAMIENTO, MENSAJE, NOTICIA, PALABRA, PLEITO, PREDICAR, PREGUNTA, PROPUESTA, RUDIMENTO, SENTENCIA, TRATADO, VERBO.
+1. logos (λόγος, [[G3056]]), palabra, cuenta, etc. Se traduce «cosa» en Luc_1:4; Hch_20:24; Jud_1:15 : Véanse ASUNTO, CAUSA, CUENTA, DECIR, DERECHO, DICHO, DISCURSO, FAMA, HABLAR, HECHO, MANDAMIENTO, MENSAJE, NOTICIA, PALABRA, PLEITO, PREDICAR, PREGUNTA, PROPUESTA, RUDIMENTO, SENTENCIA, TRATADO, VERBO.
 
 2. pragma (ðñá̂ãìá, [[G4229]]), véase ASUNTO. Se traduce «cosa» en Mat_18:19; Luc_1:1; Rom_16:2; Heb_6:18; Heb_10:1. Véanse también ALGO, OBRA.
 

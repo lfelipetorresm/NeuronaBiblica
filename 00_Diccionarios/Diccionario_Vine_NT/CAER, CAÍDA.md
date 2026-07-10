@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#CAER,CAÍDA"]
 
 A. Verbos
 
-1. pipto (ðßðôù, [[G4098]]), caer. Se usa: (a) de descenso, de caer de, p.ej., Mat_10:29; Mat_13:4; (b) de una suerte (Hch_1:26); (c) de caer en condenación (Stg_5:12; cf. Apo_18:2); (d) de personas en acto de postrarse, p.ej., Mat_17:6; Jua_1  8:6; Apo_1:17; en homenaje y adoración, p.ej., Mat_2:11; Mar_5:22; Apo_5:14; Apo_19:4; (e) de cosas, cayendo en ruina, p.ej., Mat_7:25; Luc_16:17; Heb_11:30; (f) de caer en juicio sobre personas, como el calor del sol (Apo_7:16); de oscuridad y tinieblas (Hch_13:11; algunos mss. tienen epipito) ; (g) de personas, al caer moral o espiritualmente (Rom_14:4; 1Co_10:8, 1Co_10:12; Apo_2:5; algunos mss. tienen aquí el Nº 3). Véanse FRUSTRAR, POSTRAR.
+1. pipto (πίπτω, [[G4098]]), caer. Se usa: (a) de descenso, de caer de, p.ej., Mat_10:29; Mat_13:4; (b) de una suerte (Hch_1:26); (c) de caer en condenación (Stg_5:12; cf. Apo_18:2); (d) de personas en acto de postrarse, p.ej., Mat_17:6; Jua_1  8:6; Apo_1:17; en homenaje y adoración, p.ej., Mat_2:11; Mar_5:22; Apo_5:14; Apo_19:4; (e) de cosas, cayendo en ruina, p.ej., Mat_7:25; Luc_16:17; Heb_11:30; (f) de caer en juicio sobre personas, como el calor del sol (Apo_7:16); de oscuridad y tinieblas (Hch_13:11; algunos mss. tienen epipito) ; (g) de personas, al caer moral o espiritualmente (Rom_14:4; 1Co_10:8, 1Co_10:12; Apo_2:5; algunos mss. tienen aquí el Nº 3). Véanse FRUSTRAR, POSTRAR.
 
 2. apopipto (ἀðïðßðôù, [[G634]]), caer de (apo, de). Se usa en Hch_9:18, de las escamas que cayeron de los ojos de Saulo de Tarso.¶
 
@@ -21,13 +21,13 @@ A. Verbos
 
 Nota: algunos mss. tienen este verbo en Jua_13:25; Hch_10:10; Hch_13:11. Véanse DESCENDER, ECHAR(SE), SOBREVENIR.¶
 
-6. katapipto (êáôáðßðôù, [[G2667]]), caer abajo (kata, abajo, y Nº 1). Se usa en Luc_8:6 (en los mejores mss.); Hch_26:14; Hch_28:6.¶
+6. katapipto (καταπίπτω, [[G2667]]), caer abajo (kata, abajo, y Nº 1). Se usa en Luc_8:6 (en los mejores mss.); Hch_26:14; Hch_28:6.¶
 
-7. parapipto (ðåñéðßðôù, [[G3895]]), relacionado con A, Nº 2, propiamente, caer en el camino de uno (para, por a), significa caer afuera (de la adhesión a las realidades y a los hechos de la fe; Heb_6:6).¶
+7. parapipto (περιπίπτω, [[G3895]]), relacionado con A, Nº 2, propiamente, caer en el camino de uno (para, por a), significa caer afuera (de la adhesión a las realidades y a los hechos de la fe; Heb_6:6).¶
 
-8. prospipto (ðñïóðßðôù, [[G4363]]), caer hacia cualquier cosa (pros, hacia), golpear en contra, se dice del «viento» (Mat_7:25); significa también caer postrado a los pies de alguien, postrarse ante (Mar_3:11; Mar_5:33; Mar_7:25; Luc_5:8; Luc_8:28, Luc_8:47; Hch_16:29).¶
+8. prospipto (προσπίπτω, [[G4363]]), caer hacia cualquier cosa (pros, hacia), golpear en contra, se dice del «viento» (Mat_7:25); significa también caer postrado a los pies de alguien, postrarse ante (Mar_3:11; Mar_5:33; Mar_7:25; Luc_5:8; Luc_8:28, Luc_8:47; Hch_16:29).¶
 
-9. balo (âÜëëù, [[G906]]), arrojar, lanzar. Se traduce «dejar caer» en Apo_6:13. Véanse ARROJAR, ECHAR, LANZAR, etc.
+9. balo (βάλλω, [[G906]]), arrojar, lanzar. Se traduce «dejar caer» en Apo_6:13. Véanse ARROJAR, ECHAR, LANZAR, etc.
 
 10. episkiazo (ἐðéóêéÜæù, [[G1982]]), arrojar una sombra, cubrir. Se traduce como «caer sobre» en Hch_5:15. Véanse CUBRIR, SOBRE, SOMBRA.¶
 
@@ -35,15 +35,15 @@ Nota: algunos mss. tienen este verbo en Jua_13:25; Hch_10:10; Hch_13:11. Véanse
 
 12. efistemi (ἐößóôçìé, [[G2186]]), lit., estar de pie sobre (epi, sobre, istemi, estar de pie). Se traduce «caer» en Hch_28:2 : «que caía», de la lluvia. Véanse ACERCAR, ACUDIR, ASALTAR, PRESENTAR, etc.
 
-13. katabaino (êáôáâáßíù, [[G2597]]), denota venir (o caer) abajo, descender, y se traduce como «caer» en Luc_22:44, de la sangre del Señor en Getsemaní, y en Apo_16:21, del granizo como juicio sobre los hombres. Véanse ABATIR, BAJAR, DESCENDER, VENIR.
+13. katabaino (καταβαίνω, [[G2597]]), denota venir (o caer) abajo, descender, y se traduce como «caer» en Luc_22:44, de la sangre del Señor en Getsemaní, y en Apo_16:21, del granizo como juicio sobre los hombres. Véanse ABATIR, BAJAR, DESCENDER, VENIR.
 
-14. parabaino (ðáñáâáßíù, [[G3845]]), transgredir, caer (para, aparte, a través, baino, ir). Se traduce «cayó por transgresión» en Hch_1:25. Véanse EXTRAVIARSE, QUEBRANTAR, TRANSGRESION.
+14. parabaino (παραβαίνω, [[G3845]]), transgredir, caer (para, aparte, a través, baino, ir). Se traduce «cayó por transgresión» en Hch_1:25. Véanse EXTRAVIARSE, QUEBRANTAR, TRANSGRESION.
 
-15. pariemi (ðáñßçìé, [[G3935]]), significa: (a) descuidar, dejar, negligir, dejar sin hacer (Luc_11:42; algunos mss. tienen afiemi aquí); (b) relajar, dejar, y, en la voz pasiva, estar relajado, exhausto, dicho de manos caídas en debilidad (Heb_12:12). Véase DEJAR.¶
+15. pariemi (παρίημι, [[G3935]]), significa: (a) descuidar, dejar, negligir, dejar sin hacer (Luc_11:42; algunos mss. tienen afiemi aquí); (b) relajar, dejar, y, en la voz pasiva, estar relajado, exhausto, dicho de manos caídas en debilidad (Heb_12:12). Véase DEJAR.¶
 
-16. ptaio (ðôáßù, [[G4417]]), tropezar. Se traduce «caer» en 2Pe_1:10, rvr . Véanse OFENDER, TROPEZAR.
+16. ptaio (πταίω, [[G4417]]), tropezar. Se traduce «caer» en 2Pe_1:10, rvr . Véanse OFENDER, TROPEZAR.
 
-17. skandalizo (óêáíäáëßæù, [[G4624]]), de skandalon (véase TROPIEZO). Significa poner un lazo o una piedra de tropiezo en el camino, siempre usado metafóricamente en el NT, de la misma manera que el nombre (véase ref. anterior). Se usa 14 veces en Mateo, 8 en Marcos, dos veces en Lucas, dos veces en Juan; en otros pasajes se halla en 1Co_8:13, dos veces; y en 2Co_11:29. Está ausente en los más auténticos mss. en Rom_14:21. Véanse ESCANDALIZAR, OFENDER, TROPEZAR, TROPIEZO.
+17. skandalizo (σκανδαλίζω, [[G4624]]), de skandalon (véase TROPIEZO). Significa poner un lazo o una piedra de tropiezo en el camino, siempre usado metafóricamente en el NT, de la misma manera que el nombre (véase ref. anterior). Se usa 14 veces en Mateo, 8 en Marcos, dos veces en Lucas, dos veces en Juan; en otros pasajes se halla en 1Co_8:13, dos veces; y en 2Co_11:29. Está ausente en los más auténticos mss. en Rom_14:21. Véanse ESCANDALIZAR, OFENDER, TROPEZAR, TROPIEZO.
 
 Nota: El nombre skandalon se traduce como verbo en la cláusula nominal «que hace caer», en 1Pe_2:10. Véanse SERVIR, TROPEZADERO, TROPIEZO.
 

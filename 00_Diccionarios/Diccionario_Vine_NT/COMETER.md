@@ -13,18 +13,18 @@ etiquetas: ["#Diccionario", "#VineNT", "#COMETER"]
 
 3. jierosuleo (ἱåñïóõëÝù, [[G2416]]), robar templos. Se traduce como «cometer sacrilegio» en Rom_2:22 (vm: «¿robas los templos?»). Véase SACRILEGIO.¶
 
-4. katergazomai (êáôåñãÜæïìáé, [[G2716]]), trabajar. Se traduce «cometer» en Rom_1:27. Véanse ACABAR, HACER, OBRAR, OCUPARSE, PRODUCIR.
+4. katergazomai (κατεργάζομαι, [[G2716]]), trabajar. Se traduce «cometer» en Rom_1:27. Véanse ACABAR, HACER, OBRAR, OCUPARSE, PRODUCIR.
 
-5. moiqueuo (ìïé÷åýù, [[G3431]]), véase ADULTERAR.
+5. moiqueuo (μοιχεύω, [[G3431]]), véase ADULTERAR.
 
-6. moicao (ìïé÷Üù, [[G3429]]), véase ADULTERAR.
+6. moicao (μοιχάω, [[G3429]]), véase ADULTERAR.
 
-7. poieo (ðïéÝù, [[G4160]]), hacer, causar. Significa en ocasiones cometer, de cualquier acto, como homicidio (Mar_15:7); pecado (Stg_5:15). Véanse ACTUAR, CAUSAR, HACER.
+7. poieo (ποιέω, [[G4160]]), hacer, causar. Significa en ocasiones cometer, de cualquier acto, como homicidio (Mar_15:7); pecado (Stg_5:15). Véanse ACTUAR, CAUSAR, HACER.
 
-8. porneuo (ðïñíåýù, [[G4203]]), cometer fornicación. El término se traduce así en Apo_2:14. En los otros pasajes: «fornicar». Véase FORNICAR.
+8. porneuo (πορνεύω, [[G4203]]), cometer fornicación. El término se traduce así en Apo_2:14. En los otros pasajes: «fornicar». Véase FORNICAR.
 
-9. praáo (ðñÜóóù, [[G4238]]), hacer, trabajar, practicar. Se dice de una acción de carácter continuo, una acción aún no completada (Hch_25:11, Hch_25:25); se traduce «cometió» en 1Co_5:2; 2Co_12:21. Véanse EXIGIR, GUARDAR, HACER, HECHO, OCUPAR, PRACTICAR, RECIBIR.
+9. praáo (πράσσω, [[G4238]]), hacer, trabajar, practicar. Se dice de una acción de carácter continuo, una acción aún no completada (Hch_25:11, Hch_25:25); se traduce «cometió» en 1Co_5:2; 2Co_12:21. Véanse EXIGIR, GUARDAR, HACER, HECHO, OCUPAR, PRACTICAR, RECIBIR.
 
-10. proginomai (ðñïãßíïìáé, [[G4266]]), suceder antes (pro, antes, y, ginomai, véase HACER). Se usa en Rom_3:25 : «los pecados pasados» (vm: «los pecados cometidos anteriormente»), de pecados cometidos en los tiempos anteriores al sacrificio expiatorio de Cristo. Véase ALTO, B, Nº 4.¶ 
+10. proginomai (προγίνομαι, [[G4266]]), suceder antes (pro, antes, y, ginomai, véase HACER). Se usa en Rom_3:25 : «los pecados pasados» (vm: «los pecados cometidos anteriormente»), de pecados cometidos en los tiempos anteriores al sacrificio expiatorio de Cristo. Véase ALTO, B, Nº 4.¶ 
 
 

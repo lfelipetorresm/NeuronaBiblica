@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ADIVINACIÓN,ADIVINO"]
 
 # ADIVINACIÓN, ADIVINO
 
-qasam (÷ÈñÇí, [[H7080]]), «adivinar, practicar la adivinación». Cognados de este vocablo aparecen en arameo tardío, en cóptico, siríaco, mandeano, etiópico y arábigo, así como la lengua de Palmira. La raíz hebrea aparece 31 veces en el texto bíblico: 11 veces como verbo, 9 como participio y 11 como nombre.
+qasam (קָסַם, [[H7080]]), «adivinar, practicar la adivinación». Cognados de este vocablo aparecen en arameo tardío, en cóptico, siríaco, mandeano, etiópico y arábigo, así como la lengua de Palmira. La raíz hebrea aparece 31 veces en el texto bíblico: 11 veces como verbo, 9 como participio y 11 como nombre.
 
 La adivinación era un paralelo pagano de la profecía: «No sea hallado en ti quien haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación … Porque estas naciones que vas a heredar, a agoreros y a adivinos oyen; mas a ti no te ha permitido esto Jehová tu Dios. Profeta de en medio de ti, de tus hermanos, como yo, te levantará Jehová tu Dios; a él oiréis» (Deu_18:10, Deu_18:14-15 : primer uso del término).
 

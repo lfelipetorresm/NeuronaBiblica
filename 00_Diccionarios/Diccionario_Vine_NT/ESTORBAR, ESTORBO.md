@@ -13,7 +13,7 @@ A. Verbos
 
 2. enocleo (ἐíï÷ëÝù, [[G1776]]), se traduce «os estorbe» (Heb_12:15), de una raíz de amargura. Véase ATORMENTAR, A, Nº 4.
 
-3. koluo (êùëýù, [[G2967]]), estorbar, impedir, refrenar. Se traduce «estorbar» en Hch_11:17; Rom_11:3; en la rvse usa también en Hch_27:43 : «estorbó este acuerdo» (rvr: «impidió este intento»). Véanse IMPEDIR, NEGAR, ( NO ) PODER, PROHIBIR, REFRENAR.
+3. koluo (κωλύω, [[G2967]]), estorbar, impedir, refrenar. Se traduce «estorbar» en Hch_11:17; Rom_11:3; en la rvse usa también en Hch_27:43 : «estorbó este acuerdo» (rvr: «impidió este intento»). Véanse IMPEDIR, NEGAR, ( NO ) PODER, PROHIBIR, REFRENAR.
 
 B. Nombre
 

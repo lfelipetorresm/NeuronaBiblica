@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PRIMERO"]
 
 # PRIMERO
 
-ri'shôn (øÄàùÑåéï, [[H7223]]), «anterior; principal; primero». Este vocablo surge de una raíz semítica común de la que también proceden ro'sh («cabeza») y re'shit («comienzo»). ri'shôn, que aparece 182 veces (comenzando con Gén_8:13), está bien representado a través de todo el Antiguo Testamento, excepto en los libros poéticos y los profetas menores.
+ri'shôn (רִאשׁוין, [[H7223]]), «anterior; principal; primero». Este vocablo surge de una raíz semítica común de la que también proceden ro'sh («cabeza») y re'shit («comienzo»). ri'shôn, que aparece 182 veces (comenzando con Gén_8:13), está bien representado a través de todo el Antiguo Testamento, excepto en los libros poéticos y los profetas menores.
 
 El significado básico de ri'shôn es «primero en una serie». El término es 'ajarôn («último»). Por un lado, ri'shôn se puede referir al «mes primero» (Éxo_40:2), el «primer día» (Éxo_12:15), el «templo anterior» (Esd_3:12) o al «primogénito» (Gén_25:25 ss).
 

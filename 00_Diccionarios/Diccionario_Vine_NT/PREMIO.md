@@ -15,6 +15,6 @@ Nota: Para misthos, traducido «premio» en 2Pe_2:15, véanse, Nº 2, LUCRO, REC
 
 B. Verbo
 
-katabrabeuo (êáôáâñáâåýù, [[G2603]]), que significa dar juicio en contra, condenar, se traduce «privar»; «Nadie os prive de vuestro premio» (Col_2:18, rv, rvr, rvr77; vm: «Nadie os defraude de vuestro premio»). Este verbo se utilizaba de la decisión de un árbitro en contra de un corredor; de ahí las traducciones o paráfrasis en las diversas versiones. Para un tratamiento más completo de este término, véase PRIVAR. 
+katabrabeuo (καταβραβεύω, [[G2603]]), que significa dar juicio en contra, condenar, se traduce «privar»; «Nadie os prive de vuestro premio» (Col_2:18, rv, rvr, rvr77; vm: «Nadie os defraude de vuestro premio»). Este verbo se utilizaba de la decisión de un árbitro en contra de un corredor; de ahí las traducciones o paráfrasis en las diversas versiones. Para un tratamiento más completo de este término, véase PRIVAR. 
 
 

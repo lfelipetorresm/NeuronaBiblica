@@ -17,9 +17,9 @@ Nota: En Luc_24:12 el pronombre reflexivo jauton (en algunos mss. jeauton), prec
 
 2. oikia (ὀéêßá, [[G3614]]), es un vocablo relacionado con el Nº 1, y se usa de una manera muy similar; en la ley ática oikos denotaba toda una finca, en tanto que oikia solo se refería a la morada; en el griego posterior esta distinción llegó casi a perderse. En el NT denota: (a) casa, morada (p.ej., Mat_2:11; Mat_5:15; Mat_7:24-27; 2Ti_2:20; 2Jn_1:10); no se usa ni del tabernáculo ni del templo, a diferencia del Nº 1; (b) metafóricamente, de la morada celestial, cuando el Señor habla de «la casa de mi Padre» (Jua_14:2); de la morada eterna de los creyentes; del cuerpo como la morada del alma (2Co_5:1); similarmente, del cuerpo de resurrección de los creyentes (en el mismo pasaje anterior); de propiedades (p.ej., Mar_12:40); por metonimia, los moradores de una casa, una familia (p.ej., Mat_12:25; Jua_4:53; 1Co_16:15). Véanse FAMILIA, MORADA.
 
-3. therapeia (èåñáðåßá, [[G2322]]), servicio, cuidado, atención. Se usa también en el sentido colectivo, de una familia, traducido «casa» en Mat_24:45 (tr; «familia», vm; Luc_12:42). Los mejores mss. tienen oiketeia en Mat_24:45, con el significado de «servidumbre», los siervos en la casa. Véase SANIDAD.
+3. therapeia (θεραπεία, [[G2322]]), servicio, cuidado, atención. Se usa también en el sentido colectivo, de una familia, traducido «casa» en Mat_24:45 (tr; «familia», vm; Luc_12:42). Los mejores mss. tienen oiketeia en Mat_24:45, con el significado de «servidumbre», los siervos en la casa. Véase SANIDAD.
 
-4. misthoma (ìßóèùìá, [[G3410]]), primariamente, precio, alquiler, como en la lxx en Deu_23:18; Pro_19:13; Eze_16:31, Eze_16:34, Eze_16:41, etc. relacionado con misthos, salario, alquiler, y con misthoo, contratar; en el NT se usa en Hch_28:30, de una «casa alquilada» (rvr; vm: «vivienda alquilada»). Véase ALQUILADA.¶
+4. misthoma (μίσθωμα, [[G3410]]), primariamente, precio, alquiler, como en la lxx en Deu_23:18; Pro_19:13; Eze_16:31, Eze_16:34, Eze_16:41, etc. relacionado con misthos, salario, alquiler, y con misthoo, contratar; en el NT se usa en Hch_28:30, de una «casa alquilada» (rvr; vm: «vivienda alquilada»). Véase ALQUILADA.¶
 
 5. oikodespotes (ïἰêïäåóðüôçò, [[G3617]]). Véanse FAMILIA, PADRE, SEÑOR.
 
@@ -27,7 +27,7 @@ Nota: En Luc_24:12 el pronombre reflexivo jauton (en algunos mss. jeauton), prec
 
 B. Adverbio
 
-panoikei (ðáíïéêåß, [[G3832]]), denota «con toda su casa» (Hch_16:34), esto es, la familia entera. Véase TODO.¶
+panoikei (πανοικεί, [[G3832]]), denota «con toda su casa» (Hch_16:34), esto es, la familia entera. Véase TODO.¶
 
 C. Adjetivos
 

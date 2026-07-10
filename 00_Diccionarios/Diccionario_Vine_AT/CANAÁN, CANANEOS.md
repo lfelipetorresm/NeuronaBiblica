@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CANAÁN,CANANEOS"]
 
 # CANAÁN, CANANEOS
 
-kena'an (ëÌÀðÇòÇï, [[H3667]]), «Canaán»;  kena'anî (ëÌÀðÇòÂðÄé, [[H3669]]), «cananeo; mercader». En 9 ocasiones «Canaán» es el nombre de una persona y 80 tiene que ver con un lugar. A los descendientes de «Canaán», habitantes de la tierra del mismo nombre, se les llaman 72 veces «cananeos». La mayoría de los casos aparecen de Génesis a Jueces , aunque también están diseminados por todo el Antiguo Testamento.
+kena'an (כְּנַעַן, [[H3667]]), «Canaán»;  kena'anî (כְּנַעֲנִי, [[H3669]]), «cananeo; mercader». En 9 ocasiones «Canaán» es el nombre de una persona y 80 tiene que ver con un lugar. A los descendientes de «Canaán», habitantes de la tierra del mismo nombre, se les llaman 72 veces «cananeos». La mayoría de los casos aparecen de Génesis a Jueces , aunque también están diseminados por todo el Antiguo Testamento.
 
 La primera vez que una persona lleva el nombre de «Canaán» es en Gén_9:18 : «Cam fue el padre de Canaán» (cf. Gén_10:6). Al final de una lista de las naciones que descendieron de «Canaán», Gén_10:18-19 añade: «Después se dispersaron los clanes de los cananeos. La frontera de los cananeos abarcaba desde Sidón hasta Gaza» (rva). «Canaán» es la tierra al oeste del Jordán, como lo indica Núm_33:51 : «Cuando hayáis cruzado el Jordán a la tierra de Canaán» (cf. Jos_22:9-11). Cuando Dios lo llamó, Abram partió «hacia la tierra de Canaán. Después llegaron a la tierra de Canaán … Los cananeos estaban entonces en la tierra» (Gén_12:5-6). Más adelante, Dios prometería a Abram: «A tus descendientes daré esta tierra … [la tierra de los] cananeos» (Gén_15:18-20; cf. Éxo_3:8, Éxo_3:17; Jos_3:10).
 

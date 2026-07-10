@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MITAD,MEDIO"]
 
 A. Nombre
 
-jatsi (äÂöÄé, [[H2677]]), «mitad; medio». Este vocablo se encuentra unas 123 veces durante todos los períodos del hebreo bíblico.
+jatsi (הֲצִי, [[H2677]]), «mitad; medio». Este vocablo se encuentra unas 123 veces durante todos los períodos del hebreo bíblico.
 
 Primero, el término se usa para indicar la «mitad» de cualquier cosa. Esta acepción aparece por primera vez en Éxo_24:6 : «Moisés tomó la mitad de la sangre y la puso en tazones, y esparció la otra mitad de la sangre sobre el altar».
 
@@ -17,5 +17,5 @@ Segundo, jatsi puede significar «medio o media», como es el caso la primera ve
 
 B. Verbo
 
-jatsah (çÈöÈä, [[H2673]]), «dividir». El verbo aparece unas 15 veces en hebreo bíblico y tiene cognados en fenicio, moabita y arábigo. El uso más común del término es «dividir», como en Éxo_21:35 (RVA): «Entonces venderán el buey vivo y se repartirán el dinero». 
+jatsah (חָצָה, [[H2673]]), «dividir». El verbo aparece unas 15 veces en hebreo bíblico y tiene cognados en fenicio, moabita y arábigo. El uso más común del término es «dividir», como en Éxo_21:35 (RVA): «Entonces venderán el buey vivo y se repartirán el dinero». 
 

@@ -11,10 +11,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#COMPARECER"]
 
 2. istemi (ἵóôçìé, [[G2476]]), estar en pie, pararse. Se traduce comparecer en Hch_24:20 : «cuando comparecí». Véanse ESTAR EN PIE, PARARSE, PONER EN PIE, etc.
 
-3. pareimi (ðÜñåéìé, [[G3918]]), estar al lado, o aquí (para, por, y eimi, estar). Se traduce «debieran comparecer» en Hch_24:19. Véanse ESTAR, PRESENTE.
+3. pareimi (πάρειμι, [[G3918]]), estar al lado, o aquí (para, por, y eimi, estar). Se traduce «debieran comparecer» en Hch_24:19. Véanse ESTAR, PRESENTE.
 
-4. paristemi (ðáñßóôçìé, [[G3936]]), estar al lado o cerca, estar a la mano (para, cerca). Se traduce con el verbo «comparecer» en Hch_7:24 : «que comparezcas ante»; Rom_14:10 : «compareceremos», de presentarse ante un tribunal: del César en el primer caso, y de Cristo el segundo. Véanse ACEPTO, ANTE, AYUDAR, DAR, DELANTE, ESTAR, FRENTE, JUNTO, LADO, LLEGAR, PONER, REPARAR, PRESENTAR, PROBAR, REUNIR, SOMETER.
+4. paristemi (παρίστημι, [[G3936]]), estar al lado o cerca, estar a la mano (para, cerca). Se traduce con el verbo «comparecer» en Hch_7:24 : «que comparezcas ante»; Rom_14:10 : «compareceremos», de presentarse ante un tribunal: del César en el primer caso, y de Cristo el segundo. Véanse ACEPTO, ANTE, AYUDAR, DAR, DELANTE, ESTAR, FRENTE, JUNTO, LADO, LLEGAR, PONER, REPARAR, PRESENTAR, PROBAR, REUNIR, SOMETER.
 
-5. faneroo (öáíåñüù, [[G5319]]), significa, en la voz activa, manifestar; en la pasiva, ser manifestado. Se traduce con el verbo «comparecer» en 2Co_5:10. Véanse APARECER, DEMOSTRAR, DESCUBRIRSE, MANIFESTAR, ( HACER ) MANIFIESTO, MOSTRARSE, PRESENTAR(SE). 
+5. faneroo (φανερόω, [[G5319]]), significa, en la voz activa, manifestar; en la pasiva, ser manifestado. Se traduce con el verbo «comparecer» en 2Co_5:10. Véanse APARECER, DEMOSTRAR, DESCUBRIRSE, MANIFESTAR, ( HACER ) MANIFIESTO, MOSTRARSE, PRESENTAR(SE). 
 
 

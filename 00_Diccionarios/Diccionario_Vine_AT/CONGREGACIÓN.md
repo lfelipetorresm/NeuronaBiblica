@@ -7,13 +7,13 @@ etiquetas: ["#Diccionario", "#VineAT", "#CONGREGACIÓN"]
 
 # CONGREGACIÓN
 
-'edah (òÅãÈç, [[H5712]]) «congregación». Etimológicamente, este vocablo significaría una «congregación de personas» reunidas con algún propósito. Se asemeja en esto a los términos griegos synagoge y ekklesia, de los cuales provienen «sinagoga» e «iglesia». En uso corriente, 'edah se refiere a un «grupo de personas». Aparece 140 veces en el Antiguo Testamento, con mayor frecuencia en el libro de Números. Aparece por primera vez en Éxo_12:3, donde el término es un sinónimo de qahal, «asamblea».
+'edah (עֵדָח, [[H5712]]) «congregación». Etimológicamente, este vocablo significaría una «congregación de personas» reunidas con algún propósito. Se asemeja en esto a los términos griegos synagoge y ekklesia, de los cuales provienen «sinagoga» e «iglesia». En uso corriente, 'edah se refiere a un «grupo de personas». Aparece 140 veces en el Antiguo Testamento, con mayor frecuencia en el libro de Números. Aparece por primera vez en Éxo_12:3, donde el término es un sinónimo de qahal, «asamblea».
 
 La acepción más generalizada de 'edah es «grupo», ya sea de animales (un enjambre de abejas [Jue_14:8], una manada de toros [Sal_68:30], una bandada de aves [Ose_7:12]) o de personas, por ejemplo de justos (Sal_1:5), malhechores (Sal_22:16) y de naciones (Sal_7:7).
 
 Las menciones más frecuentes son de la «congregación de Israel» (9 veces), «la congregación de los hijos de Israel» (26 veces), «la congregación» (24 veces) o «toda la congregación» (30 veces). Moisés colocó a ancianos (Lev_4:15), cabezas de familia (Núm_31:26) y príncipes (Núm_16:2; Núm_31:13; Núm_32:2) sobre la «congregación» con el fin de ayudarle con un gobierno justo. La Septuaginta traduce el término como synagoge («lugar de asamblea»). La rv, en sus varias revisiones, lo traduce como «concurso» y «congregación»; otras versiones usan los términos «asamblea» (bj, nbe), «comunidad» (bla) y «pueblo» (lvp).
 
-mô'ed (îåéòÅã, [[H4150]]), «lugar acordado de reunión, reunión». El nombre mô'ed se encuentra 223 veces en el Antiguo Testamento y en el Pentateuco 160. En orden de frecuencia, aparece 27 veces en los libros históricos.
+mô'ed (מויעֵד, [[H4150]]), «lugar acordado de reunión, reunión». El nombre mô'ed se encuentra 223 veces en el Antiguo Testamento y en el Pentateuco 160. En orden de frecuencia, aparece 27 veces en los libros históricos.
 
 La palabra mô'ed conserva su significado básico señalado, pero varía en lo acordado según el contexto: tiempo y lugar o bien la propia reunión. El uso del término en Amó_3:3 es revelador: «¿Andarán dos juntos, a menos que se pongan de acuerdo?» El contexto es ambiguo. No está claro si hay acuerdo sobre tiempo y lugar de reunión, ni si aun se va a realizar.
 

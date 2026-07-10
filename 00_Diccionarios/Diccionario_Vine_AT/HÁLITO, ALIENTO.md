@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HÁLITO,ALIENTO"]
 
 # HÁLITO, ALIENTO
 
-hebel (äÆáÆì, [[H1892]]), «hálito, aliento, suspiro; vanidad; ídolo». Hay cognados de este nombre en siríaco, arameo tardío y arábigo. Con excepción de 4, los 72 ejemplos están en poesía (37 en Eclesiastés).
+hebel (הֶבֶל, [[H1892]]), «hálito, aliento, suspiro; vanidad; ídolo». Hay cognados de este nombre en siríaco, arameo tardío y arábigo. Con excepción de 4, los 72 ejemplos están en poesía (37 en Eclesiastés).
 
 Primero, el vocablo significa que el «aliento» humano es pasajero: «Abomino de mi vida; no he de vivir para siempre; déjame pues, porque mis días son vanidad [lit: «solo un suspiro»]» (Job_7:16).
 

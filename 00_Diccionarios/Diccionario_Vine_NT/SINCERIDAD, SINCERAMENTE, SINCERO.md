@@ -21,7 +21,7 @@ C. Adjetivos
 
 1. adolos (ἄäïëïò, [[G97]]), sin engaño (a, privativo, y dolos, véase ENGAÑO, C, Nº 2), puro, no adulterado, con el sentido de «sincero». Se utiliza metafóricamente de la enseñanza de la Palabra de Dios (1Pe_2:2). Se traduce «no adulterada» (rvr, rvr77, Besson); «pura» (lba, nvi, vm); «sin engaño» (rv). Se utiliza en los papiros de semillas, grano, trigo, aceite, vino, etc.¶
 
-2. gnesios (ãíÞóéïò, [[G1103]]), veraz, genuino, sincero. Se utiliza en género neutro, con el artículo, como nombre, significando «sinceridad» (2Co_8:8), del amor. Véanse FIDELIDAD, FIEL, B, Nº 1, VERDADERO.
+2. gnesios (γνήσιος, [[G1103]]), veraz, genuino, sincero. Se utiliza en género neutro, con el artículo, como nombre, significando «sinceridad» (2Co_8:8), del amor. Véanse FIDELIDAD, FIEL, B, Nº 1, VERDADERO.
 
 3. eilikrines (åἰëéêñéíÞò, [[G1506]]), véase LIMPIO, B, Nº 2.
 

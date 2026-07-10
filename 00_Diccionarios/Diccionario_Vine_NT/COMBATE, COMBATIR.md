@@ -17,12 +17,12 @@ B. Verbos
 
 1. antagonizomai (ἀíôáãùíßæïìáé, [[G464]]), luchar en contra de (anti, contra; agonizomai, luchar), cf. el vocablo castellano «antagonizar». Se usa en Heb_12:4 : «combatiendo contra».¶
 
-2. macomai (ìÜ÷ïìáé, [[G3164]]), combatir, contender, reñir. Se traduce «combatir» en Stg_4:2 (rv, rvr, rvr77; vm: «peleáis»). Véanse CONTENCIOSO, CONTENDER, REÑIR.
+2. macomai (μάχομαι, [[G3164]]), combatir, contender, reñir. Se traduce «combatir» en Stg_4:2 (rv, rvr, rvr77; vm: «peleáis»). Véanse CONTENCIOSO, CONTENDER, REÑIR.
 
-3. sunathleo (óõíáèëÝù, [[G4866]]), luchar juntamente (Fil_1:27 : «combatiendo unánimes»; Fil_4:3 : «combatieron juntamente conmigo»), luchar juntamente con una persona. Véanse JUNTAMENTE.¶
+3. sunathleo (συναθλέω, [[G4866]]), luchar juntamente (Fil_1:27 : «combatiendo unánimes»; Fil_4:3 : «combatieron juntamente conmigo»), luchar juntamente con una persona. Véanse JUNTAMENTE.¶
 
-4. strateuo (óôñáôåýù, [[G4754]]), utilizado en la voz media, hacer guerra, batallar, combatir (de stratos, ejército acampado). Se traduce combatir en Stg_4:1. Véanse BATALLAR, MILITAR, SOLDADO.
+4. strateuo (στρατεύω, [[G4754]]), utilizado en la voz media, hacer guerra, batallar, combatir (de stratos, ejército acampado). Se traduce combatir en Stg_4:1. Véanse BATALLAR, MILITAR, SOLDADO.
 
-5. queimazo (÷åéìÜæù, [[G5492]]), de queima (ceima), frío de invierno. Principalmente, significa conducir con una tempestad; en la voz pasiva, ser azotado por una tempestad (Hch_27:18, rvr: «siendo combatidos por una … tempestad»). Véase TEMPESTAD.¶ 
+5. queimazo (χειμάζω, [[G5492]]), de queima (ceima), frío de invierno. Principalmente, significa conducir con una tempestad; en la voz pasiva, ser azotado por una tempestad (Hch_27:18, rvr: «siendo combatidos por una … tempestad»). Véase TEMPESTAD.¶ 
 
 

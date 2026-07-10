@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PREPARADO,ESTABLECER"]
 
 A. Verbo
 
-kûn (ëÌåÌï, [[H3559]]), «establecer; estar listo, preparado, cierto; ser oportuno, apropiado». Este verbo se encuentra en casi todas las lenguas semíticas (aunque no en arameo bíblico). Kûn se encuentra en la Biblia unas 220 veces y en todos los períodos del hebreo.
+kûn (כּוּן, [[H3559]]), «establecer; estar listo, preparado, cierto; ser oportuno, apropiado». Este verbo se encuentra en casi todas las lenguas semíticas (aunque no en arameo bíblico). Kûn se encuentra en la Biblia unas 220 veces y en todos los períodos del hebreo.
 
 Concretamente, la raíz denota estar asentado con firmeza, anclado y afirmado con seguridad. La primera acepción se aplica a un techo que está firmemente asentado sobre pilares. Sansón dijo al joven que le guiaba: «Acércame, y hazme palpar las columnas sobre las que descansa la casa, para que me apoye sobre ellas» (Jue_16:26). En un sentido similar la tierra habitada está «firmemente asentada o anclada»; es inamovible: «Afirmó también el mundo, y no se moverá» (Sal_93:1). Cambiando un poco la imagen, en Sal_75:3 la tierra está «asentada» sobre columnas. En Sal_65:6, «afirma los montes con poder» se refiere a la acción divina en la creación. El verbo también quiere decir «afirmar»: «Creciste, te desarrollaste y llegaste a la flor de la juventud. Tus pechos se afirmaron, y tu cabello creció» (Eze_16:7 rva).
 
@@ -27,11 +27,11 @@ Cuando uno «fija» una flecha en el arco y apunta, se está «preparando» para
 
 B. Nombres
 
-mekônah (îÀëåéðÈä, [[H4350]]), «lugar apropiado; base». Este nombre se encuentra 25 veces; significa «lugar apropiado» en Esd_3:3 (lba): «Y asentaron el altar sobre su base [lugar apropiado, preparado, establecido]». En 1Re_7:27, el término significa propiamente «bases».
+mekônah (מְכוינָה, [[H4350]]), «lugar apropiado; base». Este nombre se encuentra 25 veces; significa «lugar apropiado» en Esd_3:3 (lba): «Y asentaron el altar sobre su base [lugar apropiado, preparado, establecido]». En 1Re_7:27, el término significa propiamente «bases».
 
 Hay otros dos nombres que tienen relación con kûn. Makôn, que aparece 17 veces, quiere decir «sitio o lugar establecido» (Éxo_15:17). Tekûnah, del que hay 3 citas, significa «lugar determinado» en Job_23:3 y «asunto determinado» en Eze_43:11 (rva): «Hazles entender los detalles del templo: su disposición [tekûnah]».
 
 C. Adjetivo
 
-ken (ëÌÅï, [[H3651]]), «justo; veraz; honrado». El adjetivo aparece 24 veces en hebreo bíblico. En Gén_42:11 el término significa «honrado o justo»: «Todos nosotros somos hijos de un mismo hombre. Somos hombres honestos; tus siervos no somos espías» (2Re_17:9 rva). 
+ken (כֵּן, [[H3651]]), «justo; veraz; honrado». El adjetivo aparece 24 veces en hebreo bíblico. En Gén_42:11 el término significa «honrado o justo»: «Todos nosotros somos hijos de un mismo hombre. Somos hombres honestos; tus siervos no somos espías» (2Re_17:9 rva). 
 

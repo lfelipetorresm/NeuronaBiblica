@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TARTAMUDOS"]
 
 # TARTAMUDOS
 
-mogilalos (ìïãéëÜëïò, [[G3424]]), denota que habla con dificultad (mogis, difícilmente; laleo, hablar), tartamudo (Mar_7:32); algunos mss. tienen moggilalos, de voz espesa (de moggos, con voz ronca, hueca).¶ En la lxx, Isa_35:6 : «la lengua de los tartamudos».¶ 
+mogilalos (μογιλάλος, [[G3424]]), denota que habla con dificultad (mogis, difícilmente; laleo, hablar), tartamudo (Mar_7:32); algunos mss. tienen moggilalos, de voz espesa (de moggos, con voz ronca, hueca).¶ En la lxx, Isa_35:6 : «la lengua de los tartamudos».¶ 
 
 

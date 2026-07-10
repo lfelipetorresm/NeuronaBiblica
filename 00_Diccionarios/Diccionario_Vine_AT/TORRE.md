@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#TORRE"]
 
 # TORRE
 
-migdal (îÄâÀãÌÈì, [[H4026]]), «torre; fortín; atalaya; púlpito». Hay cognados de este vocablo en ugarítico, arameo, siríaco y acádico. El término se encuentra unas 50 veces en hebreo bíblico.
+migdal (מִגְדָּל, [[H4026]]), «torre; fortín; atalaya; púlpito». Hay cognados de este vocablo en ugarítico, arameo, siríaco y acádico. El término se encuentra unas 50 veces en hebreo bíblico.
 
 Migdal significa «torre», comenzando con la primera vez que aparece en la Biblia (Gén_11:4): «Y dijeron: Vamos, edifiquémonos una ciudad y una torre, cuya cúspide llegue al cielo».
 

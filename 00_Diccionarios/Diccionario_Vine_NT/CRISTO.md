@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#CRISTO"]
 
 # CRISTO
 
-cristos (÷ñéóôüò, [[G5547]]), ungido. Traduce, en la lxx, la palabra Mesías, término que se aplica a los sacerdotes que eran ungidos con el aceite sagrado, especialmente al sumo sacerdote (p.ej., Lev_4:3, Lev_4:5, Lev_4:16). Los profetas reciben el nombre de joi cristoi Teou, «los ungidos de Dios» (Sal_105:15). El rey de Israel era en ocasiones mencionado como cristos tou Kuriou, «el ungido del Señor» (1Sa_2:10, 1Sa_2:35; 2Sa_1:14; Sal_2:2; Sal_18:50; Hab_3:13); el término es utilizado incluso de Ciro (Isa_45:1).
+cristos (χριστός, [[G5547]]), ungido. Traduce, en la lxx, la palabra Mesías, término que se aplica a los sacerdotes que eran ungidos con el aceite sagrado, especialmente al sumo sacerdote (p.ej., Lev_4:3, Lev_4:5, Lev_4:16). Los profetas reciben el nombre de joi cristoi Teou, «los ungidos de Dios» (Sal_105:15). El rey de Israel era en ocasiones mencionado como cristos tou Kuriou, «el ungido del Señor» (1Sa_2:10, 1Sa_2:35; 2Sa_1:14; Sal_2:2; Sal_18:50; Hab_3:13); el término es utilizado incluso de Ciro (Isa_45:1).
 
  El título jo Cristos, «el Cristo», no se usa de Cristo en la versión lxx de los libros inspirados del AT. En el NT la palabra se usa frecuentemente con el artículo, del Señor Jesús, como un apelativo más que como un título (p.ej., Mat_2:4; Hch_2:31); sin el artículo (Luc_2:11; Luc_23:2; Jua_1:41). En tres ocasiones el mismo Señor aceptó expresamente este título (Mat_16:17; Mar_14:61-62; Jua_4:26).
 

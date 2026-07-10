@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#OBLIGAR"]
 
 2. angareuo (ἀããáñåýù, [[G29]]), despachar como angaros (correo persa situado en postas regulares con el poder de ordenar a gente para un servicio), y, de ahí, en general, ordenar para un servicio. Se utiliza de obligar a una persona a caminar una milla (Mat_5:41); de obligar a Simón de Cirene a llevar la cruz de Cristo (Mat_27:32; Mar_15:21).¶
 
-3. parabiazomai (ðáñáâéÜæïìáé, [[G3849]]), denota primariamente emplear fuerza en contra de la naturaleza y del derecho, obligar mediante el uso de la fuerza (para, al lado, intensivo; biazo, forzar, violentar). Se utiliza solo de obligar mediante ruegos, como los dos que iban a Emaús «obligaron» a Cristo (Luc_24:29; rvr77: «constriñeron»; lba: «instaron»); como también Lidia a Pablo y a sus compañeros (Hch_16:15 : «obligó»; lba: «persuadió»).¶
+3. parabiazomai (παραβιάζομαι, [[G3849]]), denota primariamente emplear fuerza en contra de la naturaleza y del derecho, obligar mediante el uso de la fuerza (para, al lado, intensivo; biazo, forzar, violentar). Se utiliza solo de obligar mediante ruegos, como los dos que iban a Emaús «obligaron» a Cristo (Luc_24:29; rvr77: «constriñeron»; lba: «instaron»); como también Lidia a Pablo y a sus compañeros (Hch_16:15 : «obligó»; lba: «persuadió»).¶
 
 Nota: ofeiletes, véase DEUDOR, se traduce «obligado» en Gál_5:3, de los que se circuncidaban siguiendo la línea de los judaizantes, a guardar toda la ley. 
 

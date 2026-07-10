@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#TRONO"]
 
 # TRONO
 
-kisee' (ëÌÄñÌÅà, [[H3678]]), «trono; asiento». Esta palabra, cuyo significado básico es «asiento de honor», aparece en muchas lenguas semíticas (ugarítico, fenicio, arameo, siríaco, arábigo), así como en antiguo egipcio.
+kisee' (כִּסֵּא, [[H3678]]), «trono; asiento». Esta palabra, cuyo significado básico es «asiento de honor», aparece en muchas lenguas semíticas (ugarítico, fenicio, arameo, siríaco, arábigo), así como en antiguo egipcio.
 
 Kisee' aparece 130 veces en el Antiguo Testamento hebraico y, como era de esperarse, es más frecuente en los libros históricos que en los proféticos. Pocas veces se halla en el Pentateuco. El primer caso de kiáe’es en Gén_41:40 : «Tú estarás sobre mi casa, y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú». En hebreo moderno el significado básico es «asiento» y un trono se denomina un «asiento real».
 

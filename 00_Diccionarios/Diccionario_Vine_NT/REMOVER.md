@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#REMOVER"]
 
 2. anakulio (ἀíáêõëßù, [[G351]]), rodar arriba o atrás (ana, arriba). Se encuentra en los textos más comúnmente aceptados en Mar_6:14 : «removida» (rv: «revuelta»); véase Nº 1.¶
 
-3. kineo (êéíÝù, [[G2795]]), véase CONMOVER, Nº 1. Se traduce «se removió» en Apo_6:14, de «todo monte y toda isla» (rv: «fueron movidas»). Véanse también MENEAR, MOVER, PROMOTOR, QUITAR.
+3. kineo (κινέω, [[G2795]]), véase CONMOVER, Nº 1. Se traduce «se removió» en Apo_6:14, de «todo monte y toda isla» (rv: «fueron movidas»). Véanse también MENEAR, MOVER, PROMOTOR, QUITAR.
 
 Nota: Para proskulio (Mat_27:60; Mar_15:46), véase RODAR.¶ 
 

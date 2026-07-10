@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ÓSCULO"]
 
 # ÓSCULO
 
-filema (ößëçìá, [[G5370]]), véase BESO bajo BESAR, B. 
+filema (φίλημα, [[G5370]]), véase BESO bajo BESAR, B. 
 
 

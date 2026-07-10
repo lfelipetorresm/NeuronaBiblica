@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PROMULGACIÓN,PROMULGAR"]
 
 A. Nombre
 
-nomothesia (íïìïèåóßá, [[G3548]]), denota legislación, promulgación de leyes (nomos, ley, y tithemi, poner, colocar), Rom_9:4 : «la promulgación de la Ley» (rv: «data de la Ley»; vm igual que rvr; Besson: «legislación»; nvi: «legislación recibida»). véase LEY, A, Nº 2.¶ Cf. LEY, B, Nº 1.
+nomothesia (νομοθεσία, [[G3548]]), denota legislación, promulgación de leyes (nomos, ley, y tithemi, poner, colocar), Rom_9:4 : «la promulgación de la Ley» (rv: «data de la Ley»; vm igual que rvr; Besson: «legislación»; nvi: «legislación recibida»). véase LEY, A, Nº 2.¶ Cf. LEY, B, Nº 1.
 
 B. Verbo
 

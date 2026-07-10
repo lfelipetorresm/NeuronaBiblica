@@ -9,9 +9,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#ASÍ"]
 
 1. arage (ἄñáãå, [[G1065]]), denota una consecuencia, y se traduce como «así que» (Mat_7:20); «luego» (Mat_17:26); y «de manera que» (Hch_11:18). Véanse LUEGO, MANERA.
 
-2. kathaper (êáèÜðåñ, [[G2509]]), como, así como. Se traduce «así como» en 1Co_12:12; 2Co_1:14; 1Ts_2:11. En los otros pasajes se traduce simplemente por «como».
+2. kathaper (καθάπερ, [[G2509]]), como, así como. Se traduce «así como» en 1Co_12:12; 2Co_1:14; 1Ts_2:11. En los otros pasajes se traduce simplemente por «como».
 
-3. kathos (êáèþò, [[G2531]]), como. Se traduce «así como» con cierta frecuencia (p.ej., Luc_11:30; Jua_10:15; Jua_15:10; Jua_17:22; 1Co_11:1, etc.).
+3. kathos (καθώς, [[G2531]]), como. Se traduce «así como» con cierta frecuencia (p.ej., Luc_11:30; Jua_10:15; Jua_15:10; Jua_17:22; 1Co_11:1, etc.).
 
 4. omoios (ὁìïßùò, [[G3668]]), asimismo (del adjetivo omoios ; véase SEMEJANTE). Se traduce «asimismo» o «así» en Mar_4:16; Luc_5:10, Luc_5:33; Luc_6:31; Luc_10:32; Luc_17:28, Luc_17:31; Jua_6:11; Jua_21:13; 1Co_7:3, 1Co_7:22; Stg_2:25; 1Pe_3:1; Apo_8:12. Tiene también otras traducciones, como «de la misma manera» (Mat_22:26); «lo mismo» (Mat_26:35); «de esta manera» (Mat_27:41); «de esta manera (Mar_15:31)»; «lo mismo» (Luc_3:11); «lo mismo» (Luc_10:37); «igualmente» (Luc_13:3, Luc_13:5; Jua_5:19; 1Pe_3:7; 1Pe_5:5); «también» (Luc_16:25); «de igual modo» (Rom_1:27); «ni tampoco» (1Co_7:4); «además» (Heb_9:21); «de la misma manera» (Jud_8:8). Aparece también en Apo_2:15, aunque no traducida, «la que yo aborrezco» (rvr; vha: «asimismo»). Véanse IGUALMENTE, MANERA, TAMBIéN.¶
 

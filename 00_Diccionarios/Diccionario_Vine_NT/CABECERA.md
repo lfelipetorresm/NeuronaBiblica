@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CABECERA"]
 
 # CABECERA
 
-kefale (êåöáëÞ, [[G2776]]), cabeza. Se traduce en Jua_20:12 como «cabecera». Véase CABEZA. 
+kefale (κεφαλή, [[G2776]]), cabeza. Se traduce en Jua_20:12 como «cabecera». Véase CABEZA. 
 
 

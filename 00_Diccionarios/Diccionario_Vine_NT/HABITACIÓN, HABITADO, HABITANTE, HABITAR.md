@@ -13,9 +13,9 @@ A. Nombres
 
 2. oiketerion (ïἰêçôÞñéïí, [[G3613]]), habitación (de oiketer, habitante, y oikos, morada). Se usa en Jud_1:6, de la región celestial designada por Dios como la habitación de los ángeles: «morada» (rvr, rvr77; rv, vm: «habitación»); en 2Co_5:2 : «habitación», se usa figuradamente de los cuerpos espirituales de los creyentes cuando sean resucitados o transformados a la vuelta del Señor. Véase MORADA.¶
 
-3. katoiketerion (êáôïéêçôÞñéïí, [[G2732]]), (kata, abajo, usado intensivamente, y Nº 2), implicando mayor permanencia que el Nº 2. Se usa en Efe_2:22 de la Iglesia como la morada del Espíritu; en Apo_18:2 de Babilonia, como habitación de demonios.¶
+3. katoiketerion (κατοικητήριον, [[G2732]]), (kata, abajo, usado intensivamente, y Nº 2), implicando mayor permanencia que el Nº 2. Se usa en Efe_2:22 de la Iglesia como la morada del Espíritu; en Apo_18:2 de Babilonia, como habitación de demonios.¶
 
-4. katoikia (êáôïéêßá, [[G2733]]), establecimiento, colonia, morada (kata, abajo, y oikos, morada; véase Nº 2). Se usa en Hch_17:26, de los lugares señalados divinamente como las habitaciones de las naciones.¶
+4. katoikia (κατοικία, [[G2733]]), establecimiento, colonia, morada (kata, abajo, y oikos, morada; véase Nº 2). Se usa en Hch_17:26, de los lugares señalados divinamente como las habitaciones de las naciones.¶
 
 B. Adjetivos
 
@@ -27,12 +27,12 @@ C. Verbos
 
 2. enoikeo (ἐíïéêÝù, [[G1774]]), véase MORAR.
 
-3. katoikeo (êáôïéêÝù, [[G2730]]), véase MORAR.
+3. katoikeo (κατοικέω, [[G2730]]), véase MORAR.
 
-4. paroikeo (ðáñïéêÝù, [[G3939]]), véase, B.
+4. paroikeo (παροικέω, [[G3939]]), véase, B.
 
-5. kathemai (êÜèçìáé, [[G2521]]), se traduce «habitan» en Luc_1:79 (rv, rvr; rvr77: «están sentados»). Véanse ASENTAR, SENTAR(SE), etc.
+5. kathemai (κάθημαι, [[G2521]]), se traduce «habitan» en Luc_1:79 (rv, rvr; rvr77: «están sentados»). Véanse ASENTAR, SENTAR(SE), etc.
 
-6. skenoo (óêçíüù, [[G4637]]), véase MORAR. 
+6. skenoo (σκηνόω, [[G4637]]), véase MORAR. 
 
 

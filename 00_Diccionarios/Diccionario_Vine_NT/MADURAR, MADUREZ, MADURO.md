@@ -19,7 +19,7 @@ Nota: El adjetivo teleios se traduce madurez en la rvr en 1Co_2:6 : «los que ha
 
 C. Adjetivo
 
-teleios (ôÝëåéïò, [[G5046]]), significa habiendo alcanzado su fin (telos), acabado, completo, perfecto. Se traduce «maduro» en 1Co_14:20 (rv: «perfectos»). Véase PERFECTO. Cf. B.
+teleios (τέλειος, [[G5046]]), significa habiendo alcanzado su fin (telos), acabado, completo, perfecto. Se traduce «maduro» en 1Co_14:20 (rv: «perfectos»). Véase PERFECTO. Cf. B.
 
 Notas: (1) Akmazo (véanse A) se traduce con la frase verbal «están maduras» en Apo_14:18;¶ (2) en Apo_14:15 se traduce xeraino, secar, «la mies de la tierra está madura»; véase SECAR; (3) paradidomi, entregar, encomendar, significa también permitir; en Mar_4:29, de la condición madura del trigo, «está maduro» (Besson: «cuando rindiere el fruto»). Véase ENTREGAR, A, Nº 6. 
 

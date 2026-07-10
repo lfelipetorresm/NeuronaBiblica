@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#CIRCUNCIDAR,CIRCUNCISIÓN"]
 
 A. Nombres
 
-1. peritome (ðåñéôïìÞ, [[G4061]]), lit., corte en redondo, circuncisión (el verbo es peritemno). Era un rito que había sido ordenado por Dios a Abraham y a sus descendientes varones, como señal del pacto hecho con él (Génesis 17 ; Hch_7:8; Rom_4:11). De ahí los israelitas denominaban a los gentiles como «los incircuncisos» (Jue_15:18; 2Sa_1:20). Igualmente en el NT, pero sin la sugerencia de desprecio (p.ej., Rom_2:26; Efe_2:11).
+1. peritome (περιτομή, [[G4061]]), lit., corte en redondo, circuncisión (el verbo es peritemno). Era un rito que había sido ordenado por Dios a Abraham y a sus descendientes varones, como señal del pacto hecho con él (Génesis 17 ; Hch_7:8; Rom_4:11). De ahí los israelitas denominaban a los gentiles como «los incircuncisos» (Jue_15:18; 2Sa_1:20). Igualmente en el NT, pero sin la sugerencia de desprecio (p.ej., Rom_2:26; Efe_2:11).
 
 El rito tenía un significado moral (Éxo_6:12, Éxo_6:30), donde se aplica metafóricamente a los labios; también al oído (Jer_6:10), y al corazón (Jer_30:6; Jer_4:4. Cf. Jer_9:25-26). Se refiere al estado de circuncisión (Rom_2:25-28; Rom_3:1; Rom_4:10; 1Co_7:19; Gál_5:6; Gál_6:15; Col_3:11).
 
@@ -25,7 +25,7 @@ Nota: En Rom_4:11, la frase «estando aún incircunciso» traduce la frase grieg
 
 B. Verbo
 
-peritemno (ðåñéôÝìíù, [[G4059]]), circuncidar. Se usa: (a) lit., (p.ej., Luc_1:59; Luc_2:21); de recibir la circuncisión (Gál_5:2; Gál_6:13); (b) metafóricamente, de la circuncisión espiritual (Col_2:11).
+peritemno (περιτέμνω, [[G4059]]), circuncidar. Se usa: (a) lit., (p.ej., Luc_1:59; Luc_2:21); de recibir la circuncisión (Gál_5:2; Gál_6:13); (b) metafóricamente, de la circuncisión espiritual (Col_2:11).
 
 Nota: En Fil_3:5, peritome se traduce «circuncidado» en forma verbal. Lit., «en la circuncisión del octavo día». Véase A, Nº 1. 
 

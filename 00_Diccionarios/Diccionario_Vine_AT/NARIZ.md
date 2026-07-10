@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#NARIZ"]
 
 A. Nombre
 
-'ap (àÇó, [[H639]]), «nariz; narices; rostro; ira; enojo». Este término general semítico tiene cognados en acádico, ugarítico, fenicio, arameo y arábigo. El vocablo se encuentra unas 277 veces en todos los períodos del hebreo de la Biblia.
+'ap (אַף, [[H639]]), «nariz; narices; rostro; ira; enojo». Este término general semítico tiene cognados en acádico, ugarítico, fenicio, arameo y arábigo. El vocablo se encuentra unas 277 veces en todos los períodos del hebreo de la Biblia.
 
 La acepción fundamental del término es «nariz», un órgano del cuerpo humano. 'Ap tiene este significado en singular, mientras que en plural se refiere a las «narices» por las que el aire se inhala y exhala: «Entonces Jehová Dios formó al hombre del polvo de la tierra. Sopló en su nariz aliento de vida, y el hombre llegó a ser un ser viviente» (Gén_2:7 rva : primer caso en la Biblia).
 
@@ -27,5 +27,5 @@ La forma singular a menudo quiere decir «enojo» o «ira». Esta acepción apar
 
 B. Verbo
 
-'anap (àÈðÇó, [[H599]]), «enojarse». Este verbo, que tiene cognados en la mayoría de las lenguas semíticas, aparece 39 veces en todos los períodos del hebreo bíblico. El verbo aparece en Isa_12:1 (rva): «¡Te doy gracias, oh Jehová! Aunque te enojaste contra mí». 
+'anap (אָנַף, [[H599]]), «enojarse». Este verbo, que tiene cognados en la mayoría de las lenguas semíticas, aparece 39 veces en todos los períodos del hebreo bíblico. El verbo aparece en Isa_12:1 (rva): «¡Te doy gracias, oh Jehová! Aunque te enojaste contra mí». 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#FAVOR"]
 
 A. Nombre
 
-ratson (øÈöåéï, [[H7522]]), «favor; buena voluntad; aceptación; voluntad; deseo; placer». Los 56 casos de este vocablo se encuentran dispersos por todo el Antiguo Testamento.
+ratson (רָצוין, [[H7522]]), «favor; buena voluntad; aceptación; voluntad; deseo; placer». Los 56 casos de este vocablo se encuentran dispersos por todo el Antiguo Testamento.
 
 Ratson denota una reacción concreta de un ser superior hacia uno de menor rango. Cuando se usa en relación con Dios, ratson puede indicar la actitud que se muestra en sus bendiciones: «Con lo mejor de la tierra y de su plenitud, y el favor de aquel que moraba en la zarza» (Deu_33:16 rva). En este mismo sentido, Isaías habla del día, año o tiempo del «favor» divino, o sea, el día del Señor cuando todas las bendiciones del pacto sobrevendrán al pueblo de Dios (Isa_49:8; Isa_58:5; Isa_61:2). En la literatura sapiencial este término se usa con referencia a la beneficencia humana: «El que se esmera por el bien conseguirá favor; pero al que busca el mal, este le vendrá» (Pro_11:27 rva). En Pro_14:35, ratson se refiere a lo que un rey puede hacer por alguien que favorece.
 
@@ -21,5 +21,5 @@ Cuando un hombre actúa según su propia «voluntad», hace lo que desea hacer: 
 
 B. Verbo
 
-ratsah (øÈöÈä, [[H7521]]), «favorecer, complacido, amistarse; ser recibido atentamente; congraciarse». Este verbo, que aparece 50 veces en el Antiguo Testamento, tiene cognados en ugarítico, arameo, siríaco y arábigo. En Gén_33:10 encontramos un ejemplo del verbo: «Me has mostrado tu favor». 
+ratsah (רָצָה, [[H7521]]), «favorecer, complacido, amistarse; ser recibido atentamente; congraciarse». Este verbo, que aparece 50 veces en el Antiguo Testamento, tiene cognados en ugarítico, arameo, siríaco y arábigo. En Gén_33:10 encontramos un ejemplo del verbo: «Me has mostrado tu favor». 
 

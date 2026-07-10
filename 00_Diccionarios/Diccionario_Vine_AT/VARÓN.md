@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#VARÓN"]
 
 A. Nombre
 
-zakar (æÈëÈø, [[H2145]]), «varón». Hay cognados del término en acádico, arameo y arábigo. Aparece 82 veces y por lo general en la prosa bíblica temprana (Gn—Dt); solo se halla 5 veces en los profetas y nunca en la literatura poética y sapiencial del Antiguo Testamento.
+zakar (זָכָר, [[H2145]]), «varón». Hay cognados del término en acádico, arameo y arábigo. Aparece 82 veces y por lo general en la prosa bíblica temprana (Gn—Dt); solo se halla 5 veces en los profetas y nunca en la literatura poética y sapiencial del Antiguo Testamento.
 
 Zakar destaca lo «masculino» en contraste con lo «femenino»; el vocablo indica el género de una persona nombrada. Por lo tanto, «creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó». El vocablo puede referirse tanto a un «varón adulto» como a un «niño varón» (Lev_12:7). En muchos pasajes zakar tiene un sentido colectivo, o sea que el término en singular puede tener un sentido plural (Jue_21:11).
 
@@ -17,5 +17,5 @@ En algunos contextos el vocablo indica un «animal macho»: «De todo ser vivien
 
 B. Adjetivo
 
-zakar (æÈëÈÇø, [[H2145]]), «masculino». A veces se usa zakar como adjetivo: «Cuenta todos los primogénitos varones de los hijos de Israel de un mes arriba» (Núm_3:40). El vocablo aparece en Jer_20:15 : «Hijo varón te ha nacido, haciéndole alegrarse así mucho». 
+zakar (זָכַָר, [[H2145]]), «masculino». A veces se usa zakar como adjetivo: «Cuenta todos los primogénitos varones de los hijos de Israel de un mes arriba» (Núm_3:40). El vocablo aparece en Jer_20:15 : «Hijo varón te ha nacido, haciéndole alegrarse así mucho». 
 

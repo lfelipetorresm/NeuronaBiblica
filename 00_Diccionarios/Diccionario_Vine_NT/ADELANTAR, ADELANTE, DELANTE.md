@@ -11,13 +11,13 @@ A. Verbos
 
 1. exercomai (ἐîÝñ÷ïìáé, [[G1831]]), salir. Se traduce «adelantó» en Jua_18:4. Véanse IR(SE), VENIR, etc.
 
-2. parercomai (ðáñÝñ÷ïìáé, [[G3928]]), pasar. Se traduce «adelantar» en Mar_6:48. Véase PASAR, etc.
+2. parercomai (παρέρχομαι, [[G3928]]), pasar. Se traduce «adelantar» en Mar_6:48. Véase PASAR, etc.
 
-3. proercomai (ðñïÝñ÷ïìáé, [[G4281]]), ir al frente. Se traduce como «adelantar» en Hch_20:5, Hch_20:13. Véanse IR, PRIMERO ( IR ).
+3. proercomai (προέρχομαι, [[G4281]]), ir al frente. Se traduce como «adelantar» en Hch_20:5, Hch_20:13. Véanse IR, PRIMERO ( IR ).
 
-4. prolambano (ðñïëáìâÜíù, [[G4301]]), ir por delante. Se traduce «adelantar» (1Co_11:21); «se ha anticipado» (Mar_14:8); «sorprendido» (Gál_6:1). Véanse ANTICIPAR, SORPRENDER.¶
+4. prolambano (προλαμβάνω, [[G4301]]), ir por delante. Se traduce «adelantar» (1Co_11:21); «se ha anticipado» (Mar_14:8); «sorprendido» (Gál_6:1). Véanse ANTICIPAR, SORPRENDER.¶
 
-5. prosercomai (ðñïóÝñ÷ïìáé, [[G4334]]), denota venir o ir cerca de (pros, cerca a) (p.ej., Mat_4:3; Heb_10:1). Como «adelantar», se traduce así en Hch_20:5. Véase ACERCAR, A, Nº 5.
+5. prosercomai (προσέρχομαι, [[G4334]]), denota venir o ir cerca de (pros, cerca a) (p.ej., Mat_4:3; Heb_10:1). Como «adelantar», se traduce así en Hch_20:5. Véase ACERCAR, A, Nº 5.
 
 6. ofeleo (ὠöåëÝù, [[G5623]]), aprovechar. Se traduce como «adelantar» solo en Mat_27:24, «viendo que nada adelantaba», en el sentido de sacar partido de una situación, de conseguir. Véase APROVECHAR, etc.
 

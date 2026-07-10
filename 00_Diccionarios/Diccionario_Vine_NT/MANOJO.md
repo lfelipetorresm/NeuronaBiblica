@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MANOJO"]
 
 # MANOJO
 
-desme (äÝóìç, [[G1197]]), (de deo, atar), se usa en Mat_13:30.¶ 
+desme (δέσμη, [[G1197]]), (de deo, atar), se usa en Mat_13:30.¶ 
 
 

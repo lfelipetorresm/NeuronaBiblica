@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#AMABLE"]
 
 2. epios (ἤðéïò, [[G2261]]), manso, gentil. Era una palabra frecuentemente usada por los escritores griegos para caracterizar a una nodriza con niños difíciles, o a un maestro con alumnos poco aplicados, o a padres hacia sus hijos. En 1Ts_2:7, el apóstol la usa de su propia conducta y de la de sus compañeros de misión hacia los conversos en Tesalónica (cf. 2Co_11:13, 2Co_11:20); en 2Ti_2:24, de la conducta requerida de un siervo del Señor. Véase TIERNO.¶
 
-3. prosfiles (ðñïóöéëÞò, [[G4375]]), placentero, agradable, amable (pros, hacia; fileo, amar). Aparece en Fil_4:8.¶ En la lxx, Est_5:1 (3ª oración).¶ 
+3. prosfiles (προσφιλής, [[G4375]]), placentero, agradable, amable (pros, hacia; fileo, amar). Aparece en Fil_4:8.¶ En la lxx, Est_5:1 (3× oración).¶ 
 
 

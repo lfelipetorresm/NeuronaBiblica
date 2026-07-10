@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ACOMODAR"]
 
 # ACOMODAR
 
-sugkrino (óõãêñßíù, [[G4793]]), denota: (a) ajustar, combinar, acomodar (1Co_2:13), ya en el sentido de combinar cosas espirituales con cosas espirituales, adaptando el discurso al tema, bajo la conducción del Espíritu Santo, o bien en el de comunicar cosas espirituales mediante cosas o palabras espirituales, o en el sentido de interpretar cosas espirituales a personas espirituales (cf. su uso en la lxx, de la interpretación de sueños, etc., Gén_40:8, Gén_40:16, Gén_40:22; Gén_41:12, Gén_41:15; Dan_5:12); (b) poner juntos; de ahí, juzgar o discriminar por comparación, comparar, con o entre (2Co_10:12). Véanse COMPARAR, INTERPRETAR.¶ 
+sugkrino (συγκρίνω, [[G4793]]), denota: (a) ajustar, combinar, acomodar (1Co_2:13), ya en el sentido de combinar cosas espirituales con cosas espirituales, adaptando el discurso al tema, bajo la conducción del Espíritu Santo, o bien en el de comunicar cosas espirituales mediante cosas o palabras espirituales, o en el sentido de interpretar cosas espirituales a personas espirituales (cf. su uso en la lxx, de la interpretación de sueños, etc., Gén_40:8, Gén_40:16, Gén_40:22; Gén_41:12, Gén_41:15; Dan_5:12); (b) poner juntos; de ahí, juzgar o discriminar por comparación, comparar, con o entre (2Co_10:12). Véanse COMPARAR, INTERPRETAR.¶ 
 
 

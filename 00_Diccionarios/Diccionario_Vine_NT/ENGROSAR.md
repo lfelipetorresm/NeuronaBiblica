@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ENGROSAR"]
 
 # ENGROSAR
 
-pacuno (ðá÷ýíù, [[G3975]]), (de pacus, grueso), significa engrosar, engordar; en la voz pasiva, hacerse gordo; metafóricamente, se dice del corazón, de engrosarse: «el corazón de este pueblo se ha engrosado» (Mat_13:15; Hch_28:27, rv, rvr; la rvr77 coincide con la rvr en el primer pasaje, en el segundo: «se ha embotado»; vm: «se ha hecho estúpido» y «se ha embotado», respectivamente; nvi: «se ha encallecido» en los dos pasajes).¶ 
+pacuno (παχύνω, [[G3975]]), (de pacus, grueso), significa engrosar, engordar; en la voz pasiva, hacerse gordo; metafóricamente, se dice del corazón, de engrosarse: «el corazón de este pueblo se ha engrosado» (Mat_13:15; Hch_28:27, rv, rvr; la rvr77 coincide con la rvr en el primer pasaje, en el segundo: «se ha embotado»; vm: «se ha hecho estúpido» y «se ha embotado», respectivamente; nvi: «se ha encallecido» en los dos pasajes).¶ 
 
 

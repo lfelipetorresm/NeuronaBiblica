@@ -7,13 +7,13 @@ etiquetas: ["#Diccionario", "#VineAT", "#REINO"]
 
 # REINO
 
-malkût (îÇìÀëÌåÌú, [[H4438]]), «reino; reinado; gobierno». El vocablo malkût aparece 91 veces en el Antiguo Testamento hebreo y parece corresponder al hebreo bíblico tardío. Se menciona por primera vez en Núm_24:7 (rva): «El agua correrá de sus baldes; su simiente tendrá agua en abundancia. Su rey será más grande que Agag; su reino será enaltecido».
+malkût (מַלְכּוּת, [[H4438]]), «reino; reinado; gobierno». El vocablo malkût aparece 91 veces en el Antiguo Testamento hebreo y parece corresponder al hebreo bíblico tardío. Se menciona por primera vez en Núm_24:7 (rva): «El agua correrá de sus baldes; su simiente tendrá agua en abundancia. Su rey será más grande que Agag; su reino será enaltecido».
 
 El vocablo malkût denota: (1) el territorio de un reino: «Para mostrar él las riquezas de la gloria de su reino, el brillo y la magnificencia de su poder, por muchos días, ciento ochenta días» (Est_1:4); (2) acceso al trono: «Si te quedas callada en este tiempo, el alivio y la liberación de los judíos surgirán de otro lugar; pero tú y la casa de tu padre pereceréis. ¡Y quién sabe si para un tiempo como este has llegado al reino!» (Est_4:14 rva); (3) año de gobierno: «Ester fue llevada al rey Asuero, a su palacio real en el mes décimo, el mes de Tebet, del séptimo año de su reinado» (Est_2:16 rva); y (4) cualquier cosa relacionada con un rey: trono (Est_1:2), vino (Est_1:7), corona (Est_1:11), decreto (Est_1:19), vestimenta (Est_6:8), casa real (Est_1:9), cetro (Sal_45:6) y gloria (Sal_145:11-12).
 
 Las traducciones de malkût en la Septuaginta son: basileia («realeza; reino; poder real») y basileus («rey»).
 
-mamlakah (îÇîÀìÈëÈä, [[H4467]]), «reino; soberanía; dominio; reinado». El vocablo se encuentra unas 115 veces en todo el Antiguo Testamento. Mamlakah se halla primero en Gén_10:10 : «Y fue el comienzo [«fueron las capitales» nbe] de su reino Babel, Erec, y Acad, y Calne, en la tierra de Sinar».
+mamlakah (מַמְלָכָה, [[H4467]]), «reino; soberanía; dominio; reinado». El vocablo se encuentra unas 115 veces en todo el Antiguo Testamento. Mamlakah se halla primero en Gén_10:10 : «Y fue el comienzo [«fueron las capitales» nbe] de su reino Babel, Erec, y Acad, y Calne, en la tierra de Sinar».
 
 El significado básico de mamlakah tiene que ver con el territorio de un «reino». El término se refiere a naciones no israelitas gobernadas por un melek, «rey»: «Acontecerá que al fin de los setenta años visitará Jehová a Tiro; y volverá a comerciar, y otra vez fornicará con todos los reinos del mundo sobre la faz de la tierra» (Isa_23:17). Mamlakah sirve de sinónimo de am, «gente» o «pueblo», y gôy, «nación»: «Cuando andaban de nación en nación, y de un reino a otro pueblo» (Sal_105:13 rva). Mamlakah también señala a Israel como el «reino» de Dios: «Vosotros me seréis un reino de sacerdotes y una nación santa» (Éxo_19:6). El reino davídico fue el agente teocrático por el que Dios reinaba sobre su pueblo y los bendecía: «Tu casa y tu reino serán firmes para siempre delante de mí, y tu trono será estable para siempre» (2Sa_7:16). No obstante esto, el mamlakah unido se dividió después de Salomón en dos reinos que Ezequiel predijo se reunirían: «Haré de ellos una sola nación en la tierra, en los montes de Israel, y todos ellos tendrán un solo rey. Nunca más serán dos naciones, ni nunca más estarán divididos en dos reinos» (Eze_37:22 rva).
 
@@ -25,5 +25,5 @@ Todo dominio humano está bajo el control de Dios. Por consiguiente, el Antiguo 
 
 En el Nuevo Testamento todos los significados analizados se asocian con el término griego basileia («reino»). Así se traducen la mayoría de los casos de mamlakah en la Septuaginta, por lo que no debe sorprender que los autores neotestamentarios usaran este vocablo para referirse al «reino» de Dios: el dominio, el rey, su soberanía y nuestra relación con Dios mismo.
 
-melek (îÆìÆêÀ, [[H4428]]), «rey». El vocablo se encuentra unas 2:513 veces en el Antiguo Testamento. Varias de ellas en Gén_14:1 : «Aconteció en los días de Amrafel rey de Sinar, de Arioc rey de Elasar, de Quedorlaomer rey de Elam, y de Tidal rey de Goím» (rva). 
+melek (מֶלֶךְ, [[H4428]]), «rey». El vocablo se encuentra unas 2:513 veces en el Antiguo Testamento. Varias de ellas en Gén_14:1 : «Aconteció en los días de Amrafel rey de Sinar, de Arioc rey de Elasar, de Quedorlaomer rey de Elam, y de Tidal rey de Goím» (rva). 
 

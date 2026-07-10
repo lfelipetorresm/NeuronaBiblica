@@ -13,15 +13,15 @@ etiquetas: ["#Diccionario", "#VineNT", "#TENER"]
 
 ¿No hay una insinuación de esto mismo en lo dicho por Pablo a Filemón acerca de recibir a Onésimo (v. 17)? Filemón le daría al apóstol un recibo por su pago al enviarlo. Esto concuerda con los términos metafóricamente financieros en los vv. 18,19. Véase ABSTENER, Nº 1, y también APARTAR, BASTAR, DISTAR, LEJOS, RECIBIR.
 
-3. ginomai (ãßíïìáé, [[G1096]]), comenzar a ser, acaecer, suceder. Se traduce con el verbo tener en Mat_18:12 : «tiene cien ovejas», lit: «si hay para un cierto hombre»; «tuviesen» (Hch_15:2, lit: «habiéndose acontecido un altercado»); véase VENIR A SER, y también ACONTECER, CONVERTIR, ESTAR, HABER, HACER, IR, LLEGAR, SUCED ER, etc.
+3. ginomai (γίνομαι, [[G1096]]), comenzar a ser, acaecer, suceder. Se traduce con el verbo tener en Mat_18:12 : «tiene cien ovejas», lit: «si hay para un cierto hombre»; «tuviesen» (Hch_15:2, lit: «habiéndose acontecido un altercado»); véase VENIR A SER, y también ACONTECER, CONVERTIR, ESTAR, HABER, HACER, IR, LLEGAR, SUCED ER, etc.
 
-4. metalambano (ìåôáëáìâÜíù, [[G3335]]), tener, o recibir una parte de. Se traduce «cuando tenga oportunidad» en Hch_24:25. Véanse COMER, A, Nº 9, PARTICIPAR, RECIBIR.
+4. metalambano (μεταλαμβάνω, [[G3335]]), tener, o recibir una parte de. Se traduce «cuando tenga oportunidad» en Hch_24:25. Véanse COMER, A, Nº 9, PARTICIPAR, RECIBIR.
 
 5. juparco (ὑðÜñ÷ù, [[G5225]]), estar en existencia, estar listo, a la mano. Se traduce con el verbo tener en Mat_19:21 : «lo que tienes»; Luc_7:25 : «los que tienen»; en Hch_3:6 : «no tengo plata ni oro», que es, lit: «no está en mí plata ni oro»; en la segunda cláusula, «lo que tengo te doy», se emplea el verbo eco ; Hch_4:37 : «tenía una heredad», lit: «tierra siendo a él»; véase SER, A, y también ESTAR, Nota (b) HABER, Nº 4.
 
 Nota: En los mencionados pasajes de Mat_19:21; Luc_7:25 se emplea el participio juparconta como sustantivo, para el cual véase BIEN, BIENES, A, Nº 9.
 
-6. pleonazo (ðëåïíÜæù, [[G4121]]), véase ABUNDAR bajo ABUNDANCIA, B, Nº 3. Se traduce «no tuvo más» en 2Co_8:15 (vm: «tuvo demasía»).
+6. pleonazo (πλεονάζω, [[G4121]]), véase ABUNDAR bajo ABUNDANCIA, B, Nº 3. Se traduce «no tuvo más» en 2Co_8:15 (vm: «tuvo demasía»).
 
 Notas: (1) En Jua_5:4 (en aquellos mss. que contienen el pasaje), se emplea kateco en la voz pasiva, en la frase «sano de cualquier enfermedad que tuviese», lit: «por cualquier enfermedad a que estuviera sujetado»; véase RETENER, Nº 3, etc.
 

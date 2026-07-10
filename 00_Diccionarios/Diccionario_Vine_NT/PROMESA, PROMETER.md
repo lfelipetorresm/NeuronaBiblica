@@ -23,9 +23,9 @@ B. Verbos
 
 1. epangelo (ἐðáããÝëëù, [[G1861]]), anunciar, proclamar, tiene en el NT los dos significados de profesar y prometer, y en ambos casos se utiliza en la voz media; prometer: (a) de promesas de Dios (Hch_7:5; Rom_4:21; en Gál_3:19, voz pasiva: «a quien fue hecha la promesa»; Tit_1:2; Heb_6:13; Heb_10:23; Heb_11:11; Heb_12:26; Stg_1:12; Stg_2:5; 1Jn_2:25); (b) hechas por hombres (Mar_14:11; 2Pe_2:19). véase PROFESAR, A, Nº 1, y también HACER PROMESA.
 
-2. proepangelo (ðñïåðáããÝëëù, [[G4279]]), prometer antes (pro, antes, y Nº 1). Se utiliza en la voz media, y se traduce «él había prometido antes» (Besson: «prometió antes»); 2Co_9:5 : «antes prometida» (vm: «ya prometida»).¶
+2. proepangelo (προεπαγγέλλω, [[G4279]]), prometer antes (pro, antes, y Nº 1). Se utiliza en la voz media, y se traduce «él había prometido antes» (Besson: «prometió antes»); 2Co_9:5 : «antes prometida» (vm: «ya prometida»).¶
 
-3. prokatangelo (ðñïêáôáããÝëëù, [[G4293]]), véase ANUNCIAR, aparece en tr en 2Co_9:5 en lugar del Nº 2, donde la traducción es «antes prometida» en seguimiento del dicho verbo Nº 2. Para el tratamiento de este término, véase ANUNCIAR, Nº 7.
+3. prokatangelo (προκαταγγέλλω, [[G4293]]), véase ANUNCIAR, aparece en tr en 2Co_9:5 en lugar del Nº 2, donde la traducción es «antes prometida» en seguimiento del dicho verbo Nº 2. Para el tratamiento de este término, véase ANUNCIAR, Nº 7.
 
 4. jomologeo (ὁìïëïãÝù, [[G3670]]), asentir, confesar. Significa prometer en Mat_14:7, «le prometió con juramento». véase CONFESAR, A, Nº 1, y también AFIRMAR, CONFESAR, DECLARAR, HACER PROFESION, PROFESAR.
 

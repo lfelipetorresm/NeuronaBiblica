@@ -13,6 +13,6 @@ esoptron (ἔóïðôñïí, [[G2072]]), traducido «espejo». Se usa para refer
 
 B. Verbo
 
-katoptrizo (êáôïðôñßæù, [[G2734]]), de katoptron, espejo (kata, abajo; ops, ojo o vista). Significa en la voz activa hacer reflejar; en la voz media, reflejar como espejo; «mirando … como en un espejo» (2Co_3:18). Véase MIRAR. 
+katoptrizo (κατοπτρίζω, [[G2734]]), de katoptron, espejo (kata, abajo; ops, ojo o vista). Significa en la voz activa hacer reflejar; en la voz media, reflejar como espejo; «mirando … como en un espejo» (2Co_3:18). Véase MIRAR. 
 
 

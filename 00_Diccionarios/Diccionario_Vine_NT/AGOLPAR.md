@@ -13,10 +13,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#AGOLPAR"]
 
 3. episuntreco (ἐðéóõíôñÝ÷ù, [[G1998]]). Se usa en Mar_9:23, y significa «venir corriendo juntos».¶
 
-4. sundrome (óõíäñïìÞ, [[G4890]]), se usa en Hch_21:30, correr juntos, con ginomai, venir a ser, tener lugar, lo cual se traduce como «se agolpó». La vm traduce «concurso (del pueblo)».¶
+4. sundrome (συνδρομή, [[G4890]]), se usa en Hch_21:30, correr juntos, con ginomai, venir a ser, tener lugar, lo cual se traduce como «se agolpó». La vm traduce «concurso (del pueblo)».¶
 
-5. sunercomai (óõíÝñ÷ïìáé, [[G4905]]), se traduce «se agolpó» en la rvr, pero en la vm se vierte como «se juntó». Véanse ACOMPAÑAR, CONGREGAR, ESTAR ( JUNTOS ), IR, JUNTAR, JUNTOS ( ESTAR, VENIR), REUNIR, VENIR ( CON, JUNTOS).
+5. sunercomai (συνέρχομαι, [[G4905]]), se traduce «se agolpó» en la rvr, pero en la vm se vierte como «se juntó». Véanse ACOMPAÑAR, CONGREGAR, ESTAR ( JUNTOS ), IR, JUNTAR, JUNTOS ( ESTAR, VENIR), REUNIR, VENIR ( CON, JUNTOS).
 
-6. sunefistemi (óõíåößóôçìé, [[G4911]]), levantarse juntos (sun, juntos, epi arriba, jistemi, estar de pie, levantar). Se usa en Hch_16:22, del levantamiento de una multitud contra Pablo y Silas.¶ 
+6. sunefistemi (συνεφίστημι, [[G4911]]), levantarse juntos (sun, juntos, epi arriba, jistemi, estar de pie, levantar). Se usa en Hch_16:22, del levantamiento de una multitud contra Pablo y Silas.¶ 
 
 

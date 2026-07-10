@@ -101,7 +101,7 @@ NOTAS SOBRE 1 TIMOTEO
 	 Según Hechos , la segunda vez que Pablo estuvo en Efeso (Hech. cap. 19), en lugar de dejar a Timoteo allí, e irse él mismo a Macedonia, se quedó en Efeso y envió a Timoteo a Macedonia (ver. 22).
 	 Lo mismo se puede decir en cuanto a llegar Pablo a Creta (Hech. cap. 27). En Hechos no hay mención de iglesias en Creta, ni de actividades en el evangelio allí juntamente con Tito, según se implica en Tit_1:5.
 	 Sin duda Pablo viajó mucho en el evangelio entre los dos encarcelamientos.
-	 No podemos con ninguna exactitud fijar la fecha de la composición de esta primera carta a Timoteo, pero debió haber sido escrita entre los años 62 y 67 d. de J.C. Yo favorezco una fecha como la del año 63, ó 64, d. de J.C. El orden cronológico probable de las tres cartas llamadas "pastorales" es 1 Timoteo, Tito y 2 Timoteo .
+	 No podemos con ninguna exactitud fijar la fecha de la composición de esta primera carta a Timoteo, pero debió haber sido escrita entre los años 62 y 67 d. de J.C. Yo favorezco una fecha como la del año 63, σ 64, d. de J.C. El orden cronológico probable de las tres cartas llamadas "pastorales" es 1 Timoteo, Tito y 2 Timoteo .
 	 
 	 IV. DONDE LA ESCRIBIÓ:
 	 Considerando la información en la sección III., arriba, probablemente la escribió desde Macedonia (1Ti_1:3). 
@@ -131,7 +131,7 @@ NOTAS SOBRE 1 TIMOTEO
 	 D. La despedida, una exhortación personal, 6:20,21.
 	 
 	 VIII. EFESO:
-	 Aquí Pablo pasó más tiempo ininterrumpidamente que en cualquier otro lugar durante sus viajes de predicación (Hch_20:31). Su trabajo tuvo gran efecto (Hch_19:10; Hch_19:17; Hch_19:20), aun precipitó un alboroto (Hch_19:40; Hch_20:1). El discurso de Pablo a los ancianos de la iglesia en Efeso, registrado en Hch_20:17-35, es conmovedor. Desde Roma, y mientras estaba preso en Roma, escribió la epístola a los efesios, más o menos en el año 61 ó 62.
+	 Aquí Pablo pasó más tiempo ininterrumpidamente que en cualquier otro lugar durante sus viajes de predicación (Hch_20:31). Su trabajo tuvo gran efecto (Hch_19:10; Hch_19:17; Hch_19:20), aun precipitó un alboroto (Hch_19:40; Hch_20:1). El discurso de Pablo a los ancianos de la iglesia en Efeso, registrado en Hch_20:17-35, es conmovedor. Desde Roma, y mientras estaba preso en Roma, escribió la epístola a los efesios, más o menos en el año 61 σ 62.
 	 Era ciudad principal de Asia, en la costa occidental. Influía grandemente en las ciudades circunvecinas de Asia. Entre los dos encarcelamientos de Pablo, éste dejó aquí a Timoteo para que combatiera a los falsos maestros, condenando sus errores. El efecto de esta obra sin duda se extendió a las demás iglesias de la región (considérense las siete de Asia, Apo_1:11).
 	 Más tarde esta ciudad llegó a ser el hogar de Juan el apóstol, de donde escribió sus epístolas y Apocalipsis, según creían algunos comentaristas primitivos.
 	 Tal era el campo en que Timoteo ahora se encontraba con su comisión.

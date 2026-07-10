@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CIENO"]
 
 # CIENO
 
-borboros (âüñâïñïò, [[G1004]]), cieno. Aparece en 2Pe_2:22.¶ En la lxx, en Jer_38:6, dos veces, del cieno de la cisterna en la cárcel, en la que arrojaron a Jeremías.¶ 
+borboros (βόρβορος, [[G1004]]), cieno. Aparece en 2Pe_2:22.¶ En la lxx, en Jer_38:6, dos veces, del cieno de la cisterna en la cárcel, en la que arrojaron a Jeremías.¶ 
 
 

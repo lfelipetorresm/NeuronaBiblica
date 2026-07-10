@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#GENERACIÓN"]
 
 # GENERACIÓN
 
-d'ôr (ãÌåéø, [[H1755]]), «generación». Este nombre pertenece a una raíz común semítica que significa «duración» en semítico oriental y «generación» en semítico occidental. Los términos acádicos daru («larga duración») y duru («círculo») por su estructura parecen estar relacionados con la raíz del vocablo hebraico d'ôr.
+d'ôr (דּויר, [[H1755]]), «generación». Este nombre pertenece a una raíz común semítica que significa «duración» en semítico oriental y «generación» en semítico occidental. Los términos acádicos daru («larga duración») y duru («círculo») por su estructura parecen estar relacionados con la raíz del vocablo hebraico d'ôr.
 
 En el Antiguo Testamento, la palabra d'ôr aparece unas 166 veces; 74 de estos casos tienen que ver con una repetición del término («d'ôr » más «d'ôr ») que significa «siempre». La primera vez que aparece el vocablo es en Gén_6:9 : «Estas son las generaciones [el recuento de la vida] de Noé: Noé, varón justo, era perfecto en sus generaciones; con Dios caminó Noé».
 

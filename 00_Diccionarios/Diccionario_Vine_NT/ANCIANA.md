@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ANCIANA"]
 
 # ANCIANA
 
-presbutis (ðñåóâýôéò, [[G4247]]), forma femenina de presbutes, Véanse ANCIANO, Nº 2; mujer anciana (Tit_2:3).¶ 
+presbutis (πρεσβύτις, [[G4247]]), forma femenina de presbutes, Véanse ANCIANO, Nº 2; mujer anciana (Tit_2:3).¶ 
 
 

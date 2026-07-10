@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ORO"]
 
 # ORO
 
-zahab (æÈäÈá, [[H2091]]), «oro». Este vocablo tiene cognados en arábigo y arameo. Se encuentra unas 385 veces en hebreo bíblico, durante todos los períodos.
+zahab (זָהָב, [[H2091]]), «oro». Este vocablo tiene cognados en arábigo y arameo. Se encuentra unas 385 veces en hebreo bíblico, durante todos los períodos.
 
 Zahab puede referirse al mineral sin refinar. Este es su significado la primera vez que aparece: «El nombre del primero era Pisón. Este rodeaba toda la tierra de Havila, donde hay oro» (Gén_2:11 rva). También puede significar «oro refinado»: «Sin embargo, él conoce el camino en que ando; cuando él me haya probado, saldré como oro» (Job_23:10 rva). El «oro» también podía trabajarse (1Re_10:16) y purificarse (Éxo_25:11). También se puede hablar de «buen oro» o de buena calidad (2Cr_3:5).
 

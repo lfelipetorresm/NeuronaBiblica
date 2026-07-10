@@ -15,7 +15,7 @@ adapanos (ἀäÜðáíïò, [[G77]]), lit: «sin gasto» (a, privativo; dapane,
 
 B. Adverbio
 
-dorean (äùñåÜí, [[G1432]]), (de dorea, don), se usa como adverbio en el sentido de «gratuitamente», de la justificación (Rom_3:24; Apo_21:6; Apo_22:17). En estos pasajes, el pensamiento prominente es la gracia del Dador. Véanse CAUSA, CAUSAR, bajo «sin causa», y BALDE ( DE ).
+dorean (δωρεάν, [[G1432]]), (de dorea, don), se usa como adverbio en el sentido de «gratuitamente», de la justificación (Rom_3:24; Apo_21:6; Apo_22:17). En estos pasajes, el pensamiento prominente es la gracia del Dador. Véanse CAUSA, CAUSAR, bajo «sin causa», y BALDE ( DE ).
 
 Nota: El verbo carizomai, dar gratuitamente, libremente, conceder en gracia, se traduce «han sido dadas gratuitamente» en 1Co_2:12 (vm; «otorgado gratuitamente», rvr77). Véase DAR, Nº 12. 
 

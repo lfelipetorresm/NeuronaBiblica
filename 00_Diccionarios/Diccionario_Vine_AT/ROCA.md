@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ROCA"]
 
 # ROCA
 
-tsûr (öåÌø, [[H6697]]), «roca; muro de piedra; acantilado; colina rocosa; montaña; terreno rocoso; peña; peñasco». Se encuentran cognados de este vocablo en amorreo, fenicio, ugarítico y arameo. Sin contar los que se encuentran en nombres de personas y lugares, el término aparece 70 veces en hebreo bíblico y durante todos los períodos.
+tsûr (צוּר, [[H6697]]), «roca; muro de piedra; acantilado; colina rocosa; montaña; terreno rocoso; peña; peñasco». Se encuentran cognados de este vocablo en amorreo, fenicio, ugarítico y arameo. Sin contar los que se encuentran en nombres de personas y lugares, el término aparece 70 veces en hebreo bíblico y durante todos los períodos.
 
 Primero, tsûr quiere decir «muro de piedra» o «acantilado». Es esto lo que quizás Moisés golpeó con su vara en Éxo_17:6 (rva): «He aquí, yo estaré delante de ti allí sobre la peña de Horeb. Tú golpearás la peña, y saldrá de ella agua». Tiene el mismo sentido cuando dice que Dios escondió a Moisés en la hendidura de una «peña» (Éxo_33:21-22).
 

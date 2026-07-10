@@ -7,9 +7,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#LANZAR"]
 
 # LANZAR
 
-1. balo (âÜëëù, [[G906]]), arrojar, lanzar. Se traduce con este último verbo en Hch_22:23 : «lanzaban»; Apo_12:9 : «fue lanzado»; v. 10: «ha sido lanzado» (en los mss. más comúnmente aceptados; tr tiene aquí Nº 2); 20:3: «fue lanzado»; v. 14: «fueron lanzados»; v. 15: «fue lanzado». Véase ECHAR, y también ABONAR, ACOSTAR, ARROJAR, DAR, DEJAR DERRAMAR, DERRIBAR, IMPONER, METER, PONER, POSTRAR, SEMBRAR, TENDER, TRAER.
+1. balo (βάλλω, [[G906]]), arrojar, lanzar. Se traduce con este último verbo en Hch_22:23 : «lanzaban»; Apo_12:9 : «fue lanzado»; v. 10: «ha sido lanzado» (en los mss. más comúnmente aceptados; tr tiene aquí Nº 2); 20:3: «fue lanzado»; v. 14: «fueron lanzados»; v. 15: «fue lanzado». Véase ECHAR, y también ABONAR, ACOSTAR, ARROJAR, DAR, DEJAR DERRAMAR, DERRIBAR, IMPONER, METER, PONER, POSTRAR, SEMBRAR, TENDER, TRAER.
 
-2. katabalo (êáôáâÜëëù, [[G2598]]), significa arrojar abajo (2Co_4:9 : «derribados»; Heb_6:1 : «echando … fundamento», véase ECHAR, Nº 6; Apo_12:10 : «ha sido lanzado afuera el acusador», tr). Véase DERRIBAR, etc.¶
+2. katabalo (καταβάλλω, [[G2598]]), significa arrojar abajo (2Co_4:9 : «derribados»; Heb_6:1 : «echando … fundamento», véase ECHAR, Nº 6; Apo_12:10 : «ha sido lanzado afuera el acusador», tr). Véase DERRIBAR, etc.¶
 
 3. eispedao (åἰóðåäÜù, [[G1530]]), saltar adentro. Aparece en Hch_16:29 : «se precipitó adentro»; en tr : «se lanzaron entre» (Hch_14:14, en lugar de Nº 4).¶ En la lxx, Amó_5:19.¶
 

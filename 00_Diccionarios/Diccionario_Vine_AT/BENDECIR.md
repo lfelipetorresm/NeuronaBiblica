@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#BENDECIR"]
 
 A. Verbo
 
-barak (áÌÈøÇêÀ, [[H1288]]), «arrodillarse, bendecir, ser bendecido, maldecir». La raíz de esta palabra se encuentra en otras lenguas semíticas, las cuales, como la hebrea, lo usan con mayor frecuencia con referencia a un dios. Existen también paralelos del vocablo en egipcio.
+barak (בָּרַךְ, [[H1288]]), «arrodillarse, bendecir, ser bendecido, maldecir». La raíz de esta palabra se encuentra en otras lenguas semíticas, las cuales, como la hebrea, lo usan con mayor frecuencia con referencia a un dios. Existen también paralelos del vocablo en egipcio.
 
 Barak aparece unas 330 veces en la Biblia, comenzando por Gén_1:22 : «Y Dios los bendijo, diciendo: Fructificad y multiplicaos». Las primeras palabras que Dios dirige al hombre comienza de la misma manera: «Y los bendijo Dios, y les dijo: Fructificad y multiplicaos» (v. 28). De esta manera se demuestra que toda la creación depende de Dios para su continua existencia y multiplicación (cf. Sal_104:27-30). Barak se usa otra vez en relación al género humano en Gén_5:2, al principio de la historia de los hombres de fe, y de nuevo después del diluvio en Gén_9:1 : «Bendijo Dios a Noé y a sus hijos». El elemento central del pacto de Dios con Abram es: «Te bendeciré … y serás bendición. Bendeciré a los que te bendijeren … y serán benditas en ti todas las familias de la tierra» (Gén_12:2-3). Esta «bendición» sobre las naciones se repite en Gén_18:18; Gén_22:18; y Gén_28:14 (cf. Gén_26:4; Jer_4:2). En todos estos casos, la bendición de Dios se dirige a las naciones a través de Abraham o su simiente. La Septuaginta traduce todos estos casos de barak en el pasivo, como lo hacen también algunas traducciones modernas. Pablo cita la traducción en la Septuaginta de Gén_22:18 en Gál_3:8.
 
@@ -23,7 +23,7 @@ En 2Cr_6:13 se usa la forma simple del verbo: «Se arrodilló». Seis veces se u
 
 B. Nombre
 
-berakah (áÌÀøÈëÈä, [[H1293]]), «bendición». La forma del radical de esta palabra se encuentra en las lenguas semíticas del noroeste y del sur de la región semítica. Se usa conjuntamente con el verbo barak («bendecir») 71 veces en el Antiguo Testamento. El término aparece con mayor frecuencia en Génesis y en Deuteronomio . La primera vez es el caso de la bendición de Dios sobre Abram: «Y haré de ti una nación grande y te bendeciré, y engrandeceré tu nombre, y serás bendición [berakah]» (Gén_12:2).
+berakah (בְּרָכָה, [[H1293]]), «bendición». La forma del radical de esta palabra se encuentra en las lenguas semíticas del noroeste y del sur de la región semítica. Se usa conjuntamente con el verbo barak («bendecir») 71 veces en el Antiguo Testamento. El término aparece con mayor frecuencia en Génesis y en Deuteronomio . La primera vez es el caso de la bendición de Dios sobre Abram: «Y haré de ti una nación grande y te bendeciré, y engrandeceré tu nombre, y serás bendición [berakah]» (Gén_12:2).
 
 Cuando la expresa el hombre, «bendición» es un deseo o una súplica en pro de bendición futura: «Y [Dios] te dé la bendición de Abraham, y a tu descendencia contigo, para que heredes la tierra en que moras, que Dios dio a Abraham» (Gén_28:4). Esto se refiere a la «bendición» que los patriarcas antes de morir solían pronunciar sobre los hijos de Israel. La «bendición» de Jacob a las tribus (Génesis 49) y la «bendición» de Moisés (Deu_33:1 ss) son otros ejemplos bien conocidos de este hecho.
 

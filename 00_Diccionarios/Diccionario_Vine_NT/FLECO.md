@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#FLECO"]
 
 # FLECO
 
-kraspedon (êñÜóðåäïí, [[G2899]]), véase BORDE. 
+kraspedon (κράσπεδον, [[G2899]]), véase BORDE. 
 
 

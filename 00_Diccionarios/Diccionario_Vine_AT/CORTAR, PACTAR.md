@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CORTAR,PACTAR"]
 
 A. Verbo
 
-karat (ëÌÈøÇú, [[H3772]]), «cortar, talar; cortar un pacto; hacer un pacto; pactar». Este verbo también aparece en acádico, moabita y en hebreo posbíblico. Se constatan unos 290 casos del verbo en todos los tiempos del hebreo bíblico.
+karat (כָּרַת, [[H3772]]), «cortar, talar; cortar un pacto; hacer un pacto; pactar». Este verbo también aparece en acádico, moabita y en hebreo posbíblico. Se constatan unos 290 casos del verbo en todos los tiempos del hebreo bíblico.
 
 Básicamente karat quiere decir «cortar o separar» alguna cosa de otra con el filo de un instrumento. El vocablo tiene varios usos y matices. Se puede cortar una rama (Núm_13:23) y «[blandir] el hacha para cortar un tronco» (Deu_19:5 rva). El término también se usa para indicar el acto de «derribar» ídolos de madera (Éxo_34:13). Karat puede señalar el «desmembramiento» de un cuerpo (1Sa_5:4). En Jer_34:18 este verbo significa «dividir en dos partes». «Cortar» también se aplica a la circuncisión. En Éxo_4:25 Séfora «tomó un pedernal afilado y cortó el prepucio de su hijo». Un uso relacionado aunque diferente se encuentra en Núm_11:33 donde significa «masticar» alimentos.
 
@@ -21,7 +21,7 @@ Aunque la práctica de literalmente «cortar» un pacto fue desapareciendo, el t
 
 B. Nombres
 
-keritût (ëÌÀøÄéúËú, [[H3748]]), se refiere a una «carta de divorcio». El vocablo tiene que ver con un documento por el que se «corta» un matrimonio: «Si un hombre toma una mujer y se casa con ella, y sucede que ella no le agrada por haber él hallado en ella alguna cosa vergonzosa, le escribirá una carta de divorcio, la entregará en su mano y la despedirá de su casa» (Deu_24:1). Keritût aparece 4 veces.
+keritût (כְּרִיתֻת, [[H3748]]), se refiere a una «carta de divorcio». El vocablo tiene que ver con un documento por el que se «corta» un matrimonio: «Si un hombre toma una mujer y se casa con ella, y sucede que ella no le agrada por haber él hallado en ella alguna cosa vergonzosa, le escribirá una carta de divorcio, la entregará en su mano y la despedirá de su casa» (Deu_24:1). Keritût aparece 4 veces.
 
 kerutôt significa «vigas». El nombre, que aparece solo 3 veces, se refiere a «vigas», o sea, objetos «cortados» en 1Re_6:36 : «Hizo el atrio interior de tres hileras de piedras labradas y una hilera de vigas de cedro». 
 

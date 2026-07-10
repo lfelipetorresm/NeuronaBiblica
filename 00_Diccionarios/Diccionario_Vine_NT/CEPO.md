@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CEPO"]
 
 # CEPO
 
-xulon (îýëïí, [[G3586]]), madera. Se usa en Hch_16:24 de cepos. Véanse MADERA, PALO. 
+xulon (ξύλον, [[G3586]]), madera. Se usa en Hch_16:24 de cepos. Véanse MADERA, PALO. 
 
 

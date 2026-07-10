@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PRESTEZA,PRESTO,PRESTAMENTE"]
 
 A. Nombre
 
-spoude (óðïõäÞ, [[G4710]]), denota: (a) apresuramiento, velocidad, presteza; junto a «con» (meta), es, lit., «con presteza», «prontamente» (Mar_6:25; Luc_1:39 : «con mayor solicitud»); (b) celo, diligencia, prisa, solicitud; véanse DILIGENCIA, PRISA, SOLICITUD.
+spoude (σπουδή, [[G4710]]), denota: (a) apresuramiento, velocidad, presteza; junto a «con» (meta), es, lit., «con presteza», «prontamente» (Mar_6:25; Luc_1:39 : «con mayor solicitud»); (b) celo, diligencia, prisa, solicitud; véanse DILIGENCIA, PRISA, SOLICITUD.
 
 B. Adjetivo
 

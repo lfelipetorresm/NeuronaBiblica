@@ -19,7 +19,7 @@ Egeiro  está en contraste con anistemi, cuando se usa con referencia a la resur
 
 5. epegeiro (ἐðåãåßñù, [[G1892]]), «levantaron» persecución (Hch_13:50), significa propiamente «excitar» (Hch_14:2 : «excitaron y corrompieron los ánimos»). Véase EXCITAR.¶
 
-6. exegeiro (ἐîåãåßñù, [[G1825]]), (ek, fuera de, y Nº 4). Se usa: (a) de la resurrección de los creyentes (1Co_6:14 b; en 1ª parte aparece egeiro, Nº 4); (b) de levantar a una persona a una posición pública (Rom_9:17 : «levantará»), dicho de Faraón.¶
+6. exegeiro (ἐîåãåßñù, [[G1825]]), (ek, fuera de, y Nº 4). Se usa: (a) de la resurrección de los creyentes (1Co_6:14 b; en 1× parte aparece egeiro, Nº 4); (b) de levantar a una persona a una posición pública (Rom_9:17 : «levantará»), dicho de Faraón.¶
 
 Nota: El verbo diegeiro (véase DESPERTAR, Nº 2), se traduce «levantándose» (Mar_4:39; en Jua_6:18 : «se levantaba (el mar)»; con el verbo «despertar» se traduce en Mat_1:24; Mar_4:38, tr; Luc_8:24 (dos veces); 2Pe_1:13; 2Pe_3:1.¶
 
@@ -31,9 +31,9 @@ Nota: El verbo diegeiro (véase DESPERTAR, Nº 2), se traduce «levantándose» 
 
 10. exanistemi (ἐîáíßóôçìé, [[G1817]]), forma intensificada de Nº 7 (ex, esto es, ek, intensivo), significa levantar (Mar_12:19; Luc_20:28); intransitivamente, «se levantaron» (Hch_15:5).¶
 
-11. katefistemi (êáôåößóôçìé, [[G2721]]), (kata, contra; epi, adelante; jistemi, hacer estar de pie) significa levantar contra; lit: hacer estar de pie en contra (Hch_18:12 : «se levantaron», rv, rvr).¶
+11. katefistemi (κατεφίστημι, [[G2721]]), (kata, contra; epi, adelante; jistemi, hacer estar de pie) significa levantar contra; lit: hacer estar de pie en contra (Hch_18:12 : «se levantaron», rv, rvr).¶
 
-12. ginomai (ãßíïìáé, [[G1096]]), venir a ser, tener lugar, suceder. Se traduce «se levantó» (Mar_4:37) de una gran tempestad; véase VENIR A SER, etc.
+12. ginomai (γίνομαι, [[G1096]]), venir a ser, tener lugar, suceder. Se traduce «se levantó» (Mar_4:37) de una gran tempestad; véase VENIR A SER, etc.
 
 13. anablepo (ἀíáâëÝðù, [[G308]]), denota: (a) mirar arriba (ana, arriba, y blepo, ver, mirar). Se traduce con la frase verbal «levantar los ojos» (Mat_14:19; Mar_6:41; Mar_7:34; Luc_9:16; Luc_21:1); (b) recobrar la vista (p.ej., Mat_11:5; Mat_20:34; Jua_9:11). Véase VISTA. Cf. anablepsis, lit: «recobramiento de la vista», «vista» (Luc_4:18), en VISTA.¶
 
@@ -41,7 +41,7 @@ Nota: El verbo diegeiro (véase DESPERTAR, Nº 2), se traduce «levantándose» 
 
 15. anorthoo (ἀíïñèüù, [[G461]]), enderezar. Se traduce «volveré a levantar» en Hch_15:16; Heb_12:12 : «levantad». Véanse ENDEREZAR, A, Nº 2, VOLVER.
 
-16. pegnumi (ðÞãíõìé, [[G4078]]), afirmar, fijar (cf. prospegnumi, Hch_2:23, de la crucifixión). Se usa de levantar una tienda (Heb_8:2), del «verdadero tabernáculo», el celestial y espiritual, que «levantó el Señor, y no el hombre».¶
+16. pegnumi (πήγνυμι, [[G4078]]), afirmar, fijar (cf. prospegnumi, Hch_2:23, de la crucifixión). Se usa de levantar una tienda (Heb_8:2), del «verdadero tabernáculo», el celestial y espiritual, que «levantó el Señor, y no el hombre».¶
 
 17. jupsoo (ὑøüù, [[G5312]]), levantar o alzar (relacionado con jupsos, altura). Se traduce con el verbo levantar en Jua_3:14, de la serpiente de bronce; de Cristo en crucifixión (mismo pasaje, y Jua_8:28; Jua_12:32, Jua_12:34); de Capernaúm (Mat_11:23, tr; Luc_10:15, tr); véanse ENALTECER, EXALTAR. 
 

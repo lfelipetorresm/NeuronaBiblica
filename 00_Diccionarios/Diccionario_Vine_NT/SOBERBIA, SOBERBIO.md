@@ -13,7 +13,7 @@ A. Nombres
 
 2. juperefania (ὑðåñçöáíßá, [[G5243]]),: «soberbia». Aparece en Mar_7:22 (rvr77: «arrogancia»; lba: «orgullo»).¶ Cf. B, Nº 1.
 
-3. fusiosis (öõóßùóéò, [[G5450]]), denota hinchamiento, engrandecerse con soberbia (relacionado con fusioo, véase ENVANECER, HINCHAR). Se emplea en 2Co_12:20 : «soberbias» (rv: «relaciones»; vm: «hinchazones»; lba: «arrogancia»).¶
+3. fusiosis (φυσίωσις, [[G5450]]), denota hinchamiento, engrandecerse con soberbia (relacionado con fusioo, véase ENVANECER, HINCHAR). Se emplea en 2Co_12:20 : «soberbias» (rv: «relaciones»; vm: «hinchazones»; lba: «arrogancia»).¶
 
 B. Adjetivos
 

@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineNT", "#SENTENCIA,SENTENCIAR"]
 
 A. Nombres
 
-1. krima (êñßìá, [[G2917]]), juicio, decisión que se dicta sobre las faltas de otros. Se utiliza especialmente del juicio de Dios sobre los hombres, y se traduce «sentencia» en Luc_24:20 (rv: «condenación»); Gál_5:10 (rv: «juicio»); Apo_17:1 (rv: «condenación»). Véanse JUICIO, JUZGAR, A, Nº 2, y también bajo CONDENAR, B, Nº 1, PLEITO.
+1. krima (κρίμα, [[G2917]]), juicio, decisión que se dicta sobre las faltas de otros. Se utiliza especialmente del juicio de Dios sobre los hombres, y se traduce «sentencia» en Luc_24:20 (rv: «condenación»); Gál_5:10 (rv: «juicio»); Apo_17:1 (rv: «condenación»). Véanse JUICIO, JUZGAR, A, Nº 2, y también bajo CONDENAR, B, Nº 1, PLEITO.
 
 2. apokrima (ἀðïêñßìá, [[G610]]), se traduce «sentencia» en 2Co_1:9 (rv: «respuesta»). Véase RESPUESTA bajo RESPONDER, B, Nº 2.¶
 
-3. logos (ëüãïò, [[G3056]]), palabra. Se traduce «sentencia» en Rom_9:28; Rom_13:9. Véase PALABRA, Nº 1.
+3. logos (λόγος, [[G3056]]), palabra. Se traduce «sentencia» en Rom_9:28; Rom_13:9. Véase PALABRA, Nº 1.
 
 B. Adjetivos
 

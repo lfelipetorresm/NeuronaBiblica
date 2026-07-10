@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#TEJER,TEJIDO"]
 
 A. Verbo
 
-pleko (ðëÝêù, [[G4120]]), tejer, retorcer, entretejer. Se emplea de la corona de espinas que Cristo padeció (Mat_27:29; Mar_15:17 : «una corona tejida de espinas»; Jua_19:2 : «los soldados entretejieron»). Véase ENTRETEJER.¶
+pleko (πλέκω, [[G4120]]), tejer, retorcer, entretejer. Se emplea de la corona de espinas que Cristo padeció (Mat_27:29; Mar_15:17 : «una corona tejida de espinas»; Jua_19:2 : «los soldados entretejieron»). Véase ENTRETEJER.¶
 
 B. Adjetivo
 

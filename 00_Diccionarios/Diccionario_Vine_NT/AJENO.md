@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#AJENO"]
 
 2. allotriepiskopos (ἀëëïôñéåðßóêïðïò, [[G244]]), viene de allotrios, «perteneciente a otra persona» (véase Nº 1), y de episkopos, supervisor. Se traduce «entremeterse en lo ajeno» en 1Pe_4:15. Era un término legal que se presentaba como una acusación contra los cristianos como personas hostiles a la sociedad civilizada, siendo el propósito de ellos que los gentiles adoptaran las normas cristianas, traduciéndose mejor como «entrometido» (vm). Los hay que lo explican como refiriéndose a entremeterse en las vidas ajenas.¶
 
-3. xenos (îÝíïò, [[G3581]]), denota extraño, ajeno, y se traduce con esta última palabra en Efe_2:12. Véanse EXTRANJERO, EXTRAÑO, FORASTERO, HOSPEDADOR.
+3. xenos (ξένος, [[G3581]]), denota extraño, ajeno, y se traduce con esta última palabra en Efe_2:12. Véanse EXTRANJERO, EXTRAÑO, FORASTERO, HOSPEDADOR.
 
 Notas: (1) Apallotrioo, es un verbo que significa ser alienado, alejado, hecho extraño [apo, de (partitivo), y Nº 1]. En Efe_2:12 la rvr vierte la palabra con el participio «alejados», y Efe_4:18 con el adjetivo «ajenos». En Col_1:21 se vierte como «extraños». Véanse ALEJAR, EXTRAÑOS.¶ (2) Periergazomai es un verbo que aparece solo en 2Ts_3:11, y que se traduce con la cláusula verbal «entremetiéndose en lo ajeno».¶ 
 

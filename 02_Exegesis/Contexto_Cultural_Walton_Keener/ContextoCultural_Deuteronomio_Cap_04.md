@@ -48,7 +48,7 @@ La experiencia exclusiva de Israel con la deidad. Los dos aspectos sobre los qu
 Ciudades de refugio
 
 ### Deuteronomio 4:42
-Ciudades de refugio. Para más información sobre las ciudades de refugio, ver los comentarios sobre Núm 35:1-34. Bezer está en la región cercana a Medeba. Se sabe por medio de la inscripción de Mesa (siglo IX a. de J.C.), pero su identificación arqueológica es incierta. Las principales posibilidades son Umm al-Amad (unos 11 km al nordeste de Medeba) y Tell Jalul (5 ó 6 km directamente al este). Ramot de Galaad generalmente es identificada como Tell es-Rumeith, cerca de la moderna Ramtha al sur de Edrei a lo largo del Camino Real. Sin embargo, las excavaciones en el lugar no han producido nada más antiguo que el tiempo de Salomón. Golán, la moderna Sahn al-Joulan, está en la frontera oriental de las alturas del Golán, del lado oriental del río el-Allan.
+Ciudades de refugio. Para más información sobre las ciudades de refugio, ver los comentarios sobre Núm 35:1-34. Bezer está en la región cercana a Medeba. Se sabe por medio de la inscripción de Mesa (siglo IX a. de J.C.), pero su identificación arqueológica es incierta. Las principales posibilidades son Umm al-Amad (unos 11 km al nordeste de Medeba) y Tell Jalul (5 ף 6 km directamente al este). Ramot de Galaad generalmente es identificada como Tell es-Rumeith, cerca de la moderna Ramtha al sur de Edrei a lo largo del Camino Real. Sin embargo, las excavaciones en el lugar no han producido nada más antiguo que el tiempo de Salomón. Golán, la moderna Sahn al-Joulan, está en la frontera oriental de las alturas del Golán, del lado oriental del río el-Allan.
 
 ### Deuteronomio 4:44-49
 Descripción territorial

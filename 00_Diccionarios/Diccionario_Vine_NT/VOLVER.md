@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#VOLVER"]
 
 # VOLVER
 
-1. strefo (óôñÝöù, [[G4762]]), denota: (1) en la voz activa: (a) girar algo (Mat_5:39 : «vuélvele»); (b) traer de vuelta (Mat_27:3; en los textos más comúnmente aceptados: «devolvió», rvr, donde se sigue la lectura del tr , apostrefo ; véase Nº 3); (c) reflexivamente, volverse uno, dar la espalda a personas, dicho de Dios (Hch_7:42 : «se apartó»); (d) transformar una cosa en otra (Apo_11:6 : «para convertirlas en sangre»; único lugar en que esta palabra aparece después de Hechos); (2) en la voz pasiva: (a) empleado reflexivamente, dar la vuelta, volverse (p.ej., Mat_7:6 : «se vuelvan»; Jua_20:14, Jua_20:16); (b) metafóricamente (Mat_18:3 : «si no os volvéis»; Jua_12:40 : «se conviertan», en los textos más comúnmente aceptados; en tr aparece epistrefo ; véase Nº 4). Véanse APARTAR, CONVERTIR, DEVOLVER.
+1. strefo (στρέφω, [[G4762]]), denota: (1) en la voz activa: (a) girar algo (Mat_5:39 : «vuélvele»); (b) traer de vuelta (Mat_27:3; en los textos más comúnmente aceptados: «devolvió», rvr, donde se sigue la lectura del tr , apostrefo ; véase Nº 3); (c) reflexivamente, volverse uno, dar la espalda a personas, dicho de Dios (Hch_7:42 : «se apartó»); (d) transformar una cosa en otra (Apo_11:6 : «para convertirlas en sangre»; único lugar en que esta palabra aparece después de Hechos); (2) en la voz pasiva: (a) empleado reflexivamente, dar la vuelta, volverse (p.ej., Mat_7:6 : «se vuelvan»; Jua_20:14, Jua_20:16); (b) metafóricamente (Mat_18:3 : «si no os volvéis»; Jua_12:40 : «se conviertan», en los textos más comúnmente aceptados; en tr aparece epistrefo ; véase Nº 4). Véanse APARTAR, CONVERTIR, DEVOLVER.
 
 2. anastrefo (ἀíáóôñÝöù, [[G390]]), denota principalmente comportarse, conducirse, vivir de una cierta manera (para lo cual véanse CONDUCIRSE, VIVIR). Tiene también el sentido de girar de vuelta, volver (ana, atrás, y Nº 1), y se traduce volver en Hch_5:22 : «volvieron»; Hch_15:16 : «volveré»; véase también VOLCAR.
 
@@ -21,7 +21,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#VOLVER"]
 
 7. ektrepo (ἐêôñÝðù, [[G1624]]), se traduce «se volverán» en 2Ti_4:4; véanse APARTAR(SE), Nº 21, EVITAR, Nº 2, SALIR.
 
-8. peritrepo (ðåñéôñååðù, [[G4062]]), girar alrededor (peri). Se traduce «te vuelven loco» en Hch_26:24.¶
+8. peritrepo (περιτρεεπω, [[G4062]]), girar alrededor (peri). Se traduce «te vuelven loco» en Hch_26:24.¶
 
 9. epanago (ἐðáíÜãù, [[G1877]]), traer arriba o de vuelta (primariamente término náutico para zarpar, véanse APARTAR, Nº 1, BOGAR). Se emplea intransitivamente en Mat_21:18 : «volviendo a la ciudad» (rvr77, nvi: «cuando volvía»; lba: «cuando regresaba»).¶
 
@@ -29,9 +29,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#VOLVER"]
 
 11. epanercomai (ἐðáíÝñ÷ïìáé, [[G1880]]), venir atrás de nuevo, volver (epi, sobre; ana, de nuevo), se emplea en Luc_10:35 : «cuando regrese»; Luc_19:15 : «vuelto él».¶
 
-12. ginomai (ãßíïìáé, [[G1096]]), venir a ser. Se traduce «se volvieron» en Mar_9:3, de los vestidos del Señor: «resplandecientes», en la transfiguración; Hch_12:11 : «volviendo en sí»; «se volvió» (Apo_6:12 b), de la luna como sangre; véase VENIR A SER, etc.
+12. ginomai (γίνομαι, [[G1096]]), venir a ser. Se traduce «se volvieron» en Mar_9:3, de los vestidos del Señor: «resplandecientes», en la transfiguración; Hch_12:11 : «volviendo en sí»; «se volvió» (Apo_6:12 b), de la luna como sangre; véase VENIR A SER, etc.
 
-13. paraginomai (ðáñáãßíïìáé, [[G3854]]), lit., «venir a ser cercano», y de ahí llegar a escena. Se traduce «vuelto el siervo» (Luc_14:21); véase LLEGAR, Nº 2, y también ESTAR, HALLARSE, PRESENTE, REUNIR, VENIR, etc.
+13. paraginomai (παραγίνομαι, [[G3854]]), lit., «venir a ser cercano», y de ahí llegar a escena. Se traduce «vuelto el siervo» (Luc_14:21); véase LLEGAR, Nº 2, y también ESTAR, HALLARSE, PRESENTE, REUNIR, VENIR, etc.
 
 14. analuo (ἀíáëýù, [[G360]]), se traduce «ha de volver» en Luc_12:36 (rv; rvr: «regrese»). Véanse PARTIR, B (II), Nº 8, REGRESAR, Nº 1.
 

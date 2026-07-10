@@ -13,7 +13,7 @@ A. Nombres
 
 No hay evidencia alguna de la continuidad de este don después de la época apostólica. De esta manera, esto da confirmación del cumplimiento de 1Co_13:8, que este don cesaría en las iglesias, de la misma manera en que cesarían las «profecías» y «conocimiento» en el sentido de un conocimiento recibido por un poder sobrenatural inmediato (cf. 14:6). Al haber sido dadas las Sagradas Escrituras en su totalidad, se ha dado a las iglesias todo lo necesario para la conducción, instrucción y edificación, tanto individual como colectivamente.
 
-2. dialektos (äéÜëåêôïò, [[G1258]]), primariamente conversación, discurso (relacionado con dialegomai, discursear o discutir), vino a denotar el lenguaje o dialecto de un país o distrito. Se traduce «lengua» en todos los pasajes en que aparece (Hch_1:19; Hch_2:6, Hch_2:8; Hch_21:40; Hch_22:2; Hch_26:14).¶ Véase también LENGUAJE.
+2. dialektos (διάλεκτος, [[G1258]]), primariamente conversación, discurso (relacionado con dialegomai, discursear o discutir), vino a denotar el lenguaje o dialecto de un país o distrito. Se traduce «lengua» en todos los pasajes en que aparece (Hch_1:19; Hch_2:6, Hch_2:8; Hch_21:40; Hch_22:2; Hch_26:14).¶ Véase también LENGUAJE.
 
 B. Adjetivo
 

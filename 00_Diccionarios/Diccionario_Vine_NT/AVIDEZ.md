@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#AVIDEZ"]
 
 # AVIDEZ
 
-pleonexia (ðëåïíåîßá, [[G4124]]), codicia, deseo de beneficio. Se traduce como «avidez» en Efe_4:19 (rv, rvr). Véase AVARICIA. 
+pleonexia (πλεονεξία, [[G4124]]), codicia, deseo de beneficio. Se traduce como «avidez» en Efe_4:19 (rv, rvr). Véase AVARICIA. 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MUERTE,MORIR"]
 
 A. Nombres
 
-mawet (îÈåÆÆú, [[H4194]]), «muerte». Este vocablo se encuentra 150 veces en el Antiguo Testamento. El término mawet aparece a menudo como antónimo de jayyîm («vida»): «Llamo hoy por testigos contra vosotros a los cielos y a la tierra, de que he puesto delante de vosotros la vida y la muerte, la bendición y la maldición. Escoge, pues, la vida para que vivas, tú y tus descendientes» (Deu_30:19 rva). Mawet se usa más en lenguaje poético que en los libros históricos: de Job a Proverbios unas 60 veces, entre Josué y Ester 40 veces; pero en los profetas mayores, unas 25 veces.
+mawet (מָוֶֶת, [[H4194]]), «muerte». Este vocablo se encuentra 150 veces en el Antiguo Testamento. El término mawet aparece a menudo como antónimo de jayyîm («vida»): «Llamo hoy por testigos contra vosotros a los cielos y a la tierra, de que he puesto delante de vosotros la vida y la muerte, la bendición y la maldición. Escoge, pues, la vida para que vivas, tú y tus descendientes» (Deu_30:19 rva). Mawet se usa más en lenguaje poético que en los libros históricos: de Job a Proverbios unas 60 veces, entre Josué y Ester 40 veces; pero en los profetas mayores, unas 25 veces.
 
 La «muerte» es el fin natural de la vida humana sobre esta tierra; es una dimensión del castigo de Dios sobre los hombres: «Pero del árbol del conocimiento del bien y del mal no comerás, porque el día que comas de él, ciertamente morirás» (Gén_2:17 rva). Por tanto, todos los seres humanos mueren: «Si estos mueren como mueren todos los hombres … entonces Jehová no me ha enviado» (Núm_16:29 rva). El Antiguo Testamento usa «muerte» en frases como «el día de mi muerte» (Gén_27:2) y «año de muerte» (Isa_6:1); y también usa el término en relación con algún acontecimiento previo (Gén_27:7, Gén_27:10)o posterior (Gén_26:18) a la defunción de alguna persona.
 
@@ -27,7 +27,7 @@ Mamôt se refiere también a «muerte». El término aparece en Jer_16:4 : «De 
 
 B. Verbo
 
-mût (îåÌú, [[H4191]]), «morir, matar». Este verbo se encuentra en todas las lenguas semíticas (incluyendo en arameo bíblico) desde los tiempos más tempranos y también en egipcio. Hay unos 850 casos del verbo en hebreo bíblico durante todos los períodos.
+mût (מוּת, [[H4191]]), «morir, matar». Este verbo se encuentra en todas las lenguas semíticas (incluyendo en arameo bíblico) desde los tiempos más tempranos y también en egipcio. Hay unos 850 casos del verbo en hebreo bíblico durante todos los períodos.
 
 En esencia, mût significa «perder la vida». El término se refiere a «muerte» física, tanto de hombres como de animales. En Gén_5:5 se relata que Adán vivió «novecientos treinta años, y murió». Jacob explica a Esaú que los más tiernos de su ganado podrían «morir» si se les apuraban (Gén_33:13). En un caso este verbo se usa también para referirse a la cepa de un árbol (Job_14:8). De vez en cuando, mût se aplica metafóricamente a la tierra (Gén_47:19) o a la sabiduría (Job_12:2). Además, tenemos una expresión única hiperbólica que dice que el corazón de Nabal había «muerto» dentro de él, como una manera de decir que se sentía sobrecogido por un gran temor (1Sa_25:37).
 

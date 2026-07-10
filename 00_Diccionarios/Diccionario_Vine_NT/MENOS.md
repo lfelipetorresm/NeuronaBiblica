@@ -25,6 +25,6 @@ B. Verbos
 
 4. justereo (ὑóôåñÝù, [[G5302]]), venir o estar detrás. Se usa en el sentido de carecer de ciertas cosas (p.ej., Mat_19:20; Mar_10:21); en sentido de ser inferior (1Co_12:24, voz media); como «ser menos» se traduce en 1Co_8:8; 2Co_12:11. Véanse ALCANZAR, FALTAR, INTERIOR, NECESIDAD, PADECER, TENER NECESIDAD.
 
-5. katafroneo (êáôáöñïíÝù, [[G2706]]), despreciar. Se traduce «tengan en menos» en 1Ti_6:2. Véase MENOSPRECIAR, y también DESPRECIAR, TENER EN POCO. 
+5. katafroneo (καταφρονέω, [[G2706]]), despreciar. Se traduce «tengan en menos» en 1Ti_6:2. Véase MENOSPRECIAR, y también DESPRECIAR, TENER EN POCO. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SARDÓNICA"]
 
 # SARDÓNICA
 
-sardonux (óáñäüíõî, [[G4557]]), denota una piedra compuesta de capas alternadas de sardio y ónice (Apo_21:20), traducido en la rvr como «ónice», y más ajustadamente en la rv, vm y rvr77 como «sardónica» (Besson y nvi: «sardónice», término en el que se aprecia mejor el carácter compuesto de la piedra). La lba traduce erróneamente «sardio». Constituía el quinto fundamento del muro de la Jerusalén celestial. VéaseÓNICE.¶ 
+sardonux (σαρδόνυξ, [[G4557]]), denota una piedra compuesta de capas alternadas de sardio y ónice (Apo_21:20), traducido en la rvr como «ónice», y más ajustadamente en la rv, vm y rvr77 como «sardónica» (Besson y nvi: «sardónice», término en el que se aprecia mejor el carácter compuesto de la piedra). La lba traduce erróneamente «sardio». Constituía el quinto fundamento del muro de la Jerusalén celestial. VéaseÓNICE.¶ 
 
 

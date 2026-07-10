@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CALDERERO"]
 
 # CALDERERO
 
-calkeus (÷áëêåýò, [[G5471]]), calderero, trabajador en cobre o bronce. Véanse también, para las palabras de la misma raíz, BRONCE, COBRE, METAL.¶ 
+calkeus (χαλκεύς, [[G5471]]), calderero, trabajador en cobre o bronce. Véanse también, para las palabras de la misma raíz, BRONCE, COBRE, METAL.¶ 
 
 

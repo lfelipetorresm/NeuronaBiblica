@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CERRAR"]
 
 # CERRAR
 
-sagar (ñÈâÇø, [[H5462]]), «cerrar, clausurar, encerrar o aprisionar». El verbo se encuentra tanto en antiguo ugarítico como en hebreo antiguo y moderno. Se encuentra unas 80 veces en el texto del Antiguo Testamento hebraico. Sagar se usa por primera vez en el Antiguo Testamento en el relato de la creación de la mujer de la costilla de un hombre: «Entonces Jehová Dios … cerró la carne en su lugar» (Gén_2:21).
+sagar (סָגַר, [[H5462]]), «cerrar, clausurar, encerrar o aprisionar». El verbo se encuentra tanto en antiguo ugarítico como en hebreo antiguo y moderno. Se encuentra unas 80 veces en el texto del Antiguo Testamento hebraico. Sagar se usa por primera vez en el Antiguo Testamento en el relato de la creación de la mujer de la costilla de un hombre: «Entonces Jehová Dios … cerró la carne en su lugar» (Gén_2:21).
 
 El uso más generalizado del verbo indica el «cierre» de puertas y portones; se usa muchas veces en este sentido (Gén_19:10; Jos_2:7). Los usos más especializados son: la gordura que cerró la hoja de un puñal (Jue_3:22 lba) y el cierre de una brecha en los muros de una ciudad (1Re_11:27).
 

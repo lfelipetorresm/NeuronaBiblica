@@ -13,12 +13,12 @@ etiquetas: ["#Diccionario", "#VineNT", "#VESTIR"]
 
 3. endidusko (ἐíäéäýóêù, [[G1737]]), tiene el mismo significado que Nº 2; la terminación -sko sugiere el comienzo o progreso de la acción. Este verbo se emplea en voz media en Luc_16:19, de un hombre rico. En tr se emplea en 8:27, en lugar de Nº 2, de un endemoniado. En Mar_15:17 se emplea este término en los mss. más comúnmente aceptados, en lugar de Nº 2.¶
 
-4. amfiazo (ÜìöéÜæù, [[G292]]), se emplea en los mss. más comúnmente aceptados en Luc_12:28, en lugar de Nº 1, que aparece en tr.¶
+4. amfiazo (άμφιάζω, [[G292]]), se emplea en los mss. más comúnmente aceptados en Luc_12:28, en lugar de Nº 1, que aparece en tr.¶
 
 5. jimatizo (ἱìáôßæù, [[G2439]]), significa ponerse ropa; véase jimation en VESTIDO, Nº 1, etc. (Mar_5:15; Luc_8:35).¶
 
-6. peribalo (ðåñéâÜëëù, [[G4016]]), echarse alrededor, ponerse encima, vestirse. Se traduce con este último verbo en Mat_6:29, Mat_6:31; Luc_12:27; Luc_23:11; Jua_19:2; Apo_3:5, Apo_3:18; Apo_4:4; Apo_7:9, Apo_7:13; Apo_11:3; Apo_12:1; Apo_17:4; Apo_18:16; Apo_19:8, Apo_19:13. Véanse CUBRIR, Nº 8, ENVOLVER, Nº 6, RODEAR.
+6. peribalo (περιβάλλω, [[G4016]]), echarse alrededor, ponerse encima, vestirse. Se traduce con este último verbo en Mat_6:29, Mat_6:31; Luc_12:27; Luc_23:11; Jua_19:2; Apo_3:5, Apo_3:18; Apo_4:4; Apo_7:9, Apo_7:13; Apo_11:3; Apo_12:1; Apo_17:4; Apo_18:16; Apo_19:8, Apo_19:13. Véanse CUBRIR, Nº 8, ENVOLVER, Nº 6, RODEAR.
 
-7. perituthemi (ðåñéôßèçìé, [[G4060]]), poner o situar alrededor (peri, alrededor, y tithemi, colocar). Se traduce «vestimos» en 1Co_12:23 (vm: «revestimos»; Besson: «envolvemos»). Véanse CERCAR, ECHAR, PONER, RODEAR. 
+7. perituthemi (περιτίθημι, [[G4060]]), poner o situar alrededor (peri, alrededor, y tithemi, colocar). Se traduce «vestimos» en 1Co_12:23 (vm: «revestimos»; Besson: «envolvemos»). Véanse CERCAR, ECHAR, PONER, RODEAR. 
 
 

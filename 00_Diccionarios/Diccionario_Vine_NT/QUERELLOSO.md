@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#QUERELLOSO"]
 
 # QUERELLOSO
 
-mempsimoiros (ìåìøßìïéñïò, [[G3202]]), denota a uno que se queja, lit., quejoso de la propia suerte (memfomai, inculpar; moira, suerte, parte); de ahí, descontento, quejumbroso, querelloso. Se traduce «querellosos» en Jud_1:16  (rv, rvr, rvr77; vm, Besson, lba: «quejumbrosos»).¶ 
+mempsimoiros (μεμψίμοιρος, [[G3202]]), denota a uno que se queja, lit., quejoso de la propia suerte (memfomai, inculpar; moira, suerte, parte); de ahí, descontento, quejumbroso, querelloso. Se traduce «querellosos» en Jud_1:16  (rv, rvr, rvr77; vm, Besson, lba: «quejumbrosos»).¶ 
 
 

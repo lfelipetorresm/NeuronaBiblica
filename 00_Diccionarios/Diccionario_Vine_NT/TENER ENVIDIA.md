@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TENERENVIDIA"]
 
 # TENER ENVIDIA
 
-zeloo (æçëüù, [[G2206]]), se traduce «el amor no tiene envidia» (1Co_13:4); véase ENVIDIAR, A, Nº 2. 
+zeloo (ζηλόω, [[G2206]]), se traduce «el amor no tiene envidia» (1Co_13:4); véase ENVIDIAR, A, Nº 2. 
 
 

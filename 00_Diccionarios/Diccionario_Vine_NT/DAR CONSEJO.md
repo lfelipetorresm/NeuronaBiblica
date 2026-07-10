@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DARCONSEJO"]
 
 # DAR CONSEJO
 
-sumbouleuo (óõìâïõëåýù, [[G4823]]), en la voz activa, dar consejo, aconsejar. Se traduce «había dado el consejo» en Jua_18:14; véanse ACONSEJAR, ACORDAR, CONSEJO, RESOLVER, TENER. 
+sumbouleuo (συμβουλεύω, [[G4823]]), en la voz activa, dar consejo, aconsejar. Se traduce «había dado el consejo» en Jua_18:14; véanse ACONSEJAR, ACORDAR, CONSEJO, RESOLVER, TENER. 
 
 

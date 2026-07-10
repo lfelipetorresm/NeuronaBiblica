@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#REGRESAR"]
 
 A. Verbo
 
-shûb (ùÑåÌá, [[H7725]]), «regresar, volver a traer». Este verbo se encuentra en varias lenguas semíticas incluyendo ugarítico (1550-1200 a.C.) y en todos los períodos del hebreo; no se halla en fenicio-púnico ni en etiópico. Aparece unas 1:060 veces en hebreo bíblico y unas 8 veces en arameo bíblico (como tûb).
+shûb (שׁוּב, [[H7725]]), «regresar, volver a traer». Este verbo se encuentra en varias lenguas semíticas incluyendo ugarítico (1550-1200 a.C.) y en todos los períodos del hebreo; no se halla en fenicio-púnico ni en etiópico. Aparece unas 1:060 veces en hebreo bíblico y unas 8 veces en arameo bíblico (como tûb).
 
 El significado básico del verbo es volver al punto de partida (a menos de que haya evidencia contraria). La primera vez que el verbo se usa, Dios dice a Adán que él y Eva comerían «el pan hasta que vuelvas a la tierra, porque de ella fuiste tomado; pues polvo eres, y al polvo volverás» (Gén_3:19).
 
@@ -23,7 +23,7 @@ En el contexto de un «regreso» (metafórico) a Dios, shûb puede significar «
 
 B. Nombres
 
-meeshûbah (îÀùÑåÌáÈä, [[H4878]]), «herejía; apostasía». Este nombre aparece 12 veces y en Ose_14:4 (rva) se refiere a «apostasía»: «Yo los sanaré de su infidelidad. Los amaré generosamente, porque mi furor se habrá apartado de ellos».
+meeshûbah (מְשׁוּבָה, [[H4878]]), «herejía; apostasía». Este nombre aparece 12 veces y en Ose_14:4 (rva) se refiere a «apostasía»: «Yo los sanaré de su infidelidad. Los amaré generosamente, porque mi furor se habrá apartado de ellos».
 
 Otros nombres relacionados con shûb se encuentran con menos frecuencia. Tesûbah se halla 8 veces y puede significar «regreso» o «inicio» (1Sa_7:17) y «respuesta» («réplica»; Job_21:34). Shûbah aparece solo una vez y con el significado de «regresar» o «volverse» (Isa_30:15). 
 

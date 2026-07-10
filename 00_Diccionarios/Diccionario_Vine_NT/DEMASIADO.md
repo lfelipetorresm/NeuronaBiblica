@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DEMASIADO"]
 
 # DEMASIADO
 
-periáoteros (ðåñéóóüôåñïò, [[G4055]]), grado comparativo de periáos, abundante. Se traduce demasiado en 2Co_2:7 : «demasiada» tristeza. Véanse ABUNDANTE ( MÁS ), MAYOR. 
+periáoteros (περισσότερος, [[G4055]]), grado comparativo de periáos, abundante. Se traduce demasiado en 2Co_2:7 : «demasiada» tristeza. Véanse ABUNDANTE ( MÁS ), MAYOR. 
 
 

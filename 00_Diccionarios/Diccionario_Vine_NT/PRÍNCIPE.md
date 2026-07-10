@@ -15,7 +15,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PRÍNCIPE"]
 
 4. jegemon (ἡãåìþí, [[G2232]]), conductor, gobernante. Se traduce «príncipes» en Mat_2:6. Véase GOBERNADOR, Nº 1.
 
-5. megistan (ìåãéóôÜí, [[G3175]]), relacionado con megistos, el más grande, grado superlativo de megas, grande, denota príncipes, nobles. Se traduce «príncipes» en Mar_6:21, de nobles en el séquito de Herodes; «grandes» en Apo_6:15; Apo_18:23. Véase GRANDE.¶
+5. megistan (μεγιστάν, [[G3175]]), relacionado con megistos, el más grande, grado superlativo de megas, grande, denota príncipes, nobles. Se traduce «príncipes» en Mar_6:21, de nobles en el séquito de Herodes; «grandes» en Apo_6:15; Apo_18:23. Véase GRANDE.¶
 
 Nota: Para arquisunagogos, traducido «príncipe/s de la sinagoga» en la rv en Mar_5:22, Mar_5:35-36, Mar_5:38; Luc_8:49; Luc_13:14; Hch_13:15, véase PRINCIPAL DE LA SINAGOGA. 
 

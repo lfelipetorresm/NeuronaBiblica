@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#VER,PERCIBIR"]
 
 A. Verbo
 
-ra'ah (øÈàÈä, [[H7200]]), «ver, observar, percibir, conocer, adquirir conocimientos, examinar, cuidar, escoger, descubrir». Además de estar en todos los períodos del hebreo, el verbo se encuentra solo en moabita. Figura en la Biblia unas 1:300 veces.
+ra'ah (רָאָה, [[H7200]]), «ver, observar, percibir, conocer, adquirir conocimientos, examinar, cuidar, escoger, descubrir». Además de estar en todos los períodos del hebreo, el verbo se encuentra solo en moabita. Figura en la Biblia unas 1:300 veces.
 
 La acepción básica de ra'ah es la de ver con los propios ojos: Los ojos de Isaac «se oscurecieron, quedando sin vista» (Gén_27:1). Esto es lo que significa en Gén_1:4, el primer ejemplo del término en la Biblia. El vocablo puede tener el sentido de ver solo lo que es más obvio: «Jehová no mira lo que mira el hombre» (1Sa_16:7). «Observar» es otro significado que puede tener el verbo: «Y sobre la azotea había como tres mil hombres y mujeres mirando mientras Sansón los divertía» (Jue_16:27 lba).
 
@@ -23,7 +23,7 @@ Una cuarta acepción general de ra'ah es «examinar»: «Y descendió Jehová pa
 
 B. Nombres
 
-ro'eh (øéàÆä, [[H7203]]), «vidente; visión». Ro'eh, que aparece 11 veces, se refiere a un «profeta» (el énfasis recae sobre el medio por el que se recibe la revelación; 1Sa_9:9) y a una «visión» (Isa_28:7).
+ro'eh (ריאֶה, [[H7203]]), «vidente; visión». Ro'eh, que aparece 11 veces, se refiere a un «profeta» (el énfasis recae sobre el medio por el que se recibe la revelación; 1Sa_9:9) y a una «visión» (Isa_28:7).
 
 Hay también otros nombres relacionados con el verbo ra'ah. El término re'î aparece una vez y con el significado de «espejo» (Job_37:18). Rô'î, que se encuentra 4 veces, indica «apariencia» (1Sa_16:12). Re'ût se halla una vez con el significado de «presenciar» (Ecl_5:11). Ma'rah, vocablo que se encuentra 12 veces, indica «comunicación a través de visiones» o «visión profética» (Gén_46:2), también quiere decir «espejos» (Éxo_38:8). De las 15 veces que aparece, el nombre to'ar significa «forma» en 1Sa_28:14 y «apariencia impresionante» en 1Sa_25:3. Ma'reh aparece 103 veces; este término, con to'ar, se encuentra en la descripción de una persona en Gén_39:6 : «Y era José de hermoso semblante [ma'reh] y bella presencia [to'ar]». Ma'reh tiene más que ver con «apariencia» externa (Gén_2:9); aunque el vocablo también puede significar «apariencia» en el sentido de lo que se puede apreciar (Lev_13:3). En Éxo_3:3 el término se aplica a «contemplar» una manifestación extraordinaria. 
 

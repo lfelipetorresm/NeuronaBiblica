@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LEY"]
 
 A. Nombre
 
-tôrah (úÌåéøÈä, [[H8451]]), «ley; dirección; instrucción». Este nombre aparece 220 veces en el Antiguo Testamento hebreo.
+tôrah (תּוירָה, [[H8451]]), «ley; dirección; instrucción». Este nombre aparece 220 veces en el Antiguo Testamento hebreo.
 
 En la literatura sapiencial, donde tôrah no aparece con artículo definido, el significado principal de este nombre es «dirección, enseñanza, instrucción»: «La instrucción del sabio es fuente de vida, para apartarse de las trampas de la muerte» (Pro_13:14 rva); también: «Toma, pues, de su boca la instrucción y pon sus dichos en tu corazón» (Job_22:22 rva). El objetivo de la «instrucción» de los sabios de Israel, que tenían a su cargo la instrucción de los jóvenes, era cultivar en ellos el temor del Señor para que pudieran vivir conforme a lo que Dios esperaba de ellos. El sabio era como padre de sus pupilos: «El que guarda la ley es hijo inteligente, pero el que se junta con glotones avergüenza a su padre» (Pro_28:7 lba ; cf. 3:1; 4:2; 7:2). El padre natural también instruía a sus hijos en cómo vivir sabiamente, de la misma manera que una mujer temerosa de Dios era ejemplo de «enseñanza» bondadosa: «Abre su boca con sabiduría, y hay enseñanza de bondad en su lengua» (Pro_31:26 rva).
 
@@ -23,5 +23,5 @@ La Septuaginta ofrece las siguientes traducciones: nomos («ley; regla»); nomin
 
 B. Verbo
 
-yarah (éÈøÈä, [[H3384]]), «lanzar, arrojar, erigir, dirigir, enseñar, instruir». El nombre tôrah se deriva de esta raíz. El significado «erigir» se encuentra en Gén_31:51 : «Dijo más Labán a Jacob: He aquí este majano, y he aquí esta señal, que he erigido entre tú y yo». Yarah significa «enseñar» en 1Sa_12:23 : «Oseas instruiré en el camino bueno y recto». 
+yarah (יָרָה, [[H3384]]), «lanzar, arrojar, erigir, dirigir, enseñar, instruir». El nombre tôrah se deriva de esta raíz. El significado «erigir» se encuentra en Gén_31:51 : «Dijo más Labán a Jacob: He aquí este majano, y he aquí esta señal, que he erigido entre tú y yo». Yarah significa «enseñar» en 1Sa_12:23 : «Oseas instruiré en el camino bueno y recto». 
 

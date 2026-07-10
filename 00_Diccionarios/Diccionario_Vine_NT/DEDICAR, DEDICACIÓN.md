@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DEDICAR,DEDICACIÓN"]
 
 A. Verbo
 
-taáo (ôÜóóù, [[G5021]]), disponer, señalar, establecer. Se traduce «han dedicado», de la familia de Estéfanas, dándose al servicio de los santos. Véanse DISPONER, ESTABLECER, ORDENAR, PONER, SEÑALAR.
+taáo (τάσσω, [[G5021]]), disponer, señalar, establecer. Se traduce «han dedicado», de la familia de Estéfanas, dándose al servicio de los santos. Véanse DISPONER, ESTABLECER, ORDENAR, PONER, SEÑALAR.
 
 B. Nombre
 

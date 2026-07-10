@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PATRÓN"]
 
 # PATRÓN
 
-naukleros (íáýêëçñïò, [[G3490]]), propietario de barco (naus, barco; kleros, suerte), patrón de nave. Se utiliza en Hch_27:11 : «patrón de la nave» (rv, rvr, rvr77, etc.).¶
+naukleros (ναύκληρος, [[G3490]]), propietario de barco (naus, barco; kleros, suerte), patrón de nave. Se utiliza en Hch_27:11 : «patrón de la nave» (rv, rvr, rvr77, etc.).¶
 
 Nota: Para kubernetes, traducido «patrón» en Apo_18:17 (rv; rvr: «piloto»), véase PILOTO. 
 

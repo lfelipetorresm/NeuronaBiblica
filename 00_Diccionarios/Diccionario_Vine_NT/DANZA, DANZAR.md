@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DANZA,DANZAR"]
 
 A. Nombre
 
-coros (÷ïñüò, [[G5525]]), cf. con el vocablo castellano coro. Denotaba en primer lugar un recinto para la danza; de ahí una compañía de bailarines y de cantantes. La suposición de que este vocablo está relacionado con orqueo por metátesis (esto es, cambio de lugar de las letras c y o) parece carecer de fundamento. Esta palabra se usa en Luc_15:25.¶
+coros (χορός, [[G5525]]), cf. con el vocablo castellano coro. Denotaba en primer lugar un recinto para la danza; de ahí una compañía de bailarines y de cantantes. La suposición de que este vocablo está relacionado con orqueo por metátesis (esto es, cambio de lugar de las letras c y o) parece carecer de fundamento. Esta palabra se usa en Luc_15:25.¶
 
 B. Verbo
 

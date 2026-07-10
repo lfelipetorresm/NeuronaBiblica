@@ -13,6 +13,6 @@ aner (ἀíÞñ, [[G435]]), denota, en general, hombre, varón adulto en contras
 
 B. Adjetivo
 
-filandros (ößëáíäñïò, [[G5362]]), primeramente, amador del hombre; significa, lit: «amantes de sus maridos» (rvr: «a amar a sus maridos» debería decir «a ser amadoras de sus maridos»; Tit_2:4, en la instrucción a las esposas jóvenes).¶ Este término aparece frecuentemente en epitafios . 
+filandros (φίλανδρος, [[G5362]]), primeramente, amador del hombre; significa, lit: «amantes de sus maridos» (rvr: «a amar a sus maridos» debería decir «a ser amadoras de sus maridos»; Tit_2:4, en la instrucción a las esposas jóvenes).¶ Este término aparece frecuentemente en epitafios . 
 
 

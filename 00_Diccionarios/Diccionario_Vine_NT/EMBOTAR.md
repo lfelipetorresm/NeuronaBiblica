@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#EMBOTAR"]
 
 # EMBOTAR
 
-poroo (ðùñüù, [[G4456]]), significa endurecer (de poros, piel gruesa, endurecimiento). Se traduce «embotó» en 2Co_3:14, del entendimiento. Véase ENDURECER. 
+poroo (πωρόω, [[G4456]]), significa endurecer (de poros, piel gruesa, endurecimiento). Se traduce «embotó» en 2Co_3:14, del entendimiento. Véase ENDURECER. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#NOTAR"]
 
 # NOTAR
 
-ginosko (ãéíþóêù, [[G1097]]), conocer por experiencia y observación. Se traduce «notar» en Hch_23:6. Véase CONOCER, A, Nº 1. 
+ginosko (γινώσκω, [[G1097]]), conocer por experiencia y observación. Se traduce «notar» en Hch_23:6. Véase CONOCER, A, Nº 1. 
 
 

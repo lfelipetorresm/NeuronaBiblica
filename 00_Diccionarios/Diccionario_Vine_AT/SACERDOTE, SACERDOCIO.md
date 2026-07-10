@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SACERDOTE,SACERDOCIO"]
 
 A. Nombre
 
-kohen (ëÌéäÅï, [[H3548]]), «sacerdote». Este vocablo se encuentra unas 741 veces en el Antiguo Testamento. Más de un tercio de las menciones de «sacerdote» se hallan en el Pentateuco. Levítico, que contiene unas 185 citas, se ha llamado el «manual del sacerdocio».
+kohen (כּיהֵן, [[H3548]]), «sacerdote». Este vocablo se encuentra unas 741 veces en el Antiguo Testamento. Más de un tercio de las menciones de «sacerdote» se hallan en el Pentateuco. Levítico, que contiene unas 185 citas, se ha llamado el «manual del sacerdocio».
 
 Además del sacerdocio hebreo, el término kohen se usaba también con relación a los «sacerdotes» y al «sacerdocio» egipcio (Gén_41:50; Gén_46:20; Gén_47:26), a los «sacerdotes» filisteos (1Sa_6:2) y los de Dagón (1Sa_5:5), los «sacerdotes» de ba'al (2Re_10:19), de Quemos (Jer_48:7), así como los «sacerdotes» de los ba'al y Asera (2Cr_34:5). José se casó con la hija del «sacerdote» de On (Gén_41:45), quien le dio dos hijos, Efraín y Manases (Gén_46:20). José no compró las tierras de los «sacerdotes» egipcios porque estos recibían su sustento diario del Faraón (Gén_47:22).
 
@@ -31,5 +31,5 @@ Los «sacerdotes» tenían que fungir como maestros de la ley (Lev_10:10-11; Deu
 
 B. Verbo
 
-kahan (ëÌÈäÇï, [[H3547]]), «ejercer el sacerdocio». Este verbo, que se encuentra 23 veces en hebreo bíblico, se deriva del sustantivo kohen. Solo se usa en el modo intensivo. Un caso se encuentra en Éxo_28:1 (rva): «Harás que se acerque a ti, de entre los hijos de Israel, tu hermano Aarón y sus hijos con él, para que … me sirvan como sacerdotes». 
+kahan (כָּהַן, [[H3547]]), «ejercer el sacerdocio». Este verbo, que se encuentra 23 veces en hebreo bíblico, se deriva del sustantivo kohen. Solo se usa en el modo intensivo. Un caso se encuentra en Éxo_28:1 (rva): «Harás que se acerque a ti, de entre los hijos de Israel, tu hermano Aarón y sus hijos con él, para que … me sirvan como sacerdotes». 
 

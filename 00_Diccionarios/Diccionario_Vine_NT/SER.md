@@ -21,7 +21,7 @@ B. Nombres
 
 1. zoon (æῳ̂ïí, [[G2226]]), un ser viviente; véase ANIMAL, Nº 1.
 
-2. ktisma (êôßóìá, [[G2938]]), un ser creado, criatura, en sentido concreto. Se traduce «seres» en Apo_8:9. Véase CRIATURA, Nº 3.
+2. ktisma (κτίσμα, [[G2938]]), un ser creado, criatura, en sentido concreto. Se traduce «seres» en Apo_8:9. Véase CRIATURA, Nº 3.
 
 Nota: Para «ser» en Rom_2:9; Apo_16:3, traducción de psuque, véase ALMA, VIDA. Véanse también PERSONA.
 
@@ -31,7 +31,7 @@ enalios (ἐíÜëéïò, [[G1724]]),: «en el mar», lit., pertenecer al agua s
 
 D. Adverbio
 
-taca (ôÜ÷á, [[G5029]]), que primeramente significa vivamente (de tacus, vivo), se utiliza en el sentido de «quizá». Aparece en Rom_5:7 : «pudiera ser que» (rv: «podrá ser»); Flm_1:15 : «quizás» (rv: «acaso»).¶
+taca (τάχα, [[G5029]]), que primeramente significa vivamente (de tacus, vivo), se utiliza en el sentido de «quizá». Aparece en Rom_5:7 : «pudiera ser que» (rv: «podrá ser»); Flm_1:15 : «quizás» (rv: «acaso»).¶
 
 E. Conjunción
 
@@ -39,8 +39,8 @@ eite (åἴôå, [[G1535]]), término que expresa una disyuntiva, se traduce «s
 
 F. Frases
 
-1. ei meti (åἰ ìÞôé, [[G1508]]), se traduce «a no ser que» (Luc_9:13); «a no ser» (1Co_7:5); en 1Co_7:5 se traduce «a menos que». Cf. con ei me, sino.
+1. ei meti (åἰ μήτι, [[G1508]]), se traduce «a no ser que» (Luc_9:13); «a no ser» (1Co_7:5); en 1Co_7:5 se traduce «a menos que». Cf. con ei me, sino.
 
-2. ektos ei me (ἐêôὸò åἰ ìÞ, [[G1622]]), el adverbio ektos, lit., fuera, se utiliza con el me, como una conjunción extendida que significa «excepto»; esta frase se traduce «a no ser que» en 1Co_14:5; también se usa en 15:2: «si no»; 1Ti_5:19 : «sino con».¶ Véase FUERA, Notas (2) . 
+2. ektos ei me (ἐêôὸò åἰ μή, [[G1622]]), el adverbio ektos, lit., fuera, se utiliza con el me, como una conjunción extendida que significa «excepto»; esta frase se traduce «a no ser que» en 1Co_14:5; también se usa en 15:2: «si no»; 1Ti_5:19 : «sino con».¶ Véase FUERA, Notas (2) . 
 
 

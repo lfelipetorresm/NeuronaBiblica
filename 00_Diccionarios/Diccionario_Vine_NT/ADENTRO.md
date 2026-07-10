@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ADENTRO"]
 
 # ADENTRO
 
-1. bathos (âÜèïò, [[G899]]), «profundo». Se traduce «mar adentro» (Luc_5:4), refiriéndose a dirigirse a aguas profundas. Véanse PROFUNDIDAD, PROFUNDO.
+1. bathos (βάθος, [[G899]]), «profundo». Se traduce «mar adentro» (Luc_5:4), refiriéndose a dirigirse a aguas profundas. Véanse PROFUNDIDAD, PROFUNDO.
 
 2. eispedao (åἰóðçäÜù,, [[G1530]]), lanzarse hacia un sitio de manera precipitada. Aparece en Hch_16:29, «se precipitó adentro».¶ En la lxx, Amó_5:19. Véanse LANZARSE, PRECIPITARSE.¶
 

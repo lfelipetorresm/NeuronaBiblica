@@ -25,14 +25,14 @@ B. Verbos
 
 3. exomologeo (ἐîïìïëïãÝù, [[G1843]]), se traduce «alabar» (Mat_11:25) y como «te alabo» (Luc_10:21). Véanse COMPROMETERSE, CONFESAR.
 
-4. doxazo (äïîÜæù, [[G1392]]), significa primariamente «suponer» (de doxa, opinión); y en el NT magnificar, exaltar, alabar (relacionado con doxa, gloria). Se usa especialmente de glorificar a Dios, esto es de adscribirle honor a él, reconociéndole en cuanto a su ser, sus atributos y obras, esto es, su gloria. Se traduce como «alabar» en Mat_6:2. Véanse ( DAR ) GLORIA, ( SER ) GLORIOSO, GLORIFICAR, ( RECIBIR ) HONRA, HONRAR.
+4. doxazo (δοξάζω, [[G1392]]), significa primariamente «suponer» (de doxa, opinión); y en el NT magnificar, exaltar, alabar (relacionado con doxa, gloria). Se usa especialmente de glorificar a Dios, esto es de adscribirle honor a él, reconociéndole en cuanto a su ser, sus atributos y obras, esto es, su gloria. Se traduce como «alabar» en Mat_6:2. Véanse ( DAR ) GLORIA, ( SER ) GLORIOSO, GLORIFICAR, ( RECIBIR ) HONRA, HONRAR.
 
-5. megaluno (ìåãáëýíù, [[G3170]]), engrandecer (megas). Se traduce «alabar» en Hch_5:13, «el pueblo los alababa grandemente». Véanse ENGRANDECER, EXTENDER, MAGNIFICAR.
+5. megaluno (μεγαλύνω, [[G3170]]), engrandecer (megas). Se traduce «alabar» en Hch_5:13, «el pueblo los alababa grandemente». Véanse ENGRANDECER, EXTENDER, MAGNIFICAR.
 
-6. sunistemi (óõíßóôçìé, [[G4921]]), o sunistano, lit: poner junto. Denota presentar una persona a otra, presentarla como digna, y se traduce «alabar» en 2Co_10:12, 2Co_10:18 (dos veces), y 12:11. Véanse ESTAR CON, HACER, MOSTRAR, RECOMENDAR, RESALTAR, SUBSISTIR.
+6. sunistemi (συνίστημι, [[G4921]]), o sunistano, lit: poner junto. Denota presentar una persona a otra, presentarla como digna, y se traduce «alabar» en 2Co_10:12, 2Co_10:18 (dos veces), y 12:11. Véanse ESTAR CON, HACER, MOSTRAR, RECOMENDAR, RESALTAR, SUBSISTIR.
 
 7. umneo (ὑìíÝù, [[G5214]]), se traduce alabar solo en Heb_2:12, siendo su significado «cantar himnos», apareciendo con esta traducción en Mat_26:30; Mar_14:26; Hch_16:25. Véanse CANTAR, HIMNOS.
 
-8. psallo (øÜëëù, [[G5567]]), primariamente, puntear o rasgar (la cuerda de un arco), y por ende, tocar (un instrumento de cuerdas con los dedos). En la lxx, cantar salmos, denota, en el NT, cantar un himno, cantar alabanzas. En Stg_5:13, «cante alabanzas». Véanse CANTAR, ALABANZAS. 
+8. psallo (ψάλλω, [[G5567]]), primariamente, puntear o rasgar (la cuerda de un arco), y por ende, tocar (un instrumento de cuerdas con los dedos). En la lxx, cantar salmos, denota, en el NT, cantar un himno, cantar alabanzas. En Stg_5:13, «cante alabanzas». Véanse CANTAR, ALABANZAS. 
 
 

@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PREDICADOR"]
 
 Nota: Kerux indica al predicador dando una proclamación; euangelistes señala a su mensaje como buenas nuevas; apostolos sugiere su relación con aquel por quien es enviado.
 
-2. Katangeleus (êáôáããåëåýò, [[G2604]]), proclamador, heraldo (relacionado con katangelo, proclamar). Se utiliza en Hch_17:18 : «predicador de nuevos dioses». Se encuentra en inscripciones relacionadas con proclamaciones hechas en lugares públicos.¶ 
+2. Katangeleus (καταγγελεύς, [[G2604]]), proclamador, heraldo (relacionado con katangelo, proclamar). Se utiliza en Hch_17:18 : «predicador de nuevos dioses». Se encuentra en inscripciones relacionadas con proclamaciones hechas en lugares públicos.¶ 
 
 

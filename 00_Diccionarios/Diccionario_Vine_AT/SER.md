@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SER"]
 
 # SER
 
-hayah (äÈéÈä, [[H1961]]), «ser, acontecer, llegar a ser». Este verbo solo se encuentra en hebreo y arameo. Se constatan unos 3,560 casos del término en el Antiguo Testamento,tanto en hebreo como en arameo.
+hayah (הָיָה, [[H1961]]), «ser, acontecer, llegar a ser». Este verbo solo se encuentra en hebreo y arameo. Se constatan unos 3,560 casos del término en el Antiguo Testamento,tanto en hebreo como en arameo.
 
 A menudo el verbo indica más que existencia o identidad (esto se puede hacer aun sin el verbo). Más bien, enfatiza de manera muy particular la existencia (ser) o la presencia de una persona u objeto. Sin embargo, en las versiones en castellano se suele usar simplemente el término «acontecer».
 

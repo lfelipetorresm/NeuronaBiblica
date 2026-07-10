@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#INOCENTE,SINCULPA"]
 
 A. Verbo
 
-naqah (ðÈ÷Èä, [[H5352]]), «ser puro, inocente». Este verbo significa «inocente» únicamente en hebreo. En arameo y arábigo tiene la acepción de estar «limpio». El verbo se encuentra 44 veces en el Antiguo Testamento. Isaías describe el futuro de Israel en términos de una ciudad vacía («depurada de su población»): «Sus puertas lamentarán y se enlutarán; y abandonada, ella se sentará en tierra» (Isa_3:26 rva). Desde una perspectiva más positiva, una tierra puede también ser «limpiada» de ladrones: «Todo aquel que roba … será excluido … y todo el que jura en vano … será excluido » (Zac_5:3).
+naqah (נָקָה, [[H5352]]), «ser puro, inocente». Este verbo significa «inocente» únicamente en hebreo. En arameo y arábigo tiene la acepción de estar «limpio». El verbo se encuentra 44 veces en el Antiguo Testamento. Isaías describe el futuro de Israel en términos de una ciudad vacía («depurada de su población»): «Sus puertas lamentarán y se enlutarán; y abandonada, ella se sentará en tierra» (Isa_3:26 rva). Desde una perspectiva más positiva, una tierra puede también ser «limpiada» de ladrones: «Todo aquel que roba … será excluido … y todo el que jura en vano … será excluido » (Zac_5:3).
 
 El verbo se usa más a menudo con la acepción de «libre» (con la preposición mim). Esto aparece por primera vez en Gén_24:8 y es un buen ejemplo de este uso. Abraham ordenó a su siervo que buscara una esposa para Isaac. El siervo prometió cumplir su misión; sin embargo, si no tenía éxito, es decir, en el caso de que la mujer no quisiera hacer el largo viaje de regreso con él, Abraham lo libraría de su promesa: «Pero si la mujer no quiere venir contigo, tú quedarás libre de este juramento mío. Solamente que no hagas volver allá a mi hijo» (rva). Puede tratarse de ser «libre» de un juramento (cf. Gén_24:8, Gén_24:41), de culpa (Núm_5:31) o de castigo (Éxo_21:19; Núm_5:28). Las traducciones en este contexto son muy variadas.
 
@@ -19,5 +19,5 @@ En la Septuaginta el verbo generalmente se traduce como athos («ser inocente, e
 
 B. Adjetivo
 
-naqî (ðÈ÷Äé, [[H5355]]), «inocente». Este adjetivo aparece 43 veces en el Antiguo Testamento. Un ejemplo está en Sal_15:5 que dice acerca del hombre justo: «Ni contra el inocente acepta soborno» (rva). 
+naqî (נָקִי, [[H5355]]), «inocente». Este adjetivo aparece 43 veces en el Antiguo Testamento. Un ejemplo está en Sal_15:5 que dice acerca del hombre justo: «Ni contra el inocente acepta soborno» (rva). 
 

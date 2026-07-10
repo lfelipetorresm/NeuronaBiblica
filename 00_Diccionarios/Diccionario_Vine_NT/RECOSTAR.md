@@ -13,7 +13,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RECOSTAR"]
 
 3. epipipto (ἐðéðßðôù, [[G1968]]), véase CAER, A, Nº 5. Se traduce «recostado» en Jua_13:25 (tr); en los mss. más comúnmente aceptados aparece Nº 2.
 
-4. klino (êëßíù, [[G2827]]), véase BAJAR, A, Nº 4. Se traduce con el verbo recostar en Mat_8:20 : «no tiene donde recostar su cabeza» (rv: «recueste»). Véanse también DECLINAR, FUGA, INCLINAR, PONER EN FUGA, RECLINAR.
+4. klino (κλίνω, [[G2827]]), véase BAJAR, A, Nº 4. Se traduce con el verbo recostar en Mat_8:20 : «no tiene donde recostar su cabeza» (rv: «recueste»). Véanse también DECLINAR, FUGA, INCLINAR, PONER EN FUGA, RECLINAR.
 
 5. anaklino (ἀíáêëßíù, [[G347]]), hacer reclinar o recostar. Se utiliza en la voz pasiva y se traduce con el verbo recostar en Mat_14:19 : «mandó a la gente recostarse» (rv, rvr); Mar_6:39 : «que hiciesen recostar» (rv, rvr); véase SENTAR(SE). 
 

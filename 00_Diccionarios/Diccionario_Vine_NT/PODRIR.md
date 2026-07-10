@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PODRIR"]
 
 # PODRIR
 
-sepo (óÞðù, [[G4595]]), significa hacer corrompido, destruir; en la voz pasiva con sentido de media, corromperse o podrirse, perecer, dicho de las riquezas (Stg_5:2 : «están podridas», rv, rvr; rvr77: «se han podrido»), del oro y de la plata de los ricos lujuriosos que han oprimido a sus trabajadores. El verbo se deriva de una raíz que significa descomponerse, caerse a trozos.¶ 
+sepo (σήπω, [[G4595]]), significa hacer corrompido, destruir; en la voz pasiva con sentido de media, corromperse o podrirse, perecer, dicho de las riquezas (Stg_5:2 : «están podridas», rv, rvr; rvr77: «se han podrido»), del oro y de la plata de los ricos lujuriosos que han oprimido a sus trabajadores. El verbo se deriva de una raíz que significa descomponerse, caerse a trozos.¶ 
 
 

@@ -15,7 +15,7 @@ A. Verbos
 
 3. jupantao (ὑðáíôÜù, [[G5221]]), ir a encontrar, encontrar. Tiene el mismo significado que el Nº 2, y se usa en Mat_8:28 : «vinieron a su encuentro»; Luc_8:27 : «vino a su encuentro»; Jua_11:20 : «salió a encontrarle»; v. 30: «le había encontrado», y, en los mss. más auténticos, en Mat_28:9 : «salió al encuentro»; Mar_5:2 : «vino a su encuentro»; Luc_4:31 : «hacer frente» (de encontrar en batalla); Jua_4:51 : «salieron a recibirle»; Jua_12:18 : «había venido … a recibir»; Hch_16:16 : «salió al encuentro». Véase el Nº 2. Véanse también FRENTE, HACER FRENTE, RECIBIR, SALIR, VENIR.
 
-4. sunantao (óõíáíôÜù, [[G4876]]), encontrarse con, lit: encontrarse junto con (sun, con, y antao, véase Nº 2). Se usa en Luc_9:37 : «les salió al encuentro»; también en el v. 18, en algunos mss.; Luc_22:10 : «os saldrá al encuentro»; Hch_10:25 : «salió … a recibirle»; Heb_7:1 : «salió a recibir»; v. 10: «salió al encuentro»; metafóricamente en Hch_20:22 : «lo que allá me ha de acontecer» (lit: las cosas que me han de encontrar). Véanse ACONTECER, RECIBIR, SALIR.¶
+4. sunantao (συναντάω, [[G4876]]), encontrarse con, lit: encontrarse junto con (sun, con, y antao, véase Nº 2). Se usa en Luc_9:37 : «les salió al encuentro»; también en el v. 18, en algunos mss.; Luc_22:10 : «os saldrá al encuentro»; Hch_10:25 : «salió … a recibirle»; Heb_7:1 : «salió a recibir»; v. 10: «salió al encuentro»; metafóricamente en Hch_20:22 : «lo que allá me ha de acontecer» (lit: las cosas que me han de encontrar). Véanse ACONTECER, RECIBIR, SALIR.¶
 
 B. Nombres
 
@@ -23,6 +23,6 @@ B. Nombres
 
 2. apantesis (ἀðÜíôçóéò, [[G529]]), reunión (relacionada con A, Nº 2). Aparece en Mat_25:6 : «recibirle»; en algunos mss. en el v. 1 y en 27:32; Hch_28:15 : «recibirnos»; 1Ts_4:17 : «recibir». En todos estos casos, la traducción más rigurosa sería «salir al encuentro». Se usa en los papiros de un magistrado que llegaba por primera vez. «Parece que la idea especial de la palabra era la bienvenida oficial a un dignatario acabado de llegar» (Moulton, Greek Test. Gram ., Vol I, p. 4). Véase RECIBIR.¶
 
-3. sunantesis (óõíÜíôçóéò, [[G4877]]), salir a encontrarse con; relacionado con A, Nº 4. Se halla en algunos mss. en Mat_8:34, de la salida de toda la gente de una ciudad al encuentro del Señor: «Salió al encuentro» (véase Nº 1).¶ 
+3. sunantesis (συνάντησις, [[G4877]]), salir a encontrarse con; relacionado con A, Nº 4. Se halla en algunos mss. en Mat_8:34, de la salida de toda la gente de una ciudad al encuentro del Señor: «Salió al encuentro» (véase Nº 1).¶ 
 
 

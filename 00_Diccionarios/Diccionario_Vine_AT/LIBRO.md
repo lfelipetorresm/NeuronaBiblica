@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LIBRO"]
 
 # LIBRO
 
-seper (ñÆôÆø, [[H5612]]), «libro; documento; escritura». Seper parece ser prestado del término acádico sipru («mensaje escrito, documento»). El vocablo aparece 187 veces en el Antiguo Testamento hebreo, y el primer caso está en Gén_5:1 : «Este es el libro de los descendientes de Adán: Cuando Dios creó al hombre, lo hizo a semejanza de Dios» (rva). A excepción de Deuteronomio (11 veces), hay muy pocos ejemplos del término en el Pentateuco. Es más frecuente en los libros históricos tardíos (Reyes 60 veces, pero en Crónicas 24 veces; cf. Ester 11 veces y Nehemías 9 veces).
+seper (סֶפֶר, [[H5612]]), «libro; documento; escritura». Seper parece ser prestado del término acádico sipru («mensaje escrito, documento»). El vocablo aparece 187 veces en el Antiguo Testamento hebreo, y el primer caso está en Gén_5:1 : «Este es el libro de los descendientes de Adán: Cuando Dios creó al hombre, lo hizo a semejanza de Dios» (rva). A excepción de Deuteronomio (11 veces), hay muy pocos ejemplos del término en el Pentateuco. Es más frecuente en los libros históricos tardíos (Reyes 60 veces, pero en Crónicas 24 veces; cf. Ester 11 veces y Nehemías 9 veces).
 
 La traducción más común de seper es «libro». Un manuscrito se escribe (Éxo_32:32; Deu_17:18) y se sella (Isa_29:11) para que lo lea el destinatario (2Re_22:16). El sentido de seper es semejante al de «rollo o pergamino» (megillah): «Entra tú pues, y lee de este rollo que escribiste de mi boca, las palabras de Jehová a los oídos del pueblo, en la casa de Jehová, el día del ayuno; y las leerás también a oídos de todos los de Judá que vienen de sus ciudades» (Jer_36:6). Seper está también estrechamente relacionado con sipra («libro»; Sal_56:8).
 

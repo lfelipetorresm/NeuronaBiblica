@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#UNGIDO"]
 
 # UNGIDO
 
-cristos (÷ñéóôüò, [[G5547]]), veáse CRISTO. 
+cristos (χριστός, [[G5547]]), veáse CRISTO. 
 
 

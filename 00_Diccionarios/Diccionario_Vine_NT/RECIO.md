@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RECIO"]
 
 # RECIO
 
-1. biaios (âßáéïò, [[G972]]), violento (de bia, fuerza, violencia, fortaleza, que se encuentra en Hch_5:26; Hch_21:35; Hch_24:7; Hch_27:41¶), aparece Hch_2:2, usado de viento: «recio» (rv, rvr, rvr77; vm: «fuerte; Besson: «fuerte golpe»).¶
+1. biaios (βίαιος, [[G972]]), violento (de bia, fuerza, violencia, fortaleza, que se encuentra en Hch_5:26; Hch_21:35; Hch_24:7; Hch_27:41¶), aparece Hch_2:2, usado de viento: «recio» (rv, rvr, rvr77; vm: «fuerte; Besson: «fuerte golpe»).¶
 
 2. agnafos (ἄãíáöïò, [[G46]]), se traduce «recio» en la rv en 9:16; Mar_2:21 (rvr: «nuevo»); «recio» o «burdo» da el verdadero sentido; véase NUEVO, A, Nº 4.¶
 

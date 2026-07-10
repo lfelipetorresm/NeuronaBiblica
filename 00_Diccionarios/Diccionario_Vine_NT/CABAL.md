@@ -13,6 +13,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CABAL"]
 
 La palabra hebrea shalom, paz, se deriva de una raíz que significa «totalidad». Véase, p.ej., Isa_42:19 : «escogido», en otras versiones «hecho perfecto»; cf. 26:3. Cf. también Col_1:28 con 2Pe_3:14. Véase también TODO.
 
-2. sofroneo (óùöñïíÝù, [[G4993]]), (sozo, salvar; fren, mente), significa: (a) estar en cabal juicio, en sus cabales, cuerdo (Mar_5:15 y Luc_8:35 : «en su juicio cabal» y «en su cabal juicio»). Véanse también CORDURA, CUERDO ( ESTAR ), JUICIO, PENSAR, PRUDENTE, SOBRIO. 
+2. sofroneo (σωφρονέω, [[G4993]]), (sozo, salvar; fren, mente), significa: (a) estar en cabal juicio, en sus cabales, cuerdo (Mar_5:15 y Luc_8:35 : «en su juicio cabal» y «en su cabal juicio»). Véanse también CORDURA, CUERDO ( ESTAR ), JUICIO, PENSAR, PRUDENTE, SOBRIO. 
 
 

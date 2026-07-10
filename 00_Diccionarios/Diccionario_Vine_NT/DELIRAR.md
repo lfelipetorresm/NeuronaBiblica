@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DELIRAR"]
 
 # DELIRAR
 
-noseo (íïóÝù, [[G3552]]), significa estar enfermo, tanto de cuerpo como de mente; de ahí, ser arrebatado por un interés tan mórbido en una cosa que llegue a ser equivalente a una enfermedad, delirar (1Ti_6:4). El significado primario de delirar es ser insensato (cf. Jer_50:36); el significado evidente de noseo, a este respecto, es estar en error.¶ 
+noseo (νοσέω, [[G3552]]), significa estar enfermo, tanto de cuerpo como de mente; de ahí, ser arrebatado por un interés tan mórbido en una cosa que llegue a ser equivalente a una enfermedad, delirar (1Ti_6:4). El significado primario de delirar es ser insensato (cf. Jer_50:36); el significado evidente de noseo, a este respecto, es estar en error.¶ 
 
 

@@ -11,8 +11,8 @@ etiquetas: ["#Diccionario", "#VineNT", "#CORRESPONDER"]
 
 2. epibalo (ἐðéâÜëëù, [[G1911]]), arrojar sobre (epi, sobre; balo, arrojar). Significa también caer de la parte de uno, lo que le corresponde a uno, y así se traduce «corresponde» en Luc_15:12. Esta frase se halla frecuentemente en los documentos de los papiros como una fórmula técnica. Véase ECHAR, etc.
 
-3. prepo (ðñÝðù, [[G4241]]), se traduce «corresponde» en 1Ti_2:10. Véase CONVENIR, etc.
+3. prepo (πρέπω, [[G4241]]), se traduce «corresponde» en 1Ti_2:10. Véase CONVENIR, etc.
 
-4. sustoiqueo (óõóôïé÷Ýù, [[G4960]]), lit., estar en la misma línea o hilera con (sun, con; stoicos, hilera). Se traduce «corresponde» en Gál_4:25.¶ 
+4. sustoiqueo (συστοιχέω, [[G4960]]), lit., estar en la misma línea o hilera con (sun, con; stoicos, hilera). Se traduce «corresponde» en Gál_4:25.¶ 
 
 

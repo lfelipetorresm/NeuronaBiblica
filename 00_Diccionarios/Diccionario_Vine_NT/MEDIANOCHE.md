@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MEDIANOCHE"]
 
 # MEDIANOCHE
 
-mesonuktion (ìåóïíýêôéïí, [[G3317]]), adjetivo que denota a, o de, medianoche. Se utiliza como nombre en Mar_13:35; Luc_13:35; Luc_11:5; Hch_16:25; Hch_20:27.¶ 
+mesonuktion (μεσονύκτιον, [[G3317]]), adjetivo que denota a, o de, medianoche. Se utiliza como nombre en Mar_13:35; Luc_13:35; Luc_11:5; Hch_16:25; Hch_20:27.¶ 
 
 

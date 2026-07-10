@@ -15,7 +15,7 @@ B. Adjetivos
 
 1. eklektos (ἐêëåêôüò, [[G1588]]), relacionado con A y C. Significa escogido, elegido. Se traduce como «elegido/a» en 1Pe_1:1; 2Jn_1:1,13; Apo_17:14. Véase ESCOGIDO.
 
-2. suneklektos (óõíåêëåêôüò, [[G4899]]), significa «elegido juntamente con» (1Pe_5:13). Véase JUNTAMENTE.¶
+2. suneklektos (συνεκλεκτός, [[G4899]]), significa «elegido juntamente con» (1Pe_5:13). Véase JUNTAMENTE.¶
 
 C. Verbo
 

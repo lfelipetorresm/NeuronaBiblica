@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#FIN"]
 
 A. Nombres
 
-'epes (àÆôÆñ, [[H657]]), «fin; no; nada; solamente». Los 42 casos de este vocablo se encuentran en todos los períodos de la literatura bíblica. Tiene un cognado en ugarítico. Básicamente, el nombre significa que algo «llega a su fin» o «deja de ser».
+'epes (אֶפֶס, [[H657]]), «fin; no; nada; solamente». Los 42 casos de este vocablo se encuentran en todos los períodos de la literatura bíblica. Tiene un cognado en ugarítico. Básicamente, el nombre significa que algo «llega a su fin» o «deja de ser».
 
 Algunos estudiosos encuentran una relación entre esta palabra y el término acádico apsu (griego abuáos), que era el precipicio de agua dulce que rodeaba el mundo (se consideraba que el mundo era una superficie plana con cuatro esquinas y rodeada de agua dulce). No obstante, esta relación es muy dudosa, ya que no se habla en ninguna parte de las Escrituras acerca de un área que esté allende a los confines de la tierra. La idea de «confines» de alguna cosa se encuentra en pasajes como Pro_30:4 : «¿Quién subió al cielo y descendió? ¿Quién recogió los vientos en sus puños? ¿Quién envolvió las aguas en su manto? ¿Quién estableció todos los confines de la tierra?» (lba cf. Sal_72:8). En otros contextos, 'epes significa el «territorio» de naciones aparte de Israel: «Con ellos embestirá a los pueblos hasta los confines de la tierra» (Deu_33:17 rva). Es más frecuente que este vocablo se refiera a los pueblos allende de Israel: «Pídeme, y te daré por heredad las naciones, y por posesión tuya los confines de la tierra» (Sal_2:8 rva). En Sal_22:27, la frase «los confines de la tierra» es un sinónimo paralelo con «todas las familias de las naciones» por lo que «confines de la tierra» en contextos como este representaría a todos los pueblos de la tierra más allá de Israel.
 
@@ -23,7 +23,7 @@ En Núm_22:35, 'epes significa «solamente» o bien «únicamente»: «Ve con es
 
 En Isa_52:4, 'epes precedido por la preposición be («por», «por causa de») significa «sin motivo, causa o razón»: «Asiria lo ha oprimido sin motivo».
 
-qets (÷Åõ, [[H7093]]), «fin». Un cognado de esta palabra aparece en ugarítico. En el hebraico bíblico qets se encuentra unas 66 veces en todos los períodos.
+qets (קֵץ, [[H7093]]), «fin». Un cognado de esta palabra aparece en ugarítico. En el hebraico bíblico qets se encuentra unas 66 veces en todos los períodos.
 
 Primero, el vocablo se usa para denotar el «fin de una persona», o sea, su «muerte»: «Dijo, pues, Dios a Noé: He decidido el fin de todo ser» (Gén_6:13 rvr, nrv). En Sal_39:4, qets habla de la «máxima extensión de la vida humana» y particularmente en el sentido de su brevedad: «Señor, hazme saber mi fin, y cuál es la medida de mis días, para que yo sepa cuán efímero soy» (lba .
 
@@ -37,7 +37,7 @@ En otro énfasis, qets se refiere a las «fronteras» o «límites» de algo: «
 
 En 2Re_19:23, el vocablo (junto con la preposición le) se refiere a «lo más lejano»: «Llegué hasta su morada más lejana, al bosque más exuberante».
 
-qatseh (÷ÈöÆä, [[H7097]]), «fin; frontera; extremo; límite». El nombre qatseh aparece 92 veces en todos los períodos del hebreo de la Biblia.
+qatseh (קָצֶה, [[H7097]]), «fin; frontera; extremo; límite». El nombre qatseh aparece 92 veces en todos los períodos del hebreo de la Biblia.
 
 En Gén_23:9 qatseh significa «fin» en el sentido de «extremo o límite más distante»: «Para que me dé la cueva de Macpela que está en el extremo de su campo». El término significa «límite más próximo» en Éxo_13:20 : «Salieron de Sucot y acamparon en Etam, al borde del desierto» (rva ; «entrada» rv). En otros casos, el vocablo claramente indica el «extremo o confín más distante»: «Si tus desterrados están en los confines de la tierra, de allí el Señor tu Dios te recogerá y de allí te hará volver» (Deu_30:4 lba).
 
@@ -45,9 +45,9 @@ En segundo lugar, qatseh puede significar un «fin temporal», tal como el final
 
 Una acepción especial de qatseh se encuentra en Gén_47:2, donde el vocablo se usa con la preposición mim («de entre»): «Luego tomó a cinco de entre sus hermanos y los presentó ante el faraón» (rva ; cf. Eze_33:2 lba). En Gén_19:4, la misma construcción significa «de todos los distritos (o barrios) de una ciudad»: «Rodearon la casa los hombres de la ciudad, los varones de Sodoma, todo el pueblo junto, desde el más joven hasta el más viejo». Una frase similar aparece en Gén_47:21, pero repetido («desde un cabo … hasta el otro cabo» rv). Se puede traducir: «Desde un extremo a otro del territorio de Egipto» (rva). En Jer_51:31, la frase significa «todos los sectores», «todas partes» (rv) o «completamente».
 
-qatsah (÷ÈöÈä, [[H7098]]), «fin; frontera; borde, orilla; extremo». El nombre qatsah se encuentra en la Biblia 28 veces y también se halla en fenicio. El término se refiere primordialmente a objetos concretos. En algunos casos, sin embargo, qatsah se refiere a objetos abstractos como por ejemplo «los caminos de Dios»: «¡Y estas cosas no son más que los bordes del camino. Apenas el leve susurro que oímos de él!» (Job_26:14 rv-95).
+qatsah (קָצָה, [[H7098]]), «fin; frontera; borde, orilla; extremo». El nombre qatsah se encuentra en la Biblia 28 veces y también se halla en fenicio. El término se refiere primordialmente a objetos concretos. En algunos casos, sin embargo, qatsah se refiere a objetos abstractos como por ejemplo «los caminos de Dios»: «¡Y estas cosas no son más que los bordes del camino. Apenas el leve susurro que oímos de él!» (Job_26:14 rv-95).
 
-'ajarît (àÇçÂøÄéú, [[H319]]), «trasero; fin; consecuencia; resultado; postrero; posteridad». También se encuentra el término en acádico, arameo y ugarítico. Aparece unas 61 veces en el hebreo bíblico durante todos los períodos; la mayoría de los casos están en la literatura poética.
+'ajarît (אַחֲרִית, [[H319]]), «trasero; fin; consecuencia; resultado; postrero; posteridad». También se encuentra el término en acádico, arameo y ugarítico. Aparece unas 61 veces en el hebreo bíblico durante todos los períodos; la mayoría de los casos están en la literatura poética.
 
 Cuando se usa espacialmente, el vocablo identifica «el lugar más remoto y más distante»: «Si tomo las alas del alba y habito en el extremo del mar» (Sal_139:9 rva).
 
@@ -61,5 +61,5 @@ El hecho que 'ajarît junto con «día» o «años» puede significar tanto «un
 
 B. Adverbio
 
-'epes (àÆôÆñ, [[H657]]), «sin embargo; no obstante; a pesar de; solo; mas» Este adverbio aparece por vez primera en Núm_13:28 : «Solo que el pueblo que habita aquella tierra es fuerte» (rva). 
+'epes (אֶפֶס, [[H657]]), «sin embargo; no obstante; a pesar de; solo; mas» Este adverbio aparece por vez primera en Núm_13:28 : «Solo que el pueblo que habita aquella tierra es fuerte» (rva). 
 

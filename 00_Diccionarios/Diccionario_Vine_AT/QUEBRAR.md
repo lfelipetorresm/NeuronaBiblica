@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#QUEBRAR"]
 
 # QUEBRAR
 
-shabar (ùÑÈáÇø, [[H7665]]). «quebrar, romper, destrozar, despedazar, aplastar, triturar». A menudo, este término se usa en las lenguas antiguas, acádico y ugarítico, y es de uso común a través de la historia del hebreo. En la Biblia hebrea se encuentra casi 150 veces. El primer caso bíblico de shabar está en Gén_19:9, que cuenta cómo los hombres de Sodoma amenazaron con «romper» la puerta de Lot para llevarse a sus huéspedes.
+shabar (שָׁבַר, [[H7665]]). «quebrar, romper, destrozar, despedazar, aplastar, triturar». A menudo, este término se usa en las lenguas antiguas, acádico y ugarítico, y es de uso común a través de la historia del hebreo. En la Biblia hebrea se encuentra casi 150 veces. El primer caso bíblico de shabar está en Gén_19:9, que cuenta cómo los hombres de Sodoma amenazaron con «romper» la puerta de Lot para llevarse a sus huéspedes.
 
 La palabra popular para «romper cosas», shabar, describe acciones como quebrar cántaros o vasijas (Jue_7:20; Jer_19:10), arcos (Ose_1:5), espadas (Ose_2:18 rva), huesos (Éxo_12:46) y yugos (Jer_28:10, Jer_28:12-13). A veces se usa en sentido figurado para hablar de un corazón o de un sentimiento «quebrantado» (Sal_69:20; Eze_6:9). En su modalidad intensiva, shabar se refiere a «quebrar» algún objeto como las tablas de la Ley (Éxo_32:19) o «despedazar» imágenes de ídolos (2Re_11:18), o bien árboles «destrozados» por el granizo (Éxo_9:25). 
 

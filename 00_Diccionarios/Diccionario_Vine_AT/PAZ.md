@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PAZ"]
 
 A. Nombres
 
-shalôm (ùÑÈìåéí, [[H7965]]), «paz, integridad, bienestar, salud». Esta es una raíz semítica muy común cuyo significado es «paz» en acádico, ugarítico, fenicio, arameo, siríaco, arábigo y etiópico.
+shalôm (שָׁלוים, [[H7965]]), «paz, integridad, bienestar, salud». Esta es una raíz semítica muy común cuyo significado es «paz» en acádico, ugarítico, fenicio, arameo, siríaco, arábigo y etiópico.
 
 Shalôm es un término muy importante en el Antiguo Testamento que se ha conservado en hebreo mishnáico, rabínico y moderno. Hoy en Israel la gente saluda a un visitante con las palabras mah shlomka (¿cuál es su paz, cómo está?) y le preguntan acerca de la «paz» («bienestar») de su familia.
 
@@ -27,11 +27,11 @@ Otro nombre hebreo relacionado es shelem, que se encuentra 87 veces y que signif
 
 B. Verbos
 
-shalem (ùÑÈìÅí, [[H7999]]), «estar completo, sano». El verbo, que aparece 103 veces, significa «estar completo» en 1Re_9:25 (lba): «Después que terminó la casa».
+shalem (שָׁלֵם, [[H7999]]), «estar completo, sano». El verbo, que aparece 103 veces, significa «estar completo» en 1Re_9:25 (lba): «Después que terminó la casa».
 
 Otro verbo, shalam, quiere decir «hacer las paces»: «Cuando los caminos del hombre son agradables a Jehová, aun a sus enemigos hace estar en paz con él» (Pro_16:7).
 
 C. Adjetivo
 
-shalem (ùÑÈìÅí, [[H8003]]), «completo; perfecto». Este vocablo se encuentra en Gén_15:16 con el significado de «no del todo completo»: «En la cuarta generación volverán acá, pues hasta ahora no ha llegado al colmo [«aun no está cumplida» rv] la maldad de los amorreos» (rva). En Deu_25:15 el vocablo significa «perfecto». 
+shalem (שָׁלֵם, [[H8003]]), «completo; perfecto». Este vocablo se encuentra en Gén_15:16 con el significado de «no del todo completo»: «En la cuarta generación volverán acá, pues hasta ahora no ha llegado al colmo [«aun no está cumplida» rv] la maldad de los amorreos» (rva). En Deu_25:15 el vocablo significa «perfecto». 
 

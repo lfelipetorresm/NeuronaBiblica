@@ -23,18 +23,18 @@ Nota: Cf. el nombre epieikeia (Hch_24:4 : «equidad», rv, rvr, rvr77; vm: «cle
 
 «La longanimidad es aquella cualidad de auto-refrenamiento ante la provocación que no toma represalias apresuradas ni castiga con celeridad; es lo opuesto de la ira y se asocia con la misericordia, utilizándose de Dios (Éxo_34:6, lxx; Rom_2:4; 1Pe_3:20). La paciencia es la cualidad que no se rinde ante las circunstancias ni sucumbe ante la prueba; es lo opuesto a la desesperanza y está asociada con la esperanza (1Ts_1:3). No se utiliza de Dios» (de Notes on Theáalonians, por Hogg y Vine, pp. 183-184). (Esto es, en sus términos originales. Desafortunadamente, en las versiones castellanas makrothumia y anoque no se traducen uniformemente como «longanimidad» y jupomone como «paciencia», con lo que esta distinción no se hace patente en la traducción. –Nota del Traductor.)
 
-3. makrothumia (ìáêñïèõìßá, [[G3115]]), longanimidad. Se traduce «paciencia» en Rom_9:22 (rv: «mansedumbre»); Gál_5:22 (rv: «tolerancia»); Efe_4:2 (rv, rvr); Col_3:12 (rv: «tolerancia»); 2Ti_4:2 (rv, rvr); Heb_6:12 (rv, rvr); Stg_5:10 (rv, rvr); 1Pe_3:20 (rv, rvr); 2Pe_3:15 (rv, rvr). Véase LONGANIMIDAD, y también CLEMENCIA.
+3. makrothumia (μακροθυμία, [[G3115]]), longanimidad. Se traduce «paciencia» en Rom_9:22 (rv: «mansedumbre»); Gál_5:22 (rv: «tolerancia»); Efe_4:2 (rv, rvr); Col_3:12 (rv: «tolerancia»); 2Ti_4:2 (rv, rvr); Heb_6:12 (rv, rvr); Stg_5:10 (rv, rvr); 1Pe_3:20 (rv, rvr); 2Pe_3:15 (rv, rvr). Véase LONGANIMIDAD, y también CLEMENCIA.
 
 B. Verbos
 
-1. metriopatheo (ìåôñéïðáèÝù, [[G3356]]), se traduce «se muestre paciente» en Heb_5:2 (rvr; rv: «compadecer»; Besson: «simpatizar»). Véase MOSTRAR, Nº 7.¶
+1. metriopatheo (μετριοπαθέω, [[G3356]]), se traduce «se muestre paciente» en Heb_5:2 (rvr; rv: «compadecer»; Besson: «simpatizar»). Véase MOSTRAR, Nº 7.¶
 
-2. makrothumeo (ìáêñïèõìÝù, [[G3114]]), relacionado con A, Nº 2; tener largura de ánimo. Se traduce con la frase verbal «tener paciencia» (Mat_18:26, Mat_18:29; Stg_5:7-8); «ser paciente» (1Ts_5:14; 2Pe_3:9); «esperar con paciencia» (Heb_6:15); «aguardar con paciencia» (Stg_5:7 b); en la rv se traduce «ser longánime» en Luc_18:7; «esperar con largura de ánimo» (Heb_6:15); véase SUFRIDO ( SER ), bajo SUFRIR y cf. también makrothumia, A, Nº 3, y bajo LONGANIMIDAD.
+2. makrothumeo (μακροθυμέω, [[G3114]]), relacionado con A, Nº 2; tener largura de ánimo. Se traduce con la frase verbal «tener paciencia» (Mat_18:26, Mat_18:29; Stg_5:7-8); «ser paciente» (1Ts_5:14; 2Pe_3:9); «esperar con paciencia» (Heb_6:15); «aguardar con paciencia» (Stg_5:7 b); en la rv se traduce «ser longánime» en Luc_18:7; «esperar con largura de ánimo» (Heb_6:15); véase SUFRIDO ( SER ), bajo SUFRIR y cf. también makrothumia, A, Nº 3, y bajo LONGANIMIDAD.
 
 Nota: Para jupopiazo, traducido «me agote la paciencia» en Luc_18:5 (rvr; rv: «me muela»), véase GOLPEAR, Nº 2.
 
 C. Adverbio
 
-makrothumos (ìáêñïèýìùò, [[G3116]]), relacionado con A, Nº 3, y B, Nº 2, denota «pacientemente». Se traduce como «con paciencia» en Hch_26:3 (rv, rvr, rvr77, vm, Besson).¶ 
+makrothumos (μακροθύμως, [[G3116]]), relacionado con A, Nº 3, y B, Nº 2, denota «pacientemente». Se traduce como «con paciencia» en Hch_26:3 (rv, rvr, rvr77, vm, Besson).¶ 
 
 

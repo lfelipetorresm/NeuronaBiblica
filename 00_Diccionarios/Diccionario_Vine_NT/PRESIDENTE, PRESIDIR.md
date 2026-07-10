@@ -13,6 +13,6 @@ jegemon (ἡãåìþí, [[G2232]]), conductor, gobernante. Se traduce «presiden
 
 B. Verbo
 
-proistemi (ðñïÀóôçìé, [[G4291]]), lit., «estar de pie ante» y, de ahí, conducir, dirigir, ocuparse en. Se traduce «presidir» con referencia a la iglesia (Rom_12:8, 1Ts_5:12); véase GOBERNAR, Nº 6, OCUPAR(SE). 
+proistemi (προΐστημι, [[G4291]]), lit., «estar de pie ante» y, de ahí, conducir, dirigir, ocuparse en. Se traduce «presidir» con referencia a la iglesia (Rom_12:8, 1Ts_5:12); véase GOBERNAR, Nº 6, OCUPAR(SE). 
 
 

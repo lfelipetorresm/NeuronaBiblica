@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SALIDA"]
 
 2. exodos (ἔîïäïò, [[G1841]]), significa lit., camino de salida (ex, fuera; jodos, camino). Se traduce «salida» en Heb_11:22 (rvr; rv: «partida»). En rv se traduce «salida» en Luc_9:31 (rvr: «partida»). Véase PARTIDA.
 
-3. diexodos (äéÝîïäïò, [[G1327]]), caminos de salida a través (dia, a través). Se utiliza en Mat_22:9 con jodos, camino, sendero, y esta frase se traduce correctamente en vm, Besson, rvr77: «encrucijadas de los caminos» (rv, rvr: «salidas de los caminos»).¶ 
+3. diexodos (διέξοδος, [[G1327]]), caminos de salida a través (dia, a través). Se utiliza en Mat_22:9 con jodos, camino, sendero, y esta frase se traduce correctamente en vm, Besson, rvr77: «encrucijadas de los caminos» (rv, rvr: «salidas de los caminos»).¶ 
 
 

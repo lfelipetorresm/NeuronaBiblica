@@ -15,6 +15,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DELITO"]
 
 4. enklema (ἔíêëçìá, [[G92]]), acusación hecha en público, pero no necesariamente ante un tribunal. Este es el caso en Hch_23:29 : «delito». Véase .
 
-5. paraptoma (ðáñÜðôùìá, [[G3900]]), primariamente, paso en falso, error. Usado éticamente denota transgresión, desviación, de la rectitud y de la verdad; véase; en Efe_2:1 se traduce «delitos». Véanse también FALTA, OFENSA, PECADO. 
+5. paraptoma (παράπτωμα, [[G3900]]), primariamente, paso en falso, error. Usado éticamente denota transgresión, desviación, de la rectitud y de la verdad; véase; en Efe_2:1 se traduce «delitos». Véanse también FALTA, OFENSA, PECADO. 
 
 

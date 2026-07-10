@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#TIERRA"]
 
 # TIERRA
 
-'adamah (àÂãÈîÈä, [[H127]]), «suelo; tierra». Este nombre también se encuentra en arábigo. Los casos en hebreo son alrededor de 224, abarcando todos los períodos de la Biblia hebraica.
+'adamah (אֲדָמָה, [[H127]]), «suelo; tierra». Este nombre también se encuentra en arábigo. Los casos en hebreo son alrededor de 224, abarcando todos los períodos de la Biblia hebraica.
 
 Para comenzar, este nombre se refiere a «tierra» cultivable (quizás de color rojizo). Tiene agua y plantas: «Sino que subía de la tierra un vapor el cual regaba toda la faz de la tierra» (Gén_2:6). Este mismo significado se encuentra en la primera cita que contiene el término (Gén_1:25): «Todo animal que se arrastra sobre la tierra». El vocablo se contrasta con «erial, yermo» (suelo improductivo); es el término genérico que indica la superficie del planeta «tierra» y que, juntos o por separado, significa «suelo, tierra». El cuerpo del primer hombre, Adán, se formó solo de 'adamah (cf. Gén_2:9): «Entonces Jehová Dios formó al hombre del polvo de la tierra []» (Gén_2:7).
 
@@ -19,7 +19,7 @@ El matiz «propiedad» o «posesión» se destaca con más claridad en pasajes c
 
 En todo el Antiguo Testamento existe una relación entre 'adam («hombre») y 'adamah («tierra»). Tienen una afinidad etimológica puesto que ambos parecen derivarse del verbo 'adom («ser rojo»). Mientras que Adán obedeciera a Dios, la «tierra» rendiría su fruto. Por consiguiente, la «tierra» pertenece a Dios y estando bajo su autoridad corresponde a los esfuerzos de su siervo (Gén_2:6). Con el pecado se rompe la armonía entre el hombre y la «tierra», y esta ya no responde a su cuidado. Su vida se mueve hacia adentro y hacia la muerte en lugar de hacia arriba y hacia la vida. A medida que crece la rebelión humana disminuye la fertilidad del «suelo» (Gén_4:12, Gén_4:14; cf. 8:21). En Abraham la redención prometida (Gén_3:15) se manifiesta mediante una debida relación entre Dios y el hombre y entre este y la «tierra» (Gén_28:14-15). Bajo Moisés la productividad del «suelo» dependía de la obediencia del pueblo de Dios (cf. Deu_11:17).
 
-'erets (àÆøÆõ, [[H776]]), «tierra (todo el mundo); tierra firme; suelo; entidad política; subsuelo». El término tiene cognados en ugarítico, fenicio-púnico, moabita, acádico, arameo (donde los radicales son 'rq o 'r'); y arábigo ('rd). 'erets aparece en la Biblia hebrea alrededor Deu_2:504 veces (22 en arameo bíblico) y en todos los períodos. Expresa una cosmovisión que contradice los mitos antiguos así como las teorías modernas que intentan explicar el origen del universo y de las fuerzas que los sostienen.
+'erets (אֶרֶץ, [[H776]]), «tierra (todo el mundo); tierra firme; suelo; entidad política; subsuelo». El término tiene cognados en ugarítico, fenicio-púnico, moabita, acádico, arameo (donde los radicales son 'rq o 'r'); y arábigo ('rd). 'erets aparece en la Biblia hebrea alrededor Deu_2:504 veces (22 en arameo bíblico) y en todos los períodos. Expresa una cosmovisión que contradice los mitos antiguos así como las teorías modernas que intentan explicar el origen del universo y de las fuerzas que los sostienen.
 
 La palabra a menudo representa toda la superficie de este planeta y, junto con el mundo «celestial», describe la creación física total y cada cosa en ella. Esto es lo que significa la primera vez que se menciona en la Biblia: «En el principio creó Dios los cielos y la tierra» (Gén_1:1).
 

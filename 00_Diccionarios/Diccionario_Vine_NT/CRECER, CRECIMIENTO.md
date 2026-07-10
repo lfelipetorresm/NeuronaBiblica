@@ -13,19 +13,19 @@ A. Verbos
 
 2. anabaino (ἀíáâáßíù, [[G305]]), subir. Cuando se usa de plantas, significa crecer (Mat_13:7; Mar_4:7, Mar_4:32); en el v. 8, brotó, refiriéndose a la semilla. Véanse BROTAR, ENTRAR, SACAR, SUBIR, VENIR.
 
-3. komao (êïìÜù, [[G2863]]), significa dejar crecer el cabello, llevar cabello largo, gloria para la mujer, deshonra para el hombre, tal como lo enseña la naturaleza misma (1Co_11:14-15). Véanse CABELLO, DEJAR.¶
+3. komao (κομάω, [[G2863]]), significa dejar crecer el cabello, llevar cabello largo, gloria para la mujer, deshonra para el hombre, tal como lo enseña la naturaleza misma (1Co_11:14-15). Véanse CABELLO, DEJAR.¶
 
-4. mekuno (ìçêýíù, [[G3373]]), crecer, alargar, extender (de mekos, longitud). Se usa del crecimiento de las plantas (Mar_4:27).¶
+4. mekuno (μηκύνω, [[G3373]]), crecer, alargar, extender (de mekos, longitud). Se usa del crecimiento de las plantas (Mar_4:27).¶
 
-5. periáeuo (ðåñéóóåýù, [[G4052]]), véanse ABUNDAR, AUMENTAR. Se traduce «creciendo» en 1Co_15:58.
+5. periáeuo (περισσεύω, [[G4052]]), véanse ABUNDAR, AUMENTAR. Se traduce «creciendo» en 1Co_15:58.
 
-6. pleonazo (ðëåïíÜæù, [[G4121]]), hacer abundar. Se traduce «haga crecer» (1Ts_3:12); véase ABUNDAR.
+6. pleonazo (πλεονάζω, [[G4121]]), hacer abundar. Se traduce «haga crecer» (1Ts_3:12); véase ABUNDAR.
 
-7. plethuno (ðëçèýíù, [[G4129]]), forma alargada de pletho, llenar; relacionado con el Nº 3, y con plethos, multitud. Significa acrecentar, multiplicar y, en la voz pasiva, ser multiplicado, p.ej., de la iniquidad (Mat_24:12); como crecer se traduce en Hch_6:1 : «como creciera el número». Véanse ACRECENTAR, MULTIPLICAR.
+7. plethuno (πληθύνω, [[G4129]]), forma alargada de pletho, llenar; relacionado con el Nº 3, y con plethos, multitud. Significa acrecentar, multiplicar y, en la voz pasiva, ser multiplicado, p.ej., de la iniquidad (Mat_24:12); como crecer se traduce en Hch_6:1 : «como creciera el número». Véanse ACRECENTAR, MULTIPLICAR.
 
-8. prokopto (ðñïêüðôù, [[G4298]]), se traduce con el verbo crecer en Luc_2:52, del Señor Jesús. Véase AVANZAR, etc.
+8. prokopto (προκόπτω, [[G4298]]), se traduce con el verbo crecer en Luc_2:52, del Señor Jesús. Véase AVANZAR, etc.
 
-9. sunauxano (óõíáõîÜíù, [[G4885]]), crecer juntamente (sun, con, juntamente, y Nº 1). Se usa en Mat_13:30.¶
+9. sunauxano (συναυξάνω, [[G4885]]), crecer juntamente (sun, con, juntamente, y Nº 1). Se usa en Mat_13:30.¶
 
 10. juperauxano (ὑðåñáõîÜíù, [[G5232]]), aumentar más allá de toda medida (juper, sobre, y Nº 1). Se usa de la fe y del amor, en sus efectos vitales y prácticos (2Ts_1:3 : «va creciendo», rv, rvr, rvr77; solo la vm traduce con el matiz presente en el original, «se aumen ta sobremanera vuestra fe»).¶
 

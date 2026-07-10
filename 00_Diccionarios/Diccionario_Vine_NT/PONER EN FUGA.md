@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PONERENFUGA"]
 
 # PONER EN FUGA
 
-klino (êëßíù, [[G2827]]), hacer doblar. Se traduce «pusieron en fuga» en Heb_11:34. Véase BAJAR, A, Nº 4, etc. 
+klino (κλίνω, [[G2827]]), hacer doblar. Se traduce «pusieron en fuga» en Heb_11:34. Véase BAJAR, A, Nº 4, etc. 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#LEVANTARSE"]
 
 A. Verbo
 
-qûm (÷åÌí, [[H6965]]), «levantarse, erguirse; suceder, acontecer». El vocablo se halla en casi todas las lenguas semíticas, incluyendo hebreo y arameo bíblico. Aparece unas 630 veces en hebreo y 39 veces en arameo.
+qûm (קוּם, [[H6965]]), «levantarse, erguirse; suceder, acontecer». El vocablo se halla en casi todas las lenguas semíticas, incluyendo hebreo y arameo bíblico. Aparece unas 630 veces en hebreo y 39 veces en arameo.
 
 El término tiene varias aplicaciones. Denota cualquier movimiento hacia una posición vertical, tal como levantarse de la cama (Gén_19:33); o bien lo contrario de estar sentado o arrodillado, como cuando Abram «se levantó de delante de su difunta» (Gén_23:3). Puede referirse también al resultado de «levantarse», como cuando José vio en un sueño su gavilla levantarse y mantenerse «erguida» (Gén_37:7 rva).
 
@@ -27,5 +27,5 @@ Algunas veces qûm forma parte de un verbo compuesto sin mantener un significado
 
 B. Nombre
 
-maqôm (îÈ÷åéí, [[H4725]]), «lugar; altura; estatura; posición». En el Antiguo Testamento hay tres nombres que tienen relación con qûm. El más importante es maqôm, que aparece 401 veces en el Antiguo Testamento. Se refiere al sitio en el que algo o alguien está levantado (1Sa_5:3), sentado (1Re_10:19), mora (2Re_8:21) o simplemente está (Gén_1:9). Puede además referirse a una localidad más amplia, tal como un país (Éxo_3:8), o a un espacio intermedio no determinado (1Sa_26:13). «Lugar» puede también referirse a una tarea u oficio (Ecl_10:4). El nombre además tiene la acepción de «santuario», o sea, un «lugar» de culto (Gén_22:3). 
+maqôm (מָקוים, [[H4725]]), «lugar; altura; estatura; posición». En el Antiguo Testamento hay tres nombres que tienen relación con qûm. El más importante es maqôm, que aparece 401 veces en el Antiguo Testamento. Se refiere al sitio en el que algo o alguien está levantado (1Sa_5:3), sentado (1Re_10:19), mora (2Re_8:21) o simplemente está (Gén_1:9). Puede además referirse a una localidad más amplia, tal como un país (Éxo_3:8), o a un espacio intermedio no determinado (1Sa_26:13). «Lugar» puede también referirse a una tarea u oficio (Ecl_10:4). El nombre además tiene la acepción de «santuario», o sea, un «lugar» de culto (Gén_22:3). 
 

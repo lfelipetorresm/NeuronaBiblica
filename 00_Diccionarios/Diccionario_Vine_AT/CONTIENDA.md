@@ -9,13 +9,13 @@ etiquetas: ["#Diccionario", "#VineAT", "#CONTIENDA"]
 
 A. Verbo
 
-rîb (øÄéá, [[H7378]]), «reñir, contender». Este verbo figura 65 veces en todos los períodos del hebreo bíblico.
+rîb (רִיב, [[H7378]]), «reñir, contender». Este verbo figura 65 veces en todos los períodos del hebreo bíblico.
 
 En Éxo_21:18 rîb tiene que ver con un esfuerzo físico, una lucha: «Además, si algunos riñeren, y uno hiriere a su prójimo con piedra o con el puño, y no muriere». Rîb se encuentra en Jue_6:32 con la acepción de «contender» oralmente.
 
 B. Nombres
 
-rîb (øÄéá, [[H7379]]), «contienda; riña; disputa; altercado; pleito; controversias; causas». El nombre tiene únicamente un cognado arameo y aparece en todos los períodos del hebreo bíblico unas 60 veces.
+rîb (רִיב, [[H7379]]), «contienda; riña; disputa; altercado; pleito; controversias; causas». El nombre tiene únicamente un cognado arameo y aparece en todos los períodos del hebreo bíblico unas 60 veces.
 
 El nombre rîb se usa, a veces, en el contexto de conflictos extrajurídicos, esto es, fuera de las cortes. Puede haber conflictos entre individuos, como en Pro_17:14 : «El que comienza la contienda es quien suelta las aguas; desiste, pues, antes que estalle el pleito» (rva). En Gén_13:7-8 (primera cita con rîb) el término se refiere a la «contienda» que antecede a la lucha entre dos grupos: «Entonces surgió una contienda entre los pastores del ganado de Abram y los pastores del ganado de Lot». En casos como este, el que inicia la contienda es evidentemente el culpable.
 

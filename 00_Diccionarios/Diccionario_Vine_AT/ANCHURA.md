@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ANCHURA"]
 
 # ANCHURA
 
-rojab (øéçÇá, [[H7341]]), «amplitud, anchura, expansión». Este nombre aparece 101 veces durante todos los períodos del hebreo bíblico.
+rojab (ריחַב, [[H7341]]), «amplitud, anchura, expansión». Este nombre aparece 101 veces durante todos los períodos del hebreo bíblico.
 
 Primero, rojab se refiere a la anchura de una expansión plana. En Gén_13:17, leemos: «Levántate, ve por la tierra, a lo largo de ella y a su ancho; porque a ti te lo daré». Rojab a veces representa el concepto de largura y anchura, o sea, la totalidad de un territorio: «Y extendiendo sus alas, llenará la anchura de tu tierra, oh Emanuel» (Isa_8:8). En Job_37:10 se da el mismo uso («anchas aguas» rv, «extensión de las aguas» bj).
 
@@ -17,5 +17,5 @@ Segundo, rojab se usa para indicar lo «grueso» o lo «ancho» de un objeto. La
 
 Rojab se deriva del verbo rajab, así como el nombre rehôb o rehob.
 
-rehôb (øÀçåéá, [[H7339]]) o rehob (øÀçéá, [[H7339]]), «plaza». Rehôb (o rehob) aparece 43 veces en la Biblia. El nombre tiene cognados en ugarítico, acádico y aramaico. Rehôb es la «plaza» más próxima a la puerta de una ciudad, como en Gén_19:2 (bj ; primera mención del término). La «plaza» servía a menudo para funciones sociales como son las asambleas, los tribunales y las proclamaciones oficiales. 
+rehôb (רְחויב, [[H7339]]) o rehob (רְחיב, [[H7339]]), «plaza». Rehôb (o rehob) aparece 43 veces en la Biblia. El nombre tiene cognados en ugarítico, acádico y aramaico. Rehôb es la «plaza» más próxima a la puerta de una ciudad, como en Gén_19:2 (bj ; primera mención del término). La «plaza» servía a menudo para funciones sociales como son las asambleas, los tribunales y las proclamaciones oficiales. 
 

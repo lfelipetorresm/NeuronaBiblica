@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESMAYAR"]
 
 2. enkakeo (ἐãêáêÝù, [[G1573]]), o ekkakeo, carecer de valor, perder el ánimo, ser de poco ánimo (en, en; kakos, bajo). Se dice de la oración (Luc_18:1); del ministerio del evangelio (2Co_4:1, 2Co_4:16); del efecto de la tribulación (Efe_3:13); en cuanto al bien hacer (2Ts_3:13 : «no os canséis»). Algunos mss. tienen esta palabra en Gál_6:9 (Nº 1), también traducida «no nos cansemos».¶
 
-3. kamno (êÜìíù, [[G2577]]), significaba primariamente trabajar; luego, como efecto del contínuo trabajo, estar fatigado. Se usa en Heb_12:3, de cansarse (véase también Nº 1): «no os canséis»; en Stg_5:15, de estar enfermo; algunos mss. tienen esta palabra en Apo_2:3 : «no has desmayado». Véanse CANSAR, ENFERMO.¶ 
+3. kamno (κάμνω, [[G2577]]), significaba primariamente trabajar; luego, como efecto del contínuo trabajo, estar fatigado. Se usa en Heb_12:3, de cansarse (véase también Nº 1): «no os canséis»; en Stg_5:15, de estar enfermo; algunos mss. tienen esta palabra en Apo_2:3 : «no has desmayado». Véanse CANSAR, ENFERMO.¶ 
 
 

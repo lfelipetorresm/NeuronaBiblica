@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SANGRE"]
 
 # SANGRE
 
-dam (ãÌÈí, [[H1818]]), «sangre». Este es un término semítico común que tiene cognados en todas las lenguas semíticas. Está constatado unas 360 veces en hebreo bíblico y durante todos los períodos.
+dam (דָּם, [[H1818]]), «sangre». Este es un término semítico común que tiene cognados en todas las lenguas semíticas. Está constatado unas 360 veces en hebreo bíblico y durante todos los períodos.
 
 Dam se usa para denotar la «sangre» de animales, aves y seres humanos (nunca de peces). En Gén_9:4 (rva), la «sangre» es sinónimo de vida: «Pero no comeréis carne con su vida, es decir, su sangre». El alto precio de la vida como don de Dios lleva a la prohibición de ingerir «sangre»: «Este será un estatuto perpetuo a través de vuestras generaciones. En cualquier lugar que habitéis, no comeréis nada de sebo ni nada de sangre» (Lev_3:17 rva). Son contadas las veces en que el término indica el color «carmesí»: «Cuando se levantaron temprano por la mañana y el sol resplandeció sobre las aguas, los de Moab vieron desde lejos las aguas rojas como sangre» (2Re_3:22 rva). En dos pasajes dam es una metáfora para «vino»: «Lava en vino su vestidura y en sangre de uvas su manto» (Gén_49:11 rva ; cf. Deu_32:14).
 

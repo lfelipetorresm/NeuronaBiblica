@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#LEY"]
 
 A. Nombres
 
-1. nomos (íüìïò, [[G3551]]), relacionado con nemo, dividir, distribuir; significaba primariamente aquello que es asignado; de ahí, uso, costumbre, y luego ley, ley prescrita por costumbre, o por estatuto. El término ethos, costumbre, se retuvo para la ley no escrita, en tanto que nomos vino a ser el nombre establecido para la ley en tanto que decretada por un estado y establecida como la norma para la administración de la justicia.
+1. nomos (νόμος, [[G3551]]), relacionado con nemo, dividir, distribuir; significaba primariamente aquello que es asignado; de ahí, uso, costumbre, y luego ley, ley prescrita por costumbre, o por estatuto. El término ethos, costumbre, se retuvo para la ley no escrita, en tanto que nomos vino a ser el nombre establecido para la ley en tanto que decretada por un estado y establecida como la norma para la administración de la justicia.
 
 En el NT se usa: (a) de ley en general (p.ej., Rom_2:12-13, expresándose allí un principio general relacionado con la ley; v. 14b; Rom_3:27 : «¿Por cuál ley?», esto es, «¿Por razón de qué tipo de principios, ha sido excluida la jactancia?»; Rom_4:15 b; Rom_5:13, refiriéndose al período entre la transgresión de Adán y la promulgación de la ley; Rom_7:1 a); contra aquellas gracias que constituyen el fruto del Espíritu «no hay ley» (Gál_5:23). «El objetivo ostensible de la ley es el de reprimir las malas tendencias naturales del hombre en su estado caído; pero en la experiencia la ley no solo resulta ineficaz, sino que en realidad provoca una mayor actividad en estas tendencias. La intención del don del Espíritu es impulsar al creyente a una vida en la que las tendencias naturales no tengan lugar, y producir en él las tendencias contrarias. La ley, por ello, no tiene nada que decir en contra del fruto del Espíritu; por tanto, el creyente no solo no se encuentra bajo la ley (v. 18), sino que la ley no halla lugar en su vida, en tanto que, y hasta allí donde, sea conducido por el Espíritu» (de Notes on Galatians, por Hogg y Vine, p. 298).
 
@@ -23,17 +23,17 @@ Las siguientes frases especifican leyes de varios tipos: (a) «la ley de Cristo�
 
 Notas: (1) En Gál_5:3, la afirmación de que la aceptación de la circuncisión constituye al hombre deudor para cumplir «toda la ley» considera a la ley como constituida por mandamientos separados, cada uno de ellos esencial para el conjunto, y proclama la unidad de la ley; en el v. 14, la afirmación de que «toda la ley» se cumple en el solo mandamiento del amor considera los mandamientos separados como combinados para constituir una sola ley. (2) En Rom_8:3, «lo que era imposible para la ley» es, lit., «la incapacidad (adunaton, neutro del adjetivo adunatos, incapaz, utilizado como nombre) de la ley». Esto puede referirse bien a «la debilidad de la ley» o «aquello que era imposible para la ley», como traduce la rvr . Esta última traducción es la preferible; el significado viene a ser el mismo en efecto. La ley ni podía dar libertad de la condenación ni impartir vida. (3) Para la aparente diferencia entre la enseñanza de Pablo y la de Santiago con respecto a la ley, véase bajo . (4) Para nomodidaskaloi, «doctores de la ley» (Luc_5:17, y en singular en Hch_5:34; 1Ti_1:7), véase DOCTOR, Nº 2.¶
 
-2. nomothesia (íïìïèåóßá, [[G3548]]), (Nº 1, y tithemi, colocar, poner) denota legislación, promulgación de la ley (Rom_9:4 : «la promulgación de la ley»). Véase, y cf. B, Nº 1.¶
+2. nomothesia (νομοθεσία, [[G3548]]), (Nº 1, y tithemi, colocar, poner) denota legislación, promulgación de la ley (Rom_9:4 : «la promulgación de la ley»). Véase, y cf. B, Nº 1.¶
 
 B. Verbos
 
-1. nomotheteo (íïìïèåôÝù, [[G3549]]), (a) usado intransitivamente, significa hacer leyes (cf. A, Nº 2); en la voz pasiva, ser provisto de leyes (Heb_7:11 : «recibió … la ley», lit: «fue provisto con la ley»); (b) usado intransitivamente, significa ordenar por ley, establecer; en la voz pasiva (Heb_8:6). Véase ESTABLECER, Nº 5.¶
+1. nomotheteo (νομοθετέω, [[G3549]]), (a) usado intransitivamente, significa hacer leyes (cf. A, Nº 2); en la voz pasiva, ser provisto de leyes (Heb_7:11 : «recibió … la ley», lit: «fue provisto con la ley»); (b) usado intransitivamente, significa ordenar por ley, establecer; en la voz pasiva (Heb_8:6). Véase ESTABLECER, Nº 5.¶
 
-2. paranomeo (ðáñáíïìÝù, [[G3892]]), transgredir la ley (para, contrario a, y nomos, ley). Se usa en el participio presente (Hch_23:3), y se traduce «quebrantando la ley»; véase QUEBRANTAR.¶
+2. paranomeo (παρανομέω, [[G3892]]), transgredir la ley (para, contrario a, y nomos, ley). Se usa en el participio presente (Hch_23:3), y se traduce «quebrantando la ley»; véase QUEBRANTAR.¶
 
 C. Adjetivos
 
-1. nomikos (íïìéêüò, [[G3544]]), denota relacionado con la ley; en Tit_3:9 se traduce «acerca de la ley», describiendo «discusiones»; véase INTéRPRETE, Nº 2.
+1. nomikos (νομικός, [[G3544]]), denota relacionado con la ley; en Tit_3:9 se traduce «acerca de la ley», describiendo «discusiones»; véase INTéRPRETE, Nº 2.
 
 2. ennomos (ἔííïìïò, [[G1772]]), se traduce «bajo la ley» en 1Co_9:21; «legítima», de una asamblea (Hch_19:39). Véase BAJO, A, Nº 1, y también, A.¶
 

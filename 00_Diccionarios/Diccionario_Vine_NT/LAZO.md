@@ -7,8 +7,8 @@ etiquetas: ["#Diccionario", "#VineNT", "#LAZO"]
 
 # LAZO
 
-1. pagis (ðáãßò, [[G3803]]), trampa, lazo (relacionado con pegnumi, fijar, asegurar, y pagideuo, atrapar; véase SORPRENDER). Se usa metafóricamente de: (a) las seducciones al mal mediante el cual el diablo atrapa a alguien (1Ti_3:7; 2Ti_2:26); (b) seducciones al mal, que constituyen un lazo para aquellos que «quieren enriquecerse» (1Ti_6:9); (c) el mal que los israelitas se atrajeron sobre sí mismos, por el cual los especiales privilegios que les habían sido dados por Dios, y centrados en Cristo, vinieron a serles un lazo; siendo su rechazamiento de Cristo y del evangelio el efecto retributivo de su apostasía (Rom_11:9); (d) de los repentinos juicios de Dios que vendrán sobre aquellos cuyos corazones se han cargado «de glotonería y embriaguez y de los afanes de esta vida» (Luc_21:34) «porque como un lazo vendrá sobre todos los que habitan sobre la faz de toda la tierra» (v. 35).¶
+1. pagis (παγίς, [[G3803]]), trampa, lazo (relacionado con pegnumi, fijar, asegurar, y pagideuo, atrapar; véase SORPRENDER). Se usa metafóricamente de: (a) las seducciones al mal mediante el cual el diablo atrapa a alguien (1Ti_3:7; 2Ti_2:26); (b) seducciones al mal, que constituyen un lazo para aquellos que «quieren enriquecerse» (1Ti_6:9); (c) el mal que los israelitas se atrajeron sobre sí mismos, por el cual los especiales privilegios que les habían sido dados por Dios, y centrados en Cristo, vinieron a serles un lazo; siendo su rechazamiento de Cristo y del evangelio el efecto retributivo de su apostasía (Rom_11:9); (d) de los repentinos juicios de Dios que vendrán sobre aquellos cuyos corazones se han cargado «de glotonería y embriaguez y de los afanes de esta vida» (Luc_21:34) «porque como un lazo vendrá sobre todos los que habitan sobre la faz de toda la tierra» (v. 35).¶
 
-2. brocos (âñü÷ïò, [[G1029]]), lazo corredizo, dogal. Se usa metafóricamente en 1Co_7:35 : «un lazo».¶ En la lxx se halla en Pro_6:5; Pro_7:21; Pro_22:25.¶ 
+2. brocos (βρόχος, [[G1029]]), lazo corredizo, dogal. Se usa metafóricamente en 1Co_7:35 : «un lazo».¶ En la lxx se halla en Pro_6:5; Pro_7:21; Pro_22:25.¶ 
 
 

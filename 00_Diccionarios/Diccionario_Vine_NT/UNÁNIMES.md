@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#UNÁNIMES"]
 
 2. jomou (ὁìïõ̂, [[G3674]]), aparece en Hch_2:1 en los mss. más comúnmente aceptados en lugar de Nº 1, que aparece en tr. La frase «todos unánimes juntos» es traducción de apantes jomothumadon epi to auto (tr), o en el texto alternativo, pantes jomou epi to auto (lit. «todos juntos en el mismo lugar»). Veáse JUNTAMENTE, Nº 1.
 
-3. sumpsucos (óýìøõ÷ïò, [[G4861]]), adjetivo, lit, «de similar ánimo, (sun, con; psuque, alma), y se emplea en Fil_2:2, traducido «unánimes».¶
+3. sumpsucos (σύμψυχος, [[G4861]]), adjetivo, lit, «de similar ánimo, (sun, con; psuque, alma), y se emplea en Fil_2:2, traducido «unánimes».¶
 
 Notas: (1) Para isopsucos : «tan unánime» (Fil_2:20, rv; rvr: «del mismo ánimo»), veáseÁNIMO bajo ANIMAR, C, Nº 3.¶
 

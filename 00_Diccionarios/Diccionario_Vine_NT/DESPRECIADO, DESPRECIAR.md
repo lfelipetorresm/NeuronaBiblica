@@ -17,6 +17,6 @@ B. Verbos
 
 Nota: En Mar_9:12 algunos mss. tienen este verbo; los más acreditados tienen la grafía alternativa exoudeneo : «tenido en nada».
 
-2. katafroneo (êáôáöñïíÝù, [[G2706]]), lit: pensar abajo sobre o en contra de alguien (kata, abajo; fren, mente), de aquí que signifique considerar en poco, menospreciar. Se traduce «desprecian» en 2Pe_2:10. Véanse MENOSPRECIAR, TENER EN POCO. 
+2. katafroneo (καταφρονέω, [[G2706]]), lit: pensar abajo sobre o en contra de alguien (kata, abajo; fren, mente), de aquí que signifique considerar en poco, menospreciar. Se traduce «desprecian» en 2Pe_2:10. Véanse MENOSPRECIAR, TENER EN POCO. 
 
 

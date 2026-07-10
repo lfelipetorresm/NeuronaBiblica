@@ -15,6 +15,6 @@ Notas: (1) Para meros, traducido «en particular» (rv: «parte»), en 1Co_12:27
 
 B. Frase Adverbial
 
-kat' idian (êáô ̓ἰäßáí, [[G2398]]), se traduce «en particular» en Mar_4:34 (vm: «en privado»). 
+kat' idian (κατ ̓ἰäßáí, [[G2398]]), se traduce «en particular» en Mar_4:34 (vm: «en privado»). 
 
 

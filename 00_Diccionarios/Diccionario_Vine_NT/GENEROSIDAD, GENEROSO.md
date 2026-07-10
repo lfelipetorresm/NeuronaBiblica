@@ -15,6 +15,6 @@ A. Nombres
 
 B. Adjetivo
 
-koinonikos (êïéíùíéêüò, [[G2843]]), relacionado con koinoneo (véase COMPARTIR, Nº 1), significa pronto, o listo, para comunicar (1Ti_6:18 : «generoso», : «que con facilidad comuniquen»).¶ 
+koinonikos (κοινωνικός, [[G2843]]), relacionado con koinoneo (véase COMPARTIR, Nº 1), significa pronto, o listo, para comunicar (1Ti_6:18 : «generoso», : «que con facilidad comuniquen»).¶ 
 
 

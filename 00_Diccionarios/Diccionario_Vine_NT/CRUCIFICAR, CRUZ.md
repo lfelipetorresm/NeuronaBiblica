@@ -9,17 +9,17 @@ etiquetas: ["#Diccionario", "#VineNT", "#CRUCIFICAR,CRUZ"]
 
 A. Verbos
 
-1. stauroo (óôáõñüù, [[G4717]]), significa: (a) el acto de crucificar (p.ej., Mat_20:19); (b) metafóricamente, de quitarse la carne con sus pasiones y concupiscencias, condición cumplida en el caso de aquellos que son «de Cristo Jesús» (Gál_5:24); así de la relación entre el creyente y el mundo (Gál_6:14).
+1. stauroo (σταυρόω, [[G4717]]), significa: (a) el acto de crucificar (p.ej., Mat_20:19); (b) metafóricamente, de quitarse la carne con sus pasiones y concupiscencias, condición cumplida en el caso de aquellos que son «de Cristo Jesús» (Gál_5:24); así de la relación entre el creyente y el mundo (Gál_6:14).
 
 2. anastauroo (ἀíáóôáõñüù, [[G388]]), (ana, otra vez) se usa en Heb_6:6 de los apóstatas hebreos, que como cristianos meramente nominales, al volverse al judaísmo, eran por ello virtualmente culpables de volver a crucificar a Cristo.¶
 
-3. sustauroo (óõóôáõñüù, [[G4975]]), crucificar con (su -, de sun, con). Se usa: (a) de la crucifixión literal en compañía de alguien (Mat_27:44; Mar_15:32; Jua_19:32); (b) metafóricamente, de la identificación espiritual con Cristo en su muerte (Rom_6:6, y Gál_2:20).¶
+3. sustauroo (συσταυρόω, [[G4975]]), crucificar con (su -, de sun, con). Se usa: (a) de la crucifixión literal en compañía de alguien (Mat_27:44; Mar_15:32; Jua_19:32); (b) metafóricamente, de la identificación espiritual con Cristo en su muerte (Rom_6:6, y Gál_2:20).¶
 
-4. prospegnumi (ðñïóðÞãíõìé, [[G4362]]), fijar o atar (pros, a; pegnumi, fijar). Se usa de la crucifixión de Cristo (Hch_2:23).¶
+4. prospegnumi (προσπήγνυμι, [[G4362]]), fijar o atar (pros, a; pegnumi, fijar). Se usa de la crucifixión de Cristo (Hch_2:23).¶
 
 B. Nombre
 
-stauros (óôáõñüò, [[G4716]]), denota, primariamente, un palo o estaca derecha. Se clavaba en ellas a los malhechores para ejecutarlos. Tanto el nombre como el verbo stauroo, fijar sobre un palo o estaca, debieran distinguirse originalmente de la forma eclesiástica de una cruz de dos brazos. La forma de esta última tuvo su origen en la antigua Caldea, y se utilizaba como símbolo del dios Tamuz (que tenía la forma de la mística Tau, la inicial de su nombre) en aquel país y en los países adyacentes, incluyendo Egipto. A mediados del siglo 3 d.C., las iglesias se habían apartado de ciertas doctrinas de la fe cristiana, o las habían pervertido. Con el fin de aumentar el prestigio del sistema eclesiástico apóstata, se recibió a los paganos en las iglesias aparte de la regeneración por la fe, y se les permitió mantener en gran parte sus signos y símbolos. De ahí que se adoptara la Tau o T, en su forma más frecuente, con la pieza transversal abajada, como representación de la cruz de Cristo.
+stauros (σταυρός, [[G4716]]), denota, primariamente, un palo o estaca derecha. Se clavaba en ellas a los malhechores para ejecutarlos. Tanto el nombre como el verbo stauroo, fijar sobre un palo o estaca, debieran distinguirse originalmente de la forma eclesiástica de una cruz de dos brazos. La forma de esta última tuvo su origen en la antigua Caldea, y se utilizaba como símbolo del dios Tamuz (que tenía la forma de la mística Tau, la inicial de su nombre) en aquel país y en los países adyacentes, incluyendo Egipto. A mediados del siglo 3 d.C., las iglesias se habían apartado de ciertas doctrinas de la fe cristiana, o las habían pervertido. Con el fin de aumentar el prestigio del sistema eclesiástico apóstata, se recibió a los paganos en las iglesias aparte de la regeneración por la fe, y se les permitió mantener en gran parte sus signos y símbolos. De ahí que se adoptara la Tau o T, en su forma más frecuente, con la pieza transversal abajada, como representación de la cruz de Cristo.
 
 En cuanto a la Qui, o X, que Constantino declaró haber visto en una visión que le condujo a ser el valedor de la fe cristiana, aquella letra era la inicial de la palabra «Cristo», y no tenía nada que ver con «la cruz» (para xulon, estaca, árbol, que se usaba para la stauros ; véase bajo, Nº 2).
 

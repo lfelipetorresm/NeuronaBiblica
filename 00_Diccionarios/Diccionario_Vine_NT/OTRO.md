@@ -17,7 +17,7 @@ No son intercambiables en 1Co_15:39-41; allí se utiliza jeteros para distinguir
 
 Nota: La distinción se mantiene en los compuestos de jeteros, como, p.ej., jeterogloáos : «otras lenguas» (1Co_14:21);¶ jeterodidaskaleo : «enseñar una doctrina diferente» (1Ti_1:3; 1Ti_6:3);¶ jeterozugo : «estar unidos en yugo desigual»; esto es, con aquellos de un carácter diferente (2Co_6:14).¶
 
-3. loipos (ëïéðüò, [[G3062]]), significa lo que queda, el resto. Se traduce «otro» u «otros» (p.ej., en Mat_25:11; Mar_4:19; Luc_18:9, Luc_18:11; Luc_24:9-10 : «los demás», lit., «el resto»). En muchos otros pasajes se traduce este término como «los/las demás» (p.ej., Hch_27:44; 1Co_11:34; Fil_4:3, etc.). Véanse RESTAR, RESTO.
+3. loipos (λοιπός, [[G3062]]), significa lo que queda, el resto. Se traduce «otro» u «otros» (p.ej., en Mat_25:11; Mar_4:19; Luc_18:9, Luc_18:11; Luc_24:9-10 : «los demás», lit., «el resto»). En muchos otros pasajes se traduce este término como «los/las demás» (p.ej., Hch_27:44; 1Co_11:34; Fil_4:3, etc.). Véanse RESTAR, RESTO.
 
 4. alelon (ἀëëÞëùí, [[G240]]), pronombre recíproco en genitivo plural, significa de, o desde, uno a otro (p.ej., Mat_25:32; Jua_13:22; Hch_15:39; Hch_19:38; 1Co_7:5; Gál_5:17); el acusativo alelous denota «el uno al otro» (p.ej., Hch_7:26; 2Ts_1:3; Efe_4:32; Col_3:13; 1Ts_5:15 : «unos a otros»); el dativo alelois denota «uno a otro» (p.ej., Luc_7:32). Véanse MUTUO, VOSOTROS, etc.
 

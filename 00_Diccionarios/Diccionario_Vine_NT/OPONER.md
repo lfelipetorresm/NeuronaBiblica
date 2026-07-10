@@ -15,7 +15,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#OPONER"]
 
 4. anthistemi (ἀíèßóôçìé, [[G436]]), poner en contra (anti, contra; jistemi, hacer estar en pie). Se traduce con el verbo oponer en 2Ti_4:15. Véase RESISTIR.
 
-5. diakoluo (äéáêùëýù, [[G1254]]), es una forma intensificada de koluo, impedir, prohibir, y significa estorbar en grado sumo. Se utiliza en Mat_3:14 del esfuerzo de Juan el Bautista para impedir que Cristo recibiera el bautismo: «se … oponía» (rv: «lo resistía mucho»).¶
+5. diakoluo (διακωλύω, [[G1254]]), es una forma intensificada de koluo, impedir, prohibir, y significa estorbar en grado sumo. Se utiliza en Mat_3:14 del esfuerzo de Juan el Bautista para impedir que Cristo recibiera el bautismo: «se … oponía» (rv: «lo resistía mucho»).¶
 
 6. antilego (ἀíôéëÝãù, [[G483]]), lit., «hablar en contra», se traduce «se opone» en Jua_19:12; Hch_28:19; véanse CONTRADECIR, A, Nº 3, HABLAR, A, Nº 7, REBATIR, RESPONDER.
 

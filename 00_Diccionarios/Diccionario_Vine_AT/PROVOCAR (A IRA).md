@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PROVOCAR(AIRA)"]
 
 # PROVOCAR (A IRA)
 
-ka'as (ëÌÈòÇñ, [[H3707]]), «provocar, molestar, enojar». Este término es de uso común a través de la historia de la lengua hebrea; en hebreo moderno significa «estar enojado, furioso». Se encuentra unas 55 veces en todo el Antiguo Testamento.
+ka'as (כָּעַס, [[H3707]]), «provocar, molestar, enojar». Este término es de uso común a través de la historia de la lengua hebrea; en hebreo moderno significa «estar enojado, furioso». Se encuentra unas 55 veces en todo el Antiguo Testamento.
 
 Parece acertado que ka'as, una palabra pecualiar del libro de Deuteronomio , aparezca por primera vez en el Antiguo Testamento en tal libro: «Para provocarle a ira» (Deu_4:25 lba). El término también pertenece a Jeremías y a Reyes. Un repaso de los usos del verbo muestra que 80% de ellos guardan relación con la ira de Yahveh que el pecado de Israel «provoca», sobre todo cuando adora a otros dioses. Un ejemplo de ello se encuentra en 2Re_23:19 (rva): «Todos los santuarios de los lugares altos que estaban en las ciudades de Samaria, que habían hecho los reyes de Israel, provocando a ira a Jehová». 
 

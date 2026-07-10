@@ -13,11 +13,11 @@ A. Verbos
 
 1. ado (ᾳäù, [[G103]]), se usa siempre de alabar a Dios: (a) intransitivamente (Efe_5:19; Col_3:16); (b) transitivamente (Apo_5:9; Apo_14:3; Apo_15:3).¶
 
-2. psalo (øÜëëù, [[G5567]]), véase ALABAR, Nº 8. Se traduce «cantar» en Stg_5:13 : «cante alabanzas».
+2. psalo (ψάλλω, [[G5567]]), véase ALABAR, Nº 8. Se traduce «cantar» en Stg_5:13 : «cante alabanzas».
 
 3. humneo (ὑìíÝù, [[G5214]]), relacionado con humnos (véase HIMNO). Se usa: (a) transitivamente (Mat_26:30; Mar_14:26), donde el himno era aquella parte del Hallel que estaba integrada por los Salmos 113-118; (b) intransitivamente, donde el verbo mismo se traduce cantar alabanzas o himnos (Hch_16:25; Heb_2:12). Los Salmos, por lo general, son llamados «himnos» por Filón; Josefo los denomina «cánticos e himnos».¶
 
-4. foneo (öïíÝù, [[G5455]]), sonar (castellano, fono). Se usa como «cantar» en el NT solo del cantar del gallo (Mat_26:34, Mat_26:74-75; Mar_14:30, Mar_14:68, Mar_14:72, dos veces; Luc_22:34, Luc_22:60-61; Jua_13:38; Jua_18:27). Véanse CLAMAR, DAR VOCES, DECIR, GRANDE, LLAMAR, VOZ.
+4. foneo (φονέω, [[G5455]]), sonar (castellano, fono). Se usa como «cantar» en el NT solo del cantar del gallo (Mat_26:34, Mat_26:74-75; Mar_14:30, Mar_14:68, Mar_14:72, dos veces; Luc_22:34, Luc_22:60-61; Jua_13:38; Jua_18:27). Véanse CLAMAR, DAR VOCES, DECIR, GRANDE, LLAMAR, VOZ.
 
 B. Nombre
 

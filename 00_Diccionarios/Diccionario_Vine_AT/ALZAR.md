@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ALZAR"]
 
 A. Verbo
 
-nasa' (ðÈùÒÈà, [[H5375]]), «alzar; partir; remover; llevarse». Este verbo se encuentra en todas las lenguas semíticas, incluyendo en arameo bíblico y hebreo en todos los períodos, unas 650 veces.
+nasa' (נָשָׂא, [[H5375]]), «alzar; partir; remover; llevarse». Este verbo se encuentra en todas las lenguas semíticas, incluyendo en arameo bíblico y hebreo en todos los períodos, unas 650 veces.
 
 La acepción «alzar» o «levantar» se puede ver, por ejemplo, en Gén_7:17 (primera mención del el término), donde se informa que las aguas «alzaron» («levantaron, elevaron») el arca. Un uso especial de este énfasis aparece en Job_6:2, donde Job ora que sus tribulaciones sean puestas («alzadas» rv) en la balanza porque considera que sus penas pesan más que su pecado. También encontramos la connotación de «cargar o soportar», como cuando un asno «carga» con su fardo (Gén_45:23). Nasa' puede usarse con el sentido de «remover» o «llevarse» algo. David y su gente «se llevaron» los ídolos abandonados de los filisteos, o sea, que los «alzaron, cargaron y removieron» (2Sa_5:21 rva). Este mismo matiz se encuentra en «tomar para sí mujer» (Rut_1:4) incluyendo robar o raptarla (Jue_21:23). La frase «alzar las cabezas» a veces significa «censar» («tomar el número» rvr): el Señor ordenó a Moisés que «alzara las cabezas» de los hijos de Israel (Éxo_30:12). Esta frase bien puede ser un caso de influencia directa de la lengua acádica.
 
@@ -25,7 +25,7 @@ La Biblia, en Éxo_28:38, Habla de cargar con el pecado y la iniquidad. Dice que
 
 Nombres
 
-nasî' (ðÈùÒÄéà, [[H5387]]), «líder elegido». Este nombre aparece 130 veces con relación a una persona que públicamente la han «alzado» u «honrado»: «Doce príncipes engendrará, y haré de él una gran nación» (Gén_17:20; cf. Núm_1:44).
+nasî' (נָשִׂיא, [[H5387]]), «líder elegido». Este nombre aparece 130 veces con relación a una persona que públicamente la han «alzado» u «honrado»: «Doce príncipes engendrará, y haré de él una gran nación» (Gén_17:20; cf. Núm_1:44).
 
 Hay otros nombres, menos frecuentes, que se relacionan con el mismo verbo. Maáase encuentra 45 veces con el significado de «carga» (Núm_11:11) y 21 veces como «pronunciamiento» (2Re_9:25; «sentencia»). Maset, que aparece 16 veces, se refiere a la acción de «alzar» (cf. Sal_141:2), así como a alguna cosa que se ha «alzado» (Gén_43:34). Seet aparece 14 veces con dos significados: (1) «levantamiento» (Job_41:25) y «dignidad» (Gén_49:3), y (2) «hinchazón o mancha [levantamiento] en la piel» (Lev_13:2). Nesîîm se halla 4 veces y tiene el significado de «humedad, neblina, nubarrones» (Jer_10:13). Tanto maáaah, «carga» (Isa_30:27), como sî, «altivez» (Job_20:6) aparecen una sola vez. 
 

@@ -13,7 +13,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RESUCITAR"]
 
 Nota: Para el contraste entre Nº 1 y Nº 2, véase LEVANTAR, Nº 4 (2opárrafo).
 
-3. sunegeiro (óõíåãåßñù, [[G4891]]), levantar juntamente con (sun, con, y Nº 1). Se utiliza de la resurrección espiritual del creyente con Cristo (Efe_2:6 : «juntamente con él nos resucitó»); voz pasiva en Col_2:12 : «fuisteis … resucitados con él»; Col_3:1 : «Si … habéis resucitado con».¶
+3. sunegeiro (συνεγείρω, [[G4891]]), levantar juntamente con (sun, con, y Nº 1). Se utiliza de la resurrección espiritual del creyente con Cristo (Efe_2:6 : «juntamente con él nos resucitó»); voz pasiva en Col_2:12 : «fuisteis … resucitados con él»; Col_3:1 : «Si … habéis resucitado con».¶
 
 4. anago (ἀíÜãù, [[G321]]), conducir o traer arriba, o traer de nuevo (ana). Se traduce en este último sentido de la resurrección del Señor (Heb_13:20). lit. «Y el Dios de la paz, que trajo de nuevo de entre los muertos al pastor de las ovejas», traducido «que resucitó» (rvr). Véanse EMBARCAR, HACER(SE) A LA VELA, LLEVAR, NAVEGAR, OFRECER, PARTIR, SACAR, TRAER, ZARPAR.
 

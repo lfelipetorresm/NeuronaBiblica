@@ -45,7 +45,7 @@ Bezec. Bezec se ha localizado en Khirbit Ibzik, un emplazamiento al oeste del r
 El tamaño del ejército. El número de soldados mencionado aquí varía grandemente en las primeras versiones del AT. Algunos textos posteriores, sin embargo, hablan de un número más grande de soldados de Israel y Judá. Muchos arqueólogos estiman que la población entera de Canaán en este momento apenas llegaría a esa cantidad. El término hebreo para 1.000 se ha visto a menudo como un término que denota una unidad de soldados y no debe tomarse como un número real (ver los comentarios sobre Jos 8:3; Jue 20:2).
 
 ### 1 Samuel 11:9
-La distancia de Bezec a Jabes de Galaad. Si los arqueólogos modernos han identificado correctamente a Bezec y a Jabes de Galaad, entonces las dos ciudades estaban a unos 20 ó 22 km una de la otra. Esta distancia podía cubrirse fácilmente en una marcha que empezara por la tarde y concluyera en el campamento amonita en las primeras horas de la mañana.
+La distancia de Bezec a Jabes de Galaad. Si los arqueólogos modernos han identificado correctamente a Bezec y a Jabes de Galaad, entonces las dos ciudades estaban a unos 20 σ 22 km una de la otra. Esta distancia podía cubrirse fácilmente en una marcha que empezara por la tarde y concluyera en el campamento amonita en las primeras horas de la mañana.
 
 ### 1 Samuel 11:12-15
 Saúl es declarado rey

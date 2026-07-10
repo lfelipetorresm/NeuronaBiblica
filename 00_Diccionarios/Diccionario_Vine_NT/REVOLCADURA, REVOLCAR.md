@@ -9,10 +9,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#REVOLCADURA,REVOLCAR"]
 
 A. Nombre
 
-kulismos (êõëéóìüò, [[G2946]]), volteamiento, revolcamiento, revolcadura, relacionado con B (en algunos textos aparece kulisma). Se utiliza en 2Pe_2:22, de la proverbial puerca lavada, traducido «revolcarse» (lit. «la revolcadura»).¶
+kulismos (κυλισμός, [[G2946]]), volteamiento, revolcamiento, revolcadura, relacionado con B (en algunos textos aparece kulisma). Se utiliza en 2Pe_2:22, de la proverbial puerca lavada, traducido «revolcarse» (lit. «la revolcadura»).¶
 
 B. Verbo
 
-kulio (êõëßù, [[G2947]]), denota, en la voz activa, voltear, hacer rodar; en la voz media en Mar_9:20, traducido «se revolcaba».¶ 
+kulio (κυλίω, [[G2947]]), denota, en la voz activa, voltear, hacer rodar; en la voz media en Mar_9:20, traducido «se revolcaba».¶ 
 
 

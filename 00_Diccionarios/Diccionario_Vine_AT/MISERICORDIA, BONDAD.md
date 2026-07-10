@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MISERICORDIA,BONDAD"]
 
 A. Nombre
 
-jesed (çÆñÆã, [[H2617]]), «bondad; amor constante; gracia; misericordia; fidelidad; devoción». Este vocablo se usa 240 veces en el Antiguo Testamento, con particular frecuencia en los salmos. El término es uno de los más importantes en el vocabulario teológico y ético del Antiguo Testamento.
+jesed (חֶסֶד, [[H2617]]), «bondad; amor constante; gracia; misericordia; fidelidad; devoción». Este vocablo se usa 240 veces en el Antiguo Testamento, con particular frecuencia en los salmos. El término es uno de los más importantes en el vocabulario teológico y ético del Antiguo Testamento.
 
 La Septuaginta casi siempre traduce jesed con eleos («misericordia»), uso que se refleja en el Nuevo Testamento y en la rv (y sus recientes revisiones). Las traducciones modernas, por otro lado, generalmente prefieren acepciones más próximas a «gracia». Las versiones católicas más recientes usan «amor» o «clemencia».
 
@@ -35,7 +35,7 @@ El nombre propio Jasadías (1Cr_3:20 bj) está relacionado con jesed. El nombre 
 
 B. Adjetivo
 
-jasîd (çÈñÄéã, [[H2623]]), «piadoso; devoto; fiel; santo». El adjetivo jasid, derivado de jesed, se usa a menudo para describir a un israelita fiel. El jesed divino ofrece el patrón, modelo y fuerza que debe orientar la vida del jasid. Encontramos una mención del hombre «santo» en Sal_12:1 (rva): «Salva, oh Jehová, porque se han acabado los piadosos. Han desaparecido los fieles de entre los hijos del hombre». Por lo general un pronombre posesivo se prefija al vocablo para señalar la relación especial que él guarda con los que le tienen como patrón de sus vidas: «Amad a Jehová, todos vosotros sus santos. A los fieles guarda Jehová, pero retribuye en abundancia al que actúa con soberbia» (Sal_31:23 rva).
+jasîd (חָסִיד, [[H2623]]), «piadoso; devoto; fiel; santo». El adjetivo jasid, derivado de jesed, se usa a menudo para describir a un israelita fiel. El jesed divino ofrece el patrón, modelo y fuerza que debe orientar la vida del jasid. Encontramos una mención del hombre «santo» en Sal_12:1 (rva): «Salva, oh Jehová, porque se han acabado los piadosos. Han desaparecido los fieles de entre los hijos del hombre». Por lo general un pronombre posesivo se prefija al vocablo para señalar la relación especial que él guarda con los que le tienen como patrón de sus vidas: «Amad a Jehová, todos vosotros sus santos. A los fieles guarda Jehová, pero retribuye en abundancia al que actúa con soberbia» (Sal_31:23 rva).
 
 Siguiendo la terminología griega (hosios) y latina (sanctus), la rv a menudo traduce el término como «santos». Esto se debe entender en el contexto de la santificación que es de gracia y no una cualidad innata ni una conducta moralista. 
 

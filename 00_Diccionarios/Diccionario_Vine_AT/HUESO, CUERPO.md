@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HUESO,CUERPO"]
 
 # HUESO, CUERPO
 
-'etsem (òÆöÆí, [[H6106]]), «hueso; cuerpo, esencia; lleno; mismísimo». Hay cognados de esta palabra en acádico, púnico, arábigo y etiópico. El término aparece unas 125 veces en todos los períodos del hebreo veterotestamentario.
+'etsem (עֶצֶם, [[H6106]]), «hueso; cuerpo, esencia; lleno; mismísimo». Hay cognados de esta palabra en acádico, púnico, arábigo y etiópico. El término aparece unas 125 veces en todos los períodos del hebreo veterotestamentario.
 
 El significado corriente del término es un «hueso» humano. En Job_10:11, 'etsem denota el hueso como una de las partes constitutivas del cuerpo humano: «Me vestiste de piel y carne, y me tejiste con huesos y nervios». Cuando Adán describe a Eva como «hueso de mi hueso» y carne de su carne, se refiere a que ella fue creada de una de sus costillas (Gén_2:23 : primer caso del término). 'Etsem en conjunción con «carne» puede indicar una relación consanguínea: «Labán le dijo [a Jacob]: Ciertamente hueso mío y carne mía eres» (Gén_29:14).
 

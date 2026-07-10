@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PARTIDOR"]
 
 # PARTIDOR
 
-meristes (ìåñéóôÞò, [[G3312]]), partidor. Se encuentra en Luc_12:14; cf. merismos, véase PARTIR, Notas, 2; meros, véase PARTE, Nº 1.¶ 
+meristes (μεριστής, [[G3312]]), partidor. Se encuentra en Luc_12:14; cf. merismos, véase PARTIR, Notas, 2; meros, véase PARTE, Nº 1.¶ 
 
 

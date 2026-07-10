@@ -11,7 +11,7 @@ A. Verbos
 
 1. agnoeo (ἀãíïÝù, [[G50]]), significa: (a) ser ignorante, no conocer, ignorar, ya intransitivamente (1Co_14:38; en su segundo uso en este versículo, la vha traduce la variante en los mss. más comúnmente aceptados, en la voz pasiva en lugar de la activa que aparece en el tr , como «será desconocido»; 1Ti_1:13, lit: «lo hice siendo ignorante»; Heb_5:2 : «ignorantes»), ya transitivamente (2Pe_2:12 : «que no entienden»; Hch_13:27 : «no conociendo»; Hch_17:23 : «sin conocerle», lit: «que no conociendo adoráis»); también se usa en Mar_9:32 y Luc_9:45 : «no entendían»; Rom_1:13 : «ignoréis»; Rom_2:4 : «ignorando»; Rom_6:3 : «no sabéis»; Rom_7:1 : «ignoráis»; Rom_10:3 : «ignorando»; Rom_11:25 : «ignoréis»; 1Co_10:1,1Co_12:1; 2Co_1:8 : «no ignoramos»; 2Co_2:11 : «desconocidos»; 2Co_6:9 : «no … conocido»; Gál_1:22; 1Ts_4:13 : «que ignoréis».¶
 
-2. lanthano (ëáíèÜíù, [[G2990]]), escapar a la detección. Se traduce «ignoran voluntariamente» en 2Pe_3:5, lit: «esto escapa a ellos; esto es, a su atención, voluntariosamente por su parte. En el v. 8: «no ignoréis esto», lit: «que esto no se os escape» a vuestra atención. Véanse, OCULTAR, SABER ESCONDER ( SIN ).
+2. lanthano (λανθάνω, [[G2990]]), escapar a la detección. Se traduce «ignoran voluntariamente» en 2Pe_3:5, lit: «esto escapa a ellos; esto es, a su atención, voluntariosamente por su parte. En el v. 8: «no ignoréis esto», lit: «que esto no se os escape» a vuestra atención. Véanse, OCULTAR, SABER ESCONDER ( SIN ).
 
 B. Nombres
 
@@ -23,6 +23,6 @@ B. Nombres
 
 C. Adjetivo
 
-moros (ìùñüò, [[G3474]]), insensato. Se traduce «ignorante» en 1Co_3:18. Véase INSENSATO; véase también INDOCTO. 
+moros (μωρός, [[G3474]]), insensato. Se traduce «ignorante» en 1Co_3:18. Véase INSENSATO; véase también INDOCTO. 
 
 

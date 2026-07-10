@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#INFATUADO"]
 
 # INFATUADO
 
-tufoo (ôõöüù, [[G5187]]), se traduce «infatuados» en 2Ti_3:4; véase ENVANECER, Nº 3. 
+tufoo (τυφόω, [[G5187]]), se traduce «infatuados» en 2Ti_3:4; véase ENVANECER, Nº 3. 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#TEMER"]
 
 A. Verbo
 
-yare' (éÈøÅÄà, [[H3372]]), «temer, temor reverente, temor». Este verbo se encuentra en ugarítico y hebreo (bíblico y posbíblico). Hay alrededor de 330 casos durante todos los períodos del Antiguo Testamento.
+yare' (יָרִֵא, [[H3372]]), «temer, temor reverente, temor». Este verbo se encuentra en ugarítico y hebreo (bíblico y posbíblico). Hay alrededor de 330 casos durante todos los períodos del Antiguo Testamento.
 
 Básicamente, el verbo connota la reacción sicológica que llamamos «temor». Yare' puede indicar temor de algo o de alguien. Jacob oró: «Líbrame ahora de la mano de mi hermano, de la mano de Esaú, porque le temo; no venga acaso, y me hiera la madre con los hijos» (Gén_32:11).
 
@@ -19,7 +19,7 @@ Yare' puede usarse absolutamente (sin complemento directo), con el significado d
 
 B. Nombre
 
-môra' (îåéøÈà, [[H4172]]), «temor». El nombre môra', que se encuentra 12 veces, se usa exclusivamente para denotar el «temor» a un ser supremo. Por lo general, se emplea para describir la reacción que las grandes obras y actos de destrucción de Dios causan en los seres humanos (Deu_4:24). Por tanto, el término indica un «temor» muy marcado o «terror». Cuando se encuentra en singular, el vocablo enfatiza sobre todo las acciones de Dios. También môra' puede sugerir una reacción de animales frente a hombres (Gén_9:2) y de las naciones ante las conquistas de Israel (Deu_11:25).
+môra' (מוירָא, [[H4172]]), «temor». El nombre môra', que se encuentra 12 veces, se usa exclusivamente para denotar el «temor» a un ser supremo. Por lo general, se emplea para describir la reacción que las grandes obras y actos de destrucción de Dios causan en los seres humanos (Deu_4:24). Por tanto, el término indica un «temor» muy marcado o «terror». Cuando se encuentra en singular, el vocablo enfatiza sobre todo las acciones de Dios. También môra' puede sugerir una reacción de animales frente a hombres (Gén_9:2) y de las naciones ante las conquistas de Israel (Deu_11:25).
 
-yir'ah (éÄøÀÀàÈä, [[H3374]]), «temor; reverencia». El nombre yir'ah se encuentra 45 veces en el Antiguo Testamento. Puede significar «temor» a los hombres (Deu_2:25), alguna cosa (Isa_7:25), situaciones (Jon_1:10) y Dios (Jon_1:12); también puede significar «reverencia» hacia Dios (Gén_20:11). 
+yir'ah (יִרְְאָה, [[H3374]]), «temor; reverencia». El nombre yir'ah se encuentra 45 veces en el Antiguo Testamento. Puede significar «temor» a los hombres (Deu_2:25), alguna cosa (Isa_7:25), situaciones (Jon_1:10) y Dios (Jon_1:12); también puede significar «reverencia» hacia Dios (Gén_20:11). 
 

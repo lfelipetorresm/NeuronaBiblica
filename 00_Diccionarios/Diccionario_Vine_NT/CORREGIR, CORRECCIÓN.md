@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#CORREGIR,CORRECCIÓN"]
 
 A. Verbos
 
-1. paideuo (ðáéäåýù, [[G381]]), instruir a un niño (pais). Se traduce «corrija» en 2Ti_2:25 (rv, rvr). Véanse APRENDER, CASTIGAR, DISCIPLINAR, ENSEÑAR, INSTRUIR.
+1. paideuo (παιδεύω, [[G381]]), instruir a un niño (pais). Se traduce «corrija» en 2Ti_2:25 (rv, rvr). Véanse APRENDER, CASTIGAR, DISCIPLINAR, ENSEÑAR, INSTRUIR.
 
 2. epidiorthoo (ἐðéäéïñèüù, [[G1930]]), poner en orden (epi, sobre; dia, a través, intensivo, y orthos, recto). Se usa en Tit_1:5, en el sentido de rectificar algo que era defectuoso, una comisión a Tito, no a añadir a lo que el mismo apóstol había hecho, sino a restaurar lo que había caído en desorden desde que el apóstol había trabajado en Creta; esto queda sugerido por el epi .¶
 

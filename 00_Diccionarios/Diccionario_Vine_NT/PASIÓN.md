@@ -9,9 +9,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#PASIÓN"]
 
 A. Nombres
 
-1. pathema (ðÜèçìá, [[G3804]]), sufrimiento o emoción pasiva. Se traduce «pasiones» en Rom_7:5 : «pasiones pecaminosas» (rv: «afectos de los pecados»); Gál_5:24 : «pasiones» (rv: «afectos»). Véanse AFLICCIÓN, B, Nº 4, PADECIMIENTO, bajo PADECER, C.
+1. pathema (πάθημα, [[G3804]]), sufrimiento o emoción pasiva. Se traduce «pasiones» en Rom_7:5 : «pasiones pecaminosas» (rv: «afectos de los pecados»); Gál_5:24 : «pasiones» (rv: «afectos»). Véanse AFLICCIÓN, B, Nº 4, PADECIMIENTO, bajo PADECER, C.
 
-2. pathos (ðÜèïò, [[G3806]]), de pasco, sufrir, denota primariamente lo que uno sufre o experimenta de cualquier manera; de ahí, un afecto de la mente, un deseo lleno de pasión. Utilizado por los griegos tanto de deseos buenos como malos, siempre se utiliza en el NT de estos últimos (Rom_1:26 : «pasiones vergonzosas»; rv: «afectos»; Col_3:5 : «pasiones desordenadas»; rv: «molicie»; 1Ts_4:5 : «pasión»; rv: «afecto»).¶
+2. pathos (πάθος, [[G3806]]), de pasco, sufrir, denota primariamente lo que uno sufre o experimenta de cualquier manera; de ahí, un afecto de la mente, un deseo lleno de pasión. Utilizado por los griegos tanto de deseos buenos como malos, siempre se utiliza en el NT de estos últimos (Rom_1:26 : «pasiones vergonzosas»; rv: «afectos»; Col_3:5 : «pasiones desordenadas»; rv: «molicie»; 1Ts_4:5 : «pasión»; rv: «afecto»).¶
 
 3. jedone (ἡäïíÞ, [[G2237]]), véase DELEITE bajo DELEITAR, B, Nº 2. Se traduce «pasiones» en Stg_4:1 (rv: «concupiscencias»).
 

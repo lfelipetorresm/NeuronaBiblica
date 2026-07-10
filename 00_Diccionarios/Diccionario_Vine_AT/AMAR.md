@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#AMAR"]
 
 A. Verbo
 
-'ahab (àÈäÇá, [[H157]]) o 'aheb (àÈäÅá, [[H157]]), «amar; querer». Este verbo se ha encontrado en textos moabitas y en ugarítico durante todos los períodos de la lengua hebrea y unas 250 veces en la Biblia.
+'ahab (אָהַב, [[H157]]) o 'aheb (אָהֵב, [[H157]]), «amar; querer». Este verbo se ha encontrado en textos moabitas y en ugarítico durante todos los períodos de la lengua hebrea y unas 250 veces en la Biblia.
 
 En términos generales, este verbo equivale al vocablo «amar» en castellano, o sea, un marcado sentimiento de atracción y deseo hacia algo o alguien que se quiere poseer o estar con él. Primero, el vocablo se refiere al amor que un hombre siente por una mujer y una mujer por un hombre. Dicho «amor» se basa en el deseo sexual, que en general se mantiene dentro de los límites de relaciones lícitas: «Y la trajo Isaac a la tienda de su madre Sara, y tomó a Rebeca por mujer y la amó» (Gén_24:67). El término puede referirse a un amor erótico aunque legal fuera del matrimonio. Tal emoción implica el deseo de casarse y de cuidar del objeto de ese amor, como en el caso del «amor» de Siquem por Dina (Gén_34:3). En contados ejemplos 'ahab (o 'aheb) no pasa de pura lascivia: un deseo desmesurado de tener relaciones sexuales con el objeto (cf. 2Sa_13:1). Por otro lado, puede consumarse el matrimonio sin que exista amor por una de las partes (Gén_29:30).
 
@@ -27,7 +27,7 @@ El fuerte deseo y atracción emocional que sugiere 'ahab (o 'aheb) puede concret
 
 B. Nombre
 
-ahabah (àÇäÂáÈä, [[H160]]), «amor». Este nombre aparece unas 55 veces con referencia a diferentes tipos de «amor». La primera vez que se usa en la Biblia es en Gén_29:20; aquí el vocablo trata del concepto general del «amor» entre marido y mujer. En Ose_3:1 el término se refiere al «amor» como actividad sexual. En 1Sa_18:3, significa «amor» entre amigos: «E hicieron pacto Jonatán y David, porque él le amaba como a sí mismo». En 1Re_11:2 el término se refiere al «amor» de Salomón y en Deu_7:8 al «amor» de Dios.
+ahabah (אַהֲבָה, [[H160]]), «amor». Este nombre aparece unas 55 veces con referencia a diferentes tipos de «amor». La primera vez que se usa en la Biblia es en Gén_29:20; aquí el vocablo trata del concepto general del «amor» entre marido y mujer. En Ose_3:1 el término se refiere al «amor» como actividad sexual. En 1Sa_18:3, significa «amor» entre amigos: «E hicieron pacto Jonatán y David, porque él le amaba como a sí mismo». En 1Re_11:2 el término se refiere al «amor» de Salomón y en Deu_7:8 al «amor» de Dios.
 
 C. Participio
 

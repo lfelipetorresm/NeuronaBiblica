@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SANTO"]
 
 C. Adjetivo
 
-qadôsh (÷ÈãåéùÑ, [[H6918]]), «santo». Las lenguas semíticas tienen dos formas originales de la raíz que son distintas. Una significa «puro» y «consagrado» como en el acádico qadistu y el hebreo qadesh («santo»). La palabra describe algo o alguien. La otra quiere decir «santidad» como una circunstancia o como un abstracto, de la misma manera que en arábigo al-qaddus («lo más santo o puro»). En hebreo el verbo qadash y la palabra qadesh combinan ambos elementos: descriptivo y estático. La comprensión tradicional de «separado» es solo un significado derivado y no el principal.
+qadôsh (קָדוישׁ, [[H6918]]), «santo». Las lenguas semíticas tienen dos formas originales de la raíz que son distintas. Una significa «puro» y «consagrado» como en el acádico qadistu y el hebreo qadesh («santo»). La palabra describe algo o alguien. La otra quiere decir «santidad» como una circunstancia o como un abstracto, de la misma manera que en arábigo al-qaddus («lo más santo o puro»). En hebreo el verbo qadash y la palabra qadesh combinan ambos elementos: descriptivo y estático. La comprensión tradicional de «separado» es solo un significado derivado y no el principal.
 
 Qadôsh es importante en el Pentateuco, en los escritos poéticos y proféticos, y se encuentra poco en la literatura histórica. El primero de 116 casos se encuentra en Éxo_19:6 (rva): «Y vosotros me seréis un reino de sacerdotes y una nación santa».
 

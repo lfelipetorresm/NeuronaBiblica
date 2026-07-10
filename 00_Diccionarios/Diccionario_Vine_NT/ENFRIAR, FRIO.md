@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ENFRIAR,FRIO"]
 
 A. Verbo
 
-psuco (øý÷ù, [[G5594]]), respirar, soplar, enfriar soplando; voz pasiva, enfriarse. Se usa metafóricamente en Mat_24:12, en el sentido de un celo o amor desvaneciente.¶
+psuco (ψύχω, [[G5594]]), respirar, soplar, enfriar soplando; voz pasiva, enfriarse. Se usa metafóricamente en Mat_24:12, en el sentido de un celo o amor desvaneciente.¶
 
 B. Nombre
 
@@ -17,6 +17,6 @@ psucos (øõ̂÷ïò, [[G5592]]), frialdad, frío. Aparece en Jua_18:18 : «frí
 
 C. Adjetivo
 
-psucros (øõ÷ñüò, [[G5593]]), fresco, frío; más pleno en expresión que psucos . Se usa en sentido natural en Mat_10:42 : «agua fría»; metafóricamente en Apo_3:15-16.¶ 
+psucros (ψυχρός, [[G5593]]), fresco, frío; más pleno en expresión que psucos . Se usa en sentido natural en Mat_10:42 : «agua fría»; metafóricamente en Apo_3:15-16.¶ 
 
 

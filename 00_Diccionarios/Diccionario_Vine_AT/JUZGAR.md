@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#JUZGAR"]
 
 A. Verbo
 
-shapat (ùÑÈôÇè, [[H8199]]), «juzgar, liberar, gobernar». Este verbo también aparece en ugarítico, fenicio, arábigo, acádico y en hebreo posbíblico. Están constatados alrededor de 125 casos del verbo durante todos los períodos del hebreo bíblico.
+shapat (שָׁפַט, [[H8199]]), «juzgar, liberar, gobernar». Este verbo también aparece en ugarítico, fenicio, arábigo, acádico y en hebreo posbíblico. Están constatados alrededor de 125 casos del verbo durante todos los períodos del hebreo bíblico.
 
 En muchos contextos esta raíz tiene un sentido jurídico. Shapat se refiere a la actividad de una persona que actúa como intermediaria entre dos partes que están en conflicto. El mediador (actuando simultáneamente como juez y jurado) escucha los argumentos de los litigantes para llegar a un veredicto justo y determinar las acciones que deben tomarse. Así Sarai le dijo a Abram: «Mi agravio recaiga sobre ti. Yo puse a mi sierva en tu seno; y ella, viéndose encinta, me mira con desprecio. Jehová juzgue entre tú y yo» (Gén_16:5 : primer caso del vocablo). Sarai había entregado Agar a Abram en lugar suyo. Este acto estaba de acuerdo con la antigua ley de Nuzi, que al parecerAbram conocía y practicaba. Según esta ley, el derecho sobre el niño le correspondía a Sarai, lo cual significaba que Agar «hizo todo el trabajo»sin recibir privilegio alguno. Como resultado de tal situación, Agar atormentaba a Sarai. Por ser cabeza de la familia tribal le correspondía a Abram mantener el orden, pero no lo hizo. Esto explica por qué Sarai dice que es inocente de cualquier maldad; no había hecho nada para merecer el hostigamiento de Agar; Abram tiene la culpa por no mantener el orden en la familia extendida. Su apelación se formula en los siguientes términos: puesto que Abram (quien normalmente hubiera sido el juez sobre los asuntos de la tribu) no ha cumplido con su deber, «Jehová juzgue» [jurídicamente] quién tiene la razón entre nosotros. Abram reconoció la legitimidad de la causa y le entregó a Agar para que la pusiera en orden (Gén_16:6).
 
@@ -23,7 +23,7 @@ El libertador militar encabezaba un ejército de voluntarios (una milicia) que s
 
 B. Nombres
 
-mishpat (îÄùÑÀôÌÈè, [[H4941]]), «juicio; derechos». Este vocablo, que se encuentra unas 420 veces, también aparece en ugarítico.
+mishpat (מִשְׁפָּט, [[H4941]]), «juicio; derechos». Este vocablo, que se encuentra unas 420 veces, también aparece en ugarítico.
 
 El término tiene dos acepciones principales; la primera se relaciona con las funciones de un juez: escuchar una causa y emitir un veredicto justo. Uno de varios ejemplos de este uso está en Ecl_12:14 : «Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala».
 

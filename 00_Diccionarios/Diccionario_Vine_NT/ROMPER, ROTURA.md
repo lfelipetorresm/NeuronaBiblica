@@ -15,10 +15,10 @@ A. Verbos
 
 3. perirregnumi (ðåñéῤῥÞãíõìé, [[G4048]]), desgarrar del todo alrededor (peri, alrededor). Se traduce «rompiéndoles» las ropas (Hch_16:22, rv; rvr: «rasgando»; vm: «desgarrando». Véase RASGAR, Nº 2.¶
 
-4. squizo (ó÷ßæù, [[G4977]]), partir, abrir rompiendo. Se dice del velo del templo (Mat_27:51 : «se rasgó en dos»; rv: «se rompió», como también en Mar_15:38; Luc_23:45); de la rotura de rocas (Mat_27:51 : «se partieron» (rv: «se hendieron»); de la rotura de los cielos (Mar_1:10 : «vio abrirse»); una vestidura (Luc_5:36 : «corta»; Jua_19:24 : «no la partamos»); una red (Jua_21:11 : «no se rompió»); en la voz pasiva, metafóricamente, de dividirse en facciones (Hch_14:4 : «estaba dividida»; Hch_23:7 : «se dividió», rv: «fue dividida»). Véanse ABRIR, DIVIDIR, PARTIR, RASGAR.¶
+4. squizo (σχίζω, [[G4977]]), partir, abrir rompiendo. Se dice del velo del templo (Mat_27:51 : «se rasgó en dos»; rv: «se rompió», como también en Mar_15:38; Luc_23:45); de la rotura de rocas (Mat_27:51 : «se partieron» (rv: «se hendieron»); de la rotura de los cielos (Mar_1:10 : «vio abrirse»); una vestidura (Luc_5:36 : «corta»; Jua_19:24 : «no la partamos»); una red (Jua_21:11 : «no se rompió»); en la voz pasiva, metafóricamente, de dividirse en facciones (Hch_14:4 : «estaba dividida»; Hch_23:7 : «se dividió», rv: «fue dividida»). Véanse ABRIR, DIVIDIR, PARTIR, RASGAR.¶
 
 B. Nombre
 
-squisma (ó÷ßóìá, [[G4978]]), rotura, división (relacionado con A, Nº 3). Significa una rotura en odres de vino (Mat_9:16; Mar_2:21). Véanse DESAVENIENCIA, DISENSIÓN, DIVISIÓN. 
+squisma (σχίσμα, [[G4978]]), rotura, división (relacionado con A, Nº 3). Significa una rotura en odres de vino (Mat_9:16; Mar_2:21). Véanse DESAVENIENCIA, DISENSIÓN, DIVISIÓN. 
 
 

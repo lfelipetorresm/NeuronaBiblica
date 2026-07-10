@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESIGNIO"]
 
 # DESIGNIO
 
-boule (âïõëÞ, [[G1012]]), véase ACUERDO, B, Nº 1. 
+boule (βουλή, [[G1012]]), véase ACUERDO, B, Nº 1. 
 
 

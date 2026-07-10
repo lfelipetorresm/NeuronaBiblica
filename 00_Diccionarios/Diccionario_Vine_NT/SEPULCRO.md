@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#SEPULCRO"]
 
 2. mnema (ìíç̂ìá, [[G3418]]), relacionado con Nº 1, y a semejanza de él significando memorial o recuerdo de una persona muerta, y luego monumento funerario, y de ahí sepulcro. Se traduce «sepulcro» en Mar_5:3, Mar_5:5; Mar_15:46; Mar_16:2; Luc_8:27; Luc_23:53; Luc_24:1; Hch_2:29; Hch_7:16; en Apo_11:9, la rvr traduce «sean sepultados», rv: «sean puestos en sepulcros».¶
 
-3. tafos (ôÜöïò, [[G5028]]), relacionado con thapto, sepultar; originalmente entierro, luego, lugar para entierro, tumba o sepulcro. Aparece en Mat_23:27, Mat_23:29; Mat_27:51, Mat_27:64, Mat_27:66; Mat_28:1; metafóricamente, en Rom_3:13.¶
+3. tafos (τάφος, [[G5028]]), relacionado con thapto, sepultar; originalmente entierro, luego, lugar para entierro, tumba o sepulcro. Aparece en Mat_23:27, Mat_23:29; Mat_27:51, Mat_27:64, Mat_27:66; Mat_28:1; metafóricamente, en Rom_3:13.¶
 
 Nota: En 1Co_15:55, donde en tr aparece «Hades», en los textos más comúnmente aceptados aparece thanatos, muerte. De acuerdo a la primera variante, la traducción literal sería: «¿Dónde de ti, muerte, la victoria? ¿Dónde de ti, Hades, el aguijón?»; de acuerdo a la segunda variante, «¿Dónde de ti, muerte, el aguijón?» La traducción «sepulcro», no es justificada (véase rv, rvr, rvr77, vm, lba). Besson, que sigue la variante Hades, traduce «¿Dónde está, mansión de los muertos, tu aguijón?» nvi, que sigue la variante thanatos, traduce «¿Dónde está, oh muerte, tu aguijón?» 
 

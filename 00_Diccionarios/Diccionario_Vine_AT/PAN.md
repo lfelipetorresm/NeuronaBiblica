@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PAN"]
 
 # PAN
 
-lejem (ìÆçÆí, [[H3899]]), «pan; torta; harina; alimento; fruta». Esta palabra tiene cognados en ugarítico, siríaco, arameo, fenicio y arábigo. Lejem aparece unas 297 veces durante todos las épocas del hebreo bíblico.
+lejem (לֶחֶם, [[H3899]]), «pan; torta; harina; alimento; fruta». Esta palabra tiene cognados en ugarítico, siríaco, arameo, fenicio y arábigo. Lejem aparece unas 297 veces durante todos las épocas del hebreo bíblico.
 
 El nombre se refiere a «pan» a diferencia de carne. La dieta común de los primeros hebreos consistía de pan, carne y líquidos: «Y te afligió, y te hizo tener hambre, y te sustentó con maná, comida que no conocías tú, ni tus padres la habían conocido; para hacerte saber que no solo de pan vivirá el hombre, mas de todo lo que sale de la boca de Jehová vivirá el hombre» (Deu_8:3). Los «panes» que los hebreos de antaño horneaban solían ser tortas grandes: «Y acontecerá que todo aquel que haya quedado de tu casa vendrá y se postrará ante él por una moneda de plata o una torta de pan» (1Sa_2:36 lba ; cf. bj ; aunque en otras versiones dice «trozo» lvp, bla ; «bocado» rvr ; «hogaza» nbe). También se cocinaban «panecillos» o «tortas» (2Sa_6:19). Tratándose de más de una torta de «pan», lejem se refiere al «pan» entero (en estos casos, siempre se indica la cantidad exacta): «Después que te hayan saludado, te darán dos panes» (1Sa_10:4 rva ; «tortas de pan» lba).
 
@@ -21,7 +21,7 @@ Hay varios usos metafóricos de lejem. El «pan» de maldad tiene que ver con «
 
 En sentido figurado, los hombres son el «alimento» o la presa de sus enemigos: «Solo que no os rebeléis contra Jehová, ni temáis al pueblo de esa tierra, porque serán para nosotros pan comido» (Núm_14:9 rva ; «nosotros los comeremos como pan» rvr ; «serán presa nuestra» lba). En su angustia dice el salmista que sus lágrimas son su «alimento» (Sal_42:3). Las malas acciones se equiparan con alimento; la «comida [del malvado] se mudará en sus entrañas; hiel de áspides será dentro de él» (Job_20:14). En Jer_11:19, lejem se refiere al «fruto de un árbol» y es figura del ser humano y sus descendientes: «No sabía que tramaban intrigas contra mí, diciendo: Destruyamos el árbol con su fruto, y cortémoslo de la tierra de los vivientes, para que no se recuerde más su nombre» (lba).
 
-matstsah (îÇöÌÈä, [[H4682]]), «pan sin levadura, pan ázimo». Este nombre aparece 54 veces; todos los casos menos 14 se encuentran en el Pentateuco. El resto aparece en narraciones en prosa o en la discusión de Ezequiel sobre el nuevo templo (Eze_45:21).
+matstsah (מַצָּה, [[H4682]]), «pan sin levadura, pan ázimo». Este nombre aparece 54 veces; todos los casos menos 14 se encuentran en el Pentateuco. El resto aparece en narraciones en prosa o en la discusión de Ezequiel sobre el nuevo templo (Eze_45:21).
 
 En el Oriente antiguo, el pan casero se hacía añadiendo levadura a la artesa y trabajando la masa hasta mezclarla toda. El pan hecho con prisa omitía la masa fermentada (leudada): Lot «les preparó un banquete; hizo panes sin levadura y comieron» (Gén_19:3 rva). En este caso el término se refiere a pan preparado apresuradamente para huéspedes inesperados. Las fiestas de Israel a menudo involucraban el pan ázimo, tal vez haciendo relación entre fermentación, putrefacción y muerte (Lev_2:4 ss); o quizás porque el pan ázimo le recordaba su éxodo apresurado de Egipto y los rigores de la marcha a través del desierto. 
 

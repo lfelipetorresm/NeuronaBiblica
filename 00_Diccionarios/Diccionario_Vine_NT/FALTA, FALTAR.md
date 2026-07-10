@@ -13,7 +13,7 @@ A. Nombres
 
 2. justerema (ὑóôÝñçìá, [[G5303]]), denota aquello que falta, y así se traduce en 2Co_9:12; 2Co_11:9; Fil_2:30; Col_1:24 : «lo que falta de las aflicciones de Cristo»; 1Ts_3:10. Véase DEFICIENCIA, A.
 
-3. paraptoma (ðáñÜðôùìá, [[G3900]]), paso en falso, transgresión. Se traduce «falta» en Gál_6:1 (rv, rvr); Véase .
+3. paraptoma (παράπτωμα, [[G3900]]), paso en falso, transgresión. Se traduce «falta» en Gál_6:1 (rv, rvr); Véase .
 
 Nota: El verbo leipo se traduce en Stg_1:5 como «tener falta». Véase más abajo, B, Nº 3.
 
@@ -23,7 +23,7 @@ B. Verbos
 
 2. justereo (ὑóôåñÝù, [[G5302]]), llegar tarde, ser último, atrás, inferior, tener necesidad. Se traduce con el verbo «faltar» en Mat_19:20; Mar_10:21; Luc_15:14; Luc_22:35; Jua_2:3; 1Co_1:7; 1Co_12:24. Véanse ALCANZAR, ( SER ) INFERIOR, ( SER ) MENOS, ( TENER ) NECESIDAD, PADECER ( NECESIDAD ), etc.
 
-3. leipo (ëåßðù, [[G3007]]), significa dejar, abandonar; en la voz pasiva, ser dejado, abandonado, destituido. Se traduce con el verbo «faltar» en Tit_3:13; Stg_1:4; véanse A, Nº 3, Nota ; véanse también DEFICIENTE ( SER ), NECESIDAD ( TENER ), PADECER NECESIDAD.
+3. leipo (λείπω, [[G3007]]), significa dejar, abandonar; en la voz pasiva, ser dejado, abandonado, destituido. Se traduce con el verbo «faltar» en Tit_3:13; Stg_1:4; véanse A, Nº 3, Nota ; véanse también DEFICIENTE ( SER ), NECESIDAD ( TENER ), PADECER NECESIDAD.
 
 4. apoleipo (ἀðïëåßðù, [[G621]]), en la voz pasiva, estar reservado, quedar. Se traduce «falta» en Heb_4:6. Véase QUEDAR, y también ABANDONAR, Nº 2, DEJAR, Nº 3.
 

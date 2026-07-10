@@ -19,7 +19,7 @@ Notas: (1) Para aion, traducido «desde el principio» en Luc_1:70; Jua_9:32, v�
 
 B. Adverbios
 
-1. proteron (ðñüôåñïí, [[G4387]]), comparativo de pro, antes, en otro tiempo, al ser antecedente de una manera definida a alguna otra cosa, el término es más enfático que pote (traducido en diversas ocasiones «en otro tiempo»). Se traduce «al principio» en Gál_4:13 (rv, rvr; vm: «la primera vez»). Véanse también ANTES, A, Nº 2, PASADO, PRIMERO, C, Nº 1.
+1. proteron (πρότερον, [[G4387]]), comparativo de pro, antes, en otro tiempo, al ser antecedente de una manera definida a alguna otra cosa, el término es más enfático que pote (traducido en diversas ocasiones «en otro tiempo»). Se traduce «al principio» en Gál_4:13 (rv, rvr; vm: «la primera vez»). Véanse también ANTES, A, Nº 2, PASADO, PRIMERO, C, Nº 1.
 
 2. proton (ðñù̂ôïí, [[G4412]]), neutro de protos (grado superlativo de proteros), primero, a lo primero, se traduce la mayor parte de las veces como «primero», «primeramente» (véase PRIMERO, C, Nº 3). En Jua_12:16 se traduce con la frase «al principio». Véanse también ANTES, A, Nº 1, LUGAR, D, Nº 5, VEZ.
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CANELA"]
 
 # CANELA
 
-kinnamomon (êéííÜìïìïí, [[G2792]]), se deriva de una palabra árabe que significa emitir olor. La sustancia era un ingrediente en el aceite santo de consagración (Éxo_30:23). Véase también Pro_7:17 y Cnt_4:14. En el NT se halla en Apo_18:13. La canela de la actualidad es la corteza interior de un árbol aromático llamado canella zeylanica .¶ 
+kinnamomon (κιννάμομον, [[G2792]]), se deriva de una palabra árabe que significa emitir olor. La sustancia era un ingrediente en el aceite santo de consagración (Éxo_30:23). Véase también Pro_7:17 y Cnt_4:14. En el NT se halla en Apo_18:13. La canela de la actualidad es la corteza interior de un árbol aromático llamado canella zeylanica .¶ 
 
 

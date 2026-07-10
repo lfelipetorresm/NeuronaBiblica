@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#FORTALECER"]
 
 A. Verbo
 
-jazaq (çÈæÇ÷, [[H2388]]), «fortalecer, ser fuerte, endurecer, sostener». Este verbo se halla 290 veces en el Antiguo Testamento. Existe también la raíz en arameo y arábigo.
+jazaq (חָזַק, [[H2388]]), «fortalecer, ser fuerte, endurecer, sostener». Este verbo se halla 290 veces en el Antiguo Testamento. Existe también la raíz en arameo y arábigo.
 
 El vocablo aparece por primera vez en Gén_41:56 : «El hambre se extendió [jazaq] a todos los rincones del país» (rva). La modalidad fuerte del verbo se usa en Éxo_4:21 : «Yo endurecere9 su corazón». Esta declaración se encuentra 8 veces, en las que se dice que «el corazón del faraón se endureció» (Éxo_7:13, Éxo_7:22; Éxo_8:19; Éxo_9:35). En Éxo_9:34 la responsabilidad del faraón queda clara cuando dice: «Pecó otra vez, y endureció su corazón» (lba).
 
@@ -25,7 +25,7 @@ Para resumir, este grupo de palabras describe la fortaleza física y moral del s
 
 B. Adjetivo
 
-jazaq (çÈæÈ÷, [[H2389]]), «fuerte; poderoso; pesado; severo; firme; duro». Este adjetivo aparece unas 56 veces y en todos los períodos del hebreo bíblico.
+jazaq (חָזָק, [[H2389]]), «fuerte; poderoso; pesado; severo; firme; duro». Este adjetivo aparece unas 56 veces y en todos los períodos del hebreo bíblico.
 
 Primero, el vocablo quiere decir «firme» o «duro», con la idea de impenetrable. En Eze_3:8-9 el rostro del profeta se compara con una roca; Dios le infunde determinación para realizar su tarea al mismo tiempo que Israel se empecina en no escucharle: «He aquí, yo hago tu rostro tan duro como el rostro de ellos, y hago tu frente tan dura como su frente. Yo hago tu frente como el diamante, que es más duro que el pedernal» (rva). Job_37:18 usa jazaq en relación con el endurecimiento de un metal fundido.
 

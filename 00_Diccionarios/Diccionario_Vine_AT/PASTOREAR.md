@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PASTOREAR"]
 
 A. Verbo
 
-ra'ah (øÈòÈä, [[H7462]]), «pastar, pacer; pastorear, apacentar». Esta raíz semítica común se encuentra en acádico, fenicio, ugarítico, arameo y arábigo. En la Biblia hay unos 170 casos en todos los períodos del hebreo. (Debe distinguirse este término de su homónimo ra'ah, «asociarse».)
+ra'ah (רָעָה, [[H7462]]), «pastar, pacer; pastorear, apacentar». Esta raíz semítica común se encuentra en acádico, fenicio, ugarítico, arameo y arábigo. En la Biblia hay unos 170 casos en todos los períodos del hebreo. (Debe distinguirse este término de su homónimo ra'ah, «asociarse».)
 
 ra'ah tiene que ver con la manera en que los animales domésticos se alimentan a campo abierto bajo el cuidado de un pastor. La primera vez que se usa, Jacob dice a los pastores: «He aquí que todavía es temprano; todavía no es tiempo de reunir todo el rebaño. Dad de beber a las ovejas e id a apacentarlas» (Gén_29:7 rva). ra'ah puede referirse a toda la actividad de un pastor, como en el caso de José «cuando tenía diecisiete años, apacentaba el rebaño con sus hermanos» (Gén_37:2 lba). Cuando se usa metafóricamente, el verbo indica la relación de un líder con su pueblo. En Hebrón, el pueblo dijo a David: «En tiempos pasados, cuando Saúl aún reinaba sobre nosotros, tú eras quien sacaba y hacía volver a Israel. Y Jehová te dijo: Tú pastorearás a mi pueblo Israel, y tú serás el soberano de Israel» (2Sa_5:2 rva). El verbo se usa en sentido figurado con la acepción de «alimentar» o «animar»: «Los labios del justo apacientan a muchos, pero los insensatos mueren por falta de entendimiento» (Pro_10:21 rva).
 
@@ -17,7 +17,7 @@ ra'ah, en su modalidad intransitiva, describe la actividad del ganado cuando se 
 
 B. Nombres
 
-ro'eh (øéòÅä, [[H7462]]), «pastor». El nombre se halla unas 62 veces en el Antiguo Testamento. Se usa con referencia a Dios, el Gran Pastor, quien apacienta o alimenta sus ovejas (Sal_23:1-4; cf. Jon_10:11). Este concepto de Dios el Gran Pastor es muy antiguo; en la Biblia Jacob es el que lo usa por primera vez en Gén_49:24 : «Por el nombre del Pastor, la Roca de Israel».
+ro'eh (ריעֵה, [[H7462]]), «pastor». El nombre se halla unas 62 veces en el Antiguo Testamento. Se usa con referencia a Dios, el Gran Pastor, quien apacienta o alimenta sus ovejas (Sal_23:1-4; cf. Jon_10:11). Este concepto de Dios el Gran Pastor es muy antiguo; en la Biblia Jacob es el que lo usa por primera vez en Gén_49:24 : «Por el nombre del Pastor, la Roca de Israel».
 
 Cuando se aplica a seres humanos, ro'eh nos remite a los pueblos no israelitas. El rey es el que encabeza el culto oficial y público y el mediador entre el dios (o dioses) y el pueblo. Detrás de este uso está la idea de que el rey es el centro de unidad de una nación, su supremo protector y líder, el que otorga toda bendición material y administra justicia. Es interesante que ningún rey de Israel se adjudicó el título de ro'eh (cf. 2Sa_5:2). Posteriormente, «pastores» aun se aplica a líderes que no eran reyes (cf. Isa_44:28; Eze_34:2).
 

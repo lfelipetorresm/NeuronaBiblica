@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#LODO"]
 
 # LODO
 
-pelos (ðçëüò, [[G4081]]), véase BARRO, A, Nº 1. 
+pelos (πηλός, [[G4081]]), véase BARRO, A, Nº 1. 
 
 

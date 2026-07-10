@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MADRE"]
 
 # MADRE
 
-'em (àÅí, [[H517]]), «madre; abuela; suegra». Casi todas las lenguas semíticas tienen este vocablo, incluyendo ugarítica y aramea. En hebreo bíblico el término aparece 220 veces durante todos los períodos.
+'em (אֵם, [[H517]]), «madre; abuela; suegra». Casi todas las lenguas semíticas tienen este vocablo, incluyendo ugarítica y aramea. En hebreo bíblico el término aparece 220 veces durante todos los períodos.
 
 El significado básico del vocablo tiene que ver con la relación física que se tiene con una persona denominada «madre». La primera vez que aparece el término, en Gén_2:24,  Hallamos esta acepción: «Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer». A veces 'em tiene que ver con «madre» de la especie animal: «Lo mismo harás con el de tu buey y de tu oveja: siete días estará con su madre, y al octavo día me lo darás» (Éxo_22:30). La frase «padre y madre» en la Biblia quiere decir «padres»: «Y había criado a Hadasa, es decir, Ester , hija de su tío, porque era huérfana [de padre y madre] … Cuando su padre y madre murieron» (Est_2:7). «Hijo de su madre», en Gén_43:29, significa «su hermano», así como «hija de mi padre» es «mi hermana» (Gén_20:12). Por lo general, estas frases se refieren únicamente a hermanos consanguíneos, mientras que los términos 'aj («hermano») y 'ajôt («hermana») pueden significar tanto hermanastros como hermanos consanguíneos (por ambos padres). Por otro lado, en Gén_27:29, 'Em parece referirse a una descendencia mucho más distante: «Sírvante pueblos, y naciones se inclinen a ti; sé señor de tus hermanos, y se inclinen ante ti los hijos de tu madre. Malditos los que te maldijeren, y benditos los que te bendijeren».
 

@@ -9,10 +9,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#CEBADA"]
 
 A. Nombre
 
-krithe (êñéèÞ, [[G2915]]), cebada, se usa en plural en Apo_6:6.¶
+krithe (κριθή, [[G2915]]), cebada, se usa en plural en Apo_6:6.¶
 
 B. Adjetivo
 
-krithinos (êñßèéíïò, [[G2916]]), significa «de cebada» (Jua_6:9, Jua_6:13).¶ 
+krithinos (κρίθινος, [[G2916]]), significa «de cebada» (Jua_6:9, Jua_6:13).¶ 
 
 

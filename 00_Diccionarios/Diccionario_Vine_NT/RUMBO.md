@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RUMBO"]
 
 A. Nombre
 
-topos (ôüðïò, [[G5117]]), lugar. Se traduce «rumbo» en Apo_18:17, lit. «que viaja a cualquier lugar» (vm: «los que navegan a cualquiera parte», traducción dada también por lba en margen), aparece en los mss. más comúnmente aceptados. En tr aparece jomilos, lit. «compañía», texto seguido por rvr: «todos los que viajan en naves»; lit. «toda la compañía en las naves». Véase LUGAR, A, Nº 1.
+topos (τόπος, [[G5117]]), lugar. Se traduce «rumbo» en Apo_18:17, lit. «que viaja a cualquier lugar» (vm: «los que navegan a cualquiera parte», traducción dada también por lba en margen), aparece en los mss. más comúnmente aceptados. En tr aparece jomilos, lit. «compañía», texto seguido por rvr: «todos los que viajan en naves»; lit. «toda la compañía en las naves». Véase LUGAR, A, Nº 1.
 
 B. Verbo
 

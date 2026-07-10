@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#BEBER,DARDE"]
 
 # BEBER, DAR DE
 
-shaqah (ùÑÈ÷Èä, [[H8248]]), «dar de beber, irrigar, regar». Este verbo se encuentra en acádico y ugarítico antiguo, al mismo tiempo que en el hebreo bíblico moderno y antiguo. El vocablo se encuentra generalmente en sentido causativo, mientras su contraparte mucho más común, satah, se usa primordialmente en su forma activa simple o sea «beber». La primera vez que aparece, shaqah expresa la idea de «irrigar» o «regar»: «Subía de la tierra un vapor, el cual regaba toda la faz de la tierra» (Gén_2:6). En vista del antecedente mesopotámico de este pasaje, tanto lingüístico como agrícola, el término hebreo para «bruma» tal vez esté relacionado con la idea de un canal o sistema de irrigación.
+shaqah (שָׁקָה, [[H8248]]), «dar de beber, irrigar, regar». Este verbo se encuentra en acádico y ugarítico antiguo, al mismo tiempo que en el hebreo bíblico moderno y antiguo. El vocablo se encuentra generalmente en sentido causativo, mientras su contraparte mucho más común, satah, se usa primordialmente en su forma activa simple o sea «beber». La primera vez que aparece, shaqah expresa la idea de «irrigar» o «regar»: «Subía de la tierra un vapor, el cual regaba toda la faz de la tierra» (Gén_2:6). En vista del antecedente mesopotámico de este pasaje, tanto lingüístico como agrícola, el término hebreo para «bruma» tal vez esté relacionado con la idea de un canal o sistema de irrigación.
 
 El clima seco en el Medio Oriente hace que shaqah sea un término muy importante, puesto que expresa el acto de «irrigar» o «regar» las cosechas (Deu_11:10). Dios riega la tierra y causa que crezcan las plantas (Sal_104:13-14). Metafóricamente, él «riega» su viñedo, Israel (Isa_27:3).
 

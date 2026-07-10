@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MISERIA"]
 
 # MISERIA
 
-talaiporia (ôáëáéðùñßá, [[G5004]]), se traduce «miserias» en Stg_5:1. Véase DESVENTURA, A. 
+talaiporia (ταλαιπωρία, [[G5004]]), se traduce «miserias» en Stg_5:1. Véase DESVENTURA, A. 
 
 

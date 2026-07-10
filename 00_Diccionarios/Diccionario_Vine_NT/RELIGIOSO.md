@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#RELIGIOSO"]
 
 # RELIGIOSO
 
-1. deisidaimon (äåéóéäáßìùí, [[G1174]]), que propiamente significa sumamente supersticioso, se traduce «muy religiosos» en Hch_17:22 (rvr; rv: «más supersticiosos»); véase SUPERSTICIOSO para un estudio de este término.¶
+1. deisidaimon (δεισιδαίμων, [[G1174]]), que propiamente significa sumamente supersticioso, se traduce «muy religiosos» en Hch_17:22 (rvr; rv: «más supersticiosos»); véase SUPERSTICIOSO para un estudio de este término.¶
 
 2. threskos (èñç̂óêïò, [[G2357]]), religioso, cuidadoso en el aspecto externo del servicio divino, relacionado con threskeia (véase RELIGIÓN, Nº 1). Se utiliza en Stg_1:26.¶
 

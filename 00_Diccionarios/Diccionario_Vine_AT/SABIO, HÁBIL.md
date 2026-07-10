@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SABIO,HÁBIL"]
 
 A. Adjetivo
 
-jakam (çÈëÈí, [[H2450]]), «sabio; hábil; práctico». Esta palabra más el nombre jakemah y el verbo «ser sabio» (jakam) indica un elemento importante desde el punto de vista religioso del Antiguo Testamento. La experiencia religiosa no era rutinaria, ni ritualística ni siquiera de fe. Se percibía como el dominio del arte de vivir en conformidad con las expectativas divinas. En esta definición, los términos «dominio» y «arte» significan que la sabiduría es un proceso de satisfacción y no un logro en sí. La experiencia secular comprueba la importancia de estas observaciones.
+jakam (חָכָם, [[H2450]]), «sabio; hábil; práctico». Esta palabra más el nombre jakemah y el verbo «ser sabio» (jakam) indica un elemento importante desde el punto de vista religioso del Antiguo Testamento. La experiencia religiosa no era rutinaria, ni ritualística ni siquiera de fe. Se percibía como el dominio del arte de vivir en conformidad con las expectativas divinas. En esta definición, los términos «dominio» y «arte» significan que la sabiduría es un proceso de satisfacción y no un logro en sí. La experiencia secular comprueba la importancia de estas observaciones.
 
 Jakam se encuentra 132 veces en el Antiguo Testamento hebreo. Aparece con mayor frecuencia en Job , Proverbios y Eclesiastés, de ahí que a estos libros se les conozcan como «literatura sapiencial». El primer caso de jakam está en Gén_41:8 (rva): «Sucedió que por la mañana su espíritu estaba perturbado, por lo que mandó llamar a todos los magos de Egipto y a todos sus sabios. El faraón les contó sus sueños, pero no había quien se los interpretase al faraón».
 
@@ -27,7 +27,7 @@ Lo contrario de jakam es el «necio» o malo que se obstina en rechazar consejos
 
 B. Nombre
 
-jokmah (çÈëÀîÈä, [[H2451]]), «sabiduría; experiencia; astucia». El vocablo se encuentra 141 veces en el Antiguo Testamento. Al igual que jakam, la mayoría de los casos del término se encuentran en Job , Proverbios y Eclesiastés.
+jokmah (חָכְמָה, [[H2451]]), «sabiduría; experiencia; astucia». El vocablo se encuentra 141 veces en el Antiguo Testamento. Al igual que jakam, la mayoría de los casos del término se encuentran en Job , Proverbios y Eclesiastés.
 
 El jakam procura jokmah, «sabiduría». Al igual que jakam, el vocablo jokmah puede indicar capacidades de naturaleza técnica o habilidades especiales en el diseño de algún objeto. El primer caso de jokmah se encuentra en Éxo_28:3 : «Tú hablarás a todos los sabios de corazón, a quienes he llenado de espíritu de sabiduría, y ellos harán las vestiduras de Aarón, para consagrarlo a fin de que me sirva como sacerdote». Este primer caso del término comprueba su significado así como la descripción de los artesanos del tabernáculo. Se creía que el artesano estaba dotado de habilidades especiales dadas por Dios: «Lo ha llenado del Espíritu de Dios, con sabiduría, entendimiento, conocimiento y toda habilidad de artesano» (Éxo_35:31 rva).
 
@@ -41,5 +41,5 @@ Las traducciones de la Septuaginta son: sofos («astuto; hábil; experimentado; 
 
 C. Verbo
 
-jakam (çÈëÇí, [[H2449]]), «ser sabio, actuar sabiamente, demostrar sabiduría». Esta raíz, que se encuentra 20 veces en el Antiguo Testamento, se halla también en otras lenguas semíticas, como por ejemplo jakamu en acádico. En Pro_23:15, significa «ser sabio»: «Hijo mio, si tu corazón es sabio, también a mí se me alegrará el corazón». En Sal_119:98 (rva) jakam significa «hacer sabio»: «Por tus mandamientos me has hecho más sabio que mis enemigos, porque para siempre son míos». 
+jakam (חָכַם, [[H2449]]), «ser sabio, actuar sabiamente, demostrar sabiduría». Esta raíz, que se encuentra 20 veces en el Antiguo Testamento, se halla también en otras lenguas semíticas, como por ejemplo jakamu en acádico. En Pro_23:15, significa «ser sabio»: «Hijo mio, si tu corazón es sabio, también a mí se me alegrará el corazón». En Sal_119:98 (rva) jakam significa «hacer sabio»: «Por tus mandamientos me has hecho más sabio que mis enemigos, porque para siempre son míos». 
 

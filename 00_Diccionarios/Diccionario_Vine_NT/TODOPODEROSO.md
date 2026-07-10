@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TODOPODEROSO"]
 
 # TODOPODEROSO
 
-pantokrator (ðáíôïêñÜôùñ, [[G3841]]), todopoderoso, o gobernante de todo (pas, todo; krateo, sostener, o tener fuerza). Se emplea solo de Dios. En las Epístolas se encuentra solo en 2Co_6:18, donde el título es sugestivo en relación con el contexto. Aparte de este pasaje, solo se encuentra en Apocalipsis, nueve veces (2Co_1:8; 2Co_4:8; 2Co_11:17; 2Co_15:3; 2Co_16:7, 2Co_16:14; 2Co_19:6, 2Co_19:15; 2Co_21:22).¶ Este término aparece en la lxx como traducción de «Jehová (o Dios) de los ejércitos», p.ej., Jer_5:14 y Amó_4:13. 
+pantokrator (παντοκράτωρ, [[G3841]]), todopoderoso, o gobernante de todo (pas, todo; krateo, sostener, o tener fuerza). Se emplea solo de Dios. En las Epístolas se encuentra solo en 2Co_6:18, donde el título es sugestivo en relación con el contexto. Aparte de este pasaje, solo se encuentra en Apocalipsis, nueve veces (2Co_1:8; 2Co_4:8; 2Co_11:17; 2Co_15:3; 2Co_16:7, 2Co_16:14; 2Co_19:6, 2Co_19:15; 2Co_21:22).¶ Este término aparece en la lxx como traducción de «Jehová (o Dios) de los ejércitos», p.ej., Jer_5:14 y Amó_4:13. 
 
 

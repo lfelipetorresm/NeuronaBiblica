@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#OJO"]
 
 2. omma (ὄììá, [[G3659]]), vista. Se utiliza en forma plural en Mat_20:34, en el v. 33 se utiliza el Nº 1; Mar_8:23; Mar_8:23, en el v. 25 se utiliza el Nº 1). Es un término más poético que el Nº 1, y los escritores pueden haber cambiado de palabra con vistas a distinguir el simple deseo del ciego del tierno acto del Señor mismo.¶
 
-3. trumalia (ôñõìáëéÜ, [[G5168]]), se utiliza del ojo de una aguja (Mar_10:25; derivado de trume, agujero; truo, desgastar).¶ Cf. trema, agujero, perforación (Mat_19:24; en tr aparece trupema, de trupao, hacer un agujero; y Luc_18:25 en los mss. más comúnmente aceptados, tr tiene aquí trumalia).¶
+3. trumalia (τρυμαλιά, [[G5168]]), se utiliza del ojo de una aguja (Mar_10:25; derivado de trume, agujero; truo, desgastar).¶ Cf. trema, agujero, perforación (Mat_19:24; en tr aparece trupema, de trupao, hacer un agujero; y Luc_18:25 en los mss. más comúnmente aceptados, tr tiene aquí trumalia).¶
 
 Notas: (1) Para autoptes, que se traduce en la rvr como «lo vieron con sus ojos», véanse OCULAR, Nº 1, y TESTIGO; (2) epoptes, traducido en rvr como «visto con nuestros propios ojos», se trata en OCULAR, Nº 2, TESTIGO; (3) anablepo, verbo que significa mirar hacia arriba, se traduce «levantando los ojos» en varios pasajes, como, p.ej., Mat_14:19; Mar_7:34; véanse LEVANTAR, Nº 13. Para su otro significado de recibir o recobrar la vista, véanse RECIBIR, RECOBRAR, VISTA; véase también MIRAR; (4) el verbo aforao, traducido «puestos los ojos en Jesús» (Heb_12:2), se trata en PONER, véase; (5) atenizo, mirar fijamente, se traduce con la expresión «fijar los ojos» en Hch_3:4; etc.; y también con otras como poner los ojos, fijar la vista; véase FIJAR, Nº 1 y también MIRAR, Nº 7. 
 

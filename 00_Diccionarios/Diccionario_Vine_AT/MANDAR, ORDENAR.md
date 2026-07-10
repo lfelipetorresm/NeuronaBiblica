@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MANDAR,ORDENAR"]
 
 # MANDAR, ORDENAR
 
-tsawah (öÈåÈä, [[H6680]]), «mandar, ordenar». Este verbo solo se encuentra en hebreo bíblico (durante todos los períodos) y en arameo imperial (a partir de aproximadamente 500 a.C.). Hay unos 485 casos en la Biblia.
+tsawah (צָוָה, [[H6680]]), «mandar, ordenar». Este verbo solo se encuentra en hebreo bíblico (durante todos los períodos) y en arameo imperial (a partir de aproximadamente 500 a.C.). Hay unos 485 casos en la Biblia.
 
 En esencia, el vocablo se refiere a una comunicación oral mediante la cual un superior «ordena» o «manda» a un subalterno. El término expresa el contenido de lo que se dice. El faraón «ordenó» («mandó») a sus hombres acerca de Abraham, y ellos escoltaron al patriarca y a su comitiva hasta las fronteras de Egipto (Gén_12:20). Esta «orden» se refiere a una acción importante que tiene que ver con una situación particular. Tsawah también puede indicar el acto de «mandar» o establecer una regla bajo la que un subordinado tendrá que actuar cada vez que recurra una situación similar. En el huerto de Edén (primera vez que aparece el vocablo), Dios «mandó» («estableció la regla»): «De todo árbol del huerto podrás comer» (Gén_2:16). En este caso, el término no lleva implícito el contenido de la acción, más bien enfoca en la acción misma.
 

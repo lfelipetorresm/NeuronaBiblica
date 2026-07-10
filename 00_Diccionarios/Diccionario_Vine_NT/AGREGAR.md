@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#AGREGAR"]
 
 # AGREGAR
 
-prostithemi (ðñïóôßèçìé, [[G4369]]), poner a (pros, a; tithemi, poner), añadir, o colocar al lado (el significado primero). Se traduce en Hch_11:24 como «agregar». Véanse AÑADIR, AUMENTAR, PROCEDER, PROSEGUIR, REUNIR, VOLVER. 
+prostithemi (προστίθημι, [[G4369]]), poner a (pros, a; tithemi, poner), añadir, o colocar al lado (el significado primero). Se traduce en Hch_11:24 como «agregar». Véanse AÑADIR, AUMENTAR, PROCEDER, PROSEGUIR, REUNIR, VOLVER. 
 
 

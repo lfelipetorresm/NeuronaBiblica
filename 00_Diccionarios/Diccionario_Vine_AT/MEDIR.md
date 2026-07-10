@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MEDIR"]
 
 A. Verbo
 
-madad (îÈãÇã, [[H4058]]), «medir, extender». Este verbo, que se encuentra tanto en hebreo antiguo como moderno, hoy significa «catastrar». El término tiene cognados en acádico, fenicio y arábigo. Se encuentra 53 veces en el Antiguo Testamento hebreo. El significado básico del verbo aparece la primera vez que se usa: «Lo midieron por gomer» (Éxo_16:18). Además de «medir» volumen, madad tiene que ver con distancia (Deu_21:2) y extensión (Núm_35:5).
+madad (מָדַד, [[H4058]]), «medir, extender». Este verbo, que se encuentra tanto en hebreo antiguo como moderno, hoy significa «catastrar». El término tiene cognados en acádico, fenicio y arábigo. Se encuentra 53 veces en el Antiguo Testamento hebreo. El significado básico del verbo aparece la primera vez que se usa: «Lo midieron por gomer» (Éxo_16:18). Además de «medir» volumen, madad tiene que ver con distancia (Deu_21:2) y extensión (Núm_35:5).
 
 Una acepción un tanto macabra se encuentra en 2Sa_8:2, donde David, después de derrotar a los moabitas, «los midió con cordel. Los hizo tenderse en el suelo y midió dos cordeles para que murieran y un cordel entero para que vivieran».
 
@@ -19,7 +19,7 @@ Madad puede expresar la idea de extender o estirar: «Luego se tendió tres vece
 
 B. Nombre
 
-middah (îÄãÌÈä, [[H4060]]), «medida; extensión; tamaño; estatura; sección; área». De las 53 veces que aparece este nombre, 25 están en Ezequiel . Los casos restantes están esparcidos por todo el texto del Antiguo Testamento hebreo.
+middah (מִדָּה, [[H4060]]), «medida; extensión; tamaño; estatura; sección; área». De las 53 veces que aparece este nombre, 25 están en Ezequiel . Los casos restantes están esparcidos por todo el texto del Antiguo Testamento hebreo.
 
 El nombre tiene que ver con «medición»: «No haréis injusticia en el juicio, ni en la medida de longitud, ni en la de peso, ni en la de capacidad» (Lev_19:35 rva). En Eze_41:17 el término se refiere a «medidas» de longitud y en Job_28:25 a «medidas» líquidas.
 

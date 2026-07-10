@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MONTE,CORDILLERA"]
 
 # MONTE, CORDILLERA
 
-har (äÇø, [[H2022]]), «cordillera; región montañosa; monte». Este vocablo aparece además en ugarítico, fenicio y púnico. Se halla también en hebreo bíblico unas 558 veces durante todos los períodos.
+har (הַר, [[H2022]]), «cordillera; región montañosa; monte». Este vocablo aparece además en ugarítico, fenicio y púnico. Se halla también en hebreo bíblico unas 558 veces durante todos los períodos.
 
 La primera vez que aparece en la Biblia, har se refiere a la «cordillera» sobre la que el arca de Noé reposó (Gén_8:4). En su modalidad singular la palabra puede significar una «cordillera» o las «montañas» de alguna región: «Y se dirigió al monte [la región montañosa] de Galaad» (Gén_31:21). Jacob huía de Labán hacia las «montañas» donde pensaba esconderse. Esta acepción puede abarcar también una región predominantemente montañosa; el término apunta a un territorio más amplio que las montañas que forman parte de ello: «Les dieron en la región montañosa de Judá, Quiriat-arba, que es Hebrón, con sus campos de alrededor. (Arba fue el padre de Anac.)» (Jos_21:11 rva).
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#EJÉRCITO"]
 
 # EJÉRCITO
 
-parembole (ðáñåìâïëå, [[G3925]]), véase CAMPAMENTO. 
+parembole (παρεμβολε, [[G3925]]), véase CAMPAMENTO. 
 
 

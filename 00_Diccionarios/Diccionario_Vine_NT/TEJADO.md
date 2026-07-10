@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#TEJADO"]
 
 # TEJADO
 
-keramos (êÝñáìïò, [[G2766]]), barro de alfarero, o vasija de barro. Denota, en plural, tejas. Se emplea en Luc_5:19 : «tejado» (rv: «techo»; Besson, rvr77: «tejas»); para descolgar al paralítico a través de las tejas, lo subieron a la azotea (vm: «terrado»), doma ; véase AZOTEA. En la lxx, keramos se emplea en 2Sa_17:28.¶
+keramos (κέραμος, [[G2766]]), barro de alfarero, o vasija de barro. Denota, en plural, tejas. Se emplea en Luc_5:19 : «tejado» (rv: «techo»; Besson, rvr77: «tejas»); para descolgar al paralítico a través de las tejas, lo subieron a la azotea (vm: «terrado»), doma ; véase AZOTEA. En la lxx, keramos se emplea en 2Sa_17:28.¶
 
 Nota: Para stege, traducido «tejado» en la rv en Luc_7:6 (rvr: «techo»), véase TECHADO, TECHO. 
 

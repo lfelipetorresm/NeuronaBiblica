@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#POSESIÓN,HERENCIA"]
 
 A. Verbo
 
-yarash (éÈøÇùÑ, [[H3423]]), «heredar, subyugar, posesionar,poseer, desposeer o desahuciar, empobrecer». Este vocablo se encuentra en todas las lenguas semíticas excepto acádico, fenicio y arameo bíblico. El término aparece en todos los períodos del hebreo; hay 260 casos en la Biblia.
+yarash (יָרַשׁ, [[H3423]]), «heredar, subyugar, posesionar,poseer, desposeer o desahuciar, empobrecer». Este vocablo se encuentra en todas las lenguas semíticas excepto acádico, fenicio y arameo bíblico. El término aparece en todos los períodos del hebreo; hay 260 casos en la Biblia.
 
 Básicamente yarash quiere decir «heredar». El verbo puede denotar la condición de heredero designado. Abram dijo a Dios: «Mira que no me has dado prole, y he aquí que será mi heredero un esclavo nacido en mi casa» (Gén_15:3 : primer caso del verbo). Todas las posesiones de Abram que debían pasar a sus descendientes legales estaban designadas para su criado, quien era, por tanto, el heredero legal.
 
@@ -23,7 +23,7 @@ Varios nombres relacionados con yarash son poco frecuentes en hebreo bíblico. Y
 
 Algunos estudiosos asocian reshet, «red» con yarash. Según esta lógica, una «red» es un objeto que recibe y mantiene («posee») a alguien o algo (Job_18:8). Otros sugieren que otro significado de reshet podría ser «pozo» (cf. Sal_9:15; Sal_35:7-8).
 
-segullah (ñÀâËìÌÈä, [[H5459]]), «posesión». Hay cognados de este nombre en arameo tardío y acádico. El vocablo se encuentra únicamente 8 veces.
+segullah (סְגֻלָּה, [[H5459]]), «posesión». Hay cognados de este nombre en arameo tardío y acádico. El vocablo se encuentra únicamente 8 veces.
 
 Segullah indica la «propiedad» que se adquiere, posee y cuida personalmente. Seis veces el término se aplica a la relación que Israel tiene con Dios, quien él mismo lo adquirió (habiéndolo elegido, liberado de servidumbre egipcia y formado según su voluntad y propósito) y lo cuidó de cerca para ser pueblo de su propiedad: «Ahora pues, si de veras escucháis mi voz y guardáis mi pacto, seréis para mí un pueblo especial entre todos los pueblos. Porque mía es toda la tierra» (Éxo_19:5 : primera cita en la Biblia). 
 

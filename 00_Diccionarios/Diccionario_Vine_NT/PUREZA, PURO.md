@@ -19,11 +19,11 @@ B. Adjetivos
 
 Nota: Cf. jagios, santo, como libre de toda mezcla con el mal; josios, santo, como libre de contaminación; eilikrines, puro, como habiendo sido probado, lit., juzgado por la luz del sol; katharos (véase a continuación), puro por haber sido limpiado.
 
-2. katharos (êáèáñüò, [[G2513]]), puro, por haber sido limpiado, p.ej: Mat_5:8; 1Ti_1:5 : «limpio» de corazón; traducido «puro» en Tit_1:15, tres veces: «puras», «puros», «puro» (rv: «limpias»: «limpios», «limpio», respectivamente); Heb_10:22 : «agua pura» (rv: «limpia»); Stg_1:27 : «pura» (rv, rvr); 1Pe_1:22 : «puro» (rv, rvr); Apo_21:18, Apo_21:21 : «puro» (rbv, rvr). Véase LIMPIO, B, Nº 1.
+2. katharos (καθαρός, [[G2513]]), puro, por haber sido limpiado, p.ej: Mat_5:8; 1Ti_1:5 : «limpio» de corazón; traducido «puro» en Tit_1:15, tres veces: «puras», «puros», «puro» (rv: «limpias»: «limpios», «limpio», respectivamente); Heb_10:22 : «agua pura» (rv: «limpia»); Stg_1:27 : «pura» (rv, rvr); 1Pe_1:22 : «puro» (rv, rvr); Apo_21:18, Apo_21:21 : «puro» (rbv, rvr). Véase LIMPIO, B, Nº 1.
 
 3. akratos (ἄêñáôïò, [[G194]]), (a, privativo, y kerannumi, mezclar), se utiliza en Apo_14:10, y se traduce «puro» (rv, rvr, rvr77); lit., «sin mezcla» (vm: «sin mezcla alguna»).¶ En la lxx, Sal_75:8; Jer_32:1.¶
 
-4. pistikos (ðéóôéêüò, [[G4101]]), se traduce «puro» en Mar_14:3; Jua_12:3 (vm, de nardo); en rv se traduce «espique» y «líquido». Para el tratamiento de este término, véase NARDO.¶
+4. pistikos (πιστικός, [[G4101]]), se traduce «puro» en Mar_14:3; Jua_12:3 (vm, de nardo); en rv se traduce «espique» y «líquido». Para el tratamiento de este término, véase NARDO.¶
 
 Nota: Para «puro afecto» (Efe_1:5. rv, rvr), traducción de eudokia, véase AFECTO, Nº 3, ANHELAR, B, Nº 2. 
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ASERA"]
 
 # ASERA
 
-'asherah (àÂùÑÅøÈä, [[H842]]), «Asera; Aserim (pl.)». Este nombre, que tiene un cognado ugarítico, aparece primero en la Biblia en pasajes que anteceden el asentamiento en Palestina. Sin embargo, el término es más frecuente, por lo general, en la literatura histórica. De los 40 casos, 4 están en el código legal de Israel, 4 en Jueces , 4 en los libros proféticos y el resto en 1 Reyes y 2 Crónicas.
+'asherah (אֲשֵׁרָה, [[H842]]), «Asera; Aserim (pl.)». Este nombre, que tiene un cognado ugarítico, aparece primero en la Biblia en pasajes que anteceden el asentamiento en Palestina. Sin embargo, el término es más frecuente, por lo general, en la literatura histórica. De los 40 casos, 4 están en el código legal de Israel, 4 en Jueces , 4 en los libros proféticos y el resto en 1 Reyes y 2 Crónicas.
 
 El era un objeto cúltico que representaba la presencia de la diosa cananea Asera. Cuando el pueblo de Israel entró a Palestina, debían guardarse totalmente de las religiones idolátricas de sus habitantes. Es más, Dios les ordenó: «Derribaréis sus altares y quebraréis sus estatuas, y cortaréis sus imágenes de Asera ['asherim]» (Éxo_34:13). Su objeto cúltico estaba hecho de madera (Jue_6:26; 1Re_14:15) y debía quemarse (Deu_12:3). Algunos estudiosos opinan que este era un palo o poste sagrado que se levantaba cerca de los altares a ba'al. Puesto que solo había una diosa con el nombre de 'asherah, su forma plural ('asherim) probablemente se refiera a varios palos.
 

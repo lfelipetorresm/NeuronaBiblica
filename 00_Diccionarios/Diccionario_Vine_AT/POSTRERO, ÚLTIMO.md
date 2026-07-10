@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#POSTRERO,ÚLTIMO"]
 
 A. Adjetivo
 
-'ajarôn (àÇçÂøåéï, [[H314]]), «último; occidental; tardío; postrero; futuro». Este vocablo aparece unas 51 veces en hebreo bíblico.
+'ajarôn (אַחֲרוין, [[H314]]), «último; occidental; tardío; postrero; futuro». Este vocablo aparece unas 51 veces en hebreo bíblico.
 
 'ajarôn tiene, en primer lugar, un significado local y espacial. Básicamente significa «detrás»: «Puso a las siervas y a sus hijos delante, después a Lea y a sus hijos, y al final a Raquel y a José (Gén_33:2 rva : primera mención). En los demás casos con esta acepción, el término significa «occidental»: «Todo lugar que pise la planta de vuestro pie será vuestro. Vuestro territorio será desde el desierto hasta el Líbano, y desde el río, el río éufrates, hasta el mar occidental» (Deu_11:24 rva).
 
@@ -21,5 +21,5 @@ La combinación «primero» y «último» es una expresión idiomática que indi
 
 B. Verbo
 
-'ajar (àÈçÇø, [[H309]]), «demorar, quedarse atrás, atrasar,retardar». Otros términos derivados del mismo verbo son : «otro», «después», «hacia atrás». se encuentra en Éxo_22:29 (rva) con el significado siguiente: «No demorarás en presentar las primicias de tu cosecha ni de tu lagar. Me darás el primogénito de tus hijos». 
+'ajar (אָחַר, [[H309]]), «demorar, quedarse atrás, atrasar,retardar». Otros términos derivados del mismo verbo son : «otro», «después», «hacia atrás». se encuentra en Éxo_22:29 (rva) con el significado siguiente: «No demorarás en presentar las primicias de tu cosecha ni de tu lagar. Me darás el primogénito de tus hijos». 
 

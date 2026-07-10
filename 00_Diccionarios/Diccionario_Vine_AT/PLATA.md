@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PLATA"]
 
 A. Nombre
 
-kesep (ëÌÆñÆó, [[H3701]]), «plata; dinero; precio; propiedad». Este vocablo tiene cognados en acádico, ugarítico, fenicio y arameo. Se encuentra unas 402 veces en hebreo bíblico, durante todos los períodos.
+kesep (כֶּסֶף, [[H3701]]), «plata; dinero; precio; propiedad». Este vocablo tiene cognados en acádico, ugarítico, fenicio y arameo. Se encuentra unas 402 veces en hebreo bíblico, durante todos los períodos.
 
 El término se refiere al «mineral plata»: «Quita las escorias de la plata, y saldrá un objeto para el fundidor» (Pro_25:4 rva ; cf. Job_28:1). Kesep también puede expresar el «metal plata», o sea, el mineral refinado: «Y el siervo sacó objetos de plata, objetos de oro» (Gén_24:53 lba). Como metal precioso la «plata» no tuvo tanto valor como el oro (quizás porque no fue tan escasa): «Todos los vasos de beber del rey Salomón eran de oro, y toda la vajilla de la Casa del Bosque del Líbano era de oro fino. Nada era de plata, pues en los días de Salomón esta no era estimada para nada» (1Re_10:21 rva).
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SACRIFICIO"]
 
 # SACRIFICIO
 
-zebaj (æÆÆáÇç, [[H2077]]), «sacrificio». Esta raíz, en el sentido de «sacrificar» o «inmolar», se encuentra en otras lenguas semíticas: acádico, ugarítico, fenicio, arameo y arábigo. Zebaj se continuó usando en el hebreo mishnáico y se sigue empleando en hebreo moderno, aunque mucho menos porque no hay templo. Aparece 162 veces en el Antiguo Testamento hebreo y en todos los períodos. La primera vez es en Gén_31:54 : «Entonces Jacob ofreció un sacrificio en el monte y llamó a sus parientes a comer. Ellos comieron y pasaron aquella noche en el monte» (rva).
+zebaj (זֶֶבַח, [[H2077]]), «sacrificio». Esta raíz, en el sentido de «sacrificar» o «inmolar», se encuentra en otras lenguas semíticas: acádico, ugarítico, fenicio, arameo y arábigo. Zebaj se continuó usando en el hebreo mishnáico y se sigue empleando en hebreo moderno, aunque mucho menos porque no hay templo. Aparece 162 veces en el Antiguo Testamento hebreo y en todos los períodos. La primera vez es en Gén_31:54 : «Entonces Jacob ofreció un sacrificio en el monte y llamó a sus parientes a comer. Ellos comieron y pasaron aquella noche en el monte» (rva).
 
 El significado básico de zebaj es «sacrificio». Después de inmolar el «sacrificio», el sacerdote lo presentaba a Dios. El propósito no era solo establecer comunión entre Dios y el hombre; más bien el «sacrificio» representaba el principio de que sin derramamiento de sangre no había perdón de pecado (Lev_17:11; cf. Heb_9:22). Al ofrecer su «sacrificio», el israelita fiel se sometía al sacerdote, quien, siguiendo ciertos reglamentos minuciosos (véase Levítico), presentaba el sacrificio en conformidad con las expectativas divinas.
 

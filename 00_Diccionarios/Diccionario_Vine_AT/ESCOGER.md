@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ESCOGER"]
 
 A. Verbo
 
-bajar (áÌÈçÇø, [[H977]]), «escoger, hacer una opción». Este verbo se encuentra 170 veces en todo el Antiguo Testamento. También lo encontramos en arameo, siríaco y asirio. El vocablo tiene términos paralelos en egipcio, acádico y en las lenguas cananeas.
+bajar (בָּחַר, [[H977]]), «escoger, hacer una opción». Este verbo se encuentra 170 veces en todo el Antiguo Testamento. También lo encontramos en arameo, siríaco y asirio. El vocablo tiene términos paralelos en egipcio, acádico y en las lenguas cananeas.
 
 El primer caso de bajar en la Biblia se encuentra en Gén_6:2 : «Tomaron para sí mujeres, escogiendo entre todas» (rva). A menudo se usa cuando el sujeto es un hombre: «Y escogió Lot para sí todo el valle del Jordán» (Gén_13:11 lba). En más de la mitad de los casos, Dios es el sujeto de bajar, como en Núm_16:5 : «Jehovah dará a conocer mañana por la mañana a los que son suyos … y a quien escoja lo hará que se acerque a él» (rva).
 
@@ -21,5 +21,5 @@ La versión Septuaginta (griega) traduce bajar mayormente como eklegein, y por m
 
 B. Nombre
 
-bajîr (áÌÈçÄéø, [[H972]]), «escogidos». Otro nombre, bajîr, se usa 13 veces y siempre acerca de los «escogidos» del Señor: «Saúl, el escogido de Jehová» (2Sa_21:6); «hijos de Jacob, sus escogidos» (1Cr_16:13). 
+bajîr (בָּחִיר, [[H972]]), «escogidos». Otro nombre, bajîr, se usa 13 veces y siempre acerca de los «escogidos» del Señor: «Saúl, el escogido de Jehová» (2Sa_21:6); «hijos de Jacob, sus escogidos» (1Cr_16:13). 
 

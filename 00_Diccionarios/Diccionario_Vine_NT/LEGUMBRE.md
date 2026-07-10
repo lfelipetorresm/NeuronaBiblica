@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#LEGUMBRE"]
 
 # LEGUMBRE
 
-laacanon (ëÜ÷áíïí, [[G3001]]), véase HORTALIZA. 
+laacanon (λάχανον, [[G3001]]), véase HORTALIZA. 
 
 

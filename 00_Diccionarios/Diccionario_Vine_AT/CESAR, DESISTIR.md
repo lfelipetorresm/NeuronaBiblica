@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#CESAR,DESISTIR"]
 
 A. Verbos
 
-jadal (çÈãÇì, [[H2308]]), «cesar, finalizar, abstenerse, desistir, faltar». Este vocablo se encuentra mayormente en hebreo, incluyendo en el lenguaje moderno. En el hebreo del Antiguo Testamento se halla menos de 60 veces. El primer caso de jadal es en Gén_11:8 donde, después de la confusión de lenguas, los habitantes de Babel «dejaron de edificar la ciudad».
+jadal (חָדַל, [[H2308]]), «cesar, finalizar, abstenerse, desistir, faltar». Este vocablo se encuentra mayormente en hebreo, incluyendo en el lenguaje moderno. En el hebreo del Antiguo Testamento se halla menos de 60 veces. El primer caso de jadal es en Gén_11:8 donde, después de la confusión de lenguas, los habitantes de Babel «dejaron de edificar la ciudad».
 
 El significado básico de jadal es «finalizar». Es así como la edad de Sara de dar a luz ya había «cesado» antes de que el ángel le informara que iba a tener un hijo (Gén_18:11). La Ley Mosaica tomaba en cuenta a los pobres porque «no faltarán [jadal] menesterosos en medio de la tierra» (Deu_15:11; Mat_26:11). En Éxo_14:12, el término literal «cesa de nosotros» se puede traducir mejor como «déjanos en paz».
 
-Shabat (ùÑÈáÇú, [[H7673]]), «descansar, cesar». Este vocablo se encuentra unas 200 veces en todo el Antiguo Testamento. La raíz aparece también en asirio, arábigo y arameo.
+Shabat (שָׁבַת, [[H7673]]), «descansar, cesar». Este vocablo se encuentra unas 200 veces en todo el Antiguo Testamento. La raíz aparece también en asirio, arábigo y arameo.
 
 El verbo se encuentra primero en Gén_2:2-3 : «El séptimo día Dios había terminado la obra que hizo, y reposó en el séptimo día de toda la obra que había hecho. Por eso Dios bendijo y santificó el séptimo día, porque en él reposó de toda su obra de creación que Dios había hecho» (rva). El significado fundamental y más frecuente de shabat se percibe en Gén_8:22 : «Mientras la tierra permanezca, no cesarán la sementera y la siega, el frío y el calor, el verano y el invierno, y el día y la noche». Esta promesa llegó a ser una señal profética de la fidelidad de Dios: «Si faltaren estas leyes delante de mí, dice Jehová, también la descendencia de Israel faltará para no ser nación delante de mí eternamente» (Jer_31:36).
 
@@ -21,7 +21,7 @@ Encontramos una variedad de sentidos del término: «El primer día quitaréis d
 
 B. Nombre
 
-shabbat (ùÑÇáÌÈú, [[H7676]]), «el sábado». El verbo shabat es el radical de shabbat. «Seis días te dedicarás a tus labores; pero en el séptimo día cesarás» (Éxo_23:12 rva). En Éxo_31:15, el séptimo día se llama «sábado de reposo» (rva ; «descanso completo» bla, bj).
+shabbat (שַׁבָּת, [[H7676]]), «el sábado». El verbo shabat es el radical de shabbat. «Seis días te dedicarás a tus labores; pero en el séptimo día cesarás» (Éxo_23:12 rva). En Éxo_31:15, el séptimo día se llama «sábado de reposo» (rva ; «descanso completo» bla, bj).
 
 El descanso incluía animales y personas (Éxo_23:12): «Aun en la arada y en la siega, descansarás» (Éxo_34:21). «Será señal para siempre entre yo y los hijos de Israel. Porque en seis días Jehovah hizo los cielos y la tierra, y en el séptimo día cesó y reposó» (Éxo_31:17 rva).
 

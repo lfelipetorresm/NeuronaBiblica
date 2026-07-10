@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PERSONA"]
 
 # PERSONA
 
-1. prosopon (ðñüóùðïí, [[G4383]]), para cuyo significado véase APARIENCIA, Nº 4, se traduce «persona» o «personas» en Luc_20:21; 2Co_1:11; Gál_2:6. En el primer pasaje y en el último se halla en el contexto de hacer acepción de personas. Cf. bajo siguiente epígrafe. Véase también ROSTRO.
+1. prosopon (πρόσωπον, [[G4383]]), para cuyo significado véase APARIENCIA, Nº 4, se traduce «persona» o «personas» en Luc_20:21; 2Co_1:11; Gál_2:6. En el primer pasaje y en el último se halla en el contexto de hacer acepción de personas. Cf. bajo siguiente epígrafe. Véase también ROSTRO.
 
 2. anthropos (ἄíèñïðïò, [[G444]]), nombre genérico para el hombre, varón o hembra. Se traduce «personas» en Gál_2:6 : «no hace acepción de personas», lit., «no acepta el rostro de hombre»; véase HOMBRE, A, Nº 1.
 

@@ -13,7 +13,7 @@ A. Verbos
 
 Este verbo va seguido de tres preposiciones: (1) eis, hacia, traducida «en» en Jua_5:45, al igual que en 1Pe_3:5 : «que esperaban en Dios»; con esta preposición se dice que la esperanza está dirigida a, y se centra en, una persona; (2) epi, sobre, también traducida «en» (Rom_15:12 : «los gentiles esperarán en él»; igualmente en 1Ti_4:10; 1Ti_5:5, en los mss. más acreditados por la moderna crítica textual; 1Ti_6:17). Esta preposición expresa el terreno sobre el que reposa la esperanza. (3) en, «en» (1Co_15:19 : «esperamos en Cristo», más lit: «somos hombres que han esperado en Cristo»); la preposición expresa que Cristo no es meramente el terreno sobre el cual, sino la esfera y elemento en el cual, se pone la esperanza. La forma del verbo, participio perfecto con el verbo ser, lit: «están habiendo esperado», acentúa el carácter de aquellos que esperan, más que la acción en sí misma; se caracterizan por la esperanza, mostrando qué tipo de personas son.
 
-2. proelpizo (ðñïåëðßæù, [[G4276]]), esperar antes (pro, antes, y Nº 1). Se usa en Efe_1:12.¶
+2. proelpizo (προελπίζω, [[G4276]]), esperar antes (pro, antes, y Nº 1). Se usa en Efe_1:12.¶
 
 3. apelpizo (ἀðåëðßæù, [[G560]]), lit: esperar alejado (apo, alejado y Nº 1); esto es, abandonar en desesperanza, desesperar. Se usa en Luc_6:35 : «sin perder las esperanzas» (lba, margen), esto es, sin ansiedad en cuanto al resultado, o no desesperando de la recompensa de Dios. Probablemente este es el verdadero significado, frente al uniformemente dado por las versiones: «no esperando de ello nada».¶
 
@@ -21,17 +21,17 @@ Este verbo va seguido de tres preposiciones: (1) eis, hacia, traducida «en» en
 
 5. apekdecomai (ἀðåêäÝ÷ïìáé, [[G553]]), esperar ansiosamente. Se traduce aguardar en Rom_8:19, Rom_8:25; Gál_5:5, y esperar en Rom_8:23; 1Co_1:7; Fil_3:20; Heb_9:28; 1Pe_3:20 (en los mss. mayoritariamente aceptados; el tr tiene el Nº 4). Véase AGUARDAR.¶
 
-6. prosdecomai (ðñïóäÝ÷ïìáé, [[G4327]]), esperar con vistas a una recepción favorable. Se traduce con el verbo esperar en Mar_15:43; Luc_2:25, Luc_2:38; Luc_23:51; Hch_23:51; Heb_11:35; Jud_1:21. Véanse ACEPTAR, ABRIGAR, AGUARDAR, RECIBIR, SUFRIR.
+6. prosdecomai (προσδέχομαι, [[G4327]]), esperar con vistas a una recepción favorable. Se traduce con el verbo esperar en Mar_15:43; Luc_2:25, Luc_2:38; Luc_23:51; Hch_23:51; Heb_11:35; Jud_1:21. Véanse ACEPTAR, ABRIGAR, AGUARDAR, RECIBIR, SUFRIR.
 
-7. makrothumeo (ìáêñïèõìÝù, [[G3114]]), tener temperamento paciente (makros, largo; thumos, mente). Se traduce «habiendo esperado con paciencia» en Heb_6:15, dicho de Abraham. Véanse AGUARDAR, PACIENCIA, PACIENTE, SUFRIDO, etc.
+7. makrothumeo (μακροθυμέω, [[G3114]]), tener temperamento paciente (makros, largo; thumos, mente). Se traduce «habiendo esperado con paciencia» en Heb_6:15, dicho de Abraham. Véanse AGUARDAR, PACIENCIA, PACIENTE, SUFRIDO, etc.
 
-8. meno (ìÝíù, [[G3306]]), permanecer. Se traduce con el verbo esperar en Hch_20:23; véase PERMANECER, etc.
+8. meno (μένω, [[G3306]]), permanecer. Se traduce con el verbo esperar en Hch_20:23; véase PERMANECER, etc.
 
 9. anameno (ἀíáìÝíù, [[G362]]), esperar (ana, arriba, usado intensivamente, y meno, permanecer). Se usa en 1Ts_1:10, de esperar al Hijo de Dios del cielo; esta palabra conlleva la sugerencia de esperar con paciencia y confiada esperanza.¶
 
-10. perimeno (ðåñéìÝíù, [[G4037]]), esperar un acontecimiento. Se usa en Hch_1:4, de esperar el Espíritu Santo: «la promesa del Padre».¶ En la lxx, Gén_49:18.¶
+10. perimeno (περιμένω, [[G4037]]), esperar un acontecimiento. Se usa en Hch_1:4, de esperar el Espíritu Santo: «la promesa del Padre».¶ En la lxx, Gén_49:18.¶
 
-11. prosdokao (ðñïóäïêÜù, [[G4328]]), esperar (pros, hacia; dokeo, pensar, ser de opinión). Se traduce con el verbo esperar en Mat_11:3; Mat_24:50; Luc_1:21; Luc_7:19-20; Luc_8:40; Luc_12:46; Hch_3:5; Hch_10:24; Hch_28:6, dos veces; 2Pe_3:12-13, 2Pe_3:14 : «estando en espera»; en Luc_3:15 se traduce «estaba en expectativa» (rv: «estando esperando»), y en Hch_27:33 : «que veláis» (rv: «que esperáis»). Véase EXPECTATIVA, VELAR
+11. prosdokao (προσδοκάω, [[G4328]]), esperar (pros, hacia; dokeo, pensar, ser de opinión). Se traduce con el verbo esperar en Mat_11:3; Mat_24:50; Luc_1:21; Luc_7:19-20; Luc_8:40; Luc_12:46; Hch_3:5; Hch_10:24; Hch_28:6, dos veces; 2Pe_3:12-13, 2Pe_3:14 : «estando en espera»; en Luc_3:15 se traduce «estaba en expectativa» (rv: «estando esperando»), y en Hch_27:33 : «que veláis» (rv: «que esperáis»). Véase EXPECTATIVA, VELAR
 
 B. Nombre
 

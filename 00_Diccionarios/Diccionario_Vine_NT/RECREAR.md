@@ -13,6 +13,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#RECREAR"]
 
 3. entrufao (ἐíôñõöÜù, [[G1792]]), (en, en; trufao, deleitarse, vivir en deleites; véase DELEITAR, A, Nº 3). Se traduce «quienes … se recrean en sus errores» (2Pe_2:13, rv, rvr; vm: «solazándose»; Besson: «regalándose»; lba: «deleitándose»); en nvi, por otra parte, se traduce con un vulgarismo: «se juerguean»).¶
 
-4. sunanapauomai (óõíáíáðáýïìáé, [[G4875]]), yacer, reposar con (sun, con, y Nº 2 en la voz media). Se utiliza metafóricamente de ser recreado en espíritu con otros: «sea recreado juntamente con vosotros» (Rom_15:32, rv, rvr; rvr77: «encuentre algún descanso juntamente con»; Besson: «me descanse con»; lba: «encuentre confortante reposo con»; nvi: «podré tomarme un tiempo de descanso y refrigerio en vuestra compañía»).¶ En la lxx, Isa_11:6.¶ 
+4. sunanapauomai (συναναπαύομαι, [[G4875]]), yacer, reposar con (sun, con, y Nº 2 en la voz media). Se utiliza metafóricamente de ser recreado en espíritu con otros: «sea recreado juntamente con vosotros» (Rom_15:32, rv, rvr; rvr77: «encuentre algún descanso juntamente con»; Besson: «me descanse con»; lba: «encuentre confortante reposo con»; nvi: «podré tomarme un tiempo de descanso y refrigerio en vuestra compañía»).¶ En la lxx, Isa_11:6.¶ 
 
 

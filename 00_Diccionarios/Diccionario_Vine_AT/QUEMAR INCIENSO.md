@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#QUEMARINCIENSO"]
 
 A. Verbo
 
-qatar (÷ÈèÇø, [[H6999]]), «quemar incienso, provocar que el humo se eleve». La raíz principal de este verbo aparece en acádico. Formas relacionadas encontramos en ugarítico, fenicio y hebreo posbíblico. En hebreo bíblico nunca se usa el verbo en su raíz principal, sino solo en las raíces causativa e intensiva (con sus respectivos pasivos).
+qatar (קָטַר, [[H6999]]), «quemar incienso, provocar que el humo se eleve». La raíz principal de este verbo aparece en acádico. Formas relacionadas encontramos en ugarítico, fenicio y hebreo posbíblico. En hebreo bíblico nunca se usa el verbo en su raíz principal, sino solo en las raíces causativa e intensiva (con sus respectivos pasivos).
 
 El primer caso de qatar está en Éxo_29:13 : «Tomarás también todo el sebo que cubre las vísceras, el sebo que está sobre el hígado y los dos riñones con el sebo que los cubre, y lo harás arder sobre el altar» (rva). Técnicamente este verbo significa «ofrecer verdaderas ofrendas» cada vez que aparece en su raíz causativa (cf. Ose_4:13; Ose_11:2), aunque solo puede referirse a «quemar incienso» (2Cr_13:11). Las ofrendas se queman con el fin de que el objeto quemado se transforme en humo (esencia etérea del ofrendante), a fin de que ascienda a Dios como olor agradable y acepto. Lo que se sacrificaba consistía en su mayoría de alimentos comunes y de esta forma Israel ofrecía a Dios la misma vida, las labores y el fruto del trabajo.
 
@@ -21,7 +21,7 @@ La raíz intensiva (que solo aparece después del Pentateuco) siempre se refiere
 
 B. Nombres
 
-qetoret (÷ÀèéøÆÆú, [[H7004]]), «incienso». El primer caso bíblico de qetoret está en Éxo_25:6 y el término se usa un total de 60 veces. En Pro_27:9 el vocablo quiere decir «perfume».
+qetoret (קְטירֶֶת, [[H7004]]), «incienso». El primer caso bíblico de qetoret está en Éxo_25:6 y el término se usa un total de 60 veces. En Pro_27:9 el vocablo quiere decir «perfume».
 
 Qitter significa «incienso». El término aparece una sola vez en el Antiguo Testamento, en Jer_44:21. Otro nombre, qetorah, significa «incienso» y solo se encuentra en Deu_33:10. Qit'ôr se refiere al «humo o vapor», no de los sacrificios sino en sus otras manifestaciones. La cita en Sal_148:8 («vapor») es uno de cuatro casos en la Biblia. Muqtar significa «encender incienso». Se usa una única vez, en Mal_1:11 : «Y en todo lugar se ofrece a mi nombre incienso».
 

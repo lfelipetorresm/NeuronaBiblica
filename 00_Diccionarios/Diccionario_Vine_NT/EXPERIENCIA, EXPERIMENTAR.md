@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#EXPERIENCIA,EXPERIMENTAR"]
 
 A. Nombre
 
-dokime (äïêéìÞ, [[G1382]]), véanse PROBAR, PRUEBA, B, Nº 1. El término se traduce «experiencia» en 2Co_9:13 (rv: «prueba»).
+dokime (δοκιμή, [[G1382]]), véanse PROBAR, PRUEBA, B, Nº 1. El término se traduce «experiencia» en 2Co_9:13 (rv: «prueba»).
 
 B. Verbo
 

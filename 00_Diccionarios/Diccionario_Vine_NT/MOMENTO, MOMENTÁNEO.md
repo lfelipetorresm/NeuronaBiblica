@@ -13,13 +13,13 @@ A. Nombres
 
 2. jora (ὥñá, [[G5610]]), véase HORA, se traduce «un momento» en Gál_2:5 (rv: «una hora»); véase también TIEMPO.
 
-3. stigme (óôéãìÞ, [[G4743]]), punzón, aguijón (relacionado con stizo, pinchar). Se usa metafóricamente en Luc_4:5, de un momento, con cronos, «un momento de tiempo».¶
+3. stigme (στιγμή, [[G4743]]), punzón, aguijón (relacionado con stizo, pinchar). Se usa metafóricamente en Luc_4:5, de un momento, con cronos, «un momento de tiempo».¶
 
 Nota: Se tiene que distinguir de stigma, marca (Gál_6:17), que, sin embargo, también está relacionado con stizo .
 
 B. Adjetivo
 
-bracus (âñá÷ýò, [[G1024]]), corto. Se usa en cierto grado, adverbialmente, de tiempo, en Hch_5:24, sin ninguna preposición, traducido «un momento» en Hch_5:34 (rv: «un poco»). Véase POCO, y también BREVEMENTE.
+bracus (βραχύς, [[G1024]]), corto. Se usa en cierto grado, adverbialmente, de tiempo, en Hch_5:24, sin ninguna preposición, traducido «un momento» en Hch_5:34 (rv: «un poco»). Véase POCO, y también BREVEMENTE.
 
 C. Adverbios
 
@@ -31,6 +31,6 @@ C. Adverbios
 
 4. paracrema (ðáñá÷ñç̂ìá, [[G3916]]), véanse INMEDIATAMENTE, INSTANTE. Se traduce «al momento» en Luc_1:64; Hch_3:7; Hch_19:23.
 
-5. parautika (ðáñáõôßêá, [[G3910]]), equivalente a parauta, inmediatamente (no en el NT), esto es, para ata, sobrentendiéndose ta pragmata, «en las mismas circ unstancias». Se usa adjetivamente en 2Co_4:17, traduciéndose «momentánea». El significado, sin embargo, no es meramente de una breve duración, sino aquello que está presente con nosotros o inmediato (para, al lado, con), en contraste a la gloria futura. La cláusula es, lit. «porque la presente ligereza (esto es, carga ligera, usándose el adjetivo elafron, ligero, como nombre) de nuestra aflicción».¶ Este significado queda confirmado por su utilización en la lxx, en el Sal_70:3, «sean vueltos atrás inmediatamente», donde no se podría traducir «momentáneo».¶ 
+5. parautika (παραυτίκα, [[G3910]]), equivalente a parauta, inmediatamente (no en el NT), esto es, para ata, sobrentendiéndose ta pragmata, «en las mismas circ unstancias». Se usa adjetivamente en 2Co_4:17, traduciéndose «momentánea». El significado, sin embargo, no es meramente de una breve duración, sino aquello que está presente con nosotros o inmediato (para, al lado, con), en contraste a la gloria futura. La cláusula es, lit. «porque la presente ligereza (esto es, carga ligera, usándose el adjetivo elafron, ligero, como nombre) de nuestra aflicción».¶ Este significado queda confirmado por su utilización en la lxx, en el Sal_70:3, «sean vueltos atrás inmediatamente», donde no se podría traducir «momentáneo».¶ 
 
 

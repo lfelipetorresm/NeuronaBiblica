@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#INSTIGAR"]
 
 # INSTIGAR
 
-parotruno (ðáñïôñýíù, [[G3951]]), (de para, utilizado intensivamente, más allá de toda medida, y otruno, apremiar, excitar); se usa en Hch_13:50 : «instigaron».¶ 
+parotruno (παροτρύνω, [[G3951]]), (de para, utilizado intensivamente, más allá de toda medida, y otruno, apremiar, excitar); se usa en Hch_13:50 : «instigaron».¶ 
 
 

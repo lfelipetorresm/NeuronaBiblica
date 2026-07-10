@@ -13,8 +13,8 @@ Véase también ACCIÓN.
 
 A esto se puede añadir: (k) la respuesta activa de los creyentes a la obra interior de Dios (Fil_2:13 b); (l) la oración de los justos (Stg_5:16, lit: «obrando eficazmente»). Véanse ( ESTAR EN ), HACER, OBRAR, OPERAR, PRODUCIR.¶
 
-2. poieo (ðïéÝù, [[G4160]]), hacer. Se traduce «actuar» solo en Apo_13:5, de las 541 veces que aparece en el NT. Las otras traducciones son causar, celebrar, cometer, conducir, constituir, convertir, cumplir dar, echar, efectuar, ejecutar, ejercer, establecer, estar, guardar, hacer, llevar, pasar, poner, practicar, preparar, producir, tomar, trabajar, tramar, usar. De todas estas, la palabra usada con más frecuencia como traducción es «hacer», en realidad en una abrumadora mayoría de las veces en que aparece poieo . Véase HACER.
+2. poieo (ποιέω, [[G4160]]), hacer. Se traduce «actuar» solo en Apo_13:5, de las 541 veces que aparece en el NT. Las otras traducciones son causar, celebrar, cometer, conducir, constituir, convertir, cumplir dar, echar, efectuar, ejecutar, ejercer, establecer, estar, guardar, hacer, llevar, pasar, poner, practicar, preparar, producir, tomar, trabajar, tramar, usar. De todas estas, la palabra usada con más frecuencia como traducción es «hacer», en realidad en una abrumadora mayoría de las veces en que aparece poieo . Véase HACER.
 
-3. sunergeo (óõíåñãÝù, [[G4903]]), trabajar con o juntamente (sun). Aparece en Stg_2:22 como «actuó juntamente con». Se traduce «ayudándoles» (Mar_16:20); «ayudan» (Rom_8:28); «que ayudan» (1Co_16:16); como «colaboradores» (2Co_6:1); (vm: «que coopera»). Véase AYUDAR, COLABORADOR.¶ 
+3. sunergeo (συνεργέω, [[G4903]]), trabajar con o juntamente (sun). Aparece en Stg_2:22 como «actuó juntamente con». Se traduce «ayudándoles» (Mar_16:20); «ayudan» (Rom_8:28); «que ayudan» (1Co_16:16); como «colaboradores» (2Co_6:1); (vm: «que coopera»). Véase AYUDAR, COLABORADOR.¶ 
 
 

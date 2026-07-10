@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#REBAÑO,MANADA"]
 
 # REBAÑO, MANADA
 
-tso'n (öéàï, [[H6629]]), «manada, rebaño; ganado pequeño; ovejas; cabras». Una palabra similar se encuentra en acádico, arameo y siríaco, así como en las tablas de Tell el-Amarna. En hebreo tso'n ha mantenido su significado en todas las etapas del desarrollo de la lengua. El vocablo aparece 273 veces en el Antiguo Testamento hebreo y por primera vez en Gén_4:2. El término no se limita a ningún período de la lengua hebrea ni a una categoría literaria en particular. Con todo, el libro de Génesis con sus narraciones sobre la vida pastoril de los patriarcas contiene la mayor frecuencia de casos (alrededor de 60).
+tso'n (ציאן, [[H6629]]), «manada, rebaño; ganado pequeño; ovejas; cabras». Una palabra similar se encuentra en acádico, arameo y siríaco, así como en las tablas de Tell el-Amarna. En hebreo tso'n ha mantenido su significado en todas las etapas del desarrollo de la lengua. El vocablo aparece 273 veces en el Antiguo Testamento hebreo y por primera vez en Gén_4:2. El término no se limita a ningún período de la lengua hebrea ni a una categoría literaria en particular. Con todo, el libro de Génesis con sus narraciones sobre la vida pastoril de los patriarcas contiene la mayor frecuencia de casos (alrededor de 60).
 
 El significado principal de tso'n es «ganado pequeño», a diferencia de baqar («rebaño»). El término puede referirse solamente a «ovejas» (1Sa_25:2) o a «ovejas y cabras»: «Así será constatada mi honradez en el futuro, cuando tomes en cuenta mi salario: Toda cabra que no sea pintada o salpicada y toda oveja que no sea de color oscuro, que esté conmigo, será considerada como robada» (Gén_30:33 rva). La «manada» era un factor económico importante en el Medio Oriente antiguo. Los animales servían de alimento (1Sa_14:32; cf. Sal_44:11), se les quitaba la lana (Gén_31:19) y daban leche (Deu_32:14). También se ofrecían en sacrificio, como cuando Abel ofreció «de los primogénitos de sus ovejas» (Gén_4:4).
 
@@ -19,7 +19,7 @@ La promesa profética tiene que ver con la renovada bendición de Dios sobre el 
 
 La Septuaginta traduce el término de las siguientes formas: probaton («ovejas») y poimnion («rebaño»).
 
-baqar (áÌÈ÷Èø, [[H1241]]), «manada, rebaño, ganado». Este nombre tiene cognados en arábigo y arameo. Aparece unas 180 veces en hebreo bíblico, durante todos los períodos.
+baqar (בָּקָר, [[H1241]]), «manada, rebaño, ganado». Este nombre tiene cognados en arábigo y arameo. Aparece unas 180 veces en hebreo bíblico, durante todos los períodos.
 
 Un significado del término es «ganado», o sea, los animales cuyas carnes servían de alimento y los cueros se presentaban como ofrenda a Dios (Núm_15:8). Este es el significado de baqar en Gén_12:16, la primera vez que el vocablo se usa: «E hizo [faraón] bien a Abram por causa de ella; y él tuvo ovejas, y vacas, y asnos». El término tiene que ver con animales que pastan (1Cr_27:29) y se comen (1Re_4:23). Son también animales que halan carros (2Sa_6:3, 2Sa_6:6), arados (Job_1:14) y que llevan cargas sobre sus lomos (1Cr_12:40).
 

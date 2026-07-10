@@ -15,6 +15,6 @@ A. Verbos
 
 B. Nombre
 
-paroxusmos (ðáñïîõóìüò, [[G3948]]), denota estímulo (cf. el término castellano, paroxismo); Heb_10:24 : «estimularnos al amor»; lit: «para estímulo del amor». Véase DESACUERDO. 
+paroxusmos (παροξυσμός, [[G3948]]), denota estímulo (cf. el término castellano, paroxismo); Heb_10:24 : «estimularnos al amor»; lit: «para estímulo del amor». Véase DESACUERDO. 
 
 

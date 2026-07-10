@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MANDAMIENTO"]
 
 # MANDAMIENTO
 
-mitswah (îÄöÀåÈä, [[H4687]]), «mandamiento». Este nombre aparece 181 veces en el Antiguo Testamento. Se encuentra por primera vez en Gén_26:5 (rva), donde mitswah es sinónimo de joq («estatuto») y de tôrah («ley»): «Porque Abraham obedeció mi voz y guardó mi ordenanza, mis mandamientos, mis estatutos y mis instrucciones».
+mitswah (מִצְוָה, [[H4687]]), «mandamiento». Este nombre aparece 181 veces en el Antiguo Testamento. Se encuentra por primera vez en Gén_26:5 (rva), donde mitswah es sinónimo de joq («estatuto») y de tôrah («ley»): «Porque Abraham obedeció mi voz y guardó mi ordenanza, mis mandamientos, mis estatutos y mis instrucciones».
 
 En el Pentateuco, Dios es siempre el Dador del mitswah : «Cuidaréis de poner por obra todo mandamiento que yo os mando hoy, para que viváis y seáis multiplicados, y para que entréis y toméis posesión de la tierra que Jehová juró dar a vuestros padres. Acuérdate de todo el camino por donde te ha conducido Jehová tu Dios estos cuarenta años por el desierto, con el fin de humillarte y probarte, para saber lo que estaba en tu corazón, y si guardarías sus mandamientos, o no» (Deu_8:1-2 rva). El «mandamiento» puede ser una prescripción («haréis») o una proscripción («no haréis»). Los mandamientos se dieron al alcance del oído de los israelitas (Éxo_15:26; Deu_11:13), quienes los debían «hacer» (Lev_4:2 ss) y «guardar» (Deu_4:2; Sal_78:7). Cualquier incumplimiento significaría un rompimiento del pacto (Núm_15:31), transgresión (2Cr_24:20) y apostasía (1Re_18:18).
 

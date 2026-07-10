@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ODIAR"]
 
 A. Verbo
 
-sane (ùÒÈðÅà, [[H8130]]), «odiar, aborrecer, detestar, enemistar». Este verbo aparece en ugarítico, moabita, arameo y arábigo. Lo vemos en todos los períodos de la lengua hebrea y unas 145 veces en la Biblia.
+sane (שָׂנֵא, [[H8130]]), «odiar, aborrecer, detestar, enemistar». Este verbo aparece en ugarítico, moabita, arameo y arábigo. Lo vemos en todos los períodos de la lengua hebrea y unas 145 veces en la Biblia.
 
 Sane describe una emoción que va desde un «odio» intenso hasta la actitud menos fuerte de «enemistarse» y se usa para personas y cosas (incluyendo ideas, palabras y objetos inanimados).
 
@@ -23,5 +23,5 @@ Con una connotación menos fuerte, sane quiere decir «ser enemigo» de alguien 
 
 B. Nombre
 
-sin'ah (ùÒÄðÀàÈä, [[H8135]]), «odio». Este nombre aparece 17 veces en el Antiguo Testamento. En Núm_35:20 rva vemos un ejemplo: «Si por odio lo empuja o arroja algo contra él intencionadamente». 
+sin'ah (שִׂנְאָה, [[H8135]]), «odio». Este nombre aparece 17 veces en el Antiguo Testamento. En Núm_35:20 rva vemos un ejemplo: «Si por odio lo empuja o arroja algo contra él intencionadamente». 
 

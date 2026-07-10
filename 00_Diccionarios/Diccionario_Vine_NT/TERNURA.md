@@ -13,6 +13,6 @@ epieikeia (ἐðéåßêåéá, [[G1932]]), gentileza, suavidad, amabilidad (lo 
 
 B. Verbo
 
-thalpo (èÜëðù, [[G2282]]), primariamente calentar, ablandar con calor. Se emplea metafóricamente en Efe_5:29 : «cuida»; 1Ts_2:7 : «cuida con ternura». Véanse CUIDAR, A, Nº 4, REGALAR, A. 
+thalpo (θάλπω, [[G2282]]), primariamente calentar, ablandar con calor. Se emplea metafóricamente en Efe_5:29 : «cuida»; 1Ts_2:7 : «cuida con ternura». Véanse CUIDAR, A, Nº 4, REGALAR, A. 
 
 

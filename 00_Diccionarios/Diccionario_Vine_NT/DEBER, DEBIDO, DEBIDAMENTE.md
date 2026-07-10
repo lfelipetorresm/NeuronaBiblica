@@ -13,7 +13,7 @@ A. Nombres
 
 2. ofeile (ὀöåéëÞ, [[G3782]]), lo que se debe. Se traduce «deuda» en Mat_18:32; en plural: «lo que debéis»; «el deber conyuga» (1Co_7:3): hay textos aquí que tienen ofeilomenen (eunoian) «la debida benevolencia»; los mss. más acreditados tienen lo primero. Véase DEUDA.¶
 
-3. cre (÷ñÞ, [[G5534]]), verbo impersonal, relacionado a craomai, (usar). Aparece en Stg_3:10 : «no debe ser así»; lit: «no es apropiado, que estas cosas sean tales».¶
+3. cre (χρή, [[G5534]]), verbo impersonal, relacionado a craomai, (usar). Aparece en Stg_3:10 : «no debe ser así»; lit: «no es apropiado, que estas cosas sean tales».¶
 
 B. Verbos
 
@@ -21,7 +21,7 @@ B. Verbos
 
 2. ofeilo (ὀöåßëù, [[G3784]]), deber, ser deudor (en la voz pasiva, ser debido). Se traduce con el verbo deber en todos los pasajes en que aparece en la rvr, excepto en 1Co_5:10 : «os sería necesario»; 1Co_7:36 : «es necesario»; y en Mat_23:16, Mat_23:18 : «es deudor»; se usa de deber dinero (p.ej., Mat_18:28); de la obligación de llevar algo a cabo (Luc_17:10); de la obligación de sobrellevar las cargas de los otros (Rom_15:1); de la obligación de que el hombre lleve la cabeza descubierta (1Co_11:7), y la mujer cubierta (v. 10), en oración; de lo que sería propio, conforme a una serie de realidades (Heb_5:12); de nuestra obligación de caminar coherentemente con nuestra profesión de cristianos ( 1Jn_2:6); y de la necesidad de que los creyentes, perteneciendo a la misma familia de Dios, se amen los unos a los otros ( 1Jn_4:11). Véanse DEUDOR, NECESARIO.
 
-3. prosofeilo (ðñïóïöåßëù, [[G4359]]), deber además (pros, además, y el Nº 2). Se usa en Flm_1:19 : «aun tú mismo te me debes también», esto es, «tú me debes tanto ya como la deuda de Onésimo, y además me debes a ti mismo».¶
+3. prosofeilo (προσοφείλω, [[G4359]]), deber además (pros, además, y el Nº 2). Se usa en Flm_1:19 : «aun tú mismo te me debes también», esto es, «tú me debes tanto ya como la deuda de Onésimo, y además me debes a ti mismo».¶
 
 C. Adjetivo
 
@@ -29,6 +29,6 @@ jidios (ἴäéïò, [[G2389]]), lo propio de uno. Se aplica a kairos (Gál_6:9 
 
 D. Adverbio
 
-dikaios (äéêáßùò, [[G1346]]), justamente, rectamente, de acuerdo con lo que es justo. Se dice: (a) del juicio de Dios (1Pe_2:23 : «justamente»); (b) de los hombres (Luc_23:41 : «justamente»; 1Co_15:34 : «debidamente»; 1Ts_2:10 : «justa … mente», e igualmente en Tit_2:12); véase JUSTAMENTE.¶ 
+dikaios (δικαίως, [[G1346]]), justamente, rectamente, de acuerdo con lo que es justo. Se dice: (a) del juicio de Dios (1Pe_2:23 : «justamente»); (b) de los hombres (Luc_23:41 : «justamente»; 1Co_15:34 : «debidamente»; 1Ts_2:10 : «justa … mente», e igualmente en Tit_2:12); véase JUSTAMENTE.¶ 
 
 

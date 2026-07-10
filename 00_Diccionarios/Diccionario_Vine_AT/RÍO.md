@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#RÍO"]
 
 A. Nombres
 
-najal (ðÇçÇì, [[H5158]]), «wadi; torrente; río; pozo». La misma raíz se encuentra en acádico, hebreo posbíblico y siríaco. En arábigo, los mismos radicales quieren decir «palmera». Najal aparece 139 veces en todos los períodos del hebreo bíblico.
+najal (נַחַל, [[H5158]]), «wadi; torrente; río; pozo». La misma raíz se encuentra en acádico, hebreo posbíblico y siríaco. En arábigo, los mismos radicales quieren decir «palmera». Najal aparece 139 veces en todos los períodos del hebreo bíblico.
 
 El nombre se refiere al cauce de un río seco por el que corren aguas durante la estación de lluvias: «Isaac se fue de allí, asentó sus tiendas junto al arroyo de Gerar y habitó allí» (Gén_26:17 rva : primer caso bíblico). El término puede entonces indicar el «wadi» cuando se transforma en un torrente de agua. Por cierto, parece indicar también las propias aguas: «Los tomó, pues, e hizo pasar el arroyo [«río» rva] a ellos y a todo lo que tenía» (Gén_32:23). A veces najal se refiere a un «río» o a un arroyo permanente: «De todos los animales acuáticos podréis comer estos: todos los que tienen aletas y escamas, tanto de las aguas del mar como de los ríos» (Lev_11:9 rva). En fin, najal quiere decir «pozo» de mina (solo una vez en las Escituras): «Abren minas lejos de lo habitado [«galerías inaccesibles» nbe], en lugares olvidados, donde el pie no pasa» (Job_28:4).
 
@@ -17,7 +17,7 @@ El Pentateuco, coherentemente, distingue entre corrientes de agua fuera de Egipt
 
 Najal se usa como figura de muchas cosas que surgen y desaparecen de repente o que poseen un poderío arrasador, tales como el orgullo de las naciones (Isa_66:12), la fuerza de un invasor (Jer_47:2) y el poder del enemigo (Sal_18:4). Ni torrentes de aceite agradarían al Señor si el corazón del que lo ofrece no está bien con Dios (Miq_6:7). Dios inunda a los piadosos con torrentes de su buena voluntad (Sal_36:8). Las corrientes, o más bien torrentes, en el desierto tipifican el escatón (Eze_47:5-19; cf. Éxo_17:3 ss).
 
-nahar (ðÈäÈø, [[H5104]]), «río; arroyo; canal; corriente». Se constatan cognados de este vocablo en ugarítico, acádico, arameo y arábigo. El término se encuentra en hebreo bíblico unas 120 veces y en todos los períodos.
+nahar (נָהָר, [[H5104]]), «río; arroyo; canal; corriente». Se constatan cognados de este vocablo en ugarítico, acádico, arameo y arábigo. El término se encuentra en hebreo bíblico unas 120 veces y en todos los períodos.
 
 Primero, el vocablo por lo general se refiere a cauces de agua que son naturales y permanentes. La primera vez que se usa, nahar indica los prístinos ríos del Edén: «Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro brazos» (Gén_2:10).
 
@@ -31,7 +31,7 @@ El vocablo tiene un papel importante en la figura de la bendición divina que se
 
 B. Verbo
 
-nahar (ðÈäÇø, [[H5102]]), «fluir». El verbo, derivado del nombre nahar, aparece 3 veces en hebreo bíblico.
+nahar (נָהַר, [[H5102]]), «fluir». El verbo, derivado del nombre nahar, aparece 3 veces en hebreo bíblico.
 
 Se encuentra por primera vez en Isa_2:2 : «Acontecerá en los últimos días que el monte de la casa de Jehovah será establecido como cabeza de los montes, y será elevado más que las colinas; y correrán a él todas las naciones» (rva). 
 

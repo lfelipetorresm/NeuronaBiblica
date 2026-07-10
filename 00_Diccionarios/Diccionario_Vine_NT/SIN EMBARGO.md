@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SINEMBARGO"]
 
 # SIN EMBARGO
 
-mentoi (ìÝíôïé, [[G3305]]), véase EMBARGO ( SIN ), OBSTANTE ( NO ). 
+mentoi (μέντοι, [[G3305]]), véase EMBARGO ( SIN ), OBSTANTE ( NO ). 
 
 

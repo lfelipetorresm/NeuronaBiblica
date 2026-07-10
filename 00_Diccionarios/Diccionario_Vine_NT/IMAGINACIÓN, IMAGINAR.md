@@ -13,6 +13,6 @@ enthumesis (ἐíèýìçóéò, [[G1761]]), cogitación, razonamiento interno; 
 
 B. Verbo
 
-dokeo (äïêÝù, [[G1380]]), pensar. Se traduce «imagina» en 1Co_8:2. Véase PENSAR, etc. 
+dokeo (δοκέω, [[G1380]]), pensar. Se traduce «imagina» en 1Co_8:2. Véase PENSAR, etc. 
 
 

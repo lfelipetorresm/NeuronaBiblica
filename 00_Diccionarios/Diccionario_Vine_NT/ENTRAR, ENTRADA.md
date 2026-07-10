@@ -29,19 +29,19 @@ A. Verbos
 
 10. eisercomai (åἰóÝñ÷ïìáé, [[G1525]]), venir adentro (eis, en; ercomai, venir). Se traduce casi siempre en unión con el verbo entrar (p.ej., Mat_5:20; Mat_6:6; Mar_1:21, Mar_1:55; Luc_1:9, Luc_1:28, Luc_1:50; Jua_3:4-5; Hch_1:13; etc.). Véanse IR, LLEGAR, PASAR, PENETRAR, SALIR, VENIR.
 
-11. pareisercomai (ðáñåéóÝñ÷ïìáé, [[G3922]]), (a) entrar en al lado (para, al lado, y Nº 10). Se traduce «se introdujo» en Rom_5:20, siendo el significado que la ley entró en adición al pecado; (b) entrar secretamente, a escondidas (Gál_2:4 : «entraban», vm: «entraban clandestinamente»), para cumplir los propósitos del partido de la circuncisión. Véase INTRODUCIR.
+11. pareisercomai (παρεισέρχομαι, [[G3922]]), (a) entrar en al lado (para, al lado, y Nº 10). Se traduce «se introdujo» en Rom_5:20, siendo el significado que la ley entró en adición al pecado; (b) entrar secretamente, a escondidas (Gál_2:4 : «entraban», vm: «entraban clandestinamente»), para cumplir los propósitos del partido de la circuncisión. Véase INTRODUCIR.
 
-12. suneisercomai (óõíåéóÝñ÷ïìáé, [[G4897]]), entrar juntos. Se usa en Jua_6:22 : «no había entrado con», en los mejores mss.; y 18:15.¶
+12. suneisercomai (συνεισέρχομαι, [[G4897]]), entrar juntos. Se usa en Jua_6:22 : «no había entrado con», en los mejores mss.; y 18:15.¶
 
-13. lambano (ëáìâÜíù, [[G2983]]), recibir, tomar. Este término se traduce con el verbo entrar en Mat_27:1 : «entraron en consejo», lit: «tomaron consejo». Véanse RECIBIR, TOMAR, etc.
+13. lambano (λαμβάνω, [[G2983]]), recibir, tomar. Este término se traduce con el verbo entrar en Mat_27:1 : «entraron en consejo», lit: «tomaron consejo». Véanse RECIBIR, TOMAR, etc.
 
-14. pareisduo (ðáñåéóäýù, [[G3921]]), o pareisduno, entrar por el lado (para, al lado, eis, en), insinuarse hacia adentro, entrar a escondidas. El término se traduce «han entrado encubiertamente», en Jud_1:4. Véase ENCUBIERTAMENTE.¶
+14. pareisduo (παρεισδύω, [[G3921]]), o pareisduno, entrar por el lado (para, al lado, eis, en), insinuarse hacia adentro, entrar a escondidas. El término se traduce «han entrado encubiertamente», en Jud_1:4. Véase ENCUBIERTAMENTE.¶
 
 B. Nombres
 
 1. eisodos (åἴóïäïò, [[G1529]]), lit: camino adentro (eis, en; jodos, camino), entrada. Se usa: (a) de la venida de Cristo en medio de la nación judía (Hch_13:24 : «antes de su venida»; lit: antes del rostro de su entrada); (b) de la entrada a la obra del evangelio en una localidad (1Ts_1:9; 1Ts_2:1); (c) del presente acceso de los creyentes a la presencia de Dios (Heb_10:19; lit: «para entrada dentro»; (d) de su entrada en el Reino eterno de Cristo (2Pe_1:11). Véase VENIDA.¶
 
-2. proaulion (ðñïáýëéïí, [[G4259]]), patio o vestíbulo exterior entre la puerta y la calle, en las casas acomodadas ( Mar_14:68 : «entrada»; vmy nvi: «zaguán»).¶
+2. proaulion (προαύλιον, [[G4259]]), patio o vestíbulo exterior entre la puerta y la calle, en las casas acomodadas ( Mar_14:68 : «entrada»; vmy nvi: «zaguán»).¶
 
 3. prosagoge, véase ACCESO.
 

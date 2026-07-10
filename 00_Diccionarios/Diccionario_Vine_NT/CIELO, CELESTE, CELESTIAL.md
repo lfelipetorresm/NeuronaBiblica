@@ -13,7 +13,7 @@ A. Nombres
 
 En Luc_15:18, Luc_15:21, se usa cielo para denotar a Dios, por metonimia. En Heb_9:23, se traduce «celestiales» (rv, rvr, rvr77, vm, lit., «de los cielos»).
 
-2. mesouranema (ìåóïõñÜíçìá, [[G3321]]), denota el cielo medio, o el medio de los cielos (mesos, medio, y Nº 1) (Apo_8:13; Apo_14:6; Apo_19:17). Véase MEDIO.¶
+2. mesouranema (μεσουράνημα, [[G3321]]), denota el cielo medio, o el medio de los cielos (mesos, medio, y Nº 1) (Apo_8:13; Apo_14:6; Apo_19:17). Véase MEDIO.¶
 
 B. Adjetivos
 

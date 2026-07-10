@@ -9,6 +9,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#HORTELANO"]
 
 Véase también HUERTO.
 
-kepouros (êçðïõñüò, [[G2780]]), lit., cuidador de huerto (de kepos, véase HUERTO, y ouros, vigilante). Aparece en Jua_20:15.¶ 
+kepouros (κηπουρός, [[G2780]]), lit., cuidador de huerto (de kepos, véase HUERTO, y ouros, vigilante). Aparece en Jua_20:15.¶ 
 
 

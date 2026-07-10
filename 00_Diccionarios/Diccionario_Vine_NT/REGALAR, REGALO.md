@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#REGALAR,REGALO"]
 
 A. Verbo
 
-thalpo (èÜëðù, [[G2282]]), véase CUIDAR, A, Nº 4. Se traduce «regala» en la rv en Efe_5:29; 1Ts_2:7.¶
+thalpo (θάλπω, [[G2282]]), véase CUIDAR, A, Nº 4. Se traduce «regala» en la rv en Efe_5:29; 1Ts_2:7.¶
 
 B. Nombre
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SUEGRO"]
 
 # SUEGRO
 
-pentheros (ðåíèåñüò, [[G3995]]), padre de la esposa (de una raíz que significa ligazón, unión). Se encuentra en Jua_18:13.¶ 
+pentheros (πενθερός, [[G3995]]), padre de la esposa (de una raíz que significa ligazón, unión). Se encuentra en Jua_18:13.¶ 
 
 

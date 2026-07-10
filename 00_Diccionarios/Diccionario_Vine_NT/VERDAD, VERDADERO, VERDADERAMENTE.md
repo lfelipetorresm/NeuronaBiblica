@@ -21,7 +21,7 @@ B. Adjetivos
 
 Nota: «alethinos se relaciona con alethes como la forma con el contenido o sustancia; alethes denota la realidad de la cosa, y alethinos define la relación de la concepción con la cosa a la que se corresponde, = genuino» (Cremer). El arzobispo Trench lo recapitula del siguiente modo: «Podemos afirmar del alethes que cumple la promesa de sus labios; pero del alethinos la más amplia promesa de su nombre. Todo lo que este nombre significa, tomado en su sentido más elevado, profundo y amplio, en todo aquello que él debiera ser, esto es él de una manera plena».
 
-3. gnesios (ãíÞóéïò, [[G1103]]), significa primariamente «legítimamente engendrado» (relacionado con ginomai, devenir, venir a ser), de ahí verdadero, genuino, sincero. Se emplea en 1Ti_1:2 : «verdadero hijo en la fe» (Besson: «legítimo»); Tit_1:4 : «verdadero hijo en la común fe» (Besson: «legítimo»). Se traduce «sinceridad» en 2Co_8:8; «compañero fiel» en Fil_4:3 (rv: «hermano compañero»; Besson: «querido»; vm: «fiel compañero de yugo»). Para el nombre calificado por el adjetivo gnesios en este pasaje, su(n) zugos, véase COMPAÑERO bajo COMPAÑERISMO, B, Nº 1.
+3. gnesios (γνήσιος, [[G1103]]), significa primariamente «legítimamente engendrado» (relacionado con ginomai, devenir, venir a ser), de ahí verdadero, genuino, sincero. Se emplea en 1Ti_1:2 : «verdadero hijo en la fe» (Besson: «legítimo»); Tit_1:4 : «verdadero hijo en la común fe» (Besson: «legítimo»). Se traduce «sinceridad» en 2Co_8:8; «compañero fiel» en Fil_4:3 (rv: «hermano compañero»; Besson: «querido»; vm: «fiel compañero de yugo»). Para el nombre calificado por el adjetivo gnesios en este pasaje, su(n) zugos, véase COMPAÑERO bajo COMPAÑERISMO, B, Nº 1.
 
 C. Verbo
 
@@ -33,7 +33,7 @@ D. Adverbios
 
 2. ontos (ὄíôùò, [[G3689]]), adverbio derivado de on, participio presente de eimi, ser, denota realmente, verdaderamente, en verdad. Se emplea en Mar_11:32 : «verdadero profeta» (rv: «verdaderamente era profeta»); Luc_23:47; Luc_24:34; Jua_8:36; 1Co_14:25; Gál_3:21; 1Ti_5:3 : «en verdad»; v. 5: «en verdad»; v. 16: «en verdad»; 2Pe_2:18; en 1Ti_6:19, rvr sigue los textos que tienen aionios, «eterna» (vm: «la vida que lo es en verdad», siguiendo los mss. más comúnmente aceptados).¶
 
-3. gnesios (ãíåóßùò, [[G1103]]), relacionado con B, Nº 3, sinceramente, honorablemente. Se traduce «tan sinceramente» (Fil_2:20, rvr, rvr77; rv: «con sincera afición»; vm: «ingenuamente»; Besson: «íntimamente»), esto es, «tan verdaderamente».¶
+3. gnesios (γνεσίως, [[G1103]]), relacionado con B, Nº 3, sinceramente, honorablemente. Se traduce «tan sinceramente» (Fil_2:20, rvr, rvr77; rv: «con sincera afición»; vm: «ingenuamente»; Besson: «íntimamente»), esto es, «tan verdaderamente».¶
 
 Notas: (1) Para la partícula de, traducida «verdaderamente lleva fruto» (Mat_13:23, vha; lba, «sí da fruto»), véase AHORA.
 
@@ -41,15 +41,15 @@ Notas: (1) Para la partícula de, traducida «verdaderamente lleva fruto» (Mat_
 
 E. Partículas y Frases
 
-1. men (ìÝí, [[G3303]]), partícula conjuntiva (originalmente una forma de men, ciertamente, verdaderamente, que aparece en Heb_6:14¶), por lo general relacionada con una conjunción o partícula adversativa, como de, en la siguiente cláusula, que se pone en oposición a ella. Es frecuentemente intraducible; en ocasiones se traduce «verdaderamente», como en Mat_9:37 (vm; rvr: «a la verdad»); más veces con la frase «a la verdad» (p.ej., Mat_3:11; Mat_17:11; vm: «en verdad»; Mat_23:27, etc.); en otros casos se traduce «ciertamente» (p.ej., Heb_6:16; Heb_11:15; vm: «en verdad»).
+1. men (μέν, [[G3303]]), partícula conjuntiva (originalmente una forma de men, ciertamente, verdaderamente, que aparece en Heb_6:14¶), por lo general relacionada con una conjunción o partícula adversativa, como de, en la siguiente cláusula, que se pone en oposición a ella. Es frecuentemente intraducible; en ocasiones se traduce «verdaderamente», como en Mat_9:37 (vm; rvr: «a la verdad»); más veces con la frase «a la verdad» (p.ej., Mat_3:11; Mat_17:11; vm: «en verdad»; Mat_23:27, etc.); en otros casos se traduce «ciertamente» (p.ej., Heb_6:16; Heb_11:15; vm: «en verdad»).
 
-2. kai gar (êáὶ ãÜñ, [[G2532]]), significa «y de hecho», «porque también» (kai, y, o incluso, o también; gar siempre viene después de la primera palabra en la oración); se traduce «en verdad lo hacéis así» en 1Ts_4:10 (vm); y en Fil_2:27 (rv, rvr; vm: «a la verdad»), etc. Esta frase tiene un sentido confirmatorio más que modificador, p.ej., Mat_15:27 : «aun» (rvr77; vm: «también»); la mujer confirma que su propia posición como «perro» gentil conlleva privilegio, «porque verdaderamente los perros, etc.»
+2. kai gar (êáὶ γάρ, [[G2532]]), significa «y de hecho», «porque también» (kai, y, o incluso, o también; gar siempre viene después de la primera palabra en la oración); se traduce «en verdad lo hacéis así» en 1Ts_4:10 (vm); y en Fil_2:27 (rv, rvr; vm: «a la verdad»), etc. Esta frase tiene un sentido confirmatorio más que modificador, p.ej., Mat_15:27 : «aun» (rvr77; vm: «también»); la mujer confirma que su propia posición como «perro» gentil conlleva privilegio, «porque verdaderamente los perros, etc.»
 
-3. oude gar (ïὐäὲ ãÜñ, [[G3761]]), porque tampoco, se traduce «ni a la verdad» (Rom_8:7, vm; (rvr: «ni tampoco»; rvr77: «ya que ni siquiera»).
+3. oude gar (ïὐäὲ γάρ, [[G3761]]), porque tampoco, se traduce «ni a la verdad» (Rom_8:7, vm; (rvr: «ni tampoco»; rvr77: «ya que ni siquiera»).
 
-4. ala kai (ἀëëὰ êáß, [[G235]] + [[G2532]]), pero incluso, o pero también. Se traduce «y en verdad» en 2Co_11:1 (vm; rvr: «sí»).
+4. ala kai (ἀëëὰ καί, [[G235]] + [[G2532]]), pero incluso, o pero también. Se traduce «y en verdad» en 2Co_11:1 (vm; rvr: «sí»).
 
-5. kai (êáß, [[G2532]]), precedida por la partícula ge, «al menos», se traduce «en verdad» en Gál_3:4 (vm; rvr: «realmente»). Kai a solas se traduce «a la verdad» en Fil_4:10 (vm; rvr: «también»).
+5. kai (καί, [[G2532]]), precedida por la partícula ge, «al menos», se traduce «en verdad» en Gál_3:4 (vm; rvr: «realmente»). Kai a solas se traduce «a la verdad» en Fil_4:10 (vm; rvr: «también»).
 
 Notas: (1) Para eige, véase A, Notas (5) ; (2) para eanper, véase A, Nota (6) ; (3) para mentoi, véase A, Notas (7) ; (4) para de, véase bajo D, Notas (1) . 
 

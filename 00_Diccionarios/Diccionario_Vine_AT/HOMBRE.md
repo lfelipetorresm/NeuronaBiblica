@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HOMBRE"]
 
 A. Nombres
 
-'adam (àÈãÈí, [[H120]]), «hombre; humanidad; gente; alguien». Este nombre se encuentra en ugarítico, fenicio y púnico. Un término con los mismos radicales se encuentra en antiguo arábigo meridional con el significado de «siervo». En arábigo tardío los mismos radicales significan tanto «la humanidad» como «toda la creación». El término acádico admu significa «niño». El vocablo hebreo aparece unas 562 veces y en todos los períodos del hebreo bíblico.
+'adam (אָדָם, [[H120]]), «hombre; humanidad; gente; alguien». Este nombre se encuentra en ugarítico, fenicio y púnico. Un término con los mismos radicales se encuentra en antiguo arábigo meridional con el significado de «siervo». En arábigo tardío los mismos radicales significan tanto «la humanidad» como «toda la creación». El término acádico admu significa «niño». El vocablo hebreo aparece unas 562 veces y en todos los períodos del hebreo bíblico.
 
 Este nombre está relacionado con el nombre 'adom, «estar rojo», que puede ser una alusión a la tez rojiza o curtida de los hombres en la antigüedad. El nombre expresa el «hombre» como creatura a la imagen de Dios, la corona de toda la creación. En la primera vez que aparece «hombre» se refiere al género humano, es decir, el «hombre» en sentido genérico: «Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza» (Gén_1:26). En Gén_2:7 el vocablo se refiere al primer «hombre», Adán: «Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente».
 
@@ -21,7 +21,7 @@ A veces 'adam se refiere a un grupo limitado y particular de «hombres»: «He a
 
 'Adam se usa también para referirse a «cualquier hombre», a cualquier persona, varón o hembra: «Cuando alguien [«un hombre» lba] tenga en la piel de su cuerpo hinchazón, costra o mancha clara y se convierta en la piel de su cuerpo en llaga de lepra, será traído al sacerdote Aarón» (Lev_13:2 rva). El nombre quiere decir «rubí», vocablo que se encuentra 3 veces y solo en hebreo. En Éxo_28:17 encontramos a esta piedra preciosa de color rojo vivo, un «rubí»: «La primera hilera tendrá un rubí ['odem], un topacio y un berilo» (rva).
 
-geber (âÌÆÆáÆø, [[H1397]]), «hombre, varón». Este vocablo se encuentra 60 veces en el Antiguo Testamento hebreo; más de la mitad de los casos (32 veces) están en los libros poéticos. La primera vez que se usa es en Éxo_10:11 : «¡No será así! Id vosotros los varones y servid a Jehovah, pues esto es lo que vosotros habéis pedido» (rva).
+geber (גֶֶּבֶר, [[H1397]]), «hombre, varón». Este vocablo se encuentra 60 veces en el Antiguo Testamento hebreo; más de la mitad de los casos (32 veces) están en los libros poéticos. La primera vez que se usa es en Éxo_10:11 : «¡No será así! Id vosotros los varones y servid a Jehovah, pues esto es lo que vosotros habéis pedido» (rva).
 
 El significado de la raíz «ser fuerte» ya no es evidente en el uso de geber, puesto que es un sinónimo de 'îsh : «Así ha dicho Jehovah: Inscribid a este hombre [îsh] como uno privado de descendencia. Será un hombre [geber] que no prosperará en los días de su vida. Porque ningún hombre [îsh] de su descendencia logrará sentarse en el trono de David ni gobernar de nuevo en Judá» (Jer_22:30 rva). Otros sinónimos son zakar, «varón» (Jer_30:6); 'enôsh, «hombre» (Job_4:17); y 'adam, «hombre» (Job_14:10). Un geber denota un «varón», como antónimo de «hembra» o «mujer»; cf. «La mujer [] no se vestirá con ropa de hombre [geber], ni el hombre [geber] se pondrá vestido de mujer []; porque cualquiera que hace esto es una abominación a Jehová tu Dios» (Deu_22:5 rva).
 
@@ -29,7 +29,7 @@ En expresiones generalizadas de maldición y bendición, geber también actúa c
 
 La Septuaginta ofrece las siguientes traducciones: aner («hombre»); anthropos («ser humano; hombre»); y dunatos («los poderosos o fuertes»).
 
-'îsh (àÄéùÑ, [[H376]]), «hombre; marido; pareja; ser humano; humano; alguien; cada uno; todos». Hay cognados de esta palabra en fenicio, púnico, arameo antiguo y arábigo meridional antiguo. El nombre aparece unas 2:183 veces y en todos los períodos del hebreo bíblico. El plural de este nombre usualmente es îm, aunque 3 veces es îshîm (Sal_53:3).
+'îsh (אִישׁ, [[H376]]), «hombre; marido; pareja; ser humano; humano; alguien; cada uno; todos». Hay cognados de esta palabra en fenicio, púnico, arameo antiguo y arábigo meridional antiguo. El nombre aparece unas 2:183 veces y en todos los períodos del hebreo bíblico. El plural de este nombre usualmente es îm, aunque 3 veces es îshîm (Sal_53:3).
 
 Básicamente el término significa el «hombre» en su relación con la mujer; o sea, el «hombre» es una criatura que se distingue por su virilidad. Este es el énfasis en Gén_2:24 (primer caso): «Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer». Algunas veces la frase «hombre y mujer» puede significar individuos de cualquier edad, incluyendo niños: «Cuando un buey acornee a un hombre o a una mujer, y como consecuencia muera, el buey morirá apedreado» (Éxo_21:28 rva). Puede también expresar un grupo inclusivo, con niños: «Destruyeron a filo de espada todo lo que en la ciudad había; hombres y mujeres, jóvenes y viejos, hasta los bueyes, las ovejas, y los asnos» (Jos_6:21). A veces esta misma idea se expresa más explícitamente mediante la serie de vocablos «hombres, mujeres y niños»: «Harás congregar al pueblo, los hombres, las mujeres, los niños y los forasteros que estén en tus ciudades» (Deu_31:12 rva).
 
@@ -51,7 +51,7 @@ A veces 'îsh es indefinido, con el significado de «alguno» o «alguien» («e
 
 El vocablo 'ishôn significa «hombre pequeño». Este diminutivo del nombre, que aparece 3 veces, tiene un cognado en arábigo. Aunque literalmente significa «hombre pequeño», se refiere a la pupila del ojo y es así como se traduce (cf. Deu_32:10; «la niña de sus ojos»).
 
-'enôsh (àÁðåéùÑ, [[H582]]), «hombre». Esta palabra semítica común es la que se usa en el arameo bíblico como el genérico para «hombre» (equivalente hebreo de 'adam). Aparece 25 veces en el arameo bíblico y 42 en el hebreo bíblico. El hebreo utiliza 'enôsh exclusivamente en textos poéticos. La única excepción aparente está en 2Cr_14:11. Sin embargo, ese versículo es parte de una oración, por lo cual utiliza lenguaje poético.
+'enôsh (אֱנוישׁ, [[H582]]), «hombre». Esta palabra semítica común es la que se usa en el arameo bíblico como el genérico para «hombre» (equivalente hebreo de 'adam). Aparece 25 veces en el arameo bíblico y 42 en el hebreo bíblico. El hebreo utiliza 'enôsh exclusivamente en textos poéticos. La única excepción aparente está en 2Cr_14:11. Sin embargo, ese versículo es parte de una oración, por lo cual utiliza lenguaje poético.
 
 El término 'enôsh nunca aparece con el artículo definido y siempre, salvo una excepción (Sal_144:3), presenta una idea colectiva del «hombre». En la mayoría de los casos en que aparece en Job y en los Salmos, el vocablo sugiere, a diferencia de Dios, la fragilidad, vulnerabilidad y limitación del «hombre» en el tiempo y el espacio: «El hombre, como la hierba son sus días. Florece como la flor del campo» (Sal_103:15). Por tanto, el «hombre» no puede ser justo ni santo delante de Dios: «¿Será el mortal ['enôsh] más justo que Dios? ¿Será el hombre [geber] más puro que el que lo hizo?» (Job_4:17 rv-95). En los Salmos la palabra se usa para indicar un enemigo: «¡Levántate, oh Jehovah! ¡Que no prevalezca el hombre! Sean juzgadas las naciones delante de ti» (Sal_9:19 rva). Aquí el paralelismo muestra que 'enôsh es sinónimo de «naciones» o del enemigo. Por tanto, se representa a estas naciones como débiles, vulnerables y finitas: «Pon, oh Jehová, temor en ellos; conozcan las naciones que no son sino hombres» (Sal_9:20).
 
@@ -59,7 +59,7 @@ La acepción 'enôsh puede ser «hombres» débiles, pero no necesariamente déb
 
 En algunos lugares el término no implica matices éticos ni se refiere al «hombre» en un sentido paralelo a 'adam. Es finito a diferencia de un Dios infinito: «Los haré pedazos, borraré la memoria de ellos de entre los hombres» (Deu_32:26 lba : primer caso bíblico del vocablo).
 
-bajûr (áÌÈçåÌø, [[H970]]), «joven». Los 44 casos de este vocablo están esparcidos por todos los períodos del hebreo bíblico.
+bajûr (בָּחוּר, [[H970]]), «joven». Los 44 casos de este vocablo están esparcidos por todos los períodos del hebreo bíblico.
 
 El término significa un hombre completamente desarrollado, vigoroso y soltero. La primera vez que se encuentra bajûr se contrapone a betûlah, «doncella» o «virgen»: «Afuera desolará la espada, y adentro el espanto, tanto a los jóvenes como a las vírgenes, al que mama y al hombre con canas» (Deu_32:25 rva). La fuerza de un «joven» se contrapone a las canas (corona de honra) del anciano (Pro_20:29).
 
@@ -67,5 +67,5 @@ Hay dos nombres bejurîm y bejurôt ; aparecen una sola vez para describir el pe
 
 B. Verbo
 
-bajar (áÌÈçÇø, [[H977]]), «examinar, escoger, seleccionar, elegir, preferir». Este verbo, que aparece 146 veces en hebreo bíblico, tiene cognados en arameo tardío y cóptico. El nombre poético bajir, «los escogidos», también se deriva de este verbo. No todos los estudiosos están de acuerdo en que estos vocablos tienen relación con el nombre bajûr. Prefieren relacionarlos con el primer sentido de la raíz bhr, cuyo cognado en acádico se refiere a hombres de guerra. El término significa «escoger o seleccionar» en Gén_6:2 : «Tomaron para sí mujeres, escogiendo entre todas». 
+bajar (בָּחַר, [[H977]]), «examinar, escoger, seleccionar, elegir, preferir». Este verbo, que aparece 146 veces en hebreo bíblico, tiene cognados en arameo tardío y cóptico. El nombre poético bajir, «los escogidos», también se deriva de este verbo. No todos los estudiosos están de acuerdo en que estos vocablos tienen relación con el nombre bajûr. Prefieren relacionarlos con el primer sentido de la raíz bhr, cuyo cognado en acádico se refiere a hombres de guerra. El término significa «escoger o seleccionar» en Gén_6:2 : «Tomaron para sí mujeres, escogiendo entre todas». 
 

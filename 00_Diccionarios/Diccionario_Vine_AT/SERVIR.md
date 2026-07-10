@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SERVIR"]
 
 A. Verbos
 
-sharat (ùÑÈøÇú, [[H8334]]), «servir, ministrar». El vocablo se encuentra menos de 100 veces en el Antiguo Testamento. En la gran mayoría de los casos, sharat aparece como infinitivo o participio. En los casos en que el participio se traduce como nombre verbal, p. ej. «sirviente» o «ministro», el énfasis es puntual, o sea que no comunica la prolongación o repetición de la acción. El uso casi exclusivo de la forma verbal intensiva es otra característica gramatical de sharat.
+sharat (שָׁרַת, [[H8334]]), «servir, ministrar». El vocablo se encuentra menos de 100 veces en el Antiguo Testamento. En la gran mayoría de los casos, sharat aparece como infinitivo o participio. En los casos en que el participio se traduce como nombre verbal, p. ej. «sirviente» o «ministro», el énfasis es puntual, o sea que no comunica la prolongación o repetición de la acción. El uso casi exclusivo de la forma verbal intensiva es otra característica gramatical de sharat.
 
 El lector de la Biblia en castellano no podrá percibir el significado particular de sharat porque tiene un sinónimo, 'abad (o ebed), que también se traducen como «servir» o «servidor».
 
@@ -17,7 +17,7 @@ A menudo sharat denota el «servicio» que se ofrecía como parte del culto de I
 
 En un buen número de situaciones se usa el vocablo para denotar «servicio» a alguna otra persona, generalmente de rango superior o de una clase más alta; no obstante, el término nunca se refiere a la servidumbre de un esclavo. Moisés recibe la siguiente instrucción: «Haz que se acerque la tribu de Leví, y hazla estar delante del sacerdote Aarón, para que ellos le sirvan» (Núm_3:6; cf. 8:26). Eliseo «ministró» a Elías (1Re_19:21). Abisag «sirvió» a David (1Re_1:15). Diversas categorías de oficiales «sirvieron» a David (1Cr_28:1). El hijo de David, Amnón, tuvo «un criado que le servía» (2Sa_13:17). Siete eunucos «servían delante del rey Asuero» (Est_1:10). También se habla de «criados del rey, sus cortesanos» (Est_2:2).
 
-'abad (òÈáÇã, [[H5647]]), «servir, cultivar, esclavizar, trabajar». Esta raíz está ampliamente diseminada entre las lenguas semíticas y cananeas. El verbo aparece unas 290 veces en todo el Antiguo Testamento.
+'abad (עָבַד, [[H5647]]), «servir, cultivar, esclavizar, trabajar». Esta raíz está ampliamente diseminada entre las lenguas semíticas y cananeas. El verbo aparece unas 290 veces en todo el Antiguo Testamento.
 
 El verbo se usa por primera vez en Gén_2:5 (rva): «Ni había hombre para cultivarla». Dios encomienda al hombre la tarea de «cultivar y cuidar» la tierra (Gén_2:15; Gén_3:23). En Gén_14:4, «Habían servido a Quedorlaomer» quiere decir que fueron sus vasallos. Dios dijo a Abraham que sus descendientes serían «esclavizados» por el pueblo de una tierra extraña durante 400 años (Gén_15:13).
 
@@ -25,7 +25,7 @@ A menudo'abad se refiere a Dios: «Serviréis [«adoraréis» lba] a Dios sobre 
 
 B. Nombres
 
-'abôdah (òÂáåéãÈä, [[H5656]]), «trabajo; labores; tareas; servicio». Este nombre aparece 145 veces en el Antiguo Testamento hebraico; los casos se concentran en Números y Crónicas. Se usa 'abôdah por primera vez en Gén_29:27 : «Se te dará también la otra, por el servicio que hagas conmigo».
+'abôdah (עֲבוידָה, [[H5656]]), «trabajo; labores; tareas; servicio». Este nombre aparece 145 veces en el Antiguo Testamento hebraico; los casos se concentran en Números y Crónicas. Se usa 'abôdah por primera vez en Gén_29:27 : «Se te dará también la otra, por el servicio que hagas conmigo».
 
 El significado más general de 'abôdah se aproxima al término «trabajo» en castellano. «Labores» del campo (1Cr_27:26), «trabajo» diario desde el amanecer hasta la puesta del sol (Sal_104:23), y «trabajo» en la industria de lino (1Cr_4:21); todos estos ejemplos destacan usos que conocemos bien. Al mismo tiempo, debe añadirse que 'abôdah puede también ser «trabajo forzado», como el de un esclavo (Lev_25:39) o de Israel en Egipto: «Id vosotros y recoged la paja donde la halléis; pero nada se disminuirá de vuestra tarea» (Éxo_5:11).
 
@@ -35,7 +35,7 @@ Otro uso especial del vocablo tiene que ver con el tabernáculo y el templo. Los
 
 La Septuaginta traduce el término como leitourgia («servicio»); doulia («esclavitud»); ergon («trabajo; obra; ocupación»); y ergasia («carrera; práctica; trabajo; lucro; ganancia»).
 
-'ebed (òÆáÆã, [[H5650]]), «siervo, sirviente». Este nombre se encuentra más de 750 veces en el Antiguo Testamento. 'Ebed aparece por vez primera en Gén_9:25 : «Maldito sea Canaán; siervo de siervos será a sus hermanos», o sea, «esclavo». Un «siervo» podía comprarse con dinero (Éxo_12:44) o ser un asalariado (1Re_5:6). La declaración de la redención divina de Israel, tantas veces reiterada, es: «De la casa de servidumbre … Jehová os ha sacado» (Éxo_13:3, Heb_2:15; cf. nbe ; «esclavitud», rva, lba). 'Ebed también se usaba para expresar humildad y cortesía al dirigirse a un superior, como en Gén_18:3 : «Por favor, no pases de largo a tu siervo» (rva cf. Gén_42:10). Moisés se dirige a Dios diciendo: «¡Ay, Señor!, nunca he sido hombre de fácil palabra, ni antes, ni desde que tú hablas a tu siervo» (Éxo_4:10). El «servicio» es la señal de los que Dios llama, como en Éxo_14:31 : «El pueblo temió a Jehová, y creyeron a Jehová y a Moisés su siervo». Dios declara que: «Mis siervos son los hijos de Israel» (Lev_25:55; cf. Isa_49:3). «Habló, pues, Jehová por mano de sus siervos los profetas» (2Re_21:10). Dijo el salmista: «Yo soy tu siervo; siervo tuyo soy, hijo de tu sierva» (2Re_116:16); es un título apropiado para todo creyente.
+'ebed (עֶבֶד, [[H5650]]), «siervo, sirviente». Este nombre se encuentra más de 750 veces en el Antiguo Testamento. 'Ebed aparece por vez primera en Gén_9:25 : «Maldito sea Canaán; siervo de siervos será a sus hermanos», o sea, «esclavo». Un «siervo» podía comprarse con dinero (Éxo_12:44) o ser un asalariado (1Re_5:6). La declaración de la redención divina de Israel, tantas veces reiterada, es: «De la casa de servidumbre … Jehová os ha sacado» (Éxo_13:3, Heb_2:15; cf. nbe ; «esclavitud», rva, lba). 'Ebed también se usaba para expresar humildad y cortesía al dirigirse a un superior, como en Gén_18:3 : «Por favor, no pases de largo a tu siervo» (rva cf. Gén_42:10). Moisés se dirige a Dios diciendo: «¡Ay, Señor!, nunca he sido hombre de fácil palabra, ni antes, ni desde que tú hablas a tu siervo» (Éxo_4:10). El «servicio» es la señal de los que Dios llama, como en Éxo_14:31 : «El pueblo temió a Jehová, y creyeron a Jehová y a Moisés su siervo». Dios declara que: «Mis siervos son los hijos de Israel» (Lev_25:55; cf. Isa_49:3). «Habló, pues, Jehová por mano de sus siervos los profetas» (2Re_21:10). Dijo el salmista: «Yo soy tu siervo; siervo tuyo soy, hijo de tu sierva» (2Re_116:16); es un título apropiado para todo creyente.
 
 Muy significativo es la aplicación de «mi siervo» al Mesías en Isaías (2Re_42:1-7; 2Re_49:1-7; 2Re_50:4-10; 52:13-53:12). Israel fue un «siervo ciego y sordo» (Isa_42:18-22). Por tanto, el Señor llamó a «mi siervo justo» (Isa_53:11; cf. 42:6) para que «[llevara] el pecado de muchos» (Isa_53:12), «para que seas mi salvación hasta lo postrero de la tierra» (Isa_49:6).
 
@@ -45,7 +45,7 @@ La Septuaginta traduce 'abad y sus nombres mediante 7 raíces griegas diferentes
 
 C. Participio
 
-sharat (ùÑÈøÇú, [[H8334]]), «siervo; ministro, servidor». El término se traduce a menudo como «ministro» y a veces como «ayudante» o «servidor»: «Aconteció después de la muerte de Moisés siervo ['ebed] de Jehová, que Jehová habló a Josué hijo de Nun, ayudante [sharat ; «ministro» rv, nbe] de Moisés» (Jos_1:1 rva ; cf. lvp, bj, bla). En Eze_46:24 se refiere a un lugar en el complejo del templo reservado para «los servidores del templo [«de la casa» rvr]» (rva).
+sharat (שָׁרַת, [[H8334]]), «siervo; ministro, servidor». El término se traduce a menudo como «ministro» y a veces como «ayudante» o «servidor»: «Aconteció después de la muerte de Moisés siervo ['ebed] de Jehová, que Jehová habló a Josué hijo de Nun, ayudante [sharat ; «ministro» rv, nbe] de Moisés» (Jos_1:1 rva ; cf. lvp, bj, bla). En Eze_46:24 se refiere a un lugar en el complejo del templo reservado para «los servidores del templo [«de la casa» rvr]» (rva).
 
 El privilegio de servir al Señor no se limita a seres humanos: «Bendecid a Jehová, vosotros todos sus ejércitos [ángeles], ministros suyos que hacéis su voluntad» (Sal_103:21). El fuego y el viento, poéticamente personificados, también son «ministros» de Dios (Sal_104:3-4).
 

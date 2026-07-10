@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#AGUA"]
 
  La palabra agua se usa simbólicamente en Jua_3:5, ya (1) de la Palabra de Dios, como en 1Pe_1:23 (cf. el uso simbólico en Efe_5:26), o, a la vista de la preposición ek, fuera de, (2) de la verdad que expresa el bautismo, siendo este la expresión, no el medio, el símbolo, y no la causa, de la identificación del creyente con Cristo en su muerte, sepultura, y resurrección. Así que el nuevo nacimiento es, en un sentido, el dejar a un lado todo lo que el creyente era en cuanto a la carne, porque es evidente que tiene que haber un nuevo principio por entero. Los hay que consideran a kai, «y», en Jua_3:5, como epexegético, «aún», en cuyo caso el agua sería emblema del Espíritu, como en Jua_7:38 (cf. 4:10,14), pero no en 1Jn_5:8, donde se hace distinción entre el Espíritu y el agua. «El agua de vida» (Apo_21:6 y 22:1,17), es emblemática de la preservación perpetua de la vida espiritual. En Apo_17:1 las aguas son un símbolo de naciones, pueblos, etc.
 
-2. dithalaáos (äéèÜëáóóïò, [[G1337]]), significa principalmente dividido entre dos mares (dis, dos veces, y thalaáa, mar); después, dividir el mar, como lo puede hacer un arrecife o una proyección rocosa hacia dentro del mar (Hch_27:41, «un lugar de dos aguas»).¶
+2. dithalaáos (διθάλασσος, [[G1337]]), significa principalmente dividido entre dos mares (dis, dos veces, y thalaáa, mar); después, dividir el mar, como lo puede hacer un arrecife o una proyección rocosa hacia dentro del mar (Hch_27:41, «un lugar de dos aguas»).¶
 
 3. ombros (ὄìâñïò, [[G3655]]), denota una fuerte lluvia tormentosa (Luc_12:54).¶
 

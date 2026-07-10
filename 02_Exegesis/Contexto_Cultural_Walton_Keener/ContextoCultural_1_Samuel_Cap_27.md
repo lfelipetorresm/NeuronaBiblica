@@ -36,7 +36,7 @@ Amalequitas. Ver los comentarios sobre Deu 25:17-19.
 Los gesuritas. Este pueblo vivió en una región al sureste de filistea, en la parte septentrional del Sinaí (Jos 13:2). No hay que confundirlos con los habitantes de Gesur en la parte meridional del Golán en el área de Basán (Jos 13:11). Esa zona ha de haber sido inaccesible a las invasiones de David. Probablemente estos gesuritas del sur estaban aliados con los filisteos, lo que los convertía en blancos apropiados para las expediciones de David en el Néguev.
 
 ### 1 Samuel 27:8
-Los gezritas. Los gezritas sólo aparecen en este pasaje y no se les menciona en ninguna otra fuente antigua aparte de la Biblia. Algunas lecturas variantes identifican al pueblo aquí referido como girzitas. La ciudad de Gezer estaba a 16 ó 19 km al nordeste de Gat, por lo que ésta no parece ser la zona de incursiones de David si Siclag estaba a 30 ó 50 km al sur de Gat.
+Los gezritas. Los gezritas sólo aparecen en este pasaje y no se les menciona en ninguna otra fuente antigua aparte de la Biblia. Algunas lecturas variantes identifican al pueblo aquí referido como girzitas. La ciudad de Gezer estaba a 16 σ 19 km al nordeste de Gat, por lo que ésta no parece ser la zona de incursiones de David si Siclag estaba a 30 σ 50 km al sur de Gat.
 
 ### 1 Samuel 27:8
 Shur. El desierto de Shur está en el Sinaí septentrional entre Canaán y la frontera nordeste de Egipto (ver el comentario sobre Éxo 15:22). Tribus nómadas de pastores, como los gezritas y los amalequitas, tradicionalmente habitaron esta región y usaban su ambiente árido como defensa.

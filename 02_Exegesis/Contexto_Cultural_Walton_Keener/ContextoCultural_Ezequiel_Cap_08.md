@@ -9,7 +9,7 @@ etiquetas: ["#Comentario", "#ContextoCultural", "#Ezequiel"]
 # Contexto Cultural de [[Ezequiel]] - Capítulo 8
 
 ### Ezequiel 8:1
-Cronología. Catorce meses después de su primera visión, por la cual fue llamado a servir como profeta, Ezequiel experimenta ahora una nueva visión que demostrará de manera dramática la decadencia de la condición religiosa de Jerusalén. Sobre la base del calendario usado por Eze 1:1, la fecha de esta visión sería el 17 ó 18 de septiembre del 592 a. de J.C.
+Cronología. Catorce meses después de su primera visión, por la cual fue llamado a servir como profeta, Ezequiel experimenta ahora una nueva visión que demostrará de manera dramática la decadencia de la condición religiosa de Jerusalén. Sobre la base del calendario usado por Eze 1:1, la fecha de esta visión sería el 17 ף 18 de septiembre del 592 a. de J.C.
 
 ### Ezequiel 8:1-18
 Transportado a Jerusalén en una visión

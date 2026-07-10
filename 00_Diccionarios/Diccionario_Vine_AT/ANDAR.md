@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ANDAR"]
 
 A. Verbo
 
-halak (äÈìÇêÀ, [[H1980]]), «ir, andar, caminar, comportarse». Este verbo se encuentra en la mayoría de los idiomas semíticos (aunque su significado es diferente en arábigo). Se encuentra también en todos los períodos del hebreo y en el Antiguo Testamento, 1550 veces, así como varias veces en arameo.
+halak (הָלַךְ, [[H1980]]), «ir, andar, caminar, comportarse». Este verbo se encuentra en la mayoría de los idiomas semíticos (aunque su significado es diferente en arábigo). Se encuentra también en todos los períodos del hebreo y en el Antiguo Testamento, 1550 veces, así como varias veces en arameo.
 
 Esencialmente esta raíz tiene que ver con el movimiento de personas (Gén_9:23), bestias (Gén_3:14) u objetos inanimados (Gén_2:14, la primera vez que figura), sin dirección específica. Halak se puede traducir «ir» cuando no se refiere al «caminar» de seres humanos. A veces se usa con un énfasis particular en el fin u objetivo de la acción que se tiene en mente; los seres humanos son «carne, soplo que va y no vuelve» (Sal_78:39). Cuando tiene que ver con la existencia humana, el término sugiere «caminar hacia la muerte», como en el caso de Abram: «Señor Jehová, ¿qué me darás, siendo que ando [hacia la tumba] sin hijo … ?» (Gén_15:2). El vocablo puede usarse con relación al «comportamiento», a la manera en que «caminamos» en la vida. «El que camina en justicia» Dios le bendecirá (Isa_33:15). Esto no se refiere a caminar erguido, sino a vivir una vida justa.
 
@@ -19,7 +19,7 @@ Hay tres sentidos en que Dios «camina» o «va». Primero, el caso donde él as
 
 B. Nombres
 
-halîkah (äÂìÄéëÈä, [[H1979]]), «trayecto; obras, grupo de viajeros; caravana; procesión». El nombre aparece 6 veces en el Antiguo Testamento.
+halîkah (הֲלִיכָה, [[H1979]]), «trayecto; obras, grupo de viajeros; caravana; procesión». El nombre aparece 6 veces en el Antiguo Testamento.
 
 El vocablo tiene varios matices. En Nah_2:5 halîkah se refiere a un «trayecto»: «Se acordará él de sus valientes; se atropellarán en su marcha». En Pro_31:27, el término tiene la acepción de «obras». Puede también significar «compañeros de viaje» o «caravana» como en Job_6:19 (rva) o una «procesión» como en Sal_68:24 (lba).
 

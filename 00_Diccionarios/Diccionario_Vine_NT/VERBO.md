@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#VERBO"]
 
 # VERBO
 
-logos (ëüãïò, [[G3056]]), palabra. Se emplea como título del Hijo de Dios, traduciéndose «Verbo» (Jua_1:1, tres veces, 14; 1Jn_1:1; Apo_19:13); en tr también en 1Jn_5:7, en el controvertido pasaje de «los testigos celestiales». Véase PALABRA, Nº 1, etc.
+logos (λόγος, [[G3056]]), palabra. Se emplea como título del Hijo de Dios, traduciéndose «Verbo» (Jua_1:1, tres veces, 14; 1Jn_1:1; Apo_19:13); en tr también en 1Jn_5:7, en el controvertido pasaje de «los testigos celestiales». Véase PALABRA, Nº 1, etc.
 
 «Tanto jrema como logos se traducen «palabra» y «palabras». Jrema es el dicho, lo que se expresa (ero, eireka, «hablar»); es más individual que logos, siendo su relación con él como una parte a un todo. Logos incluye los pensamientos así como lo que se expresa. Comparar el uso de los términos franceses mot y parole .
 

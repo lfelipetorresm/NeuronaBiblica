@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ESTARCAUTIVO"]
 
 # ESTAR CAUTIVO
 
-zogreo (æùãñÝù, [[G2221]]), capturar vivo; véase CAUTIVO.
+zogreo (ζωγρέω, [[G2221]]), capturar vivo; véase CAUTIVO.
 
 

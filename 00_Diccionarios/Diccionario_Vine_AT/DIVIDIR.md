@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#DIVIDIR"]
 
 A. Verbo
 
-jalaq (çÈìÇ÷, [[H2505]]), «dividir, compartir, saquear, asignar, distribuir». El verbo se ha usado durante toda la historia de la lengua hebrea y tal vez tenga relación con el término acádico antiguo «campo» (parcela de tierra), es decir, lo que está dividido. El vocablo aparece alrededor de 60 veces en el Antiguo Testamento hebraico. Aparece por primera vez en Gén_14:15, donde dice que Abram «organizó [dividió] sus fuerzas» (lba) cuando fue a rescatar a su sobrino Lot de sus enemigos. Al parecer, Abram «asignó» diferentes responsabilidades a sus tropas como parte de su estrategia. Este sentido de «dividir» o «asignar» se encuentra en Deu_4:19 (rva), donde se dice que Dios «asignó» a todos los pueblos el sol, la luna y las estrellas. Un uso similar se puede ver en Deu_29:26 (rva), donde se dice que Dios no «asignó» dioses falsos a su pueblo.
+jalaq (חָלַק, [[H2505]]), «dividir, compartir, saquear, asignar, distribuir». El verbo se ha usado durante toda la historia de la lengua hebrea y tal vez tenga relación con el término acádico antiguo «campo» (parcela de tierra), es decir, lo que está dividido. El vocablo aparece alrededor de 60 veces en el Antiguo Testamento hebraico. Aparece por primera vez en Gén_14:15, donde dice que Abram «organizó [dividió] sus fuerzas» (lba) cuando fue a rescatar a su sobrino Lot de sus enemigos. Al parecer, Abram «asignó» diferentes responsabilidades a sus tropas como parte de su estrategia. Este sentido de «dividir» o «asignar» se encuentra en Deu_4:19 (rva), donde se dice que Dios «asignó» a todos los pueblos el sol, la luna y las estrellas. Un uso similar se puede ver en Deu_29:26 (rva), donde se dice que Dios no «asignó» dioses falsos a su pueblo.
 
 En Pro_17:2, jalaq tiene el sentido jurídico de «compartir» una herencia. Tres veces se usa el término con referencia a «repartir» los despojos de guerra, en 1Sa_30:24 (rva).
 
@@ -17,5 +17,5 @@ El verbo describe la «división» del pueblo de Israel cuando la mitad siguió 
 
 B. Nombre
 
-jeleq (çÅìÆ÷, [[H2506]]), «porción; territorio». La forma sustantiva de jalaq se usa a menudo en el texto bíblico. Tiene diversas acepciones, tales como «botín» de guerra (Gén_14:24), una «porción» de alimento (Lev_6:17), una «parcela» de tierra (Jos_18:5), una «posesión» o bendición espiritual (Sal_73:26) y un «patrón» o «estilo de vida» (Sal_50:18). 
+jeleq (חֵלֶק, [[H2506]]), «porción; territorio». La forma sustantiva de jalaq se usa a menudo en el texto bíblico. Tiene diversas acepciones, tales como «botín» de guerra (Gén_14:24), una «porción» de alimento (Lev_6:17), una «parcela» de tierra (Jos_18:5), una «posesión» o bendición espiritual (Sal_73:26) y un «patrón» o «estilo de vida» (Sal_50:18). 
 

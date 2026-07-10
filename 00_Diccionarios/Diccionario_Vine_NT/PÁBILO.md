@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#PÁBILO"]
 
 # PÁBILO
 
-linon (ëßíïí, [[G3043]]), denota primariamente lino; luego, aquello hecho con lino, un pábilo (Mat_12:20); varios antiguos mss. tienen esta palabra en Apo_15:6 : «vestidos de lino». Véase LINO.¶ 
+linon (λίνον, [[G3043]]), denota primariamente lino; luego, aquello hecho con lino, un pábilo (Mat_12:20); varios antiguos mss. tienen esta palabra en Apo_15:6 : «vestidos de lino». Véase LINO.¶ 
 
 

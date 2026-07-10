@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#RUDA"]
 
 # RUDA
 
-peganon (ðÞãáíïí, [[G4076]]), planta aparrada con flores amarillas y con penetrante aroma, cultivada con fines medicinales. Se la menciona en Luc_11:42.¶ 
+peganon (πήγανον, [[G4076]]), planta aparrada con flores amarillas y con penetrante aroma, cultivada con fines medicinales. Se la menciona en Luc_11:42.¶ 
 
 

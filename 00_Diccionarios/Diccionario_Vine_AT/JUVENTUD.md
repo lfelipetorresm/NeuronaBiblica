@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#JUVENTUD"]
 
 # JUVENTUD
 
-na'ar (ðÇòÇø, [[H5288]]), «juventud; muchacho; joven». El vocablo se encuentra en ugarítico y se cree que el término egipcio na-arma («criados armados») puede también tener relación con el uso semítico occidental. La raíz con el significado de «juventud» se encuentra solamente en forma de nombre. En hebreo aparece tanto en el género femenino (na'arah, «una joven») como en masculino (p. ej. Gén_24:14).
+na'ar (נַעַר, [[H5288]]), «juventud; muchacho; joven». El vocablo se encuentra en ugarítico y se cree que el término egipcio na-arma («criados armados») puede también tener relación con el uso semítico occidental. La raíz con el significado de «juventud» se encuentra solamente en forma de nombre. En hebreo aparece tanto en el género femenino (na'arah, «una joven») como en masculino (p. ej. Gén_24:14).
 
 Na'ar se encuentra 235 veces en el Antiguo Testamento hebreo, particularmente en el Pentateuco y en los libros históricos. El primer caso es Gén_14:23-24 : «Nada tomaré … excepto solamente lo que comieron los jóvenes».
 

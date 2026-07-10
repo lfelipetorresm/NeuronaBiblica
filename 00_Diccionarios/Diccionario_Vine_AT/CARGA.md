@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CARGA"]
 
 # CARGA
 
-massa' (îÇùÒÌÈà, [[H4853]]), «carga; peso; tributo; deleite». Los 43 casos de este vocablo están diseminados a través de la Biblia hebraica.
+massa' (מַשָּׂא, [[H4853]]), «carga; peso; tributo; deleite». Los 43 casos de este vocablo están diseminados a través de la Biblia hebraica.
 
 El término se refiere a lo que porta una persona, un asno, una mula o un camello: «Si vieres el asno del que te aborrece caído debajo de su carga, ¿le dejarás sin ayuda?» (Éxo_23:5 : primera mención del término). Se puede colgar la «carga» de un clavo (Isa_22:25). El término se aplica metafóricamente a las «cargas» espirituales: «Porque mis iniquidades se han agravado sobre mi cabeza; como carga pesada se han agravado sobre mí» (Sal_38:4).
 
@@ -17,5 +17,5 @@ Una vez el término representa el «tributo» que se lleva («carga») a un señ
 
 En Eze_24:25 massa' tiene una acepción singular: «Y con respecto a ti, oh hijo de hombre, el día en que yo quite de ellos su poderío, el gozo de su esplendor, la delicia de sus ojos y el anhelo de sus almas [el deseo de su corazón], y también a sus hijos y a sus hijas» (rva).
 
-massa' (îÇùÒÌÈà, [[H4853]]), «expresión; oráculo». Este nombre, que se relaciona muy de cerca con lo anterior, se usa 21 veces. Massa' significa «expresión», «sentencia» u «oráculo»: «Acuérdate que cuando tú y yo íbamos juntos cabalgando detrás de su padre Acab, Jehová pronunció contra él esta sentencia» (2Re_9:25 rva). En Jer_23:33-38 el término pareciera connotar una carga y también un oráculo. 
+massa' (מַשָּׂא, [[H4853]]), «expresión; oráculo». Este nombre, que se relaciona muy de cerca con lo anterior, se usa 21 veces. Massa' significa «expresión», «sentencia» u «oráculo»: «Acuérdate que cuando tú y yo íbamos juntos cabalgando detrás de su padre Acab, Jehová pronunció contra él esta sentencia» (2Re_9:25 rva). En Jer_23:33-38 el término pareciera connotar una carga y también un oráculo. 
 

@@ -11,7 +11,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ABRAZAR"]
 
 Nota: En Hch_21:6 los mss. más auténticos tienen apaspazomai (apo, y Nº 1), para dar la despedida.
 
-2. sumperilambano (óõìðåñéëáìâÜíù, [[G4843]]), lit: tomar alrededor con (sun, con; peri, alrededor; lambano, tomar), abrazar. Se usa en Hch_20:10 en relación con la restauración de Eutico por parte de Pablo.¶ En la lxx, Esd_5:3, «encerrar».¶
+2. sumperilambano (συμπεριλαμβάνω, [[G4843]]), lit: tomar alrededor con (sun, con; peri, alrededor; lambano, tomar), abrazar. Se usa en Hch_20:10 en relación con la restauración de Eutico por parte de Pablo.¶ En la lxx, Esd_5:3, «encerrar».¶
 
 Nota: krateo, lit: «retener», se traduce «abrazar» solo en Mat_28:9 en la rv y la rvr . La rvr77 traduce «se asieron», y la vm, «le tuvieron». 
 

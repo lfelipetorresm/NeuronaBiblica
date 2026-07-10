@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#VIRGEN"]
 
 # VIRGEN
 
-parthenos (ðáñèÝíïò, [[G3933]]), virgen, célibe. Se emplea en Mat_1:23 : «virgen»; Mat_25:1 : «vírgenes»; v. 7: «vírgenes»; v. 11: «vírgenes»; Luc_1:27, dos veces: «virgen»; Hch_21:9 : «doncellas»; 1Co_7:25, vírgenes»; v. 28: «doncella»; v. 34, dos veces: «doncella»; v. 36: «hija virgen»; v. 37: «hija virgen»; v. 38, en los mss. más comúnmente aceptados: «hija virgen» (vm; término omitido en tr); 2Co_11:2 : «virgen»; Apo_14:4 : «vírgenes» (en género masculino).¶
+parthenos (παρθένος, [[G3933]]), virgen, célibe. Se emplea en Mat_1:23 : «virgen»; Mat_25:1 : «vírgenes»; v. 7: «vírgenes»; v. 11: «vírgenes»; Luc_1:27, dos veces: «virgen»; Hch_21:9 : «doncellas»; 1Co_7:25, vírgenes»; v. 28: «doncella»; v. 34, dos veces: «doncella»; v. 36: «hija virgen»; v. 37: «hija virgen»; v. 38, en los mss. más comúnmente aceptados: «hija virgen» (vm; término omitido en tr); 2Co_11:2 : «virgen»; Apo_14:4 : «vírgenes» (en género masculino).¶
 
  Con respecto a Mat_1:23, se trata de una cita de la lxx de Isa_7:14, que traduce la palabra hebrea almah como parthenos (virgen). Acerca del significado de almah y su traducción se pueden transcribir las siguientes observaciones:
 

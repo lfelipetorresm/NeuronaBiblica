@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ASUNTO"]
 
 # ASUNTO
 
-1. logos (ëüãïò, [[G3056]]), palabra, discurso, mensaje, y por ello también aquello de lo que se habla, un tema, cosa, asunto. Se traduce «asunto» en Hch_8:21 y 15:6 en la rvr (rv: «negocio»). Véanse CAUSA, COSA, PALABRA etc.
+1. logos (λόγος, [[G3056]]), palabra, discurso, mensaje, y por ello también aquello de lo que se habla, un tema, cosa, asunto. Se traduce «asunto» en Hch_8:21 y 15:6 en la rvr (rv: «negocio»). Véanse CAUSA, COSA, PALABRA etc.
 
 2. pragma (ðñá̂ãìá, [[G4229]]), relacionado con praáo, hacer. denota:
 

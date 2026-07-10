@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DOS"]
 
 # DOS
 
-duo (äýù, [[G1417]]), se traduce «dos» en casi todos los pasajes en que aparece (p.ej., Mat_5:41; Mat_19:5-6; Mat_21:31; Mat_27:21, Mat_27:51; Mar_10:8, dos veces; Mar_15:38; 1Co_6:16 y Efe_5:31); en Fil_1:23 se traduce «ambas».
+duo (δύω, [[G1417]]), se traduce «dos» en casi todos los pasajes en que aparece (p.ej., Mat_5:41; Mat_19:5-6; Mat_21:31; Mat_27:21, Mat_27:51; Mar_10:8, dos veces; Mar_15:38; 1Co_6:16 y Efe_5:31); en Fil_1:23 se traduce «ambas».
 
 Notas: (1) En las siguientes frases se usa distributivamente: (a) ana duo, «de dos en dos» (Jua_2:6, en algunos mss., Luc_9:3); en Luc_10:1 : «de dos en dos» («por doses»); (b) kata duo, «por doses», trad: «por dos»; (c) duo duo : «por dos y dos»; lit: «dos (y), dos» (Mar_6:7; no se trata de un hebraísmo; este modismo se halla en los papiros); (d) eis duo : «en dos» (Mat_27:51; Mar_15:38). (2) En Luc_17:34 duo se refiere a «dos hombres»; en el v. 35 a «dos mujeres».
 

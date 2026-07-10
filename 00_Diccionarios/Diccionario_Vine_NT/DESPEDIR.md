@@ -13,7 +13,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESPEDIR"]
 
 3. afiemi (ἀößçìé, [[G863]]), tiene en algunas ocasiones el significado de despedir (Mat_13:36; Mar_4:36); véanse DEJAR, Nº 6, PERDONAR.
 
-4. luo (ëýù, [[G3089]]), deshacer, especialmente en liberación. Se usa de romper una reunión, y se traduce «despedida la congregación» en Hch_13:43.¶
+4. luo (λύω, [[G3089]]), deshacer, especialmente en liberación. Se usa de romper una reunión, y se traduce «despedida la congregación» en Hch_13:43.¶
 
 5. apoluo (ἀðïëýù, [[G630]]), lit: desligarse de [apo, de (partitivo); luo, desligar]. Se traduce con el verbo despedir en Mat_14:15, Mat_14:22-23; Mat_15:23, Mat_15:39; Mar_6:36, Mar_6:45; Luc_2:29; Luc_9:12; Luc_14:4; Luc_13:3; Luc_15:33; Luc_19:40; Luc_23:22. Véanse DEJAR, ENVIAR, LIBERTAD, LIBRE, PONER, REPUDIAR, RETIRAR, SOLTAR.
 

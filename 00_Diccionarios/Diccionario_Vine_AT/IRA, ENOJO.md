@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#IRA,ENOJO"]
 
 A. Nombres
 
-jemah (çÅîÈä, [[H2534]]) «ira; calor; furia, rabia; cólera, enojo». Este nombre se encuentra en las lenguas semíticas con acepciones como «calor, ira, ponzoña, veneno». El nombre y también el verbo yajam denotan un alto grado de emotividad. El nombre se usa 120 veces, por lo general en la literatura poética y profética, particularmente en Ezequiel .
+jemah (חֵמָה, [[H2534]]) «ira; calor; furia, rabia; cólera, enojo». Este nombre se encuentra en las lenguas semíticas con acepciones como «calor, ira, ponzoña, veneno». El nombre y también el verbo yajam denotan un alto grado de emotividad. El nombre se usa 120 veces, por lo general en la literatura poética y profética, particularmente en Ezequiel .
 
 El primer uso de jemah acontece en la historia de Esaú y Jacob. Este recibe el mensaje de viajar a Harán con la esperanza que la «ira» de Esaú se disipara: «Y mora con él algunos días, hasta que el enojo de tu hermano se mitigue» (Gén_27:44).
 
@@ -25,15 +25,15 @@ Jemah está asociado con qin'ah, «celos», y también con naqam, «venganza», 
 
 Hay dos acepciones especiales de jemah. Una es «calor» como en: «Yo iba con amargura y con mi espíritu enardecido, pero la mano de Jehová era fuerte sobre mí» (Eze_3:14 rva). El otro es «ponzoña» o «veneno», como en Deu_32:33 : «Veneno de serpientes es su vino, y ponzoña cruel de áspides» (rva).
 
-En la Septuaginta encontramos las siguientes traducciones: orge («enojo; indignación; ira») y thumos («pasión; enojo; furia»). qetsep (÷ÆöÆó, [[H7110]]), «ira». Este nombre aparece 28 veces en el hebreo de la Biblia con referencia particular a Dios. Un caso de la «ira» divina se encuentra en 2Cr_29:8 : «Por tanto, la ira de Jehová ha venido sobre Judá y Jerusalén». En Est_1:18 encontramos un ejemplo de «ira» humana: «Y entonces dirán esto las señoras de Persia y de Media que oigan el hecho de la reina, a todos los príncipes del rey; y habrá mucho menosprecio y enojo» (cf. Ecl_5:17).
+En la Septuaginta encontramos las siguientes traducciones: orge («enojo; indignación; ira») y thumos («pasión; enojo; furia»). qetsep (קֶצֶף, [[H7110]]), «ira». Este nombre aparece 28 veces en el hebreo de la Biblia con referencia particular a Dios. Un caso de la «ira» divina se encuentra en 2Cr_29:8 : «Por tanto, la ira de Jehová ha venido sobre Judá y Jerusalén». En Est_1:18 encontramos un ejemplo de «ira» humana: «Y entonces dirán esto las señoras de Persia y de Media que oigan el hecho de la reina, a todos los príncipes del rey; y habrá mucho menosprecio y enojo» (cf. Ecl_5:17).
 
-jarôn (çÈøåéï, [[H2740]]), «ira ardiente». Los 41 casos de este vocablo abarcan todos los períodos bíblicos. El término se refiere exclusivamente a la «ira ardiente» de Dios. Jarôn se encuentra por primera vez en Éxo_32:12 : «Desiste del ardor de tu ira [jarôn] y cambia de parecer en cuanto a hacer mal a tu pueblo» (rva).
+jarôn (חָרוין, [[H2740]]), «ira ardiente». Los 41 casos de este vocablo abarcan todos los períodos bíblicos. El término se refiere exclusivamente a la «ira ardiente» de Dios. Jarôn se encuentra por primera vez en Éxo_32:12 : «Desiste del ardor de tu ira [jarôn] y cambia de parecer en cuanto a hacer mal a tu pueblo» (rva).
 
 B. Verbos
 
-jarah (çÈøÈä, [[H2734]]), «airarse, estar airado». Este verbo aparece 92 veces en la Biblia. En su radical básico, el vocablo quiere decir «arder de ira» o enojo como en Jon_4:1. En el radical causativo, jarah significa «fervor para el trabajo» o sea «tener celo para la obra» (Neh_3:20).
+jarah (חָרָה, [[H2734]]), «airarse, estar airado». Este verbo aparece 92 veces en la Biblia. En su radical básico, el vocablo quiere decir «arder de ira» o enojo como en Jon_4:1. En el radical causativo, jarah significa «fervor para el trabajo» o sea «tener celo para la obra» (Neh_3:20).
 
-qatsap (÷ÈöÇó, [[H7107]]), «enojarse, airarse, enfurecerse». Este verbo aparece 34 veces, con mayor frecuencia en el Pentateuco y en los profetas, y unas cuantas veces en los libros históricos y en la literatura poética. El término se usa en hebreo rabínico, pero se ha desplazado por otros verbos en el hebreo moderno. Es una antigua palabra cananea; una glosa en las tablillas de El Amarna tiene el significado de «preocuparse» y también de «sentirse amargado». La relación del vocablo con el término arábigo qasafa es discutible.
+qatsap (קָצַף, [[H7107]]), «enojarse, airarse, enfurecerse». Este verbo aparece 34 veces, con mayor frecuencia en el Pentateuco y en los profetas, y unas cuantas veces en los libros históricos y en la literatura poética. El término se usa en hebreo rabínico, pero se ha desplazado por otros verbos en el hebreo moderno. Es una antigua palabra cananea; una glosa en las tablillas de El Amarna tiene el significado de «preocuparse» y también de «sentirse amargado». La relación del vocablo con el término arábigo qasafa es discutible.
 
 En general, qatsap expresa una fuerte explosión emocional de ira, en particular cuando el sujeto es un varón. Esto queda claro desde el primer caso en que se menciona: «Y se enojó Faraón contra sus dos oficiales … y los puso en prisión» (Gén_40:2-3; cf. 41:10). Moisés se enfureció con los israelitas desobedientes (Éxo_16:20). Los líderes filisteos «se enojaron» contra Aquis (1Sa_29:4), Naamán «se fue enojado» por la falta de respeto de Eliseo (2Re_5:11; en paralelo con jemah). y este profeta se airó contra Joás, rey de Israel (2Re_13:19). Asuero «se enojó mucho» y «su ira se encendió» contra Vasti su mujer y la destituyó (Est_1:12; en paralelo con jemah). En todos estos ejemplos, una persona encumbrada (generalmente un rey) expresa su ira con medidas radicales en contra de sus subordinados. Su posición le permite «airarse» ante la respuesta de sus súbditos. No es usual en el Antiguo Testamento que una persona se enoje con otro de igual a igual. Es menos frecuente aun que un súbdito se enfurezca contra alguien superior: «Se enojaron [«estaban irritados» bj ; «descontentos» nbe] … dos eunucos del rey … y procuraban poner mano en el rey Asuero» (Est_2:21 rvr).
 
@@ -41,7 +41,7 @@ El nombre derivado de qatsap se refiere en particular a la ira de Dios. El verbo
 
 En la versión griega encontramos las siguientes traducciones: orgizomai («estar enojado» o «airado») y lupew (forma verbal de «afligido, adolorido, triste»).
 
-yajam (éÈçÇí, [[H3179]]), «arder, enardecerse». Este verbo, que aparece únicamente 10 veces en hebreo bíblico, es la raíz del nombre jemah.
+yajam (יָחַם, [[H3179]]), «arder, enardecerse». Este verbo, que aparece únicamente 10 veces en hebreo bíblico, es la raíz del nombre jemah.
 
 En Deu_19:6 yajam significa «enardecer»: «No sea que cuando su corazón arda en ira, el vengador de la sangre persiga al homicida, le alcance por ser largo el camino» (rva). 
 

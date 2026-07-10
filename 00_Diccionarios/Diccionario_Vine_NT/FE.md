@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#FE"]
 
 A. Nombre
 
-pistis (ðßóôéò, [[G4102]]), primariamente, firme persuasión, convicción basada en lo oído (relacionado con peitho, persuadir). Se usa en el NT siempre de fe en Dios o en Cristo, o en cosas espirituales.
+pistis (πίστις, [[G4102]]), primariamente, firme persuasión, convicción basada en lo oído (relacionado con peitho, persuadir). Se usa en el NT siempre de fe en Dios o en Cristo, o en cosas espirituales.
 
 Esta palabra se usa de: (a) confianza (p.ej., Rom_3:25 [véase Nota (4) más adelante]; 1Co_2:5; 1Co_15:14, 1Co_15:17; 2Co_1:24; Gál_3:23 [véase Nota (5) más adelante]; Fil_1:25; Fil_2:17; 1Ts_3:2; 2Ts_1:3; 2Ts_3:2; (b) fiabilidad (p.ej., Mat_23:23; Rom_3:3 : «la fidelidad de Dios»; Gál_5:22 : «fidelidad», rvr77; Tit_2:10 : «fieles»); (c) por metonimia, aquello que es creído, el contenido de la fe, la fe (Hch_6:7; Hch_14:22; Gál_1:23; Gál_3:25 [contrastar 3:23, bajo (a) ]; 6:10; Fil_1:27; 1Ts_3:10; Jud_3:20, y quizás 2Ts_3:2); (d) una base para la fe, una certeza (Hch_17:31); (e) una prenda de fidelidad, la fe empeñada (1Ti_5:12).
 

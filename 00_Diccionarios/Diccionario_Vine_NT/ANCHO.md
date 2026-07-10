@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#ANCHO"]
 
 # ANCHO
 
-platus (ðëáôýò, [[G4116]]), ancho. Aparece solo en Mat_7:13, «ancha (es la puerta)».¶ 
+platus (πλατύς, [[G4116]]), ancho. Aparece solo en Mat_7:13, «ancha (es la puerta)».¶ 
 
 

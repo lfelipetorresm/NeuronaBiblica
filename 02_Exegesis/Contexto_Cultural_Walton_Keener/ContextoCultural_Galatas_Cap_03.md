@@ -93,7 +93,7 @@ Las tradiciones judías dividían la historia humana en varias etapas; Pablo hac
 La palabra “tutor” (RVA) podría traducirse mejor como “persona a cargo” o mejor aún “guardián” (“esclavo que conduce a los niños”, DHH; “guía”, NVI; “pedagogo”, BJ). El esclavo asignado a esta función debía vigilar a los estudiantes en su camino a la escuela y ayudarlos con su conducta y sus trabajos escolares, pero no era el maestro mismo. Los alumnos se molestaban con él, pero a menudo se encariñaban con el esclavo y más tarde le daban la libertad. Generalmente, esos guardianes tenían mejor educación que el vulgo libre, por lo que la imagen no es necesariamente peyorativa. Pero es difícil que aquélla fuera la forma en que otros maestros judíos hubieran descrito la ley. (Ocasionalmente describían a Moisés como el “guardián” hasta que Israel creciera en edad. Los filósofos hablaban de la filosofía como de un “maestro moral” y en el judaísmo se hablaba de la *ley como de un “maestro”.)
 
 ### Gálatas 3:25
-La llegada de la fe es descrita como la llegada de la adultez, o sea cuando un muchacho alcanza la madurez (a los 13 ó 14 años en varias culturas mediterráneas).
+La llegada de la fe es descrita como la llegada de la adultez, o sea cuando un muchacho alcanza la madurez (a los 13 σ 14 años en varias culturas mediterráneas).
 
 ### Gálatas 3:26
 En el AT y a menudo en el judaísmo, Israel era llamado “hijo” de Dios. Contrastando con la enseñanza judía habitual, aquí Pablo dice que uno llega a ser descendiente de Abraham (Gál 3:29) e hijo de Dios por medio de la fe y no por la participación étnica en el pacto.

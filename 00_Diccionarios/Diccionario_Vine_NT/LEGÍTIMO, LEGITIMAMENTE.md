@@ -13,7 +13,7 @@ ennomos (ἔííïìïò, [[G1772]]), legal, legítimo (de en, en, y nomos, ley;
 
 B. Adverbio
 
-nomimos (íïìßìùò, [[G3545]]), legalmente, legítimamente. Se usa en 1Ti_1:8 : «la ley es buena, si uno la usa legítimamente»; esto es, en correspondencia con la intención con la que ha sido promulgada. El significado aquí es que, en tanto que uno no puede quedar justificado ni obtener la vida eterna mediante ella, el creyente debe tenerla en su corazón y cumplir sus demandas. Andando «no … conforme a la carne, sino conforme al Espíritu» (Rom_8:4), la utilizará «legítimamente». En 2Ti_2:5 se usa de participar en los juegos y de someterse a las normas.¶
+nomimos (νομίμως, [[G3545]]), legalmente, legítimamente. Se usa en 1Ti_1:8 : «la ley es buena, si uno la usa legítimamente»; esto es, en correspondencia con la intención con la que ha sido promulgada. El significado aquí es que, en tanto que uno no puede quedar justificado ni obtener la vida eterna mediante ella, el creyente debe tenerla en su corazón y cumplir sus demandas. Andando «no … conforme a la carne, sino conforme al Espíritu» (Rom_8:4), la utilizará «legítimamente». En 2Ti_2:5 se usa de participar en los juegos y de someterse a las normas.¶
 
 Véase también bajo LEY. 
 

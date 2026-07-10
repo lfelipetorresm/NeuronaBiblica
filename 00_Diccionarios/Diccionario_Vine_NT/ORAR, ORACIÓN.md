@@ -11,9 +11,9 @@ A. Verbos
 
 1. eucomai (åὔ÷ïìáé, [[G2172]]), orar a Dios. Se utiliza con este significado en 2Co_13:7, 2Co_13:9; Stg_5:16; Stg_5:3 Juan 2 : «deseo». Incluso cuando, como en este último pasaje, y en Hch_26:29; Hch_27:29; Rom_9:3, se traduce denotando deseo, la indicación es que la oración está implicada en ello. Véase ANSIAR, A, Nº 2, DESEAR, A, Nº 4, y también QUERER.¶
 
-2. proseucomai (ðñïóåý÷ïìáé, [[G4336]]), orar. Se utiliza siempre de oración a Dios, y es el término más frecuente que se utiliza para ello, especialmente en los Sinópticos y en Hechos, una vez en Rom_8:26; en Efe_6:18; en Fil_1:9; en 1Ti_2:8; en Heb_13:18; en Jud_1:20, principalmente traducido con el verbo orar, pero también en alguna ocasión como «pedir». Para la instrucción en 1Ts_5:17, véase CESAR, C.
+2. proseucomai (προσεύχομαι, [[G4336]]), orar. Se utiliza siempre de oración a Dios, y es el término más frecuente que se utiliza para ello, especialmente en los Sinópticos y en Hechos, una vez en Rom_8:26; en Efe_6:18; en Fil_1:9; en 1Ti_2:8; en Heb_13:18; en Jud_1:20, principalmente traducido con el verbo orar, pero también en alguna ocasión como «pedir». Para la instrucción en 1Ts_5:17, véase CESAR, C.
 
-3. deomai (äÝïìáé, [[G1189]]), rogar. Se traduce «orando» (Luc_21:36); «como hubieron orado» (Hch_4:31); «oraba» (Hch_10:2); «orando» (1Ts_3:10). Véase ROGAR, etc.
+3. deomai (δέομαι, [[G1189]]), rogar. Se traduce «orando» (Luc_21:36); «como hubieron orado» (Hch_4:31); «oraba» (Hch_10:2); «orando» (1Ts_3:10). Véase ROGAR, etc.
 
 Notas: (1) Parakaleo, llamar en ayuda de uno, se traduce con el verbo orar en la rvr en Mat_26:53; véanse ROGAR, EXHORTAR; (2) el nombre proseuque, oración, se traduce en rv, rvr en forma verbal en Luc_6:12 : «orando» (rvr77: «en oración», lit., «en la oración de Dios»); véase B, Nº 2.
 
@@ -21,9 +21,9 @@ B. Nombres
 
 1. euque (åὐ÷Þ, [[G2171]]), relacionado con A, Nº 1, denota una oración (Stg_5:15); un voto (Hch_18:18 y 21:23). Véase VOTO.¶
 
-2. proseuque (ðñïóåõ÷Þ, [[G4335]]), relacionado con A, Nº 2, denota: (a) oración a Dios; es el término más frecuente, p.ej., Mat_21:22; Luc_6:12, donde la frase no debe ser tomada literalmente, como si significara «la oración de Dios» (genitivo subjetivo), sino objetivamente, «oración a Dios». En Stg_5:17 : «oró fervientemente» (rvr), es, lit., «oró con oración» (una forma hebraísta, traducida en la rv: «rogó con oración»). En los siguientes pasajes se usa este término con Nº 3: Efe_6:18; Fil_4:6; 1Ti_2:1; 1Ti_5:5; (b) «un lugar de oración» (Hch_16:13; vm, rvr77), lugar fuera de la muralla de la ciudad.
+2. proseuque (προσευχή, [[G4335]]), relacionado con A, Nº 2, denota: (a) oración a Dios; es el término más frecuente, p.ej., Mat_21:22; Luc_6:12, donde la frase no debe ser tomada literalmente, como si significara «la oración de Dios» (genitivo subjetivo), sino objetivamente, «oración a Dios». En Stg_5:17 : «oró fervientemente» (rvr), es, lit., «oró con oración» (una forma hebraísta, traducida en la rv: «rogó con oración»). En los siguientes pasajes se usa este término con Nº 3: Efe_6:18; Fil_4:6; 1Ti_2:1; 1Ti_5:5; (b) «un lugar de oración» (Hch_16:13; vm, rvr77), lugar fuera de la muralla de la ciudad.
 
-3. deesis (äÝçóéò, [[G1162]]), primariamente necesidad (relacionado con A, Nº 3), luego, petición, ruego, súplica. En el NT se dirige siempre a Dios y se traduce principalmente «oración» (Luc_1:13; Luc_2:37; Luc_5:33; Rom_10:1; 2Co_1:11; 2Co_9:14; Fil_1:4, Fil_1:19; 2Ti_1:3; Stg_5:16; 1Pe_3:12); véanse ROGATIVA, RUEGO.
+3. deesis (δέησις, [[G1162]]), primariamente necesidad (relacionado con A, Nº 3), luego, petición, ruego, súplica. En el NT se dirige siempre a Dios y se traduce principalmente «oración» (Luc_1:13; Luc_2:37; Luc_5:33; Rom_10:1; 2Co_1:11; 2Co_9:14; Fil_1:4, Fil_1:19; 2Ti_1:3; Stg_5:16; 1Pe_3:12); véanse ROGATIVA, RUEGO.
 
 4. enteuxis (ἔíôåõîéò, [[G1783]]), denota primariamente posarse sobre, encontrarse con (relacionado con entuncano, véase INTERCEDER, Nº 1); luego, conversación; así, petición, significado Este frecuente en los papiros. Es un término técnico para allegarse a un rey en intercesión. Se traduce «oración» en 1Ti_4:2 (rv, rvr); en forma plural en 2:1: «peticiones» (rv, rvr), esto es, intercesión, buscando la presencia y audiencia de Dios en favor de otros.¶
 

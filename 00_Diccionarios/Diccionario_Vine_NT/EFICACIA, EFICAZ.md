@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#EFICACIA,EFICAZ"]
 
 A. Nombre
 
-dunamis (äýíáìéò, [[G1411]]), fuerza, poder. Se traduce «eficacia» en 2Ti_3:5. Véase PODER, etc.
+dunamis (δύναμις, [[G1411]]), fuerza, poder. Se traduce «eficacia» en 2Ti_3:5. Véase PODER, etc.
 
 B. Adjetivo
 

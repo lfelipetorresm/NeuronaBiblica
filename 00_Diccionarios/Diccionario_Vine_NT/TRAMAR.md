@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TRAMAR"]
 
 # TRAMAR
 
-poleo (ðïéÝù, [[G4160]]), hacer. Se traduce con el verbo tramar en Hch_23:12 : «tramaron un complot». Véase HACER, Nº 1. 
+poleo (ποιέω, [[G4160]]), hacer. Se traduce con el verbo tramar en Hch_23:12 : «tramaron un complot». Véase HACER, Nº 1. 
 
 

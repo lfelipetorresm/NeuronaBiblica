@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ACERCAR,APROXIMAR"]
 
 # ACERCAR, APROXIMAR
 
-nagash (ðÈâÈùÑ, [[H5066]]), «aproximarse, acercarse, traer, presentar». El término se encuentra mayormente en el hebreo de la Biblia y también se puede encontrar en ugarítico antiguo. Nagash aparece 125 veces en el texto del Antiguo Testamento y por primera vez en Gén_18:23, donde se dice que Abraham se «acerca» a Dios para interceder por Sodoma.
+nagash (נָגָשׁ, [[H5066]]), «aproximarse, acercarse, traer, presentar». El término se encuentra mayormente en el hebreo de la Biblia y también se puede encontrar en ugarítico antiguo. Nagash aparece 125 veces en el texto del Antiguo Testamento y por primera vez en Gén_18:23, donde se dice que Abraham se «acerca» a Dios para interceder por Sodoma.
 
 El vocablo se usa a menudo para describir el «contacto» ordinario de una persona con otra (Gén_27:22; Gén_43:19). A veces nagash alude al «contacto» sexual (Éxo_19:15). Con mayor frecuencia se usa para hablar de sacerdotes que «se acercarán» a la presencia de Dios (Eze_44:13) o los sacerdotes que «se aproximan» al altar (Éxo_30:20). También los ejércitos en contienda «se acercan» para entablar lucha (Jue_20:23; rv «subir»). Objetos inanimados, tales como las escamas del cocodrilo se hallan tan «cerca» que «el uno se junta con el otro, que viento no entra entre ellos» (Job_41:15-16 rv). A veces se usa el término para referirse a «traer» (nbe), «ofrecer» (rv) o «presentar» (bj, bla) una ofrenda ante el altar (Mal_1:7). 
 

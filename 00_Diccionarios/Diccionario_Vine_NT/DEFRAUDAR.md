@@ -11,8 +11,8 @@ etiquetas: ["#Diccionario", "#VineNT", "#DEFRAUDAR"]
 
 2. afustereo (ἀöõóôåñÝù, [[G879]]), retener, privar [apo, de (partitivo); justereo, carecer]. Se usa en Stg_5:4 : «el cual no les ha sido pagado» (vha: «les ha sido defraudado»). En algunos mss. hay apostereo, defraudar, véase Nº 1. Afustereo se halla en un papiro del 42 d.C., acerca de un baño insuficientemente calentado (Moulton y Milligan, Vocabulary). La Ley demandaba el pronto pago al trabajador (Deu_24:15).¶
 
-3. nosifizo (íïóößæù, [[G3557]]), poner aparte, quitar. Significa, en la voz media, poner aparte para sí mismo. Se traduce «defraudando» en Tit_2:10 (rv, rvr); «sustrajo» y «sustraer» en Hch_5:2 y 3 (rv: «defraudó» y «defraudases»), del acto de Ananías y su esposa al retener parte del precio de la tierra con engaño.¶
+3. nosifizo (νοσφίζω, [[G3557]]), poner aparte, quitar. Significa, en la voz media, poner aparte para sí mismo. Se traduce «defraudando» en Tit_2:10 (rv, rvr); «sustrajo» y «sustraer» en Hch_5:2 y 3 (rv: «defraudó» y «defraudases»), del acto de Ananías y su esposa al retener parte del precio de la tierra con engaño.¶
 
-4. sukofaneo (óõêïöáíôÝù, [[G4811]]), acusar falsamente (Luc_3:14), presenta su otro significado, cobrar fraudulentamente (Luc_19:8 : «he defraudado»). Véase CALUMNIAR.¶ 
+4. sukofaneo (συκοφαντέω, [[G4811]]), acusar falsamente (Luc_3:14), presenta su otro significado, cobrar fraudulentamente (Luc_19:8 : «he defraudado»). Véase CALUMNIAR.¶ 
 
 

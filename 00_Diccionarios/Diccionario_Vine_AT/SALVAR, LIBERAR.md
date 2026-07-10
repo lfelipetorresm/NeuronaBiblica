@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SALVAR,LIBERAR"]
 
 A. Verbo
 
-yasha' (éÈùÑÇò, [[H3467]]), «salvar, liberar, socorrer». Además del hebreo, esta raíz solo está en una inscripción moabita. El verbo se encuentra más de 200 veces en la Biblia. Por ejemplo: «Porque así ha dicho el Señor Jehová, el Santo de Israel: En arrepentimiento y en reposo seréis salvos; en la quietud y en la confianza estará vuestra fortaleza. Pero no quisisteis» (Isa_30:15 rva). El verbo aparece solamente en sus raíces causativas y pasivas.
+yasha' (יָשַׁע, [[H3467]]), «salvar, liberar, socorrer». Además del hebreo, esta raíz solo está en una inscripción moabita. El verbo se encuentra más de 200 veces en la Biblia. Por ejemplo: «Porque así ha dicho el Señor Jehová, el Santo de Israel: En arrepentimiento y en reposo seréis salvos; en la quietud y en la confianza estará vuestra fortaleza. Pero no quisisteis» (Isa_30:15 rva). El verbo aparece solamente en sus raíces causativas y pasivas.
 
 En esencia, la palabra significa «quitar o librar a alguien de una carga, opresión o peligro». En Éxo_2:17 (primera vez que aparece este verbo) yasha' significa librar a alguien de una carga o trabajo: «Moisés se levantó y las defendió, y dio de beber a sus ovejas». A menudo denota la acción de librar a alguien de una derrota: «Entonces los moradores de Gabaón enviaron a decir a Josué al campamento de Gilgal: No niegues ayuda a tus siervos; sube prontamente a nosotros para defendernos y ayudarnos» (Jos_10:6). Pedían que los salvaran de la muerte. Todavía no estaban fuera de peligro, pero pronto lo haría. Los gabaonitas veían en Israel su única esperanza de salvación.
 
@@ -23,7 +23,7 @@ Muchas veces el salmista tiene en mente el aspecto espiritual del pacto eterno d
 
 B. Nombre
 
-yeshû'a (éÀùÑåÌòÈä, [[H3444]]), «salvación, liberación». Hay 78 casos de este vocablo en el Antiguo Testamento; predomina en Salmos (45 veces) e Isaías (19 veces). Se usa por primera vez en ocasión de las últimas palabras de Jacob: «¡Tu salvación esperé, oh Jehová!» (Gén_49:18).
+yeshû'a (יְשׁוּעָה, [[H3444]]), «salvación, liberación». Hay 78 casos de este vocablo en el Antiguo Testamento; predomina en Salmos (45 veces) e Isaías (19 veces). Se usa por primera vez en ocasión de las últimas palabras de Jacob: «¡Tu salvación esperé, oh Jehová!» (Gén_49:18).
 
 «Salvación» en el Antiguo Testamento no se entiende como salvación del pecado, puesto que el término denota una amplia gama de sentidos relacionados con la «liberación»: de aflicción, guerra, servidumbre o enemigos. Las liberaciones son humanas y divinas, pero con el vocablo yeshû'ah contadas son las ocasiones en que seres humanos son los que efectúan la «salvación/liberación». Un par de excepciones: cuando Jonatán trajo respiro de la presión de los filisteos contra los israelitas (1Sa_14:45), y cuando Joab y sus hombres se ayudaron mutuamente en el campo de batalla (2Sa_10:11).
 
@@ -35,9 +35,9 @@ Habacuc describe al Señor montado en carros de salvación (Sal_3:8 lbd) para li
 
 Muchos nombres personales contienen una forma de la raíz, tales como Josue9 («el Señor es ayuda»), Isaías («el Señor es ayuda») y Jesħs (una transliteración griega de yeshû'ah).
 
-yesha' (éÅùÑÈò, [[H3468]]), «salvación, liberación». Este sustantivo aparece 36 veces en el Antiguo Testamento. Uno de estos casos es en Sal_50:23 (rva): «El que ofrece sacrificio de acción de gracias me glorificará, y al que ordena su camino le mostraré la salvación de Dios».
+yesha' (יֵשָׁע, [[H3468]]), «salvación, liberación». Este sustantivo aparece 36 veces en el Antiguo Testamento. Uno de estos casos es en Sal_50:23 (rva): «El que ofrece sacrificio de acción de gracias me glorificará, y al que ordena su camino le mostraré la salvación de Dios».
 
-tesû'ah (úÌÀùÑåÌòÈä, [[H8668]]), «salvación, liberación». Tesû'ah aparece 34 veces. Tenemos un ejemplo en Isa_45:17 (rva): «Israel será salvado por Jehová con salvación eterna. No os avergonzaréis, ni seréis afrentados, por los siglos de los siglos».
+tesû'ah (תְּשׁוּעָה, [[H8668]]), «salvación, liberación». Tesû'ah aparece 34 veces. Tenemos un ejemplo en Isa_45:17 (rva): «Israel será salvado por Jehová con salvación eterna. No os avergonzaréis, ni seréis afrentados, por los siglos de los siglos».
 
 Las traducciones en la Septuaginta son: soteria y soterion («salvación; preservación; liberación») y soter («salvador, libertador»). Las revisiones de la rv traducen el vocablo como «salvación, libertad, liberación». 
 

@@ -17,7 +17,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ALLÁ,ALLÍ"]
 
 5. kakeithen (êἀêåé̂èåí, [[G2547]]), «de allí», «y de allí», «y desde allí». Se traduce en este sentido en varios pasajes (p.ej., Mar_9:30; Hch_7:4). Se traduce como «luego» en Hch_13:21, y «de donde» en 28:15. Véanse ( DE ) DONDE, LUEGO.
 
-6. parafero (ðáñáöÝñù, [[G3911]]). Se traduce como «llevadas de acá para allá» en Jud_1:12 : En el tr , la palabra que se halla en este pasaje es perifero . Véanse APARTAR, DEJAR, LLEVAR, PASAR.
+6. parafero (παραφέρω, [[G3911]]). Se traduce como «llevadas de acá para allá» en Jud_1:12 : En el tr , la palabra que se halla en este pasaje es perifero . Véanse APARTAR, DEJAR, LLEVAR, PASAR.
 
 7. ekeise (ἐêåé̂óå, [[G1566]]), se traduce «allí» en los dos pasajes en que aparece (Hch_21:3; Hch_22:5).¶
 

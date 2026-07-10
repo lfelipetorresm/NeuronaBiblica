@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TRATADO"]
 
 # TRATADO
 
-logos (ëüãïò, [[G3056]]), palabra. Denota tratado o narración escrita en Hch_1:1. Véase PALABRA, Nº 1. 
+logos (λόγος, [[G3056]]), palabra. Denota tratado o narración escrita en Hch_1:1. Véase PALABRA, Nº 1. 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#RESTREGAR"]
 
 # RESTREGAR
 
-psoco (øþ÷ù, [[G5597]]), frotar, frotar para dividir en trozos: «restregándolas». Se utiliza en Luc_6:1.¶ 
+psoco (ψώχω, [[G5597]]), frotar, frotar para dividir en trozos: «restregándolas». Se utiliza en Luc_6:1.¶ 
 
 

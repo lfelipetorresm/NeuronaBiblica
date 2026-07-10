@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#NECESITADO"]
 
 A. Nombre
 
-'ebyôn (àÆáÀéåéï, [[H34]]), «(persona) necesitada». Este vocablo solo se encuentra en ugarítico y etiópico. Se constatan unos 60 casos del término en todos los períodos del hebreo bíblico (33 solamente en Salmos).
+'ebyôn (אֶבְיוין, [[H34]]), «(persona) necesitada». Este vocablo solo se encuentra en ugarítico y etiópico. Se constatan unos 60 casos del término en todos los períodos del hebreo bíblico (33 solamente en Salmos).
 
 El nombre se refiere en primer lugar a una persona que está materialmente pobre. Puede ser que haya perdido la tierra de su heredad: «Pero el séptimo año la dejarás descansar, sin cultivar, para que coman los pobres de tu pueblo, y de lo que ellos dejen, coman las bestias del campo» (Éxo_23:11 lba). Tal vez le hayan sobrevenido tiempos difíciles (Job_30:25) y quizá le haga falta ropa (Job_31:19) o alimento (Sal_132:15).
 
@@ -19,5 +19,5 @@ Tercero, el nombre a veces describe la condición espiritual del hombre ante Dio
 
 B. Verbo
 
-'abah (àÈáÈä, [[H14]]), «acceder, aceptar, consentir». Este verbo, que aparece unas 52 veces y durante todas las épocas del hebreo bíblico, a veces se asocia con el nombre 'ebyôn, persona «necesitada». El mismo radical aparece en acádico («desear»), arábigo («rehusar»), arameo («querer») y egipcio («desear»). En Deu_13:8 (rva) el verbo significa «consentir»: «No le consientas ni le escuches». 
+'abah (אָבָה, [[H14]]), «acceder, aceptar, consentir». Este verbo, que aparece unas 52 veces y durante todas las épocas del hebreo bíblico, a veces se asocia con el nombre 'ebyôn, persona «necesitada». El mismo radical aparece en acádico («desear»), arábigo («rehusar»), arameo («querer») y egipcio («desear»). En Deu_13:8 (rva) el verbo significa «consentir»: «No le consientas ni le escuches». 
 

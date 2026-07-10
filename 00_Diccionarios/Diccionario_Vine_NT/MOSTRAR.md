@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#MOSTRAR"]
 
 # MOSTRAR
 
-1. deiknumi, o deiknuo (äåßêíõìé, [[G1166]]), denota: (a) mostrar, exhibir (p.ej., Mat_4:8 : «mostró»; Mat_8:4 : «muéstrate»; Jua_5:20 : «muestra»; Jua_20:20 : «mostró»; 1Ti_6:15 : «mostrará»); (b) mostrar dando a conocer (Mat_16:21 : «declarar»; Luc_24:40 : «mostró»; Jua_14:8-9 : «muéstranos»; Hch_10:28 : «ha mostrado»; 1Co_12:31 : «muestro»; Apo_1:1 : «para manifestar»; Apo_4:1 : «yo te mostraré»; Apo_22:6 : «para mostrar»); (c) mostrar dando pruebas (Stg_2:18 : «muéstrame»; Stg_3:13 : «muestre»). Véanse DECLARAR, MANIFESTAR.
+1. deiknumi, o deiknuo (δείκνυμι, [[G1166]]), denota: (a) mostrar, exhibir (p.ej., Mat_4:8 : «mostró»; Mat_8:4 : «muéstrate»; Jua_5:20 : «muestra»; Jua_20:20 : «mostró»; 1Ti_6:15 : «mostrará»); (b) mostrar dando a conocer (Mat_16:21 : «declarar»; Luc_24:40 : «mostró»; Jua_14:8-9 : «muéstranos»; Hch_10:28 : «ha mostrado»; 1Co_12:31 : «muestro»; Apo_1:1 : «para manifestar»; Apo_4:1 : «yo te mostraré»; Apo_22:6 : «para mostrar»); (c) mostrar dando pruebas (Stg_2:18 : «muéstrame»; Stg_3:13 : «muestre»). Véanse DECLARAR, MANIFESTAR.
 
 2. anadeiknumi (ἀíáäåßêíõìé, [[G322]]), (ana, arriba, y Nº 1) significa: (a) levantar y mostrar, exponer, declarar (Hch_1:24 : «muestra»); (b) designar (Luc_10:1 : «designó»). Véase DESIGNAR, Nº 1.
 
@@ -19,14 +19,14 @@ etiquetas: ["#Diccionario", "#VineNT", "#MOSTRAR"]
 
 6. jorao (ὁñÜù, [[G3708]]), véase VER, y también MIRAR, Nº 10. Se traduce «se … mostró» (Hch_16:9).
 
-7. metriopatheo (ìåôñéïðáèÝù, [[G3356]]), tratar con suavidad, o moderación, sobrellevar gentilmente (metrios, moderado, y pasco, sufrir). Se utiliza en Heb_5:2. La idea es la de no verse turbado indebidamente por los fallos e ignorancia de los demás; o más bien, quizás, de sentir en cierta medida, en contraste con el plen o sentimiento en compañía que se expresa con el verbo sumpatheo en 4:15, con referencia a Cristo como el Sumo Sacerdote (rvr77 traduce «sentir compasión»; lba: «obrar con benignidad»; Besson: «simpatizar»; vm: «ser indulgente»). Véase PACIENTE.¶
+7. metriopatheo (μετριοπαθέω, [[G3356]]), tratar con suavidad, o moderación, sobrellevar gentilmente (metrios, moderado, y pasco, sufrir). Se utiliza en Heb_5:2. La idea es la de no verse turbado indebidamente por los fallos e ignorancia de los demás; o más bien, quizás, de sentir en cierta medida, en contraste con el plen o sentimiento en compañía que se expresa con el verbo sumpatheo en 4:15, con referencia a Cristo como el Sumo Sacerdote (rvr77 traduce «sentir compasión»; lba: «obrar con benignidad»; Besson: «simpatizar»; vm: «ser indulgente»). Véase PACIENTE.¶
 
-8. faino (öáßíù, [[G5316]]), se traduce «mostrar» en Mat_6:16, Mat_6:18; Mat_23:27-28; Mat_24:27; Rom_7:13. Véanse APARECER, Nº 6, VER, etc.
+8. faino (φαίνω, [[G5316]]), se traduce «mostrar» en Mat_6:16, Mat_6:18; Mat_23:27-28; Mat_24:27; Rom_7:13. Véanse APARECER, Nº 6, VER, etc.
 
-9. faneroo (öáíåñüù, [[G5319]]), véase MANIFESTAR. Se traduce «se mostró» en 1Jn_4:9. Véanse también APARECER, COMPARECER, DEMOSTRAR, DESCUBRIRSE, PRESENTAR(SE).
+9. faneroo (φανερόω, [[G5319]]), véase MANIFESTAR. Se traduce «se mostró» en 1Jn_4:9. Véanse también APARECER, COMPARECER, DEMOSTRAR, DESCUBRIRSE, PRESENTAR(SE).
 
-10. sunistemi o sunistano (óõíßóôçìé, [[G4921]]), lit. poner junto, denota presentar a una persona a otra, recomendar como digno (p.ej., Rom_3:5 : «muestra»). Véanse ALABAR, RECOMENDAR, etc.
+10. sunistemi o sunistano (συνίστημι, [[G4921]]), lit. poner junto, denota presentar a una persona a otra, recomendar como digno (p.ej., Rom_3:5 : «muestra»). Véanse ALABAR, RECOMENDAR, etc.
 
-11. zeloo (æçëüù, [[G2206]]), tener celos, se traduce «mostrar celo» en Gál_4:18, de no ser celoso en lo bueno solo en presencia del apóstol, sino también en su ausencia. Véanse ARDER, CELAR, TENER CELOS. 
+11. zeloo (ζηλόω, [[G2206]]), tener celos, se traduce «mostrar celo» en Gál_4:18, de no ser celoso en lo bueno solo en presencia del apóstol, sino también en su ausencia. Véanse ARDER, CELAR, TENER CELOS. 
 
 

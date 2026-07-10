@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0245cc75ab24d880",
+        "id": "76b09c578a077b06",
         "type": "tabs",
         "children": [
           {
-            "id": "331bb3e77624ab66",
+            "id": "49f41b976eb11572",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "06_Sermones_Generados/Estudio_2_Timoteo_3_16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudio_2_Timoteo_3_16"
             }
           }
         ]
@@ -176,34 +180,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "331bb3e77624ab66",
+  "active": "49f41b976eb11572",
   "lastOpenFiles": [
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_01.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_02.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_08.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_10.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_09.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_11.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_12.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_13.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_17.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_15.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_16.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_14.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_18.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_26.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_27.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_28.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_29.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_30.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_31.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_32.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_33.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Exodo_Cap_35.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Ezequiel_Cap_24.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Ezequiel_Cap_25.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Ezequiel_Cap_26.md",
-    "02_Exegesis/Contexto_Cultural_Walton_Keener/ContextoCultural_Ezequiel_Cap_28.md",
+    "scripts/reparar_mojibake.py",
+    "scripts/test_greek.py",
+    "00_Diccionarios/Strong_Hubs/G1219.md",
+    "00_Diccionarios/Strong_Hubs/G2551.md",
+    "00_Diccionarios/Strong_Hubs/G2202.md",
+    "00_Diccionarios/Strong_Hubs/G211.md",
+    "00_Diccionarios/Strong_Hubs/G2383.md",
+    "00_Diccionarios/Strong_Hubs/G1494.md",
+    "00_Diccionarios/Strong_Hubs/G2092.md",
+    "00_Diccionarios/Strong_Hubs/G1280.md",
+    "00_Diccionarios/Strong_Hubs/G2124.md",
+    "00_Diccionarios/Strong_Hubs/G2369.md",
+    "00_Diccionarios/Strong_Hubs/G1304.md",
+    "00_Diccionarios/Strong_Hubs/G1582.md",
+    "00_Diccionarios/Strong_Hubs/H7596.md",
+    "00_Diccionarios/Strong_Hubs/G1340.md",
+    "00_Diccionarios/Strong_Hubs/G2033.md",
+    "00_Diccionarios/Strong_Hubs/G1479.md",
+    "00_Diccionarios/Strong_Hubs/G1493.md",
+    "00_Diccionarios/Strong_Hubs/G1214.md",
+    "00_Diccionarios/Strong_Hubs/G2315.md",
+    "00_Diccionarios/Strong_Hubs/G1622.md",
+    "00_Diccionarios/Strong_Hubs/H8073.md",
+    "00_Diccionarios/Strong_Hubs/G1160.md",
+    "00_Diccionarios/Strong_Hubs/G1548.md",
+    "00_Diccionarios/Strong_Hubs/G2471.md",
+    "00_Diccionarios/Strong_Hubs/G1189.md",
     "02_Exegesis/Contexto_Cultural_Walton_Keener",
     "scripts/procesar_contexto_cultural.py",
     "07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento",
@@ -212,7 +217,6 @@
     "08_Preguntas_y_Respuestas",
     "scripts/procesar_interrogantes.py",
     "02_Exegesis/Comentario_Partain_Reeves",
-    "scripts/procesar_comentario.py",
-    "scripts/read_cmtx.py"
+    "scripts/procesar_comentario.py"
   ]
 }

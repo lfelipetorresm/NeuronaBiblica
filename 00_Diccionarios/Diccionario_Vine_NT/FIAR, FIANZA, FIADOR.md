@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#FIAR,FIANZA,FIADOR"]
 
 A. Verbo
 
-pisteuo (ðéóôåýù, [[G4100]]), creer. Se traduce «se fiaba» en Jua_2:24; véase CREER, y también CONFIAR, ENCOMENDAR.
+pisteuo (πιστεύω, [[G4100]]), creer. Se traduce «se fiaba» en Jua_2:24; véase CREER, y también CONFIAR, ENCOMENDAR.
 
 B. Nombre (I) 
 

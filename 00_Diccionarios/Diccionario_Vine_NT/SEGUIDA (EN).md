@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#SEGUIDA(EN)"]
 
 2. euthus (åὐèýò, [[G2117]]), véase INMEDIATAMENTE, Nº 2. Se traduce «en seguida» (p.ej., Mat_14:27; Mat_26:74; Mar_1:30; Mar_4:15, Mar_4:29; Mar_5:2, Mar_5:29, etc.). Véanse también LUEGO, Nº 7, MOMENTO, C, Nº 3, PRONTO, D, Nº 3.
 
-3. paracrema (ðáñá÷ñÞìá, [[G3916]]), véase INMEDIATAMENTE, Nº 3. Se traduce «en seguida» (Mat_21:20; Luc_22:60; Hch_16:33). Véanse también LUEGO, Nº 7, MOMENTO, C, Nº 3. 
+3. paracrema (παραχρήμα, [[G3916]]), véase INMEDIATAMENTE, Nº 3. Se traduce «en seguida» (Mat_21:20; Luc_22:60; Hch_16:33). Véanse también LUEGO, Nº 7, MOMENTO, C, Nº 3. 
 
 

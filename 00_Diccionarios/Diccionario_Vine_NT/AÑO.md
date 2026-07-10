@@ -13,16 +13,16 @@ A. Nombres
 
 2. eniautos (ἐíéáõôüò, [[G1763]]), originalmente un ciclo de tiempo. Se usa: (a) de un tiempo particular marcado por un evento (p.ej., Luc_4:19; Jua_11:49, Jua_11:51; Jua_18:13; Gál_4:10; Apo_9:15); (b) para marcar un espacio de tiempo (Hch_11:26; Hch_18:11; Stg_4:13; Stg_5:17); (c) de aquello que tiene lugar cada año (Heb_9:7; con kata, cf. (d) en Nº 1; Heb_9:25; Heb_10:1, Heb_10:3).¶
 
-3. dietia (äéåôßá, [[G1333]]), denota un espacio de dos años (dos, dos veces, y Nº 1), (Hch_24:27; Hch_28:30).¶
+3. dietia (διετία, [[G1333]]), denota un espacio de dos años (dos, dos veces, y Nº 1), (Hch_24:27; Hch_28:30).¶
 
-4. trietia (ôñéåôßá, [[G5148]]), denota un lapso de tres años (treis, tres, y Nº 1) (Hch_20:31).¶
+4. trietia (τριετία, [[G5148]]), denota un lapso de tres años (treis, tres, y Nº 1) (Hch_20:31).¶
 
 B. Adjetivo
 
-dietes (äéåôÞò, [[G1332]]), relacionado con A, Nº 3. Denota que se tienen dos años, de dos años de edad (Mat_2:16).¶
+dietes (διετής, [[G1332]]), relacionado con A, Nº 3. Denota que se tienen dos años, de dos años de edad (Mat_2:16).¶
 
 C. Adverbio
 
-perusi (ðÝñõóé, [[G4070]]), el año pasado, hace un año (de para, más allá), se usa con apo, de (partitivo) en 2Co_8:10; 2Co_9:2.¶ 
+perusi (πέρυσι, [[G4070]]), el año pasado, hace un año (de para, más allá), se usa con apo, de (partitivo) en 2Co_8:10; 2Co_9:2.¶ 
 
 

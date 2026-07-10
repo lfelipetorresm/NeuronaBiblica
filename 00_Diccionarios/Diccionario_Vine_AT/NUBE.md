@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#NUBE"]
 
 # NUBE
 
-'anan (òÈðÈï, [[H6051]]), «nube; niebla; nubarrón; humo». Se encuentran cognados de esta palabra en arameo y arábigo. Los 87 casos del vocablo están esparcidos en todo el material veterotestamentario.
+'anan (עָנָן, [[H6051]]), «nube; niebla; nubarrón; humo». Se encuentran cognados de esta palabra en arameo y arábigo. Los 87 casos del vocablo están esparcidos en todo el material veterotestamentario.
 
 Comúnmente el término significa una «masa nubosa». 'Anan se usa en particular para indicar la masa de «nubes» por cuyo medio la presencia de Dios insólitamente se manifestó: «Y Jehová iba delante de ellos de día en una columna de nube, para guiarlos por el camino» (Éxo_13:21 rva). En Éxo_34:5, se usa solo anan para hablar de esta presencia: «Y Jehová descendió en la nube, y estuvo allí con él, proclamando el nombre de Jehová».
 

@@ -15,8 +15,8 @@ Notas: (1) Proskopto se traduce «dieron con ímpetu» en Mat_7:27; véase, Nº 
 
 B. Adjetivos
 
-1. propetes (ðñïðåôÞò, [[G4312]]), significa, lit: uno que cae hacia adelante (de pros, hacia adelante, y pipto, caer). Se usa metafóricamente para significar precipitado, temerario, irreflexivo, y se dice: (a) de personas (2Ti_3:4, una traducción más ajustada sería «obstinado»); (b) de cosas (Hch_19:36 : «nada hagáis precipitadamente»; lit: «con precipitación»).¶
+1. propetes (προπετής, [[G4312]]), significa, lit: uno que cae hacia adelante (de pros, hacia adelante, y pipto, caer). Se usa metafóricamente para significar precipitado, temerario, irreflexivo, y se dice: (a) de personas (2Ti_3:4, una traducción más ajustada sería «obstinado»); (b) de cosas (Hch_19:36 : «nada hagáis precipitadamente»; lit: «con precipitación»).¶
 
-skleros (óêëçñüò, [[G4642]]), duro, rudo, violento. Se usa de viento, «impetuoso» (en Stg_3:4); véanse DUREZA, DURO, B, Nº 1. 
+skleros (σκληρός, [[G4642]]), duro, rudo, violento. Se usa de viento, «impetuoso» (en Stg_3:4); véanse DUREZA, DURO, B, Nº 1. 
 
 

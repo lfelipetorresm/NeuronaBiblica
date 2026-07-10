@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#BUENO"]
 
 A. Adjetivo
 
-tôb (èåéá , [[H2896]]), «bueno; favorable; festivo; agradable; encantador; bien; bueno; mejor; correcto». El término se encuentra en acádico, arameo, arábigo, ugarítico y en sudarábigo antiguo. Aparece en todos los períodos del hebreo bíblico unas 559 veces.
+tôb (טויב , [[H2896]]), «bueno; favorable; festivo; agradable; encantador; bien; bueno; mejor; correcto». El término se encuentra en acádico, arameo, arábigo, ugarítico y en sudarábigo antiguo. Aparece en todos los períodos del hebreo bíblico unas 559 veces.
 
 El adjetivo denota «bueno» en todo el sentido de la palabra. Por ejemplo, tôb se usa con el significado de «agradable» o «encantador»: «Vio que el lugar de descanso era bueno y que la tierra era placentera, e inclinó sus hombros para cargar» (Gén_49:15 rva). Una extensión de esta acepción se puede ver en Gén_40:16 : «Viendo el jefe de los panaderos que había interpretado para bien (cf. nrv, bj ; «favorable» rva, bla ; «bien» nbe), dijo a José». En 1Sa_25:8, se enfatiza el matiz de «deleite» o «festivo»: «Por tanto, hallen gracia ante tus ojos estos mis jóvenes, porque venimos en un día de fiesta» (rva, bj, bla ; «buen día» rv-95, nrv ; «día de alegría» nbe). A Dios se le describe como «bueno», es decir, alguien que da «deleite» y «placer»: «Pero en cuanto a mí, el acercarme a Dios es el bien; he puesto en Jehová el Señor mi esperanza, para contar todas tus obras» (Sal_73:28).
 
@@ -29,7 +29,7 @@ En Gén_2:9, el contraste entre tôb y la maldad implica matices éticos: «Tamb
 
 B. Verbos
 
-yatab (éÈèÇá, [[H3190]]), «ir bien», agradar, estar encantado, ser feliz». Este verbo aparece 117 veces en el Antiguo Testamento. El significado del término, tal como lo expresa Neh_2:6, es «agradar».
+yatab (יָטַב, [[H3190]]), «ir bien», agradar, estar encantado, ser feliz». Este verbo aparece 117 veces en el Antiguo Testamento. El significado del término, tal como lo expresa Neh_2:6, es «agradar».
 
-tôb (èåéá, [[H2895]]), «estar alegre, contento; agradar; ser apropiado, atractivo, bueno, precioso». Tôb, que tiene cognados en acádico y en arábigo, aparece 21 veces en el Antiguo Testamento. Job_13:9 nos ofrece un ejemplo de su significado: «¿Sería bueno que él os escudriñase?» 
+tôb (טויב, [[H2895]]), «estar alegre, contento; agradar; ser apropiado, atractivo, bueno, precioso». Tôb, que tiene cognados en acádico y en arábigo, aparece 21 veces en el Antiguo Testamento. Job_13:9 nos ofrece un ejemplo de su significado: «¿Sería bueno que él os escudriñase?» 
 

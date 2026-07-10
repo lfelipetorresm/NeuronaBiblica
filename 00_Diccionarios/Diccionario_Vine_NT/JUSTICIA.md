@@ -7,9 +7,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#JUSTICIA"]
 
 # JUSTICIA
 
-1. dike (äßêç, [[G1349]]), primariamente costumbre, uso; vino a denotar lo que es recto; luego, una audiencia judicial; de ahí, la ejecución de una sentencia, «pena» (2Ts_1:9; Jud_1:7 : «castigo»). En Hch_28:4, «justicia», se personifica, y denota a la diosa Justicia o Némesis (lat., Justitia), estando convencidos los de Melita que ella estaba a punto de infringir la pena de muerte sobre Pablo por medio de la víbora. En tr aparece también en Hch_25:15 : «condenación». Véanse CASTIGO, PENA.¶
+1. dike (δίκη, [[G1349]]), primariamente costumbre, uso; vino a denotar lo que es recto; luego, una audiencia judicial; de ahí, la ejecución de una sentencia, «pena» (2Ts_1:9; Jud_1:7 : «castigo»). En Hch_28:4, «justicia», se personifica, y denota a la diosa Justicia o Némesis (lat., Justitia), estando convencidos los de Melita que ella estaba a punto de infringir la pena de muerte sobre Pablo por medio de la víbora. En tr aparece también en Hch_25:15 : «condenación». Véanse CASTIGO, PENA.¶
 
-2. dikaiosune (äéêáéïóýíç, [[G1343]]), es el carácter o cualidad de ser recto o justo. Se usa para denotar un atributo de Dios (p.ej., Rom_3:5), cuyo contexto muestra que «la justicia de Dios» significa esencialmente lo mismo que su fidelidad, o veracidad, aquello que es consecuente con su propia naturaleza y promesas. Rom_3:25-26 habla de su justicia manifestada en la muerte de Cristo, que es suficiente para mostrar a los hombres que Dios ni es indiferente ante el pecado ni lo considera de manera ligera. Al contrario, demuestra aquella cualidad de santidad en él que tiene que hallar su expresión en su condena del pecado.
+2. dikaiosune (δικαιοσύνη, [[G1343]]), es el carácter o cualidad de ser recto o justo. Se usa para denotar un atributo de Dios (p.ej., Rom_3:5), cuyo contexto muestra que «la justicia de Dios» significa esencialmente lo mismo que su fidelidad, o veracidad, aquello que es consecuente con su propia naturaleza y promesas. Rom_3:25-26 habla de su justicia manifestada en la muerte de Cristo, que es suficiente para mostrar a los hombres que Dios ni es indiferente ante el pecado ni lo considera de manera ligera. Al contrario, demuestra aquella cualidad de santidad en él que tiene que hallar su expresión en su condena del pecado.
 
 «Dikaiosune se halla en los dichos del Señor Jesús: (a) de todo aquello que es recto o justo en sí mismo, de todo lo que se conforma a la voluntad revelada de Dios (Mat_5:6, Mat_5:10, Mat_5:20); (b) de todo aquello que ha sido señalado por Dios para que sea reconocido y obedecido por el hombre (Mat_3:15; Mat_21:32); (c) de la totalidad de las demandas de Dios (Mat_6:33); (d) de los deberes religiosos (Mat_6:1), distinguidos como el dar limosnas, el deber del hombre hacia su prójimo (vv. 2-4), la oración, su deber para con Dios (vv. 5-15), el ayuno, el deber del dominio propio (vv. 16-18).
 
@@ -21,7 +21,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#JUSTICIA"]
 
 2. ekdikesis (ἐêäßêçóéò, [[G1557]]), que se traduce «justicia» en Luc_18:7-8, significa venganza; véase VENGANZA.
 
-3. dikaioma (äéêáßùìá, [[G1345]]), es la expresión concreta de la justicia; véase, A, Nº 2.
+3. dikaioma (δικαίωμα, [[G1345]]), es la expresión concreta de la justicia; véase, A, Nº 2.
 
 Notas: (1) El término krisis, «juicio», se traduce «justicia» en Luc_11:42; Hch_8:33; véase JUICIO, A, Nº 1. (2) El verbo ekdikeo, castigar, se traduce con la frase verbal «hacer justicia» en Luc_18:3, Luc_18:5; véase CASTIGAR, A, Nº 4, HACER JUSTICIA, VENGAR. (3) En Apo_18:28, el verbo krino aparece en una frase que, traducida lit: es «ha juzgado vuestro juicio», y que en la rvr se traduce «os ha hecho justicia». Véanse JUICIO, JUZGAR, B, Nº 1. 
 

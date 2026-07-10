@@ -13,6 +13,6 @@ apokopto (ἀðïêüðôù, [[G609]]), véase CORTAR, A, Nº 2, se utiliza meta
 
 B. Nombre
 
-katatome (êáôáôïìÞ, [[G2699]]), lit. cortamiento afuera (kata, abajo; temno, cortar), mutilación. La vm traduce «concisión» en Fil_3:2 (rv: «cortamiento»). Lo utiliza el apóstol, mediante una paronomasia, despreciativamente, de la circuncisión judía con su influencia judaizante; en rvr se traduce «mutiladores del cuerpo».¶ 
+katatome (κατατομή, [[G2699]]), lit. cortamiento afuera (kata, abajo; temno, cortar), mutilación. La vm traduce «concisión» en Fil_3:2 (rv: «cortamiento»). Lo utiliza el apóstol, mediante una paronomasia, despreciativamente, de la circuncisión judía con su influencia judaizante; en rvr se traduce «mutiladores del cuerpo».¶ 
 
 

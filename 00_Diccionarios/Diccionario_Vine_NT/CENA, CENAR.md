@@ -11,6 +11,6 @@ deipnon (äåé̂ðíïí, [[G1173]]), denota: (a) la comida principal del día,
 
 B. Verbo
 
-deipneo (äåéðíÝù, [[G1172]]), cenar; dicho de tomar la comida principal del día. Aparece en Luc_17:8; Luc_22:20, en los mejores textos, lit., «la cenada»; igualmente en 1Co_11:25; metafóricamente en Apo_3:20, de la comunión espiritual entre Cristo y el creyente fiel.¶ 
+deipneo (δειπνέω, [[G1172]]), cenar; dicho de tomar la comida principal del día. Aparece en Luc_17:8; Luc_22:20, en los mejores textos, lit., «la cenada»; igualmente en 1Co_11:25; metafóricamente en Apo_3:20, de la comunión espiritual entre Cristo y el creyente fiel.¶ 
 
 

@@ -9,13 +9,13 @@ etiquetas: ["#Diccionario", "#VineAT", "#RESIDIR,MORAR"]
 
 A. Verbo
 
-gûr (âÌåÌø, [[H1481]]), «morar como un forastero, un transeúnte». Este término solo se encuentra en semítico septentrional y en hebreo extrabíblico únicamente como nombre. En hebreo bíblico el vocablo gûr aparece 84 veces y durante todos los períodos de la lengua. Esta acepción de gûr debe distinguirse de otra que significa «temer» (Núm_22:3).
+gûr (גּוּר, [[H1481]]), «morar como un forastero, un transeúnte». Este término solo se encuentra en semítico septentrional y en hebreo extrabíblico únicamente como nombre. En hebreo bíblico el vocablo gûr aparece 84 veces y durante todos los períodos de la lengua. Esta acepción de gûr debe distinguirse de otra que significa «temer» (Núm_22:3).
 
 El verbo quiere decir «morar en una tierra como huésped». El primer caso del término está en Gén_12:10, donde se narra que Abram viajó a Egipto y moró allí como huésped. En Gén_21:23, Abraham pacta con Abimelec, quien le advierte: «Conforme a la bondad que yo hice contigo, harás tú conmigo, y con la tierra en donde has morado».
 
 B. Nombres
 
-ger (âÌÅø, [[H1616]]), «huésped; extranjero». Ger se encuentra unas 92 veces en todos los períodos del hebreo bíblico.
+ger (גֵּר, [[H1616]]), «huésped; extranjero». Ger se encuentra unas 92 veces en todos los períodos del hebreo bíblico.
 
 Un ger no era un simple forastero (nakrî) ni extranjero (zar). Era un residente permanente que, siendo ciudadano de otra tierra, emigró a un nuevo país de residencia. A menudo, ha abandonado a su tierra natal en circunstancias difíciles, como cuando Moisés huyó a Madián (Éxo_2:22). Ya sea que la razón de su viaje fuera para huir de alguna dificultad o solo porque buscaba un nuevo lugar de residencia, el ger andaba en busca de aceptación y refugio. Por consiguiente, podría llamársele también un tôshab, un colono. Ni el colono ni el «huésped» podían poseer tierras. En la tierra de Canaán la posesión de tierra se limitaba a miembros o descendientes de las tribus originales. Únicamente ellos tuvieron plena ciudadanía con todos los privilegios, lo que significaba disfrutar de lleno de la herencia de los dioses y antepasados, privilegios y responsabilidades feudales (cf. Eze_47:22).
 

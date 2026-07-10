@@ -19,15 +19,15 @@ protos (ðñù̂ôïò, [[G4413]]), grado superlativo de pro, antes. Se utiliza:
 
 C. Adverbios
 
-1. proteron (ðñüôåñïí, [[G4386]]), grado comparativo de pro (véase A), anterior, pasado, antes; denota «primero» en Heb_7:27. En 4:6 es mejor traducir «antes», como en vm (rv, rvr, rvr77: «primero»), donde se habla de Israel habiendo oído las buenas nuevas de parte de Dios antes del ministerio del evangelio; en Gál_4:13 : «os anuncié el evangelio al principio» (vm: «la primera vez») significa en la primera de sus dos visitas anteriores. Con el sentido de «antes» se traduce «primero» en Jua_6:62 (rv, rvr; vm: «antes»); Jua_7:51 (tr , rv, rvr, vm); 2Co_1:15 (rv, rvr, rvr77, vm). Véanse ANTES, A, Nº 2, PASADO, PRINCIPIO.
+1. proteron (πρότερον, [[G4386]]), grado comparativo de pro (véase A), anterior, pasado, antes; denota «primero» en Heb_7:27. En 4:6 es mejor traducir «antes», como en vm (rv, rvr, rvr77: «primero»), donde se habla de Israel habiendo oído las buenas nuevas de parte de Dios antes del ministerio del evangelio; en Gál_4:13 : «os anuncié el evangelio al principio» (vm: «la primera vez») significa en la primera de sus dos visitas anteriores. Con el sentido de «antes» se traduce «primero» en Jua_6:62 (rv, rvr; vm: «antes»); Jua_7:51 (tr , rv, rvr, vm); 2Co_1:15 (rv, rvr, rvr77, vm). Véanse ANTES, A, Nº 2, PASADO, PRINCIPIO.
 
-2. protos (ðñþôùò, [[G4413]]), primeramente. Se utiliza en Hch_11:26 : «por primera vez»; en tr aparece la variante proton (véase Nº 3).¶
+2. protos (πρώτως, [[G4413]]), primeramente. Se utiliza en Hch_11:26 : «por primera vez»; en tr aparece la variante proton (véase Nº 3).¶
 
 3. proton (ðñù̂ôïí, [[G4412]]), neutro del adjetivo protos, se utiliza como adverbio, significando primero, primeramente, p.ej., de tiempo (Mat_8:21 : «primero»); de orden (Rom_3:2 : «primeramente»); en Jua_7:51 : «Si primero no le oye».
 
 D. Numeral
 
-mia (ìßá, [[G3391]]), forma gramatical femenina de jeis, uno. Se traduce «primer» en ciertos usos de la frase «el primer día de la semana» (p.ej., Luc_24:1; 1Co_16:2); cf. B y véase DÍA.
+mia (μία, [[G3391]]), forma gramatical femenina de jeis, uno. Se traduce «primer» en ciertos usos de la frase «el primer día de la semana» (p.ej., Luc_24:1; 1Co_16:2); cf. B y véase DÍA.
 
 E. Verbo
 

@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DINERO"]
 
 2. crema (÷ñç̂ìá, [[G5536]]), lit: una cosa que uno usa; similar a craomai, usar; de ahí: (a) riquezas (Mar_10:23-24; Luc_18:24); (b) dinero (Hch_4:37, traducido «precio»), del singular usado aquí, una suma de dinero; plural en 8:18,20; 24:26, y por consiguiente traducido dinero.¶ Cf. con el término castellano, crematístico. Véanse PRECIO, RIQUEZAS.
 
-3. calkos (÷áëêüò, [[G5475]]), cobre. Se usa, por metonimia, de monedas de cobre, y se traduce dinero en Mar_6:8; Mar_12:41. Cf. el término técnico castellano, calcolítico, que denota lo perteneciente al cobre. Véanse asimismo COBRE, METAL. 
+3. calkos (χαλκός, [[G5475]]), cobre. Se usa, por metonimia, de monedas de cobre, y se traduce dinero en Mar_6:8; Mar_12:41. Cf. el término técnico castellano, calcolítico, que denota lo perteneciente al cobre. Véanse asimismo COBRE, METAL. 
 
 

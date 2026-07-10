@@ -17,8 +17,8 @@ B. Nombres
 
 2. ethos (ἠ̂èïò, [[G2239]]), primariamente una guarida, morada; luego una costumbre, una forma de hacer; aparece en plural en 1Co_15:33, esto es, conducta ética, moral.¶
 
-3. sunetheia (óõíÞèåéá, [[G4914]]), (sun, con; ethos (véase Nº 1), el término denota: (a) relación, intimidad; significado que no se halla en el NT; (b) costumbre, uso habitual (Jua_18:39; 1Co_11:16); o la fuerza de un hábito (1Co_8:7 : «habituados»; algunos mss. tienen aquí suneidesis, conciencia). Véase HABITUAR.¶
+3. sunetheia (συνήθεια, [[G4914]]), (sun, con; ethos (véase Nº 1), el término denota: (a) relación, intimidad; significado que no se halla en el NT; (b) costumbre, uso habitual (Jua_18:39; 1Co_11:16); o la fuerza de un hábito (1Co_8:7 : «habituados»; algunos mss. tienen aquí suneidesis, conciencia). Véase HABITUAR.¶
 
-3. tropos (ôñüðïò, [[G5158]]), giro, modo, manera, carácter, forma de vivir. Se traduce «costumbre» en plural en Heb_13:5, en referencia a que la vida del cristiano no debe de estar regida por el deseo de acumular cosas, con el deseo de adquirir una seguridad material falsa, sino que debe gobernar su vida en la fe en un Dios providente. Véanse MANERA, MODO. 
+3. tropos (τρόπος, [[G5158]]), giro, modo, manera, carácter, forma de vivir. Se traduce «costumbre» en plural en Heb_13:5, en referencia a que la vida del cristiano no debe de estar regida por el deseo de acumular cosas, con el deseo de adquirir una seguridad material falsa, sino que debe gobernar su vida en la fe en un Dios providente. Véanse MANERA, MODO. 
 
 

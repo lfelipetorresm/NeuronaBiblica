@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ABOMINACIÓN"]
 
 A. Nombre
 
-tô 'ebah (úÌåéòÅáÈä, [[H8441]]), «abominación; asqueroso, cosa detestable». Aparecen cognados de este vocablo únicamente en fenicio y en el arameo del tárgum. La palabra aparece 117 veces en todos los períodos.
+tô 'ebah (תּויעֵבָה, [[H8441]]), «abominación; asqueroso, cosa detestable». Aparecen cognados de este vocablo únicamente en fenicio y en el arameo del tárgum. La palabra aparece 117 veces en todos los períodos.
 
 Primero, tô 'ebah define a las personas y los objetos como esencialmente únicos en el sentido de ser «peligrosos», «siniestros», «repulsivos» y «abominables» desde la perspectiva de otros. Este significado lo vemos por primera vez en Gén_43:32 : «Los egipcios no pueden comer pan con los hebreos, lo cual es abominación a los egipcios». Debido a sus diferencias culturales o sociales, a los egipcios les repugnaba comer pan con extranjeros (cf. Gén_46:34; Sal_88:8). Otra ilustración clara de este choque fundamental de voluntades aparece en Pro_29:27 : «Abominación es a los justos el hombre inicuo; y abominación es al impío el de caminos rectos». Al referirse a Dios, el término adquiere un matiz particular: describe a personas, cosas, hechos, relaciones y características que le son «detestables» o «abominables» porque son contrarias a su naturaleza. Dios abomina lo que tiene que ver con muerte e idolatría: «Nada abominable comerás» (Deu_14:3). Los que tienen hábitos que Dios aborrece también le son detestables: «La mujer no llevará ropa de hombre, ni el hombre se pondrá vestidos de mujer, porque el que hace esto es una abominación para Yahveh tu Dios» (Deu_22:5 bj). Lo contrario de tô 'ebah son reacciones como «deleite» y «amor» (Pro_15:8-9 lba).
 
@@ -19,5 +19,5 @@ En tercer lugar, tô 'ebah se usa en la esfera de la jurisprudencia y de las rel
 
 B. Verbo
 
-taab (úÌÈòÇá, [[H8581]]), «detestar o tratar como detestable, causar que sea una abominación, actuar en manera abominable». Este verbo aparece 21 veces, comenzando con Deu_7:26 : «No traerás cosa abominable a tu casa». 
+taab (תָּעַב, [[H8581]]), «detestar o tratar como detestable, causar que sea una abominación, actuar en manera abominable». Este verbo aparece 21 veces, comenzando con Deu_7:26 : «No traerás cosa abominable a tu casa». 
 

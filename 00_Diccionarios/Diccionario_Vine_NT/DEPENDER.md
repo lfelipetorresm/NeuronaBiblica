@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DEPENDER"]
 
 # DEPENDER
 
-kremannumi (êñåìÜííõìé, [[G2910]]), véase COLGAR. Se traduce en Mat_22:40 como «depende». 
+kremannumi (κρεμάννυμι, [[G2910]]), véase COLGAR. Se traduce en Mat_22:40 como «depende». 
 
 

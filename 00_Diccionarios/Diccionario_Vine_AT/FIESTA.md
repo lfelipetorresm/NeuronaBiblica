@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#FIESTA"]
 
 # FIESTA
 
-jag (äÇâ, [[H2282]]), «fiesta; celebración cúltica». Hay cognados de este nombre en arameo, siríaco y arábigo. Está comprobado en el hebraico de la Biblia unas 62 veces durante todos los períodos, excepto en la literatura sapiencial.
+jag (הַג, [[H2282]]), «fiesta; celebración cúltica». Hay cognados de este nombre en arameo, siríaco y arábigo. Está comprobado en el hebraico de la Biblia unas 62 veces durante todos los períodos, excepto en la literatura sapiencial.
 
 El vocablo se refiere particularmente a un «peregrinaje festivo». Significa esto la primera vez que se usa en la Biblia, cuando Moisés le dice al faraón: «Hemos de ir con nuestros niños y con nuestros ancianos, con nuestros hijos y con nuestras hijas; hemos de ir con nuestras ovejas y con nuestras vacas, porque tendremos una fiesta de Jehová» (Éxo_10:9). Por lo general, jag se refiere a los tres «peregrinajes festivos» anuales que se celebraban con procesiones y danzas. Estas fiestas especiales se distinguen de las temporadas sagradas («asambleas festivas», Eze_45:17), las fiestas de luna nueva y los sábados (Ose_2:11).
 

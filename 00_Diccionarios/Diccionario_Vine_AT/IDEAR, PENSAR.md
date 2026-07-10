@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#IDEAR,PENSAR"]
 
 A. Verbo
 
-jashab (çÈùÑÇá, [[H2803]]), «pensar, idear, proponer, planificar, estimar, imaginar, imputar». Este vocablo, que se encuentra en todo el desarrollo histórico del hebreo y arameo, aparece 123 veces en el Antiguo Testamento e implica cualquier proceso mental que tenga que ver con pensar o concebir.
+jashab (חָשַׁב, [[H2803]]), «pensar, idear, proponer, planificar, estimar, imaginar, imputar». Este vocablo, que se encuentra en todo el desarrollo histórico del hebreo y arameo, aparece 123 veces en el Antiguo Testamento e implica cualquier proceso mental que tenga que ver con pensar o concebir.
 
 Jashab puede traducirse como «idear» en asociación con «pensar» y «calcular». Una persona que Dios ha dotado «diseña» excelentes obras en oro y otros objetos de primera calidad (Éxo_35:35). El término puede usarse en relación con «maldad», como cuando Amán «ideó» una trama maligna en contra del pueblo judío (Est_8:3 rva); David oró en contra de los que «tramaban» mal contra él (Sal_35:4 lba); un canalla «planea» perversidades en Pro_16:30 (rva). Otros versículos que indican un propósito inmoral por detrás del acto de «idear» son Jer_18:18; Eze_11:2. En cambio, en Jer_18:11 es Dios el que «trama» un plan contra los malignos.
 
@@ -27,5 +27,5 @@ En contados casos, jashab se traduce «imputar»: «Si se comiere de la carne de
 
 B. Adjetivo
 
-jashab (çÈùÑÇá, [[H2803]]). El adjetivo, que tiene la idea de «hábil» o «creativo», y que a menudo en castellano requiere un nombre, se usa respecto a quienes realizaron artesanía en la confección del tabernáculo. Esta acepción de jashab aparece 11 veces en éxodo: «Junto con Oholiab hijo de Ajisamac … quien era artífice» (literalmente, «hábil artesano»; Éxo_38:23 rva). Este arte, sin embargo, es más que invención humana; es demostración de sabiduría, comprensión y conocimiento que el Espíritu de Dios imparte (cf. Éxo_36:8; Éxo_39:3). 
+jashab (חָשַׁב, [[H2803]]). El adjetivo, que tiene la idea de «hábil» o «creativo», y que a menudo en castellano requiere un nombre, se usa respecto a quienes realizaron artesanía en la confección del tabernáculo. Esta acepción de jashab aparece 11 veces en éxodo: «Junto con Oholiab hijo de Ajisamac … quien era artífice» (literalmente, «hábil artesano»; Éxo_38:23 rva). Este arte, sin embargo, es más que invención humana; es demostración de sabiduría, comprensión y conocimiento que el Espíritu de Dios imparte (cf. Éxo_36:8; Éxo_39:3). 
 

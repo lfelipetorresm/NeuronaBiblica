@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#PIEDRA"]
 
 # PIEDRA
 
-'eben (àÆáÆï, [[H68]]), «piedra». Una comparación entre las antiguas lenguas semíticas muestra que todos tenían un término común para indicar «piedra»: 'eben. Hay cognados filológicos (gramática) y semánticos exactos (significados) en acádico, ugarítico, fenicio, arameo, antiguo arábigo meridional y en varios dialectos etiópicos. El Antiguo Testamento griego (la Septuaginta) traduce 'eben con líthos. El vocablo se usa casi exclusivamente para indicar piedras movedizas, a diferencia de sela, «roca» y shûr «peñasco» o «acantilado».
+'eben (אֶבֶן, [[H68]]), «piedra». Una comparación entre las antiguas lenguas semíticas muestra que todos tenían un término común para indicar «piedra»: 'eben. Hay cognados filológicos (gramática) y semánticos exactos (significados) en acádico, ugarítico, fenicio, arameo, antiguo arábigo meridional y en varios dialectos etiópicos. El Antiguo Testamento griego (la Septuaginta) traduce 'eben con líthos. El vocablo se usa casi exclusivamente para indicar piedras movedizas, a diferencia de sela, «roca» y shûr «peñasco» o «acantilado».
 
 El nombre 'eben se encuentra en el Antiguo Testamento 260 veces, alrededor de la misma cantidad de veces en singular (y colectivo) como en plural. Aparece con más frecuencia en prosa que en poesía.
 

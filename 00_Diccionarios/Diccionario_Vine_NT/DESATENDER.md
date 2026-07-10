@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESATENDER"]
 
 # DESATENDER
 
-paratheoreo (ðáñáèåùñÝù, [[G3865]]), primariamente, examinar lado a lado, comparar (para, al lado; theoreo, mirar a), de ahí pasar por alto, descuidar. Se usa en Hch_6:1, traducido «eran desatendidas», de la desatención hacia las viudas en el servicio diario en Jerusalén.¶ 
+paratheoreo (παραθεωρέω, [[G3865]]), primariamente, examinar lado a lado, comparar (para, al lado; theoreo, mirar a), de ahí pasar por alto, descuidar. Se usa en Hch_6:1, traducido «eran desatendidas», de la desatención hacia las viudas en el servicio diario en Jerusalén.¶ 
 
 

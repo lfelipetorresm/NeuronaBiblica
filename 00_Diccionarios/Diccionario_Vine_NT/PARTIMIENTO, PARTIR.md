@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#PARTIMIENTO,PARTIR"]
 
 A. Nombre
 
-klasis (êëÜóéò, [[G2800]]), partimiento (relacionado con B, Nº 1). Se utiliza en Luc_24:35 y Hch_2:42, del partimiento del pan.¶
+klasis (κλάσις, [[G2800]]), partimiento (relacionado con B, Nº 1). Se utiliza en Luc_24:35 y Hch_2:42, del partimiento del pan.¶
 
 B. Verbos
 
@@ -17,15 +17,15 @@ B. Verbos
 
 Véanse también QUEBRANTAR, ROMPER.
 
-1. klao o klazo (êëÜù, [[G2806]]), romper, romper en trozos, partir. Se usa de partir pan: (a) del acto del Señor al proveer para la gente (Mat_14:19; Mat_15:36; Mar_8:6, Mar_8:19); (b) del partimiento del pan en la Cena del Señor (Mat_26:26; Mar_14:22; Luc_22:19; Hch_20:7; 1Co_10:16; 1Co_11:24); (c) de una comida ordinaria (Hch_2:46; Hch_20:11; Hch_27:35); (d) del acto del Señor al dar evidencia de su resurrección (Luc_24:30).¶
+1. klao o klazo (κλάω, [[G2806]]), romper, romper en trozos, partir. Se usa de partir pan: (a) del acto del Señor al proveer para la gente (Mat_14:19; Mat_15:36; Mar_8:6, Mar_8:19); (b) del partimiento del pan en la Cena del Señor (Mat_26:26; Mar_14:22; Luc_22:19; Hch_20:7; 1Co_10:16; 1Co_11:24); (c) de una comida ordinaria (Hch_2:46; Hch_20:11; Hch_27:35); (d) del acto del Señor al dar evidencia de su resurrección (Luc_24:30).¶
 
-2. kataklao (êáôáêëÜù, [[G2622]]), kata, abajo, y Nº 1; se utiliza en Mar_6:41 y Luc_9:16, de la acción de Cristo de partir el pan para las multitudes.¶
+2. kataklao (κατακλάω, [[G2622]]), kata, abajo, y Nº 1; se utiliza en Mar_6:41 y Luc_9:16, de la acción de Cristo de partir el pan para las multitudes.¶
 
-3. squizo (ó÷ßæù, [[G4977]]), partir, rasgar. Se dice del partirse de las rocas, «se partieron» (Mat_27:51); también se usa en el mismo v. del velo del templo, traducido «se rasgó», véase RASGAR; en Jua_19:24 : «no la partamos», de la ropa del Señor; véanse ABRIR, A, Nº 8, DIVIDIR, A, Nº 4, RASGAR, ROMPER.
+3. squizo (σχίζω, [[G4977]]), partir, rasgar. Se dice del partirse de las rocas, «se partieron» (Mat_27:51); también se usa en el mismo v. del velo del templo, traducido «se rasgó», véase RASGAR; en Jua_19:24 : «no la partamos», de la ropa del Señor; véanse ABRIR, A, Nº 8, DIVIDIR, A, Nº 4, RASGAR, ROMPER.
 
-4. merizo (ìåñßæù, [[G3307]]), dividir, distribuir (relacionado con meros ; véase PARTE, Nº 1). Se utiliza en la voz media, con el sentido de dividir cualquier cosa con otro (Luc_12:13). Véase DIVIDIR, A, Nº 2, etc.
+4. merizo (μερίζω, [[G3307]]), dividir, distribuir (relacionado con meros ; véase PARTE, Nº 1). Se utiliza en la voz media, con el sentido de dividir cualquier cosa con otro (Luc_12:13). Véase DIVIDIR, A, Nº 2, etc.
 
-5. diamerizo (äéáìåñßæù, [[G1266]]), partir por medio (dia, por medio; meros, parte). Se traduce «partieron entre sí» (Mat_27:35, vm; rv, rvr: «repartieron»); en la rv se traduce con el verbo partir en Luc_22:17 : «partidlo» (rvr: «repartidlo»); Luc_23:34 : «partiendo» (rvr: «repartieron entre sí»). Véanse DIVIDIR, REPARTIR.
+5. diamerizo (διαμερίζω, [[G1266]]), partir por medio (dia, por medio; meros, parte). Se traduce «partieron entre sí» (Mat_27:35, vm; rv, rvr: «repartieron»); en la rv se traduce con el verbo partir en Luc_22:17 : «partidlo» (rvr: «repartidlo»); Luc_23:34 : «partiendo» (rvr: «repartieron entre sí»). Véanse DIVIDIR, REPARTIR.
 
 (II) En El Sentido de Irse, Alejarse.
 

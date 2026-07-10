@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#NOMBRE"]
 
 # NOMBRE
 
-shem (ùÑÅí, [[H8034]]), «nombre; reputación; memoria; renombre». Hay cognados de este vocablo en acádico, ugarítico, fenicio, arameo y arábigo. El vocablo aparece unas 864 veces a través del Antiguo Testamento hebreo.
+shem (שֵׁם, [[H8034]]), «nombre; reputación; memoria; renombre». Hay cognados de este vocablo en acádico, ugarítico, fenicio, arameo y arábigo. El vocablo aparece unas 864 veces a través del Antiguo Testamento hebreo.
 
 No siempre es el caso que los «nombres» personales revelaban la esencia de un individuo. Ciertos nombres asimilan palabras de otras lenguas o términos muy antiguos cuyo significado se desconocía. Por cierto, nombres como «perro» (Caleb) y «abeja» (Débora) no tenían nada que ver con la personalidad de sus dueños. Tal vez algunos nombres indicaban alguna característica sobresaliente del que lo llevaba. En otros casos, un «nombre» conmemora un hecho o sentimiento que experimentaron los padres en torno al nacimiento del niño o cuando le pusieron el nombre. Otros nombres dicen algo acerca de quien lo recibe que sirve para identificarlo. Este sentido del nombre como identificación aparece en Gén_2:19 (uno de los primeros casos en la Biblia): «Todo lo que Adán llamó a los animales vivientes, ese es su nombre». Por otro lado, los nombres por los que Dios se autorrevela ('Adonay, 'El, 'Elohîm) sí reflejan algo de su persona y obra.
 

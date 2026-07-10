@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#GARGANTA"]
 
 # GARGANTA
 
-larunx (ëÜñõãî, [[G2995]]), garganta (cf. el término castellano laringe). Se usa metafóricamente del habla en Rom_3:13.¶ 
+larunx (λάρυγξ, [[G2995]]), garganta (cf. el término castellano laringe). Se usa metafóricamente del habla en Rom_3:13.¶ 
 
 

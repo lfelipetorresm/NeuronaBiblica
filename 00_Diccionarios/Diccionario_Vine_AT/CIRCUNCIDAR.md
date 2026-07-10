@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CIRCUNCIDAR"]
 
 # CIRCUNCIDAR
 
-mûl (îåÌì, [[H4135]]), «circuncidar, cortar». Este verbo aparece más de 30 veces en el Antiguo Testamento. Su uso continúa en el hebreo rabínico y moderno. Sin embargo, el verbo «cortar» no se encuentra en otras lenguas semíticas.
+mûl (מוּל, [[H4135]]), «circuncidar, cortar». Este verbo aparece más de 30 veces en el Antiguo Testamento. Su uso continúa en el hebreo rabínico y moderno. Sin embargo, el verbo «cortar» no se encuentra en otras lenguas semíticas.
 
 La mayoría de los casos en el Antiguo Testamento están en el Pentateuco (20 veces) y Josué (8). Mûl aparece con mayor frecuencia en Génesis (17 veces, con 11 de estas solamente en Génesis 17) y Josué (8 veces). Mûl aparece en 3 de las 7 formas de verbos y en varias que son poco comunes. No tiene derivados a no ser mûlot en Éxo_4:26 : «Ella había dicho «esposo de sangre» a causa de la circuncisión» (rva).
 

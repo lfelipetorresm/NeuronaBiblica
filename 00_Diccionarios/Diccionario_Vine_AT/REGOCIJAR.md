@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#REGOCIJAR"]
 
 A. Verbo
 
-samaj (ùÒÈîÇç, [[H8055]]), «regocijar, estar gozoso». Este verbo también aparece en ugarítico (con los radicales shh-m-h) y tal vez en arameo-siríaco. Se encuentra en todos los períodos del hebreo y unas 155 veces en la Biblia.
+samaj (שָׂמַח, [[H8055]]), «regocijar, estar gozoso». Este verbo también aparece en ugarítico (con los radicales shh-m-h) y tal vez en arameo-siríaco. Se encuentra en todos los períodos del hebreo y unas 155 veces en la Biblia.
 
 Por lo general, samaj se refiere a una emoción espontánea, a un gozo intenso expresado de manera visible y/o externa. No se trata casi nunca de una emoción perenne ni a un sentimiento de bienestar duradero. Son emociones que surgen durante fiestas, como de circuncisión, bodas y cosechas, o bien en celebración de alguna victoria sobre un enemigo. Los hombres de Jabes irrumpieron en alegría cuando recibieron la noticia de que serían librados de los filisteos (1Sa_11:9).
 
@@ -19,15 +19,15 @@ Por tanto, el verbo samaj sugiere tres elementos: (1) sentimiento espontáneo y 
 
 El verbo se usa en forma intransitiva para indicar una acción que se vuelve sobre el sujeto (cf. 1Sa_11:9). Cuando Dios es el sujeto, él es el que «se regocija lleno de júbilo»: «Que la gloria del Señor perdure eternamente; que el Señor se regocije en sus obras» (nvi). Los santos deben «alegrarse en el Señor y regocijarse y dar voces de júbilo» (cf. Sal_32:11 lba). De ahí que samaj expresa alegría y gozo. En el lugar que el Señor escogiere, Israel debe «regocijarse» en todas sus bendiciones (Deu_12:7). En este contexto, el verbo describe una situación en que uno se coloca en circunstancias dadas. Por extensión, el vocablo tiene un significado técnico relacionado con todo lo que se hace al preparar una fiesta para Dios: «El primer día tomaréis para vosotros fruto de árbol hermoso: ramas de palmera, ramas de árboles frondosos y de sauces de los arroyos; y os regocijaréis delante de Jehová vuestro Dios durante siete días» (Lev_23:40 rva).
 
-En algunos casos el verbo describe una situación de regocijo continuo. En 1Re_4:20 se resume el reinado de Salomón en los siguientes términos: «Judá é Israel eran muchos, como la arena que está junto al mar en multitud, comiendo, bebiendo y alegrándose».
+En algunos casos el verbo describe una situación de regocijo continuo. En 1Re_4:20 se resume el reinado de Salomón en los siguientes términos: «Judá י Israel eran muchos, como la arena que está junto al mar en multitud, comiendo, bebiendo y alegrándose».
 
 B. Nombre
 
-simjah (ùÒÄîÀçÈä, [[H8057]]), «gozo». Este nombre, que también se halla en ugarítico, aparece 94 veces en hebreo bíblico. Simjah es un término técnico para la expresión externa de «gozo» (Gén_31:27 : primer caso en la Biblia; cf. 1Sa_18:6; Jer_50:11) como para el sentimiento y concepto abstracto de «gozo», que es el significado más usual (Deu_28:47). Expresa también toda la actividad festiva delante de Dios: «Así todo el pueblo se fue a comer y a beber, a enviar porciones y a regocijarse con gran alegría» (Neh_8:12 rva).
+simjah (שִׂמְחָה, [[H8057]]), «gozo». Este nombre, que también se halla en ugarítico, aparece 94 veces en hebreo bíblico. Simjah es un término técnico para la expresión externa de «gozo» (Gén_31:27 : primer caso en la Biblia; cf. 1Sa_18:6; Jer_50:11) como para el sentimiento y concepto abstracto de «gozo», que es el significado más usual (Deu_28:47). Expresa también toda la actividad festiva delante de Dios: «Así todo el pueblo se fue a comer y a beber, a enviar porciones y a regocijarse con gran alegría» (Neh_8:12 rva).
 
 El nombre capta la especificidad colorida del verbo, como en Isa_55:12 (rva): «Ciertamente, con alegría saldréis y en paz os iréis. Los montes y las colinas irrumpirán en cánticos delante de vosotros, y todos los árboles del campo aplaudirán».
 
 C. Adjetivo
 
-sameaj (ùÒÈîÅçÇ, [[H8056]]), «gozoso, alegre». El adjetivo se encuentra 21 veces en el Antiguo Testamento. El primer caso está en Deu_16:15 : «Siete días celebrarás la fiesta a Jehovah tu Dios en el lugar que Jehovah haya escogido. Porque Jehovah tu Dios te habrá bendecido en todos tus frutos y en toda la obra de tus manos, y estarás muy alegre» (rva). 
+sameaj (שָׂמֵחַ, [[H8056]]), «gozoso, alegre». El adjetivo se encuentra 21 veces en el Antiguo Testamento. El primer caso está en Deu_16:15 : «Siete días celebrarás la fiesta a Jehovah tu Dios en el lugar que Jehovah haya escogido. Porque Jehovah tu Dios te habrá bendecido en todos tus frutos y en toda la obra de tus manos, y estarás muy alegre» (rva). 
 

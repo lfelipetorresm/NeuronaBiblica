@@ -7,10 +7,10 @@ etiquetas: ["#Diccionario", "#VineNT", "#TIENDA,TIENDA(S)(HACER)"]
 
 # TIENDA, TIENDA(S) (HACER)
 
-1. skene (óêçíÞ, [[G4633]]); véase TABERNÁCULO, Nº 1, y también ENRAMADA, MORADA, PABELLÓN.
+1. skene (σκηνή, [[G4633]]); véase TABERNÁCULO, Nº 1, y también ENRAMADA, MORADA, PABELLÓN.
 
-2. skenoma (óêÞíùìá, [[G4638]]), véase TABERNÁCULO, Nº 3.
+2. skenoma (σκήνωμα, [[G4638]]), véase TABERNÁCULO, Nº 3.
 
-3. skenopoios (óêçíïðïéüò, [[G4635]]), véase FABRICANTES ( DE TIENDAS DE CAMPAÑA ). 
+3. skenopoios (σκηνοποιός, [[G4635]]), véase FABRICANTES ( DE TIENDAS DE CAMPAÑA ). 
 
 

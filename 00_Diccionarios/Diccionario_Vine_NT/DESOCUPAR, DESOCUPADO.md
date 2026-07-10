@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DESOCUPAR,DESOCUPADO"]
 
 A. Verbo
 
-scolazo (ó÷ïëÜæù, [[G4980]]), (de scole, ocio), aquello en lo que se emplea el ocio, como asistir a un discurso; de ahí, el lugar donde se daban los discursos y conferencias; cf. el término castellano escuela. Se usa de personas, tener tiempo para algo, y dedicarse a ello (1Co_7:5); de cosas, de estar desocupadas, vacías (Mat_12:44; algunos mss. lo tienen en Luc_11:25). Véase OCUPAR(SE), etc.¶
+scolazo (σχολάζω, [[G4980]]), (de scole, ocio), aquello en lo que se emplea el ocio, como asistir a un discurso; de ahí, el lugar donde se daban los discursos y conferencias; cf. el término castellano escuela. Se usa de personas, tener tiempo para algo, y dedicarse a ello (1Co_7:5); de cosas, de estar desocupadas, vacías (Mat_12:44; algunos mss. lo tienen en Luc_11:25). Véase OCUPAR(SE), etc.¶
 
 B. Adjetivo
 

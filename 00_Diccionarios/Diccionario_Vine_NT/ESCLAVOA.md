@@ -13,6 +13,6 @@ La forma femenina, doule, significa sierva, criada (Luc_1:38, Luc_1:48; Hch_2:18
 
 Notas: (1) Douleuo es un verbo que se traduce con la cláusula verbal «ser esclavo» (Jua_8:33; Tit_3:3). Véanse ESCLAVITUD, B, Nº 1, SERVIR. (2) Douloo es un verbo traducido con la cláusula verbal «ser hecho esclavo» (2Pe_2:19), y con el giro «no esclavas»; lit: «no esclavizadas» (Tit_2:3).
 
-2. paidiske (ðáéäßóêç, [[G3814]]), muchacha joven, doncella; denotaba también una esclava joven, sierva o criada, «esclava» en Gál_4:22-23, Gál_4:30, dos veces, 31. Véanse CRIADA, MUCHACHA. 
+2. paidiske (παιδίσκη, [[G3814]]), muchacha joven, doncella; denotaba también una esclava joven, sierva o criada, «esclava» en Gál_4:22-23, Gál_4:30, dos veces, 31. Véanse CRIADA, MUCHACHA. 
 
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#OÍDO,OREJA"]
 
 A. Nombre
 
-'ozen (àéæÆÆï, [[H241]]), «oído, oreja». El nombre es común en las lenguas semíticas. En el Antiguo Testamento aparece 187 veces, sobre todo para designar una parte del cuerpo. El primer caso está en Gén_20:8 : «Entonces Abimelec se levantó de mañana y llamó a todos sus siervos, y dijo todas estas palabras en los oídos de ellos; y temieron los hombres en gran manera».
+'ozen (איזֶֶן, [[H241]]), «oído, oreja». El nombre es común en las lenguas semíticas. En el Antiguo Testamento aparece 187 veces, sobre todo para designar una parte del cuerpo. El primer caso está en Gén_20:8 : «Entonces Abimelec se levantó de mañana y llamó a todos sus siervos, y dijo todas estas palabras en los oídos de ellos; y temieron los hombres en gran manera».
 
 En las «orejas» se colgaban aretes (Gén_35:4); por lo mismo podían horadarse en señal de servidumbre perpetua (Éxo_21:6).
 

@@ -11,6 +11,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MULTITUD"]
 
 2. plethos (ðëç̂èïò, [[G4128]]), lit. plenitud; de ahí, una gran compañía, multitud. Se utiliza: (a) de cosas, de peces, «cantidad»(Luc_5:6; Jua_21:6); de ramas secas, «algunas» (vha: «una cantidad»; Hch_28:3); de estrellas y arena (Heb_11:12 : «multitud»); de pecados «multitud» (Stg_5:20; 1Pe_4:8); (b) de personas: (1) multitud o multitudes, de gente (p.ej., Mar_3:7-8; Luc_6:17; Jua_5:3; Hch_14:1); de ángeles (Luc_2:13; (2) con el artículo, todo el número, la multitud, la gente del pueblo (Luc_1:10; Luc_8:37; Hch_5:16 : «muchos venían»; vha: «concurría la multitud»; Hch_19:9 : «multitud»; Hch_23:7 : «asamblea»); una compañía particular, p.ej., de discípulos, «multitud» (Luc_19:37; Hch_4:32; Hch_6:2, Hch_6:5; Hch_15:30 : «congregación»); de ancianos, sacerdotes y escribas (Hch_23:7 : «asamblea»); de los apóstoles y ancianos de la iglesia en Jerusalén (Hch_15:12 : «multitud»). Véanse ASAMBLEA, CANTIDAD, GENTE, GRANDE, MUCHEDUMBRE.
 
-3. pamplethei (ðáìðëçèåß, [[G3826]]), denotando con toda la multitud (pas, todo; plethos, multitud), se traduce «toda la multitud … a una». Véase TODO.¶ 
+3. pamplethei (παμπληθεί, [[G3826]]), denotando con toda la multitud (pas, todo; plethos, multitud), se traduce «toda la multitud … a una». Véase TODO.¶ 
 
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#TEATRO"]
 
 # TEATRO
 
-theatron (èÝáôñïí, [[G2302]]), teatro. Se empleaba también como lugar de reunión (Hch_19:29, Hch_19:31); en 1Co_4:9 se emplea de un espectáculo. Véase, B, Nº 1.¶ 
+theatron (θέατρον, [[G2302]]), teatro. Se empleaba también como lugar de reunión (Hch_19:29, Hch_19:31); en 1Co_4:9 se emplea de un espectáculo. Véase, B, Nº 1.¶ 
 
 

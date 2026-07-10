@@ -11,7 +11,7 @@ A. Adjetivos
 
 1. eidololatres (åἰäùëïëÜôñçò, [[G1496]]), idólatra (de eidolon, ídolo; véase más adelante; y latris, asalariado). Se halla en 1Co_5:10-11; 1Co_6:9; 1Co_10:7. La advertencia es para poner en guardia a los creyentes a no apartarse de Dios en pos de la idolatría, tanto «abierta como secretamente, consciente o inconscientemente» (Cremer) (Efe_5:5; Apo_21:8; Apo_22:15).¶
 
-2. kateidolos (êáôåßäùëïò, [[G2712]]), véase ENTREGAR, C, Nº 2.
+2. kateidolos (κατείδωλος, [[G2712]]), véase ENTREGAR, C, Nº 2.
 
 B. Nombre
 

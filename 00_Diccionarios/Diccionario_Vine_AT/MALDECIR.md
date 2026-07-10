@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MALDECIR"]
 
 A. Verbos
 
-qalal (÷ÈìÇì, [[H7043]]), «ser insignificante, liviano, ligero, veloz; maldecir». Este vocablo de gran amplitud se encuentra tanto en hebreo antiguo como moderno, en antiguo acádico y (según algunos expertos) en antiguo ugarítico. El término aparece unas 82 veces en el Antiguo Testamento hebraico. Como se podrá percibir, sus diversos matices surgen de la idea básica de ser «insignificante o ligero», con connotaciones un tanto negativas.
+qalal (קָלַל, [[H7043]]), «ser insignificante, liviano, ligero, veloz; maldecir». Este vocablo de gran amplitud se encuentra tanto en hebreo antiguo como moderno, en antiguo acádico y (según algunos expertos) en antiguo ugarítico. El término aparece unas 82 veces en el Antiguo Testamento hebraico. Como se podrá percibir, sus diversos matices surgen de la idea básica de ser «insignificante o ligero», con connotaciones un tanto negativas.
 
 Qalal se encuentra por primera vez en Gén_8:8 : «Para ver si las aguas se habían retirado» (rvr, rv 95; «disminuido» rva, lba ; «bajado» lvp ; «menguado» bj ; «secado» bpd, sbp). Todos estos términos indican la disminución (o aligeramiento) de una condición anterior.
 
@@ -19,7 +19,7 @@ A menudo qalal adquiere la idea de «maldecir», tratar como «insignificante» 
 
 La forma causativa del verbo a veces expresaba la idea de «aligerar, quitar una carga»: «Quizás aligere el peso de su mano sobre vosotros» (1Sa_6:5 rva); «Así aliviarás la carga que hay sobre ti» (Éxo_18:22 rva).
 
-'arar (àÈøÇø, [[H779]]), «maldecir». Esta raíz se encuentra en sudarábigo, etiópico y acádico. El vocablo aparece 60 veces en el Antiguo Testamento.
+'arar (אָרַר, [[H779]]), «maldecir». Esta raíz se encuentra en sudarábigo, etiópico y acádico. El vocablo aparece 60 veces en el Antiguo Testamento.
 
 Se encuentra por primera vez en Gén_3:14 y 17 (rva): «Serás maldita entre todos los animales domésticos … Sea maldita la tierra por tu causa». Más de la mitad de todos los casos se encuentran en esta modalidad. Es una declaración de juicio sobre los que quebrantan el pacto, como por ejemplo en Deu_27:15-26, donde se repite doce veces: «Maldito el hombre».
 
@@ -33,7 +33,7 @@ La Septuaginta traduce 'arar con epikatarasthai, sus compuestos y derivados; por
 
 B. Nombre
 
-'alah (àÈìÈä, [[H423]]), «maldición; juramento». Hay cognados de este vocablo en fenicio y arábigo. Los 36 casos veterotestamentarios del nombre se encuentran en todos los períodos de la literatura bíblica.
+'alah (אָלָה, [[H423]]), «maldición; juramento». Hay cognados de este vocablo en fenicio y arábigo. Los 36 casos veterotestamentarios del nombre se encuentran en todos los períodos de la literatura bíblica.
 
 A diferencia de 'arar («maldecir o anatemizar») y qalal («maldecir abusando o empequeñeciendo»), 'alah se refiere fundamentalmente a «la ejecución del juramento requerido para validar un pacto o acuerdo». Como nombre, 'alah se refiere propiamente al «juramento»: «Entonces, cuando hayas llegado a mi familia, quedarás libre de mi juramento; y aunque no te la den, también quedarás libre de mi juramento» (Gén_24:41 rva : primer caso). El «juramento» consistía de una «maldición» sobre la cabeza del que quebrantara el acuerdo. Este mismo sentido aparece en Levítico 5:1 con referencia a una «maldición» general contra cualquiera que testificara falsamente en un caso jurídico.
 

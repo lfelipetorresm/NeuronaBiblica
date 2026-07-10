@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineNT", "#LUGAR"]
 
 A. Nombres
 
-1. topos (ôüðïò, [[G5117]]), de donde se derivan los términos castellanos, tópico, topografía, etc., se usa de una región o localidad. Es frecuente en los Evangelios y en Hechos; en Luc_2:7 y 14:22, de cabida; de un lugar que ocupa una persona o cosa, un lecho a la mesa (p.ej., Luc_14:19, Luc_14:10); del destino de Judas Iscariote (Hch_1:25); de la condición de los no dotados en una reunión de la iglesia, «lugar de simple oyente» (1Co_14:16); la vaina de una espada (Mat_26:52); un pasaje de un libro (Luc_4:17); véase también Apo_2:5; Apo_6:14; Apo_12:8; metafóricamente, de condición, ocasión, oportunidad (Hch_25:16, lit: «haya recibido lugar de defensa»; Rom_12:19; Efe_4:27); Heb_12:17 : «oportunidad»; véase OPORTUNIDAD.
+1. topos (τόπος, [[G5117]]), de donde se derivan los términos castellanos, tópico, topografía, etc., se usa de una región o localidad. Es frecuente en los Evangelios y en Hechos; en Luc_2:7 y 14:22, de cabida; de un lugar que ocupa una persona o cosa, un lecho a la mesa (p.ej., Luc_14:19, Luc_14:10); del destino de Judas Iscariote (Hch_1:25); de la condición de los no dotados en una reunión de la iglesia, «lugar de simple oyente» (1Co_14:16); la vaina de una espada (Mat_26:52); un pasaje de un libro (Luc_4:17); véase también Apo_2:5; Apo_6:14; Apo_12:8; metafóricamente, de condición, ocasión, oportunidad (Hch_25:16, lit: «haya recibido lugar de defensa»; Rom_12:19; Efe_4:27); Heb_12:17 : «oportunidad»; véase OPORTUNIDAD.
 
-2. corion (÷ùñßïí, [[G5564]]), región (diminutivo de cora, tierra, país). Se usa de Getsemaní (Mat_26:36); Mar_14:32 : «lugar»; véanse CAMPO, HEREDAD, PROPIEDAD.
+2. corion (χωρίον, [[G5564]]), región (diminutivo de cora, tierra, país). Se usa de Getsemaní (Mat_26:36); Mar_14:32 : «lugar»; véanse CAMPO, HEREDAD, PROPIEDAD.
 
-3. komopolis (êùìüðïëéò, [[G2969]]), denota población rural (Mar_1:38), un pueblo grande generalmente carente de muralla, lugares (rv, rvr; vm, rvr77, Besson: «pueblos»; vha: «villas»).¶
+3. komopolis (κωμόπολις, [[G2969]]), denota población rural (Mar_1:38), un pueblo grande generalmente carente de muralla, lugares (rv, rvr; vm, rvr77, Besson: «pueblos»; vha: «villas»).¶
 
 Notas: (1) Para eidoleion, o eidolion, «lugar de ídolos» (1Co_8:10), véase ( LUGAR DE O TEMPLO DE );¶ (2) gazofulakeion, se traduce «arca» o «arca de la ofrenda» (Mar_12:41, dos veces, 43; Luc_21:1), o «lugar de las ofrendas» en Jua_8:20. Véanse ARCA, Nº 1, OFRENDAS;¶ (3) protoklisia, traducido principalmente «primeros asientos», se traduce «primer lugar» en Luc_14:8; (4) tupos, «figura», «señal» (Jua_20:25 : «el lugar»; vm: «en la señal»); véanse EJEMPLO, FIGURA, FORMA, MODELO, SEÑAL.
 

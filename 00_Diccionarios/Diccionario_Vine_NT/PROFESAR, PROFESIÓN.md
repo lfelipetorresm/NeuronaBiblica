@@ -13,7 +13,7 @@ A. Verbos
 
 2. jomologeo (ὁìïëïãÝù, [[G3670]]), se traduce profesar en Tit_1:16 : «profesan conocer a Dios»; en 1Ti_6:12 se traduce con la expresión «habiendo hecho la buena profesión» (lit., «habiendo profesado la buena profesión»); véase CONFESAR, A, Nº 1, y también AFIRMAR, Nota, DECLARAR, PROMETER.
 
-3. fasko (öÜóêù, [[G5335]]), afirmar, asentir. Se traduce «profesando ser sabios» (Rom_1:22). Véanse AFIRMAR, Nº 4, DECIR, A, Nº 17.
+3. fasko (φάσκω, [[G5335]]), afirmar, asentir. Se traduce «profesando ser sabios» (Rom_1:22). Véanse AFIRMAR, Nº 4, DECIR, A, Nº 17.
 
 Nota: Para jomologia, nombre traducido como verbo en 2Co_9:13 : «que profesáis» (rv, rvr, rvr77, vm; Besson: «profesión»), véase B a continuación.
 

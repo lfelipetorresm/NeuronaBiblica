@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#ENTRE,ENMEDIO"]
 
 A. Preposición
 
-qereb (÷ÆøÆá, [[H7130]]), «entre». Esta preposición se usa por primera vez en Génesis: «Abram habitó en la tierra de Canaán, y Lot habitó en [entre] las ciudades de la llanura y fue instalando sus tiendas hasta Sodoma» (13:12). El término se usa 222 veces en el Antiguo Testamento; predomina en el Pentateuco (particularmente en Deuteronomio ) pero no es muy frecuente en los libros históricos (excepto los primeros libros, Josué y Jueces ). En los libros poéticos, qereb se usa más a menudo en el libro de Salmos. Aparece una sola vez en Job y tres en Proverbios . Es bastante frecuente en los libros proféticos.
+qereb (קֶרֶב, [[H7130]]), «entre». Esta preposición se usa por primera vez en Génesis: «Abram habitó en la tierra de Canaán, y Lot habitó en [entre] las ciudades de la llanura y fue instalando sus tiendas hasta Sodoma» (13:12). El término se usa 222 veces en el Antiguo Testamento; predomina en el Pentateuco (particularmente en Deuteronomio ) pero no es muy frecuente en los libros históricos (excepto los primeros libros, Josué y Jueces ). En los libros poéticos, qereb se usa más a menudo en el libro de Salmos. Aparece una sola vez en Job y tres en Proverbios . Es bastante frecuente en los libros proféticos.
 
 B. Nombre
 
-qereb (÷ÆøÆá, [[H7130]]), «entrañas; en medio». Como nombre, este vocablo se relaciona con la raíz acádica qarab, que significa «en medio». En el hebreo de la Mishnah y en el moderno, qereb generalmente quiere decir «en medio» en vez de «lo interior» o «entrañas».
+qereb (קֶרֶב, [[H7130]]), «entrañas; en medio». Como nombre, este vocablo se relaciona con la raíz acádica qarab, que significa «en medio». En el hebreo de la Mishnah y en el moderno, qereb generalmente quiere decir «en medio» en vez de «lo interior» o «entrañas».
 
 Un uso idiomático de qereb denota una parte interior del cuerpo de donde provienen la risa (Gén_18:12) y los pensamientos (Jer_4:14). La Biblia limita otro uso idiomático, que significa «entrañas», a los animales: «No comeréis del cordero nada crudo, ni cocido en agua; sino asado al fuego, con su cabeza, sus piernas y sus entrañas» (Éxo_12:9).
 
@@ -25,7 +25,7 @@ El uso idiomático de qereb en el Sal_103:1 («Bendice, alma mía, a Jehová, y 
 
 La Septuaginta brinda las siguientes traducciones en griego de qereb : kardia, «corazón [como el centro de la vida física, espiritual y mental]» o «corazón [en sentido figurado, interior o central]»; koilia «cavidad del cuerpo, barriga»; y mesos, «medio» o «en medio de».
 
-tawek (úÌÈåÆÆêÀ, [[H8432]]), «en medio; entre; medio; centro». Este vocablo, que también figura en ugarítico, aparece unas 418 veces en el hebreo bíblico en todos los períodos.
+tawek (תָּוֶֶךְ, [[H8432]]), «en medio; entre; medio; centro». Este vocablo, que también figura en ugarítico, aparece unas 418 veces en el hebreo bíblico en todos los períodos.
 
 Tawek indica la parte de cualquier espacio, lugar, número de personas, cosas o líneas que no se ubica en las márgenes o extremos. Este es el énfasis en Gén_9:21 : «Y bebió [Noé] del vino, y se embriagó, y estaba descubierto en medio de su tienda». En muchos contextos el término significa «entre» y no necesariamente en el medio: «Entonces levantó la cabeza del jefe de los coperos y la cabeza del jefe de los panaderos, en medio de [«entre»] sus servidores» (Gén_40:20 rva). En Éxo_14:29 tawek se usa como una extensión de «a través de»: «Los hijos de Israel caminaron en seco por en medio del mar» (rva). La idea de «dentro de» puede enfatizarse con añadir vocablos como me'îm, «barriga, entrañas», o lev, «corazón»: «Mi corazón fue como cera, derritiéndose en medio de mis entrañas» (Sal_22:14). El término a veces significa sencillamente «en» con el sentido de «mezclar»: «Y batieron a martillo láminas de oro, y las cortaron en hilos para entretejerlas con la tela azul, púrpura y escarlata y el lino fino» (Éxo_39:3 lba).
 
@@ -35,7 +35,7 @@ En algunos casos tawek se usa como nombre, con el significado de «el centro de 
 
 El vocablo aparece únicamente 7 veces sin un antecedente preposicional.
 
-bên (áÌÅéï, [[H996]]), «entre; en medio; dentro; en el intervalo de». Un cognado de este vocablo se halla en arábigo, arameo y etiópico. Hay alrededor de 375 casos del término durante todos los períodos del hebreo bíblico. Los estudios acreditan que la forma pura del vocablo es bayin, aunque esta nunca aparece en el hebreo de la Biblia.
+bên (בֵּין, [[H996]]), «entre; en medio; dentro; en el intervalo de». Un cognado de este vocablo se halla en arábigo, arameo y etiópico. Hay alrededor de 375 casos del término durante todos los períodos del hebreo bíblico. Los estudios acreditan que la forma pura del vocablo es bayin, aunque esta nunca aparece en el hebreo de la Biblia.
 
 El término casi siempre (excepto 1Sa_17:4, 1Sa_17:23)es una presuposición que significa «en el intervalo» o «entre». Puede representar un «espacio intermedio» en general: «Esto ha de ser para ti como una señal sobre tu mano y como un memorial entre tus ojos» (Éxo_13:9 rva). A veces el término indica «en medio» en el sentido de «estar muy próximo»: «Dice el perezoso: «¡Hay un león en el camino! ¡Hay un león en medio de las calles!»» (Pro_26:13 rva). En otros casos, bên significa «entre» en relación con repartir: «¿Negociarán por él [leviatán] los grupos de pescadores? ¿Se lo repartirán entre sí los mercaderes?» (Job_41:6 rva). En Job_34:37, la palabra significa «en medio de» con el sentido de «uno entre muchos»: «Porque a su pecado añade la rebelión; aplaude en medio de nosotros» (rva).
 

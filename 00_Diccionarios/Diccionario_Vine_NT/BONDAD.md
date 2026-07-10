@@ -13,6 +13,6 @@ Trench, siguiendo a Jerónimo, distingue entre los términos crestotes y agathos
 
 J. A. Robertson (acerca de Efe_5:9) señala que agathosune es «el elemento más amable, como dikaiosune (justicia) es el más firme, en el carácter ideal».
 
-2. crestotes (÷ñçóôüôçò, [[G5544]]), véase BENIGNIDAD, B. 
+2. crestotes (χρηστότης, [[G5544]]), véase BENIGNIDAD, B. 
 
 

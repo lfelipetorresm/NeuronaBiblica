@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#REMORDIMIENTO"]
 
 A. Nombre
 
-katanuxis (êáôÜíõîéò, [[G2659]]), véase ESTUPOR. El término se traduce «de remordimiento» (Rom_11:8, rv; rvr: «de estupor»).¶
+katanuxis (κατάνυξις, [[G2659]]), véase ESTUPOR. El término se traduce «de remordimiento» (Rom_11:8, rv; rvr: «de estupor»).¶
 
 B. Adjetivo
 

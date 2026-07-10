@@ -15,9 +15,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#VASO"]
 
 4. alabastron (ἀëÜâáóôñïí, [[G211]]), frasco de alabastro. Se traduce «vaso de alabastro» en Mat_26:7; Mat_14:3, dos veces; véanse ALABASTRO y FRASCO DE ALABASTRO.
 
-5. plasma (ðëÜóìá, [[G4110]]), véase BARRO, A, Nº 2.
+5. plasma (πλάσμα, [[G4110]]), véase BARRO, A, Nº 2.
 
-6. poterion (ðïôÞñéïí, [[G4221]]), véase CÁLIZ.
+6. poterion (ποτήριον, [[G4221]]), véase CÁLIZ.
 
 Nota: Para calkion, «de los vasos de metal» (Mar_7:4, rv), véanse METAL, Nº 1, UTENSILIOS, Nº 2.¶ 
 

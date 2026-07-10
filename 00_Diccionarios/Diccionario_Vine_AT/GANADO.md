@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#GANADO"]
 
 # GANADO
 
-'eleph (àÆìÆó, [[H504]]), «ganado; mil; grupo». La primera acepción, «ganado», significa el animal domesticado o de una manada o rebaño. Tiene cognados en arameo, acádico, ugarítico y fenicio. Se encuentra 8 veces en la Biblia. La primera en Deu_7:13 : «Bendecirá el fruto de tu vientre y el fruto de tu tierra, tu grano, tu mosto, tu aceite, la cría de tus vacas y los rebaños de tus ovejas» (rv-95).
+'eleph (אֶלֶף, [[H504]]), «ganado; mil; grupo». La primera acepción, «ganado», significa el animal domesticado o de una manada o rebaño. Tiene cognados en arameo, acádico, ugarítico y fenicio. Se encuentra 8 veces en la Biblia. La primera en Deu_7:13 : «Bendecirá el fruto de tu vientre y el fruto de tu tierra, tu grano, tu mosto, tu aceite, la cría de tus vacas y los rebaños de tus ovejas» (rv-95).
 
 Este nombre quizás esté relacionado con el verbo 'alap, «familiarizarse con, enseñar, instruir». El verbo se encuentra solo 4 veces y únicamente en Job y Proverbios .
 

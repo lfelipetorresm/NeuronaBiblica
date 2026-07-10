@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#QUERUBÍN"]
 
 # QUERUBÍN
 
-queroubim (÷åñïõâßì, [[G5502]]), es el plural de queroub . Los términos castellanos «querubín» y «querubines» son erróneos, por cuanto «querubín» es la forma plural; el término singular es «querub». En buen uso, el plural de «querub» en castellano debe ser «querubes» o la transcripción «querubim».
+queroubim (χερουβίμ, [[G5502]]), es el plural de queroub . Los términos castellanos «querubín» y «querubines» son erróneos, por cuanto «querubín» es la forma plural; el término singular es «querub». En buen uso, el plural de «querub» en castellano debe ser «querubes» o la transcripción «querubim».
 
  Algunos consideraban a los querubim como los representantes ideales de la creación animada redimida. En el tabernáculo y en el templo estaban representados por las dos figuras de oro de dos seres vivientes alados. Constituían una sola pieza con la cubierta de oro del arca del pacto en el Lugar Santísimo, significando que las expectativas de las criaturas redimidas y glorificadas iban juntas con el sacrificio de Cristo.
 

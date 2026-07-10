@@ -17,7 +17,7 @@ A. Verbos
 
 4. eucomai (åὔ÷ïìáé, [[G2172]]), se traduce «deseara» en Rom_9:3, del profundo deseo de Pablo por la salvación de los judíos; «deseo» en 3Jn_1:2 : Véanse ANSIAR, ORAR, QUERER.
 
-5. thelo (èÝëù, [[G2309]]), se traduce «deseamos» en Mat_12:38; Mar_6:19; Luc_10:24; Luc_23:8; 2Co_11:12; Heb_12:17; Heb_13:18; véase QUERER, etc.
+5. thelo (θέλω, [[G2309]]), se traduce «deseamos» en Mat_12:38; Mar_6:19; Luc_10:24; Luc_23:8; 2Co_11:12; Heb_12:17; Heb_13:18; véase QUERER, etc.
 
 Nota: El nombre epipothia se traduce en Rom_15:23 : «deseando» (lit: «ardiente deseo»).¶
 

@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MORAR"]
 
 A. Verbos
 
-yashab (éÈùÑÇá, [[H3427]]), «morar, sentarse, permanecer, habitar, quedar, esperar». El vocablo se encuentra más Deu_1:100 veces en todo el Antiguo Testamento y su raíz está grandemente diseminada en otras lenguas semíticas.
+yashab (יָשַׁב, [[H3427]]), «morar, sentarse, permanecer, habitar, quedar, esperar». El vocablo se encuentra más Deu_1:100 veces en todo el Antiguo Testamento y su raíz está grandemente diseminada en otras lenguas semíticas.
 
 Yashab está por primera vez en Gén_4:16, con su acepción más común, «morar»: «Partió Caín … y habitó [«se estableció» lba, bj] en la tierra de Nod» (rva). El término reaparece en Gén_18:1 (rva): «[Abraham] estaba sentado en la entrada de la tienda». En Gén_22:5, yashab se traduce: «Esperad [«quedaos» lba] aquí con el asno. Yo y el muchacho iremos hasta allá, adoraremos y volveremos a vosotros» (rva). El vocablo tiene el sentido de «permanecer»: «Permanece viuda en la casa de tu padre» (Gén_38:11 rva); se usa con casi el mismo sentido al respecto de Dios: «Mas tú, Jehová, permanecerás para siempre. Tu trono de generación en generación» (Lam_5:19). La promesa de regreso del cautiverio reza así: «Y edificarán casas, y morarán en ellas; plantarán viñas, y comerán el fruto de ellas» (Isa_65:21).
 
@@ -19,7 +19,7 @@ Yashab se usa a menudo metafóricamente en relación a Dios. Las oraciones: «Yo
 
 El vocablo también se usa para hablar de «estar» en la presencia de Dios: «Una cosa he demandado a Jehová, esta buscaré; que esté yo en la casa de Jehová todos los días de mi vida» (Sal_27:4; cf. Sal_23:6). «Tú los introducirás y los plantarás en el monte de tu heredad, en el lugar que has preparado como tu habitación, oh Jehovah, en el santuario que establecieron tus manos, oh Señor» (Éxo_15:17 rva).
 
-shakan (ùÑÈëÇï, [[H7931]]), «morar, habitar, asentarse, permanecer, quedar». Este vocablo se encuentra en muchas lenguas semíticas, incluyendo el antiguo acádico y ugarítico; también está por todos los niveles de la historia hebraica. Shakan aparece casi 130 veces en hebreo veterotestamentario.
+shakan (שָׁכַן, [[H7931]]), «morar, habitar, asentarse, permanecer, quedar». Este vocablo se encuentra en muchas lenguas semíticas, incluyendo el antiguo acádico y ugarítico; también está por todos los niveles de la historia hebraica. Shakan aparece casi 130 veces en hebreo veterotestamentario.
 
 Shakan se usa por primera vez con en el significado de «habitar» en Gén_9:27 : «Y habite en las tiendas de Sem». Moisés recibe una orden: «Que me hagan un santuario, y yo habitaré en medio de ellos» (Éxo_25:8 rva).
 
@@ -29,9 +29,9 @@ La versión Septuaginta del Antiguo Testamento se vale de un gran número de té
 
 B. Nombre
 
-mishkan (îÄùÑÀëÌÇï, [[H4908]]), «morada; tienda». Este vocablo se encuentra casi 140 veces y con frecuencia se refiere al «tabernáculo» en el desierto (Éxo_25:9). Más tarde mishkan se usó para referirse al «templo». Esta acepción tal vez preparó el camino para el conocido término shekînah, de amplio uso en el judaísmo tardío para referirse a la «presencia» de Dios.
+mishkan (מִשְׁכַּן, [[H4908]]), «morada; tienda». Este vocablo se encuentra casi 140 veces y con frecuencia se refiere al «tabernáculo» en el desierto (Éxo_25:9). Más tarde mishkan se usó para referirse al «templo». Esta acepción tal vez preparó el camino para el conocido término shekînah, de amplio uso en el judaísmo tardío para referirse a la «presencia» de Dios.
 
 C. Participio
 
-yashab (éÈùÑÇá, [[H3427]]), «permaneciendo; habitante». Este participio a veces se usa como frase adjetival: «Jacob … era hombre tranquilo y solía permanecer en las tiendas» (Gén_25:27 rva). Sin embargo, Gén_19:25 (rva) ilustra el uso más frecuente del término: «Todos los habitantes de las ciudades». 
+yashab (יָשַׁב, [[H3427]]), «permaneciendo; habitante». Este participio a veces se usa como frase adjetival: «Jacob … era hombre tranquilo y solía permanecer en las tiendas» (Gén_25:27 rva). Sin embargo, Gén_19:25 (rva) ilustra el uso más frecuente del término: «Todos los habitantes de las ciudades». 
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ETERNIDAD"]
 
 # ETERNIDAD
 
-'ôlam (òåéìÈí, [[H5769]]), «eternidad; tiempo muy lejano; perpetuidad; para siempre». Este término tiene cognados en ugarítico, moabita, fenicio, arameo, arábigo y acádico. Se encuentra unas 440 veces durante todos los períodos del hebreo bíblico.
+'ôlam (עוילָם, [[H5769]]), «eternidad; tiempo muy lejano; perpetuidad; para siempre». Este término tiene cognados en ugarítico, moabita, fenicio, arameo, arábigo y acádico. Se encuentra unas 440 veces durante todos los períodos del hebreo bíblico.
 
 Primero, en algunos pasajes el vocablo significa «eternidad» en el sentido de no estar limitado al presente. En este sentido, leemos en Ecl_3:11 que Dios ha limitado al ser humano al tiempo y le ha dado la capacidad de sobreponerse al tiempo (de recordar el ayer, planificar para el mañana y pensar en términos abstractos); sin embargo, no le ha dado conocimiento divino: «Todo lo hizo hermoso en su tiempo; también ha puesto eternidad en el corazón de ellos, de modo que el hombre no alcanza a comprender la obra que Dios ha hecho desde el principio hasta el fin».
 

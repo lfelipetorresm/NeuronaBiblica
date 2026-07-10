@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#ÁRBOL"]
 
 # ÁRBOL
 
-'ets (òÅõ, [[H6086]]), «árbol; bosque; madera; palo; tallo». El vocablo tiene cognados en ugarítico, acádico, fenicio, arameo (e), y arábigo. Aparece unas 325 veces a través de todo el Antiguo Testamento hebreo.
+'ets (עֵץ, [[H6086]]), «árbol; bosque; madera; palo; tallo». El vocablo tiene cognados en ugarítico, acádico, fenicio, arameo (e), y arábigo. Aparece unas 325 veces a través de todo el Antiguo Testamento hebreo.
 
 La primera vez que se usa 'ets, en forma de nombre colectivo, representa todos los árboles frutales (Gén_1:11). En Éxo_9:25 el término significa llanamente «árbol»: «Y aquel granizo hirió en toda la tierra de Egipto … asimismo destrozó el granizo toda la hierba del campo, y desgajó todos los árboles del país». Dios prohíbe a Israel destruir los huertos próximos a las ciudades asediadas: «Cuando sities a alguna ciudad, peleando contra ella muchos días para tomarla, no destruirás sus árboles … porque de ellos podrás comer» (Deu_20:19).
 
@@ -19,7 +19,7 @@ El vocablo también se aplica al género «árbol». Es así como Isa_41:19 menc
 
 'Ets tiene una vez la acepción de «tallo»: «Mas ella los había hecho subir al terrado, y los había escondido entre los manojos de lino que tenía puestos en el terrado» (Jos_2:6).
 
-'ayil (àÇéÄì, [[H352]]), «árbol grande, frondoso». El vocablo aparece 4 veces y solo en pasajes poéticos. No significa un género ni especie particular de árbol, pero sí un árbol grande, frondoso. La primera vez que se usa es en Isa_1:29 : «Entonces os avergonzarán [los árboles frondosos] que amasteis» [la mayoría de las versiones lo traducen «encinas»].
+'ayil (אַיִל, [[H352]]), «árbol grande, frondoso». El vocablo aparece 4 veces y solo en pasajes poéticos. No significa un género ni especie particular de árbol, pero sí un árbol grande, frondoso. La primera vez que se usa es en Isa_1:29 : «Entonces os avergonzarán [los árboles frondosos] que amasteis» [la mayoría de las versiones lo traducen «encinas»].
 
-'elon (àÅìåéï, [[H436]]), «árbol grande». Es probable que el nombre se relacione con ayil o árbol grande. Elon se encuentra 10 veces y únicamente en relación con lugares de adoración. Bien puede ser que estos fueran antiguos lugares cúlticos. El término no se refiere a ningún género ni especie de árbol, pero, como el nombre con el que se relaciona, simplemente un «árbol grande»: «Volvió Gaal a hablar, y dijo: He allí gente que desciende de en medio de la tierra [Ombligo de la Tierra, bj, bla], y una tropa viene por el camino de la encina de los adivinos» (Jue_9:37). En Jue_9:6, la bj habla del «Terebinto de la estela» y rv dice «llanura del pilar» en Siquem, donde los hombres de Siquem y la casa de Milo coronaron a Abimelec. 
+'elon (אֵלוין, [[H436]]), «árbol grande». Es probable que el nombre se relacione con ayil o árbol grande. Elon se encuentra 10 veces y únicamente en relación con lugares de adoración. Bien puede ser que estos fueran antiguos lugares cúlticos. El término no se refiere a ningún género ni especie de árbol, pero, como el nombre con el que se relaciona, simplemente un «árbol grande»: «Volvió Gaal a hablar, y dijo: He allí gente que desciende de en medio de la tierra [Ombligo de la Tierra, bj, bla], y una tropa viene por el camino de la encina de los adivinos» (Jue_9:37). En Jue_9:6, la bj habla del «Terebinto de la estela» y rv dice «llanura del pilar» en Siquem, donde los hombres de Siquem y la casa de Milo coronaron a Abimelec. 
 

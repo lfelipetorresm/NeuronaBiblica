@@ -21,7 +21,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#APARTAR"]
 
 (c) Poreuo
 
-5. poreuo (ðïñåýù, [[G4198]]), análogo a poros, pasaje. Significa en la voz media irse por el propio camino, irse de un lugar a otro. En algunos lugares se traduce como «seguir el propio camino» (p.ej., Luc_13:33); se traduce como «apartarse» (Mat_25:41), de la sentencia del Señor sobre los perdidos en el juicio de las naciones. La mejor traducción de este verbo, siempre que sea posible, es «ir por el propio camino». Véanse ANDAR, CAMINAR, CAMINO, IR(SE), MARCHAR, SALIR, SEGUIR.
+5. poreuo (πορεύω, [[G4198]]), análogo a poros, pasaje. Significa en la voz media irse por el propio camino, irse de un lugar a otro. En algunos lugares se traduce como «seguir el propio camino» (p.ej., Luc_13:33); se traduce como «apartarse» (Mat_25:41), de la sentencia del Señor sobre los perdidos en el juicio de las naciones. La mejor traducción de este verbo, siempre que sea posible, es «ir por el propio camino». Véanse ANDAR, CAMINAR, CAMINO, IR(SE), MARCHAR, SALIR, SEGUIR.
 
 (d) Compuestos de Coreo
 
@@ -33,17 +33,17 @@ etiquetas: ["#Diccionario", "#VineNT", "#APARTAR"]
 
 (e) Corizo Y Compuestos
 
-9. corizo (÷ùñßæù, [[G5563]]), poner aparte, separar. Significa, en la voz media, separarse uno mismo, apartarse de (Hch_1:4; Hch_18:1-2); en asuntos maritales (1Co_7:10-11, 1Co_7:15); «se apartó» (Flm_1:15); también se usa el verbo en Mat_19:6; Mar_10:9; Rom_8:35, Rom_8:39; como «apartar» se usa en la cita ya mencionada de Filemón y en Heb_7:26. Véanse IR(SE), SALIR, SEPARAR.¶
+9. corizo (χωρίζω, [[G5563]]), poner aparte, separar. Significa, en la voz media, separarse uno mismo, apartarse de (Hch_1:4; Hch_18:1-2); en asuntos maritales (1Co_7:10-11, 1Co_7:15); «se apartó» (Flm_1:15); también se usa el verbo en Mat_19:6; Mar_10:9; Rom_8:35, Rom_8:39; como «apartar» se usa en la cita ya mencionada de Filemón y en Heb_7:26. Véanse IR(SE), SALIR, SEPARAR.¶
 
-10. diacorizomai (äéá÷ïñßæïìáé, [[G1316]]), lit: separar a través, (dia); esto es, totalmente; en la voz media, separarse uno definitivamente de. Se usa en Luc_9:39, «apartándose».¶
+10. diacorizomai (διαχορίζομαι, [[G1316]]), lit: separar a través, (dia); esto es, totalmente; en la voz media, separarse uno definitivamente de. Se usa en Luc_9:39, «apartándose».¶
 
 (f) Strefo Y Compuestos
 
-11. strefo (óôñÝöù, [[G4762]]), denota: (1) en la voz activa: (a) girar o volver algo (Mat_5:39); (b) traer de vuelta (Mat_27:3, en los mejores textos; algunos tienen el Nº 12); (c) reflexivamente, volverse uno mismo, dar la espalda al pueblo, dicho de Dios (Hch_7:42); aquí se traduce como «apartó», y es la única ocasión en que así se traduce en la rvr; (d) volver una cosa en otra (Apo_11:6; único lugar en el que aparece esta palabra después del libro de los Hechos); (2) en la voz pasiva: (a) usado reflexivamente, girarse uno mismo (p.ej., Mat_7:6; Jua_20:14, Jua_20:16); (b) metafóricamente (Mat_18:3 : «si no os volvéis»; Jua_12:40, en los mejores textos; algunos tienen el Nº 4). Véanse CONVERTIR, DEVOLVER, VOLVER.
+11. strefo (στρέφω, [[G4762]]), denota: (1) en la voz activa: (a) girar o volver algo (Mat_5:39); (b) traer de vuelta (Mat_27:3, en los mejores textos; algunos tienen el Nº 12); (c) reflexivamente, volverse uno mismo, dar la espalda al pueblo, dicho de Dios (Hch_7:42); aquí se traduce como «apartó», y es la única ocasión en que así se traduce en la rvr; (d) volver una cosa en otra (Apo_11:6; único lugar en el que aparece esta palabra después del libro de los Hechos); (2) en la voz pasiva: (a) usado reflexivamente, girarse uno mismo (p.ej., Mat_7:6; Jua_20:14, Jua_20:16); (b) metafóricamente (Mat_18:3 : «si no os volvéis»; Jua_12:40, en los mejores textos; algunos tienen el Nº 4). Véanse CONVERTIR, DEVOLVER, VOLVER.
 
 12. apostrefo (ἀðïóôñÝöù, [[G654]]), denota: (a) hacer volver (apa), quitar (Rom_11:26, «apartará»; 2Ti_4:4); metafóricamente, apartarse de la adhesión, pervertir (Luc_23:14); (b) hacer volver, poner de vuelta (Mat_26:52); (c) en la voz pasiva, utilizado reflexivamente, rehusar (Mat_5:42; 2Ti_1:15; Tit_1:14; Heb_12:25); en la voz activa (Hch_3:26). Véanse ABANDONAR, CONVERTIR, DESECHAR, DEVOLVER, PERTURBAR, REHUSAR, VOLVER.¶
 
-13. diastrefo (äéáóôñÝöù, [[G1294]]), distorsionar (dia, partido), se traduce «apartar» en Hch_13:8. Véanse PERVERTIR, TRASTORNAR.
+13. diastrefo (διαστρέφω, [[G1294]]), distorsionar (dia, partido), se traduce «apartar» en Hch_13:8. Véanse PERVERTIR, TRASTORNAR.
 
 (g) Varios Otros Verbos
 
@@ -63,11 +63,11 @@ etiquetas: ["#Diccionario", "#VineNT", "#APARTAR"]
 
 21. ektrepo (ἐêôñÝðù, [[G1624]]), lit: girar o retorcer afuera. Se usa en la voz pasiva en Heb_12:13, «que lo cojo no se salga del camino, (rvr); «no salga fuera de camino» (rv); «no se descamine» (vm); en el sentido de la voz media, aunque en forma pasiva, de desviarse, o de apartarse de (2Ti_4:4; «se volverán a las fábulas» rv, rvr); de aquellos que, habiéndose desviado de la fe, se apartaron a vana palabrería (1Ti_1:6); de aquellos que se han apartado en pos de Satanás (1Ti_5:15 : «apartado», rvr; «se han vuelto atrás», rv); «evitando» las pláticas profanas (1Ti_6:20, rv, rvr, rvr77; vm: «apartándote») de los profanos y vacíos discursos, y de las contradicciones de la ciencia falsamente llamada así. Véanse también EVITAR, SALIR, VOLVER.¶ En la lxx se usa en Amó_5:8.¶
 
-22. methistemi (ìåèßóôçìé, [[G3179]]), se usa metafóricamente en Hch_19:26, «ha apartado (a muchas gentes)». Véanse QUITAR, TRASLADAR.
+22. methistemi (μεθίστημι, [[G3179]]), se usa metafóricamente en Hch_19:26, «ha apartado (a muchas gentes)». Véanse QUITAR, TRASLADAR.
 
-23. parafero (ðáñáöÝñù, [[G3911]]), llevar fuera (para, a un lado; fero, llevar), quitar. Se traduce «aparta» en Mar_14:36 (rvr, vm; rv: «traspasa»); y «pasa» (Luc_22:42). Véanse DEJAR, LLEVAR, PASAR.
+23. parafero (παραφέρω, [[G3911]]), llevar fuera (para, a un lado; fero, llevar), quitar. Se traduce «aparta» en Mar_14:36 (rvr, vm; rv: «traspasa»); y «pasa» (Luc_22:42). Véanse DEJAR, LLEVAR, PASAR.
 
-24. stello (óôÝëëù, [[G4724]]), traer junto, reunir (utilizado de recoger velas en una nave), de ahí que, en la voz media, signifique apartarse de una persona o cosa (2Ts_3:6 : «apartéis»); en el otro pasaje en que aparece (2Co_8:20), «evitando». Véase EVITAR.¶
+24. stello (στέλλω, [[G4724]]), traer junto, reunir (utilizado de recoger velas en una nave), de ahí que, en la voz media, signifique apartarse de una persona o cosa (2Ts_3:6 : «apartéis»); en el otro pasaje en que aparece (2Co_8:20), «evitando». Véase EVITAR.¶
 
 Nota: Kat idian, se traduce en Mat_14:13 como «apartado» (rvr; vha: «aparte»). La traducción general de esta expresión es «aparte» en casi todos los lugares en que aparece. Véase APARTE, Nº 2. 
 

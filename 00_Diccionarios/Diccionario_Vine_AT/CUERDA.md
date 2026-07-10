@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CUERDA"]
 
 # CUERDA
 
-jebel (çÆáÆì, [[H2256]]), «cuerda; soga; aparejo; lazo; cordel». Hay cognados de este vocablo en arameo, siríaco, etiópico, arábigo y acádico. El término aparece unas 50 veces en el Antiguo Testamento.
+jebel (חֶבֶל, [[H2256]]), «cuerda; soga; aparejo; lazo; cordel». Hay cognados de este vocablo en arameo, siríaco, etiópico, arábigo y acádico. El término aparece unas 50 veces en el Antiguo Testamento.
 
 El significado primario de jebel es «cuerda» o «soga». «Luego ella los hizo descender con una cuerda por la ventana, porque su casa estaba sobre la muralla de la ciudad, y ella vivía en la muralla» (Jos_2:15 rva). El vocablo se refiere a «cuerdas de tienda» en Isa_33:20 : «Tienda que no será plegada, cuyas estacas no serán arrancadas nunca, ni rotas ninguna de sus cuerdas» (lba). En Isa_33:23 (lba), jebel quiere decir el «aparejo» de un barco.
 

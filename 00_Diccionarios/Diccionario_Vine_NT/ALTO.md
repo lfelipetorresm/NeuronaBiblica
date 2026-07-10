@@ -21,7 +21,7 @@ B. Nombres
 
 3. juperoon (ὑðåñῳ̂ïí, [[G5253]]), aposento alto. Se traduce así en la rv y rvr en Hch_1:13; Hch_20:8, y en ambas revisiones «sala» en 9:37,39, donde la vha también traduce «aposento alto», al igual que la vm . La rvr77 traduce Hch_1:13; Hch_20:8 como la rv y rvr, y los otros dos como «estancia superior». Véase SALA¶
 
-4. paresis (ðÜñåóéò, [[G3929]]), primariamente dejar ir, dejar a un lado (similar a pariemi, dejar solo, soltar). Denota pasar de lado o pretermisión (de pecado), suspensión de juicio, o retención de castigo (Rom_3:25 : «haber pasado por alto»; vm: «a causa de la remisión»), con referencia a los pecados cometidos con anterioridad al sacrificio propiciatorio de Cristo, siendo este pasar por alto no debido a falta de consideración de ellos por parte de Dios, sino debido a su paciencia.¶
+4. paresis (πάρεσις, [[G3929]]), primariamente dejar ir, dejar a un lado (similar a pariemi, dejar solo, soltar). Denota pasar de lado o pretermisión (de pecado), suspensión de juicio, o retención de castigo (Rom_3:25 : «haber pasado por alto»; vm: «a causa de la remisión»), con referencia a los pecados cometidos con anterioridad al sacrificio propiciatorio de Cristo, siendo este pasar por alto no debido a falta de consideración de ellos por parte de Dios, sino debido a su paciencia.¶
 
 Nota: Buthos, un término que significa «profundo», se traduce en la rvr como «alta mar» (2Co_11:25), al igual que la vm . La rv traduce «una noche y un día he estado en lo profundo del mar». La rvr77 sigue a la rvr y vm .¶
 

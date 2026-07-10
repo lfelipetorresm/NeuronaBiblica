@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CONSTRUIR"]
 
 A. Verbo
 
-banah (áÌÈðÈä, [[H1129]]), «edificar, establecer, construir, reconstruir». Esta raíz se encuentra en todas las lenguas semíticas con excepción del etíope y en todos los períodos del hebreo. En la Biblia, se halla unas 375 veces en el hebreo y 23 en el arameo.
+banah (בָּנָה, [[H1129]]), «edificar, establecer, construir, reconstruir». Esta raíz se encuentra en todas las lenguas semíticas con excepción del etíope y en todos los períodos del hebreo. En la Biblia, se halla unas 375 veces en el hebreo y 23 en el arameo.
 
 Con su significado básico, banah aparece en Gén_8:20, donde se dice que Noé «construyó» un altar (lvp). En Gén_4:17, banah significa no solamente que Enoc «edificó» una ciudad, sino que la «fundó» o «estableció». El verbo puede tener también la acepción de «manufacturar», como en Eze_27:5 : «De los cipreses de Senir te han hecho todas tus tablas» (lba). En sentido similar, leemos que Dios «hizo» (rva) o «formó» (lba) a Eva de la costilla de Adán (Gén_2:22 : la primera vez que aparece). Algo parecido aparece en 1Re_15:22 donde Asa comenzó a «fortificar» las ciudades de Geba y Mizpa (lba). En cada caso, el verbo connota que se «forma» un objeto nuevo añadiendo al material existente.
 
@@ -19,7 +19,7 @@ El verbo banah tiene usos metafóricos: por ejemplo, «edificar una casa» signi
 
 B. Nombres
 
-ben (áÌÅï, [[H1121]]), «hijo». bat (áÌÇú, [[H1323]]), «hija». Estos nombres se derivan del verbo banah. Son en realidad formas diferentes del mismo nombre que se presenta en casi todas las lenguas semíticas (excepto la etíope u acádica). Los casos bíblicos suman más Deu_5:500 en hebreo y 22 en arameo.
+ben (בֵּן, [[H1121]]), «hijo». bat (בַּת, [[H1323]]), «hija». Estos nombres se derivan del verbo banah. Son en realidad formas diferentes del mismo nombre que se presenta en casi todas las lenguas semíticas (excepto la etíope u acádica). Los casos bíblicos suman más Deu_5:500 en hebreo y 22 en arameo.
 
 Básicamente, el nombre representa la descendencia más cercana, varón y hembra. Por ejemplo, Adán «engendró hijos e hijas» (Gén_5:4). Aquí se enfatiza en particular el lazo físico que une un hombre a su progenie. Puede también encontrarse el término refiriéndose a la descendencia de animales: «Atando a la vid su borriquillo y a la cepa la cría de su asna» (Gén_49:11 rva). A veces el vocablo ben, que generalmente significa «hijo», puede significar «hijos» (de ambos géneros). Dios le dijo a Eva: «Con dolor darás a luz los hijos» (Gén_3:16 (rva): primera mención de este nombre). Los términos ben y bat pueden significar «descendientes» en general: hijas, hijos, nietos y nietas. Labán se quejó con Jacob: «Ni siquiera me has dado la oportunidad de besar a mis hijos y a mis hijas» (Gén_31:28; cf. v. 43). Un superior puede tratar a un subalterno familiarmente con la expresión «hijo mío». Josué se dirigió a Acán diciendo: «Hijo mío, por favor, da gloria y reconocimiento a Jehová Dios de Israel» (Jos_7:19). Un uso especial de «hijo mío» es cuando un maestro se dirige a su discípulo, refiriéndose a una relación intelectual o espiritual: «Hijo mío, si los pecadores te quisieran persuadir, no lo consientas (Pro_1:10). En los labios de un subalterno, «hijo» connota sumisión consciente. El siervo de Ben-hadad, Hazael llevó presentes a Eliseo, diciendo: «Ben-hadad, tu hijo, rey de Siria, me ha enviado para preguntarte: «¿Sanaré de esta enfermedad?»» (2Re_8:9 rva).
 

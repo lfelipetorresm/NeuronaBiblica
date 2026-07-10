@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#VENTURA,ALA"]
 
 # VENTURA, A LA
 
-adelos (ÜäÞëùò, [[G84]]), véase INCERTIDUMBRE, C. 
+adelos (άδήλως, [[G84]]), véase INCERTIDUMBRE, C. 
 
 

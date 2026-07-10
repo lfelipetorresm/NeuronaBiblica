@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#RISA"]
 
 # RISA
 
-gelos (ãÝëùò, [[G1071]]), denota risa (Stg_4:9).¶ Cf. gelao, bajo REÍR. 
+gelos (γέλως, [[G1071]]), denota risa (Stg_4:9).¶ Cf. gelao, bajo REÍR. 
 
 

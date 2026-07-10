@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#MIRAR"]
 
 # MIRAR
 
-nabat (ðÈáÇè, [[H5027]]), «mirar, considerar, percibir, advertir». Este verbo se encuentra tanto en hebreo antiguo como moderno. Aparece alrecedor de 70 veces en el Antiguo Testamento. La primera mención está en Gén_15:5 donde tiene el sentido de «mirar bien», como cuando Dios ordena a Abraham: «Mira ahora a los cielos, y cuenta las estrellas».
+nabat (נָבַט, [[H5027]]), «mirar, considerar, percibir, advertir». Este verbo se encuentra tanto en hebreo antiguo como moderno. Aparece alrecedor de 70 veces en el Antiguo Testamento. La primera mención está en Gén_15:5 donde tiene el sentido de «mirar bien», como cuando Dios ordena a Abraham: «Mira ahora a los cielos, y cuenta las estrellas».
 
 Aunque nabat se usa comúnmente con la connotación física de «mirar» (Éxo_3:6), el vocablo se usa a menudo en un sentido figurado para indicar una percepción espiritual e interna. Es en este sentido que Dios dice a Samuel: «No mires su apariencia» (1Sa_16:7 rva), cuando buscaba un rey entre los hijos de Jesé. La idea de «considerar» (basado en la intuición), se expresa en Isa_51:1-2 (rva): «Mirad la roca de donde fuisteis cortados … Mirad a Abraham, vuestro padre». «Prestar atención» parece ser el significado de Isa_5:12 (rva): «No consideran lo que Jehová ha realizado». 
 

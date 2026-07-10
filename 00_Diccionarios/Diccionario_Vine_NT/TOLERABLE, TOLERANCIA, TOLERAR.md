@@ -13,7 +13,7 @@ anektos (ἀíåêôüò, [[G414]]), relacionado con aneco, en la voz media, sop
 
 B. Nombres
 
-1. makrothumia (ìáêñïèõìßá, [[G3115]]), largura de ánimo, longanimidad. Se traduce «tolerancia» en la rv en Gál_5:22 (rvr: «paciencia»); Col_3:12 (rvr: «paciencia»). Véanse CLEMENCIA, LONGANIMIDAD, PACIENCIA, A, Nº 2, Nota, y Nº 3.
+1. makrothumia (μακροθυμία, [[G3115]]), largura de ánimo, longanimidad. Se traduce «tolerancia» en la rv en Gál_5:22 (rvr: «paciencia»); Col_3:12 (rvr: «paciencia»). Véanse CLEMENCIA, LONGANIMIDAD, PACIENCIA, A, Nº 2, Nota, y Nº 3.
 
 2. jupomone (ὑðïìïíÞ, [[G5281]]), lit: permanecer bajo. Se traduce «tolerancia» en 1Ts_1:3; véase PACIENCIA, A, Nº 1, etc.
 
@@ -25,6 +25,6 @@ C. Verbos
 
 3. eao (ἐÜù, [[G1439]]), véase DEJAR, Nº 10. Se traduce «toleras» en Apo_2:20 (tr); véase Nº 2 más arriba. Véase también PERMITIR.
 
-4. fero (öÝñù, [[G5342]]), véanse LLEVAR y TRAER. Se traduce con el verbo tolerar en la rv en Heb_12:20 : «no podían tolerar» (rvr: «podían soportar»). Véase también SOPORTAR, etc. 
+4. fero (φέρω, [[G5342]]), véanse LLEVAR y TRAER. Se traduce con el verbo tolerar en la rv en Heb_12:20 : «no podían tolerar» (rvr: «podían soportar»). Véase también SOPORTAR, etc. 
 
 

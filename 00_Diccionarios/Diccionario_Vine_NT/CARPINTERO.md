@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CARPINTERO"]
 
 # CARPINTERO
 
-tekton (ôÝêôùí, [[G5045]]), denota a cualquier artesano, pero especialmente el que trabajaba en madera, carpintero (Mat_13:55; Mar_6:3).¶ 
+tekton (τέκτων, [[G5045]]), denota a cualquier artesano, pero especialmente el que trabajaba en madera, carpintero (Mat_13:55; Mar_6:3).¶ 
 
 

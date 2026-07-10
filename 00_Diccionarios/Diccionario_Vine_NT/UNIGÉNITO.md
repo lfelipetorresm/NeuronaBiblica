@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#UNIGÉNITO"]
 
 # UNIGÉNITO
 
-monogenes (ìïíïãåíÞò, [[G3439]]), se emplea en cinco ocasiones, todas ellas en los escritos del apóstol Juan, de Cristo como el Hijo de Dios. Se traduce «unigénito» en Heb_11:17 de la relación de Isaac con Abraham.
+monogenes (μονογενής, [[G3439]]), se emplea en cinco ocasiones, todas ellas en los escritos del apóstol Juan, de Cristo como el Hijo de Dios. Se traduce «unigénito» en Heb_11:17 de la relación de Isaac con Abraham.
 
  Con referencia a Cristo, la frase «el unigénito del Padre» (Jua_1:14) indica que como el Hijo de Dios, él era el único representante del ser y carácter de aquél que le envió. En el original se omite el artículo determinado tanto delante de «unigénito» como delante de «Padre», y su ausencia en cada caso sirve para destacar la característica a que se hace referencia en los términos empleados. El objeto del apóstol es demostrar qué clase de gloria era la que él y sus compañeros en el apostolado habían contemplado. Que no está él simplemente haciendo una comparación con las relaciones terrenas queda indicado por para, «procedente de». La gloria era la de una singular relación, y la palabra «engendrado» (unigénito = único engendrado) no implica un inicio de su filiación. Sugiere ciertamente relación, pero tiene que distinguirse de generación en tanto se aplica al hombre.
 

@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#MEDRAR"]
 
 # MEDRAR
 
-kapeleuo (êáðçëåýù, [[G2585]]), véase FALSIFICAR, en FALSO, B. 
+kapeleuo (καπηλεύω, [[G2585]]), véase FALSIFICAR, en FALSO, B. 
 
 

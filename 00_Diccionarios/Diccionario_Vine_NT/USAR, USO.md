@@ -9,9 +9,9 @@ etiquetas: ["#Diccionario", "#VineNT", "#USAR,USO"]
 
 A. Verbos
 
-1. craomai (÷ñÜïìáé, [[G5530]]), de cre, es necesario. Denota: (a) usar (Hch_27:17 : «usaron»; 1Co_9:12 : «[no] hemos usado»; 2Co_1:17 : «usé»; 2Co_3:12 : «usamos»; 2Co_13:10 : «usar»; 1Ti_1:8 : «usa»; 1Ti_5:23 : «usa»); también 1Co_7:31 : «los que disfrutan» y «si … disfrutasen»; 1Co_9:15 : «me he aprovechado»; (b) tratar (Hch_27:3 : «tratando»; 1Co_7:21 : «procúralo»). Veánse APROVECHAR, A, Nº 2, DISFRUTAR, Nº 1, PROCURAR, TRATAR.¶ Cf. PRESTAR, Nº 2.
+1. craomai (χράομαι, [[G5530]]), de cre, es necesario. Denota: (a) usar (Hch_27:17 : «usaron»; 1Co_9:12 : «[no] hemos usado»; 2Co_1:17 : «usé»; 2Co_3:12 : «usamos»; 2Co_13:10 : «usar»; 1Ti_1:8 : «usa»; 1Ti_5:23 : «usa»); también 1Co_7:31 : «los que disfrutan» y «si … disfrutasen»; 1Co_9:15 : «me he aprovechado»; (b) tratar (Hch_27:3 : «tratando»; 1Co_7:21 : «procúralo»). Veánse APROVECHAR, A, Nº 2, DISFRUTAR, Nº 1, PROCURAR, TRATAR.¶ Cf. PRESTAR, Nº 2.
 
-2. katacraomai (êáôá÷ñÜïìáé, [[G2710]]), forma intensificada de Nº 1, sigue a este último en 1Co_7:31. Veánse ABUSAR, y DISFRUTAR, Nº 2.
+2. katacraomai (καταχράομαι, [[G2710]]), forma intensificada de Nº 1, sigue a este último en 1Co_7:31. Veánse ABUSAR, y DISFRUTAR, Nº 2.
 
 Notas: (1) Para battalogeo : «(no) uséis vanas repeticiones» (Mat_6:7), veáse REPETICIONES.¶
 

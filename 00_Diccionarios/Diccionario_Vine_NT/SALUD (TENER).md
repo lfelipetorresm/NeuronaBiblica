@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#SALUD(TENER)"]
 
 1. jugiaino (ὑãéáßíù, [[G5198]]), tener salud, estar sano, en buena salud (castellano, higiene). Se traduce: «que tengas salud» ( 3Jn_1:2). Véase SANO ( SER ).
 
-2. cairo (÷áßñù, [[G5463]]), alegrarse, estar gozoso, regocijarse. Se utiliza en el modo imperativo en salutaciones: (a) al encontrarse: «¡Salve!» (p.ej., Mat_26:49); o con lego, decir, dar un saludo ( 2Jn_1:11 : «¡Bienvenido!»); en cartas, «salud» (p.ej., Hch_15:23,Hch_23:26); (b) en la despedida, siendo el concepto subyacente el deseo de gozo (2Co_13:11 : «tened gozo»); (c) en otras ocasiones, véase Fil_3:1 : «gozaos» (vm: «regocijaos»). Véase GOZAR, A, Nº 2, y también ALEGRAR, BIENVENIDO, GOZO, GOZOSO, REGOCIJARSE, SALVE.
+2. cairo (χαίρω, [[G5463]]), alegrarse, estar gozoso, regocijarse. Se utiliza en el modo imperativo en salutaciones: (a) al encontrarse: «¡Salve!» (p.ej., Mat_26:49); o con lego, decir, dar un saludo ( 2Jn_1:11 : «¡Bienvenido!»); en cartas, «salud» (p.ej., Hch_15:23,Hch_23:26); (b) en la despedida, siendo el concepto subyacente el deseo de gozo (2Co_13:11 : «tened gozo»); (c) en otras ocasiones, véase Fil_3:1 : «gozaos» (vm: «regocijaos»). Véase GOZAR, A, Nº 2, y también ALEGRAR, BIENVENIDO, GOZO, GOZOSO, REGOCIJARSE, SALVE.
 
 Notas: (1) Para sozo, salvar, traducido «de … salud» en Hch_27:20 (rv; rvr: «salvar»), véase SALVAR; véase también LIBRAR, PRESERVAR, etc.
 

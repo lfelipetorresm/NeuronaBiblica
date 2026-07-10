@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#DIEZMAR,DIEZMO"]
 
 A. Verbos
 
-1. dekatoo (äåêáôüù, [[G1183]]), (de dekatos, décimo), en la voz activa, denota recibir diezmos de (Heb_7:6 : «tomó de Abraham los diezmos»); en la voz pasiva, pagar diezmos (Heb_7:9 : «pagó el diezmo»).¶ En la lxx, Neh_10:37.¶
+1. dekatoo (δεκατόω, [[G1183]]), (de dekatos, décimo), en la voz activa, denota recibir diezmos de (Heb_7:6 : «tomó de Abraham los diezmos»); en la voz pasiva, pagar diezmos (Heb_7:9 : «pagó el diezmo»).¶ En la lxx, Neh_10:37.¶
 
 2. apodekatoo (ἀðïäåêáôüù, [[G586]]), denota: (a) diezmar [apo, de (partitivo); dekatos, décimo], (Mat_23:23; Luc_11:42; en Luc_18:12, donde los textos más acreditados tienen la forma alternativa apodekateuo : «doy diezmos»); (b) recibir diezmos de (Heb_7:5).¶
 
@@ -19,6 +19,6 @@ Nota: Heb_7:4-9 evidencia la superioridad del sacerdocio de Melquisedec sobre el
 
 B. Nombre
 
-dekate (äåêáôÞ, [[G1181]]), gramáticamente, forma femenina de dekatos (véase DéCIMO), con meris, parte, en elipsis. Se usa como nombre, traducido «diezmo» en Heb_7:2, Heb_7:4, Heb_7:8-9; lit: «una décima parte».¶ 
+dekate (δεκατή, [[G1181]]), gramáticamente, forma femenina de dekatos (véase DéCIMO), con meris, parte, en elipsis. Se usa como nombre, traducido «diezmo» en Heb_7:2, Heb_7:4, Heb_7:8-9; lit: «una décima parte».¶ 
 
 

@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#SENO"]
 
 # SENO
 
-jêq (çÅé÷, [[H2436]]), «seno; regazo; base». Hay cognados de este vocablo en acádico, arameo tardío y arábigo. El término se encuentra 38 veces a través de la literatura bíblica.
+jêq (חֵיק, [[H2436]]), «seno; regazo; base». Hay cognados de este vocablo en acádico, arameo tardío y arábigo. El término se encuentra 38 veces a través de la literatura bíblica.
 
 La palabra se refiere al «pecho» donde seres queridos, niños y animales se acogen: «¿Concebí yo a todo este pueblo? ¿Lo engendré yo, para que me digas: Llévalo en tu seno, como lleva la que cría al que mama» (Núm_11:12). La primera vez que se usa jêq se refiere al pecho masculino: «Entonces Sarai dijo a Abram: Mi agravio recaiga sobre ti. Yo puse a mi sierva en tu seno; y ella, viéndose encinta, me mira con desprecio» (Gén_16:5 rva). El «marido de su seno» es un marido que se atesora en el corazón, a quien se ama (Deu_28:56). Este sentido metafórico se encuentra en Sal_35:13 en forma reflexiva: «Mi oración se volvía a mi seno». (cf. Job_19:27). En 1Re_22:35 el vocablo quiere decir la «parte interior» o el «corazón» de un carro de guerra..
 

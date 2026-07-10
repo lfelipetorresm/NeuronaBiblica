@@ -19,6 +19,6 @@ B. Verbos
 
 1. acreioo (ἀ÷ñåéüù, [[G889]]), relacionado con A, Nº 1, hacer inútil. Aparece en Rom_3:12, en la voz pasiva, traducido «se hicieron inútiles».¶
 
-2. katargeo (êáôáñãÝù, [[G2673]]), lit: reducir a ineficacia o inactividad (kata, abajo, y argos, inactivo). Se traduce una vez «inutiliza» (Luc_13:7). Véase ABOLIR, etc. 
+2. katargeo (καταργέω, [[G2673]]), lit: reducir a ineficacia o inactividad (kata, abajo, y argos, inactivo). Se traduce una vez «inutiliza» (Luc_13:7). Véase ABOLIR, etc. 
 
 

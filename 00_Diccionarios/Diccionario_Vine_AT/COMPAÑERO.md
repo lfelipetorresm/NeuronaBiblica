@@ -9,7 +9,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#COMPAÑERO"]
 
 A. Nombres
 
-rea' (øÅòÇ, [[H7453]]), «amigo; compañero». Este nombre también está representado en acádico, ugarítico y arameo. rea se encuentra 187 veces en el Antiguo Testamento hebraico y tiene una amplia gama de acepciones. El significado básico de rea se encuentra en el sentido más estricto de la palabra. Un rea es aquel «amigo personal» al que se le hace confidencias y al que se siente uno muy allegado: «Jehová hablaba a Moisés cara a cara, como habla un hombre con su amigo» (Éxo_33:11). La proximidad de la relación se expresa más claramente en los textos donde el rea es como un hermano o hijo, es parte de la familia: «Por causa de mis hermanos y de mis amigos» (Sal_122:8; cf. Deu_13:6). Fue por esta razón que cuando Zimri se impuso como rey sobre Israel, mató, además de los parientes de Baasa, a sus «amigos» (1Re_16:11). En este sentido, el vocablo es sinónimo de ah («hermano») y de qarôb («pariente»): «¡Pasad y volved, de entrada a entrada del campamento! ¡Matad cada uno a su hermano, a su amigo y a su pariente!» (Éxo_32:27).
+rea' (רֵעַ, [[H7453]]), «amigo; compañero». Este nombre también está representado en acádico, ugarítico y arameo. rea se encuentra 187 veces en el Antiguo Testamento hebraico y tiene una amplia gama de acepciones. El significado básico de rea se encuentra en el sentido más estricto de la palabra. Un rea es aquel «amigo personal» al que se le hace confidencias y al que se siente uno muy allegado: «Jehová hablaba a Moisés cara a cara, como habla un hombre con su amigo» (Éxo_33:11). La proximidad de la relación se expresa más claramente en los textos donde el rea es como un hermano o hijo, es parte de la familia: «Por causa de mis hermanos y de mis amigos» (Sal_122:8; cf. Deu_13:6). Fue por esta razón que cuando Zimri se impuso como rey sobre Israel, mató, además de los parientes de Baasa, a sus «amigos» (1Re_16:11). En este sentido, el vocablo es sinónimo de ah («hermano») y de qarôb («pariente»): «¡Pasad y volved, de entrada a entrada del campamento! ¡Matad cada uno a su hermano, a su amigo y a su pariente!» (Éxo_32:27).
 
 Semejante a lo anterior es la acepción de «compañero/a de matrimonio»: «Su paladar es dulcísimo; ¡todo él es deseable! Así es mi amado y así es mi amigo, oh hijas de Jerusalén» (Cnt_5:16). Por otro lado, rea puede significar «compañeros ilegítimos»: «Si alguno despide a su mujer, y ella se va de él y se casa con otro hombre, ¿podrá él después volver a ella? ¿No habrá sido esa tierra del todo profanada? Tú te has prostituido con muchos amantes (rea); pero, ¡vuelve a mí!, dice Jehová» (Jer_3:1). Dios ordena a Oseas recuperar a su mujer de su «amigo» (amante); ha sido adúltera por demasiado tiempo.
 
@@ -23,5 +23,5 @@ Re`eh también significa «amigo». Este nombre se encuentra en 1Re_4:5 : «Zabu
 
 B. Verbo
 
-ra'ah (øÈòÈä, [[H7462]]), «asociarse». El vocablo aparece en Pro_22:24 : «No hagas amistad con el iracundo, ni tengas tratos con el violento» (rva). 
+ra'ah (רָעָה, [[H7462]]), «asociarse». El vocablo aparece en Pro_22:24 : «No hagas amistad con el iracundo, ni tengas tratos con el violento» (rva). 
 

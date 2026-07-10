@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineNT", "#FAMILIA"]
 
 A. Nombres
 
-1. genos (ãÝíïò, [[G1085]]), Véase CLASE, Nº 1.
+1. genos (γένος, [[G1085]]), Véase CLASE, Nº 1.
 
 2. oikia (ïἰêßá, [[G3614]]), se traduce «familia» en 1Co_6:15. Véanse CASA, A, Nº 2, MORADA.
 
-3. patria (ðáôñéÜ, [[G3965]]), primariamente ascendencia, linaje. Significa en el NT, familia o tribu. En la lxx se usa de personas relacionadas, en un sentido más amplio que oikos (véase Nº 4), pero más restringido que fule, tribu (p.ej., Éxo_12:3; Núm_32:28). Se usa de la familia de David (Luc_2:4); en el sentido más amplio de nacionalidades, razas (Hch_3:25); en Efe_3:15 la referencia es a todos aquellos que están espiritualmente relacionados con Dios el Padre, siendo él el autor de su relación espiritual con él como hijos suyos, quedando unidos entre sí en una comunión familiar (patria está relacionado con pater, padre): la rv traduce «parentela». Cremer (p. 474) defiende la traducción de Lutero: «todos los que llevan el nombre de hijos». La frase, sin embargo, es lit: «cada familia».¶
+3. patria (πατριά, [[G3965]]), primariamente ascendencia, linaje. Significa en el NT, familia o tribu. En la lxx se usa de personas relacionadas, en un sentido más amplio que oikos (véase Nº 4), pero más restringido que fule, tribu (p.ej., Éxo_12:3; Núm_32:28). Se usa de la familia de David (Luc_2:4); en el sentido más amplio de nacionalidades, razas (Hch_3:25); en Efe_3:15 la referencia es a todos aquellos que están espiritualmente relacionados con Dios el Padre, siendo él el autor de su relación espiritual con él como hijos suyos, quedando unidos entre sí en una comunión familiar (patria está relacionado con pater, padre): la rv traduce «parentela». Cremer (p. 474) defiende la traducción de Lutero: «todos los que llevan el nombre de hijos». La frase, sin embargo, es lit: «cada familia».¶
 
 4. oikos (ïἰ̂êïò, [[G3624]]), significa: (a) morada, casa; relacionado con oikeo, morar; (b) una familia, y así traducido en Hch_16:15; 1Co_1:16; 1Ti_5:4; véase también CASA, A, Nº 1 (b) . Véase TEMPLO.
 

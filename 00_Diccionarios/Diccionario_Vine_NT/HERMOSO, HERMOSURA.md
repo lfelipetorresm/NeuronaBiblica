@@ -21,7 +21,7 @@ Notas: (1) En la lxx, asteios es mucho menos frecuente que joraios . Se dice de 
 
 (3) Kalos, bueno, describe aquello que es hermoso como bien proporcionado en todas sus partes o intrínsecamente excelente. Véase Nº 3 a continuación; véase también BIEN, C, Nº 4.
 
-3. kalos (êáëüò, [[G2570]]), hermoso, bello, bueno. Se traduce «hermosas» en Luc_21:5, de las piedras ornamentales del templo; la localidad llamada «Buenos Puertos» en Hch_27:8 recibe la traducción «Bellos Puertos» en la nvi . Véase BIEN, C, Nº 4, etc.
+3. kalos (καλός, [[G2570]]), hermoso, bello, bueno. Se traduce «hermosas» en Luc_21:5, de las piedras ornamentales del templo; la localidad llamada «Buenos Puertos» en Hch_27:8 recibe la traducción «Bellos Puertos» en la nvi . Véase BIEN, C, Nº 4, etc.
 
 B. Nombre
 

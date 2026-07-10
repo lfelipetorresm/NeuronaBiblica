@@ -21,9 +21,9 @@ En Col_3:9 se usa en su sentido de despojarse de ropas o armas: «despojaos del 
 
 3. ekduo (ἐêäýù, [[G1562]]), véase DESNUDAR, A, Nº 1.
 
-4. kenoo (êåíüù, [[G2758]]), vaciar. Se traduce «despojó» en Fil_2:7. Las cláusulas que siguen al verbo dan la exégesis de su significado, especialmente las frases «forma de siervo», y «semejante a los hombres». Cristo no se vació a sí mismo de su deidad. No dejó de ser lo que era esencial y eternamente. La Versión Autorizada Inglesa, aunque no da una traducción exacta (traduce «se hizo carente de gloria»), expresa muy bien lo que hizo el Señor (véase Gifford sobre la encarnación). Para otros usos de la palabra, véanse Rom_4:14; 1Co_1:17; 1Co_9:15; 2Co_9:3.¶ En la lxx aparece en Jer_14:2; Jer_15:9.¶
+4. kenoo (κενόω, [[G2758]]), vaciar. Se traduce «despojó» en Fil_2:7. Las cláusulas que siguen al verbo dan la exégesis de su significado, especialmente las frases «forma de siervo», y «semejante a los hombres». Cristo no se vació a sí mismo de su deidad. No dejó de ser lo que era esencial y eternamente. La Versión Autorizada Inglesa, aunque no da una traducción exacta (traduce «se hizo carente de gloria»), expresa muy bien lo que hizo el Señor (véase Gifford sobre la encarnación). Para otros usos de la palabra, véanse Rom_4:14; 1Co_1:17; 1Co_9:15; 2Co_9:3.¶ En la lxx aparece en Jer_14:2; Jer_15:9.¶
 
-5. sulao (óõëÜù, [[G4813]]), saquear, despojar. Se traduce «he despojado» en 2Co_11:8.¶ Cf. sulagogeo, lit: «tomar como presa», traducido en la como «nadie os engañe» (Col_2:8; rvr77: «os esté llevando cautivos»).¶
+5. sulao (συλάω, [[G4813]]), saquear, despojar. Se traduce «he despojado» en 2Co_11:8.¶ Cf. sulagogeo, lit: «tomar como presa», traducido en la como «nadie os engañe» (Col_2:8; rvr77: «os esté llevando cautivos»).¶
 
 B. Nombres
 

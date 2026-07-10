@@ -9,11 +9,11 @@ etiquetas: ["#Diccionario", "#VineAT", "#VERGÜENZA"]
 
 A. Verbo
 
-bôsh (áÌåéùÑ, [[H954]]), «avergonzarse». Este verbo, que se encuentra 129 veces en hebreo bíblico, tiene cognados en ugarítico, acádico y arábigo. El vocablo tiene matices de condición o sentimientos de sentirse inútil o inferior. Bôsh quiere decir «avergonzar» en Isa_1:29 : «Entonces os avergonzarán las encinas que amasteis, y os afrentarán los huertos que escogisteis».
+bôsh (בּוישׁ, [[H954]]), «avergonzarse». Este verbo, que se encuentra 129 veces en hebreo bíblico, tiene cognados en ugarítico, acádico y arábigo. El vocablo tiene matices de condición o sentimientos de sentirse inútil o inferior. Bôsh quiere decir «avergonzar» en Isa_1:29 : «Entonces os avergonzarán las encinas que amasteis, y os afrentarán los huertos que escogisteis».
 
 B. Nombre
 
-bôshet (áÌéùÑÆú, [[H1322]]), «vergüenza; cosa vergonzosa». Los 30 casos de este nombre se encuentran mayormente en los escritos poéticos; solo hay 5 ejemplos en la literatura histórica.
+bôshet (בּישֶׁת, [[H1322]]), «vergüenza; cosa vergonzosa». Los 30 casos de este nombre se encuentran mayormente en los escritos poéticos; solo hay 5 ejemplos en la literatura histórica.
 
 El término quiere decir «cosa vergonzosa» cuando sustituye el nombre de ba'al: «Lo vergonzoso ha consumido desde nuestra juventud» (Jer_3:24 rva ; cf. Jer_11:13; Ose_9:10). Esta sustitución también se encuentra en nombres propios: Is-boset (2Sa_20:30), «hombre de vergüenza», que originalmente se llamaba Es-baal (cf. 1Cr_8:33), «hombre de ba'al».
 

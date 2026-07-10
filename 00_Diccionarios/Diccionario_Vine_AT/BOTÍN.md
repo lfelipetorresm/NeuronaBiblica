@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#BOTÍN"]
 
 # BOTÍN
 
-shalal (ùÑÈìÈì, [[H7998]]), «botín; presa; saqueo; despojos; ganancias»). Esta palabra aparece 75 veces durante todos los períodos del hebreo bíblico.
+shalal (שָׁלָל, [[H7998]]), «botín; presa; saqueo; despojos; ganancias»). Esta palabra aparece 75 veces durante todos los períodos del hebreo bíblico.
 
 Shalal significa literalmente la «presa» que un animal rastrea, mata y come: «Benjamín es lobo arrebatador; a la mañana comerá la presa [shalal], y a la tarde repartirá los despojos» (Gén_49:27 : la primera vez que aparece).
 

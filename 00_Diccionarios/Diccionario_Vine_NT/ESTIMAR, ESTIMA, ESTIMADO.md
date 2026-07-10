@@ -23,7 +23,7 @@ En Luc_14:8 aparece el grado comparativo, entimoteros, de grados de honor atribu
 
 2. episemos (ἐðßóçìïò, [[G1978]]), tenía primariamente el significado de llevar una marca, p.ej., de dinero, «estampado», «acuñado» (de epi, sobre, y sema, marca o señal; cf. semeino, dar una señal, significar, indicar, y semeioo, señalar, véase SEÑALAR). Se usa en el NT, metafóricamente: (a) en un buen sentido (Rom_16:7 : «estimados»), ilustres, dicho de Andrónico y Junias; (b) en un mal sentido (Mat_27:16 : «famoso»), del preso Barrabás.¶ En la lxx, Gén_30:42; Est_5:4; Est_8:13, hacia el final del versículo: «para aquel día señalado». Véase FAMOSO.¶
 
-3. poluteles (ðïëõôåëÞò, [[G4185]]), «de grande estima» (1Pe_3:4); véase COSTOSO.
+3. poluteles (πολυτελής, [[G4185]]), «de grande estima» (1Pe_3:4); véase COSTOSO.
 
 Nota: El verbo exoutheneo, menospreciar, se traduce en 1Co_6:4 «son de menor estima». Véanse DESPRECIAR, B, Nº 1, MENOSPRECIAR. 
 

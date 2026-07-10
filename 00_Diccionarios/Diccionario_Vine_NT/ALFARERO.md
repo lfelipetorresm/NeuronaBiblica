@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineNT", "#ALFARERO"]
 
 # ALFARERO
 
-1. kerameus (êåñáìåýò, [[G2763]]), alfarero (de kerannumi, mezclar, similar a keramos, barro de alfarero). Se usa: (a) en relación con el «campo del alfarero» (Mat_27:7, Mat_27:10); (b) en forma ilustrativa, del derecho del alfarero sobre el barro (Rom_9:21), donde el «o» introductorio sugiere las alternativas de que o debe haber un reconocimiento de la absoluta capacidad de elección y poder de Dios, o una negación de que el alfarero tenga poder sobre el barro. No hay sugerencia alguna de una creación de seres pecaminosos, ni de una creación de nadie con el simple fin de castigarle. Lo que el pasaje expone es el derecho de Dios de tratar con los pecadores base de sus propios propósitos.¶
+1. kerameus (κεραμεύς, [[G2763]]), alfarero (de kerannumi, mezclar, similar a keramos, barro de alfarero). Se usa: (a) en relación con el «campo del alfarero» (Mat_27:7, Mat_27:10); (b) en forma ilustrativa, del derecho del alfarero sobre el barro (Rom_9:21), donde el «o» introductorio sugiere las alternativas de que o debe haber un reconocimiento de la absoluta capacidad de elección y poder de Dios, o una negación de que el alfarero tenga poder sobre el barro. No hay sugerencia alguna de una creación de seres pecaminosos, ni de una creación de nadie con el simple fin de castigarle. Lo que el pasaje expone es el derecho de Dios de tratar con los pecadores base de sus propios propósitos.¶
 
 Nota: El adjetivo keramikos se traduce con la cláusula adjetiva «de alfarero» en Apo_2:27.¶ 
 

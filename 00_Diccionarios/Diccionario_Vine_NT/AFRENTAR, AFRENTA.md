@@ -13,7 +13,7 @@ A. Verbos
 
 2. atlmooo (ἀôéìüù, [[G821]]), aparece en el tr en Mar_12:14 en lugar del Nº 1, atimazo .
 
-3. kataiscuno (êáôáéó÷ýíù, [[G2617]]), avergonzar. Se traduce «afrentar» en 1Co_11:4-5. Véase AVERGONZAR.
+3. kataiscuno (καταισχύνω, [[G2617]]), avergonzar. Se traduce «afrentar» en 1Co_11:4-5. Véase AVERGONZAR.
 
 4. ubrizo (ὑâñßæù, [[G5195]]), utilizado transitivamente, denota ultrajar, afrentar, tratar de una manera insolente; y se traduce «afrentar» en Mat_22:6, Luc_11:45; Luc_18:32; Hch_14:5; «ultrajado» en 1Ts_2:2. Véase ULTRAJAR.
 

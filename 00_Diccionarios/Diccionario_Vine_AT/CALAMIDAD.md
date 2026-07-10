@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#CALAMIDAD"]
 
 # CALAMIDAD
 
-'êd (àÅéã, [[H343]])«calamidad, desastre». Hay un posible cognado del término en arábigo. Los 24 casos del vocablo aparecen en todos los períodos del hebreo bíblico (12 en la literatura sapiencial y solo uno en la literatura poética, en los Salmos).
+'êd (אֵיד, [[H343]])«calamidad, desastre». Hay un posible cognado del término en arábigo. Los 24 casos del vocablo aparecen en todos los períodos del hebreo bíblico (12 en la literatura sapiencial y solo uno en la literatura poética, en los Salmos).
 
 El término se refiere al «desastre» o «calamidad» que recae sobre una nación o individuo. Cuando se trata de una nación, representa un acontecimiento «político o militar»: «Mía es la venganza, y la retribución; a su tiempo su pie resbalará, porque el día de su aflicción está cercano, y lo que les está preparado se apresura» (Deu_32:35 : primer caso). Los profetas tienden a usar 'êd en el sentido de un «desastre» nacional, mientras que los escritores sapienciales se refieren a «tragedia personal». 
 

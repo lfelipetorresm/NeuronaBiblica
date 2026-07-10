@@ -7,7 +7,7 @@ etiquetas: ["#Diccionario", "#VineAT", "#HECHICERÍA"]
 
 # HECHICERÍA
 
-'ob (àåéá, [[H178]]), «ánima; hechicería, nigromancia; adivinación; hoyo». Este vocablo tiene cognados en sumerio, acádico y ugarítico, donde se encuentran las acepciones «hoyo» y «espíritu de algún difunto». En los casos más antiguos (en sumerio), ob' se refiere a un «hoyo o fosa» del que pueden convocarse los espíritus de los muertos. En textos asirios tardíos se usa el vocablo para referirse a un simple agujero en la tierra. Los textos acádicos describen una divinidad que personifica el «hoyo» y a quien se dirigía un rito particular de exorcismo. En hebreo bíblico se constatan 16 ejemplos del vocablo.
+'ob (אויב, [[H178]]), «ánima; hechicería, nigromancia; adivinación; hoyo». Este vocablo tiene cognados en sumerio, acádico y ugarítico, donde se encuentran las acepciones «hoyo» y «espíritu de algún difunto». En los casos más antiguos (en sumerio), ob' se refiere a un «hoyo o fosa» del que pueden convocarse los espíritus de los muertos. En textos asirios tardíos se usa el vocablo para referirse a un simple agujero en la tierra. Los textos acádicos describen una divinidad que personifica el «hoyo» y a quien se dirigía un rito particular de exorcismo. En hebreo bíblico se constatan 16 ejemplos del vocablo.
 
 El término generalmente se relaciona con el espíritu (espíritu o fantasma) atribulado de un muerto. Este significado se encuentra sin lugar a duda en Isa_29:4 : «Tu voz subirá de la tierra como la de un fantasma; desde el polvo susurrará tu habla».
 

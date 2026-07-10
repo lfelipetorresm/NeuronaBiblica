@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#COMINO"]
 
 # COMINO
 
-kuminon (êýìéíïí, [[G2951]]), es una planta umbelífera con semillas aromáticas, que se usan como condimento (Mat_23:23). 
+kuminon (κύμινον, [[G2951]]), es una planta umbelífera con semillas aromáticas, que se usan como condimento (Mat_23:23). 
 
 

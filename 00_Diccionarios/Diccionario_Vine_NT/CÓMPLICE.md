@@ -7,6 +7,6 @@ etiquetas: ["#Diccionario", "#VineNT", "#CÓMPLICE"]
 
 # CÓMPLICE
 
-koinonos (êïéíùíüò, [[G2844]]), adjetivo que significa tener en común (koinos, común). Se usa como nombre, denotando a un compañero, y se usa en Mat_23:30 traducido como «cómplices». Véanse COMPAÑERO, PARTICIPANTE. 
+koinonos (κοινωνός, [[G2844]]), adjetivo que significa tener en común (koinos, común). Se usa como nombre, denotando a un compañero, y se usa en Mat_23:30 traducido como «cómplices». Véanse COMPAÑERO, PARTICIPANTE. 
 
 
