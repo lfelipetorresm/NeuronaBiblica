@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🧠 Neurona Bíblica
 
@@ -232,4 +232,4 @@ Este repositorio es un proyecto personal de estudio bíblico. Los textos procesa
 Construido con 🧠 y ❤️ para la gloria de Dios.
 
 </div>
-]]>
+
