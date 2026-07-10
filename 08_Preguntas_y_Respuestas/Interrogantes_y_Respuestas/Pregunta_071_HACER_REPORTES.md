@@ -1,0 +1,18 @@
+---
+titulo: Pregunta 71 - HACER REPORTES
+tipo: pregunta_respuesta
+autor: Bill H. Reeves
+estado: Procesado
+etiquetas: ["#Pregunta", "#Reeves"]
+---
+
+# 71. HACER REPORTES
+
+## Interrogante
+"¿Si a un hermano lo patrocinan de los  Estados Unidos, es correcto que este  hermano rinda informes a ellos de la obra del  número de miembros, etcétera, porque tengo  entendido que los hermanos sí rinden  informe. Cuando yo me di cuenta (antes de  tener correspondencia con Ud.) a mi no me  gustó porque me puse a pensar de que qué  tenían que ver los Ancianos de los EE.UU.  con nosotros, pero el hermano me respondió  que Pablo daba informes de la obra cuando a  él le ayudaban".
+
+## Respuesta
+1. Hay varios puntos involucrados en  esta pregunta como va presentada.   a. El "patrocinio" no es bíblico. Es  bíblico que una o más iglesias envíen soste nimiento directamente al predicador, pero no  es bíblico que una reciba de otras, para cen tralizar estos fondos y luego enviarlos al  predicador.  
+ b. Sí es correcto que el predicador,  recibiendo salario de otra [[iglesia]], haga  reporte a ella de sus actividades en el  evangelio. La [[iglesia]] que envía el dinero  tiene que responder a [[Dios]] por el uso de ese  dinero recogido en las colectas de cada  domingo. Para esto tiene que saber qué está  haciendo el predicador sostenido. Yo recibo  de una [[iglesia]] lejos de mí (en millas) y  reporto todos los meses. Tenemos comunión  unos con otros; esos hermanos tienen interés  en mí, y yo en ellos. A veces visito a esa  [[iglesia]]; a veces miembros de allí me visitan a  mí. Repito, ¡hay comunión entre nosotros!  No soy miembro allí; no estoy sujeto a los  ancianos de allí. Si resulta algún día que  ellos deciden que ya no soy digno de ese  sostenimiento (debido a una falsa doctrina y  falla en mi vida personal), dejarán de  enviarme sostenimiento. Esa [[iglesia]] no se  entremete en la [[iglesia]] local donde soy  miembro. El reporte mensual que yo hago es  según el acuerdo que tenemos esa [[iglesia]] y  yo. Es cuestión de "procurar hacer todas las  8 
+cosas honestamente, no sólo delante del  Señor sino también delante de los hombres"  (2 Cor. 8:21).  
+ c. La palabra "reporte" puede  significar varias cosas. Hay iglesias  patrocinadoras liberales que preparan un  formulario para quienes sostienen y exigen  que se llene cada mes y que se les devuelva.  En este formulario van preguntas sobre  cuántos miembros hay en la [[iglesia]] local,  cuánto es la colecta de cada domingo,  cuántos bautismos ha habido en un dado  intervalo de tiempo, cuáles planes de obra  tiene la [[iglesia]] en la cual es miembro el  predicador recipiente del sostenimiento,  etcétera, etcétera.¡Esto es totalmente  antibíblico! Yo no me sometería a ello por  nada. En pocas palabras: ¡no le importan  estos datos a aquella [[iglesia]] patrocinadora!  ¿Acaso ella reporta a la [[iglesia]] de la cual es  miembro el predicador recipiente del salario?  ¡Claro qué no! El sostenimiento bíblico es en tre la [[iglesia]] que envía y el predicador que  recibe, y ¡no entre la [[iglesia]] que envía y otra  [[iglesia]]! d. Pablo y Bernabé reportaron una  vez en persona a la [[iglesia]] en Antioquía  (Hech. 14:27), porque esa [[iglesia]] les había  encomendado para esa obra (versículo 26;  13:1-3). Fue voluntario; fue conveniente.  Hablaron de su obra en el evangelio  (versículo 27). Pero no llenaron formularios,  sometiéndose a requisitos de otros respecto a  asuntos de otras iglesias locales.

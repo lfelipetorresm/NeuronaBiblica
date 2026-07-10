@@ -1,0 +1,22 @@
+---
+titulo: Pregunta 41 - LA TRINIDAD. JESUS ES DIOS  PERO NO COMO EL PADRE. JUAN  1034-36
+tipo: pregunta_respuesta
+autor: Bill H. Reeves
+estado: Procesado
+etiquetas: ["#Pregunta", "#Reeves"]
+---
+
+# 41. LA TRINIDAD. JESUS ES DIOS  PERO NO COMO EL PADRE. JUAN  1034-36
+
+## Interrogante
+"Tenemos un problema con .... ellos creen  algo como creen los Testigos de Jehová, que  el [[Dios]] Todopoderoso es el Padre y que [[Jesús]]  también es [[Dios]] pero no como el Padre.  Usan Juan 17:3; 1 Cor. 8:6; Rom. 16:27; 2 Cor.  1:3; etcétera, para probar que [[Jesús]] no es  parte del [[Dios]] único y verdadero. Dicen que  [[Jesús]] es [[Dios]] como lo eran aquellos jueces de  Israel (Juan 10:34-36), o Moisés (Exodo 7:1).  Aplican mal a Fil. 2:4-8".
+
+## Respuesta
+1. En cuanto a la naturaleza divina de  [[Jesús]] de Nazaret, ¡él es [[Dios]]! (Isa. 9:6; Rom.  9:5; Mat. 1:23 -- Isa. 7:14; Juan 1:1; 10:30,33;  20:28; Fil. 2:6 -- Isa. 45:23; Tito 2:13; Heb. 1:8- 
+12 -- Sal. 102:25-27; 2 Ped. 1:1; 1 Juan 5:20).  Es eterno (Miq. 5:2; Juan 1:1; 8:58--Éxodo  3:14; Heb. 13:8; Apoc. 1:8,17 -- Isa. 48:12).  Aunque hay tres personas (2 Cor. 13:14) en la  deidad (un solo [[Dios]]), son uno en propósito  (Juan 10:30; 17:22). (No son "tres dioses" com petidores, según el concepto pagano del po liteísmo. En esto los Testigos de Jehová, y  otros unitarios, nos representan mal. No  creemos en tres dioses, sino en un solo [[Dios]],  o Deidad, compuesto de tres personas que  son una sola cosa).  
+ 2. Los pasajes Juan 17:3; 1 Cor. 8:6; Rom.  16:27 y 2 Cor. 1:3 no niegan la deidad de  Jesucristo. Los que citan tales pasajes para  negar la deidad de Jesucristo ignoran el  papel de [[Cristo]] el Señor al venir a este  mundo a salvar al pecador. En cuanto a su  naturaleza, eternidad, y divinidad, esta  persona de la deidad no se llama el [[Cristo]], o  el Hijo de [[Dios]], sino El Verbo, o  sencillamente, [[Dios]]. Como el Hijo de [[Dios]]  (frase que en sí indica deidad, en lugar de  humanidad) en este papel [[Cristo]] estuvo  sujeto al Padre. Hay que tomar en cuenta  esta verdad al hacer aplicaciones de los  pasajes mencionados arriba. En Juan 17:3, [[Jesús]] habla en papel de Sal vador. En Rom. 16:27 la gloria se atribuye "al  único y sabio [[Dios]]" por medio de la  intercesión de Jesucristo en papel de  Mediador. En 2 Cor. 1:3 Pablo adscribe loor a 
+16 
+[[Dios]], reconociendo a la vez el papel de  Mediador de Jesucristo (1 Juan 2:1). Este  Mediador es divino; [[Dios]] es su Padre (es  decir, los dos son de la misma naturaleza).  En tales pasajes no hay ninguna distinción  entre la naturaleza de las dos Personas  Divinas. No dicen que el Padre es el único  [[Dios]] y que el Verbo (por no decir, [[Jesús]] o  [[Cristo]], en papel de Salvador) es algo menor.  Conviene al falso maestro tomar esto en  cuenta.  
+ 3. Juan 10:34-36 no enseña que Jesucristo  era simplemente un hombre, como los jueces  del Antiguo Testamento, o un "[[dios]]" en el  mismo sentido en que aquellos jueces eran  llamados dioses (Sal. 82:6). Todo lo contrario,  el pasaje distingue entre Jesucristo y aquellos  hombres.  
+ 4. Como todos los hijos del Sr. Suárez  son Suárez, todos los hijos de [[Dios]] son de la  familia de [[Dios]]; son dioses. (Nótese la  segunda parte de Sal. 82:6). Ahora si aquellos  jueces, por tener la autoridad de hablar por  [[Dios]] (Jn. 10:35), eran dignos de llamarse  dioses, seguramente no era incorrecto llamar  Hijo de [[Dios]] a la persona a quien [[Dios]] había  dotado de tales honores como los que recibió  [[Jesús]] del Padre (Mat. 3:17; 17:5). La misión  divina de Jesucristo probó su Deidad (el  significado de la frase, "Hijo de [[Dios]]").  
+ 5. Éxodo 7:1 no enseña que Jesucristo era  un "[[dios]]" igual que el hombre, Moisés.  Moisés fue constituido "[[dios]]" en el sentido de  ser comisionado a hablar a Faraón como si  [[Dios]] lo hubiera hecho en persona.  Compárese 2 Cor. 5:20. Pero Jesucristo nunca  fue constituido [[Dios]]; por naturaleza es [[Dios]].  Es eterno. Véanse los textos dados arriba en  1. 6. Todo unitario niega los pasajes  bíblicos que se refieren a la naturaleza eterna  de Jesucristo, e ignora el contexto al usar  pasajes que toman en cuenta el papel  temporáneo que jugó Jesucristo en este  mundo.

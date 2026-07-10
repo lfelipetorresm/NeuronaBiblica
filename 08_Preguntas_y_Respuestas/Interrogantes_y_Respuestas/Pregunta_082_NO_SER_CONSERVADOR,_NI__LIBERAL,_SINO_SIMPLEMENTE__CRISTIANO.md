@@ -1,0 +1,17 @@
+---
+titulo: Pregunta 82 - NO SER CONSERVADOR, NI  LIBERAL, SINO SIMPLEMENTE  CRISTIANO
+tipo: pregunta_respuesta
+autor: Bill H. Reeves
+estado: Procesado
+etiquetas: ["#Pregunta", "#Reeves"]
+---
+
+# 82. NO SER CONSERVADOR, NI  LIBERAL, SINO SIMPLEMENTE  CRISTIANO
+
+## Interrogante
+"Lo único que sí dejé claro es que no iba  a tomar una posición partidista ya que se  utilizaban los términos Conservador y  Liberal. Yo no soy conservador ni liberal sino  simplemente Cristiano".
+
+## Respuesta
+1. Con esas dos frases, hermano, muestra  o confusión o cobardía. Usted, y yo, y todo  hermano, tomamos cierta posición con  relación a la cuestión de la centralización y  del institucionalismo. O estamos a favor o  estamos en contra. Los que promueven la  centralización (la llamada "[[iglesia]]  patrocinadora") y el institucionalismo (el  sostenimiento de instituciones humanas por  iglesias de [[Cristo]]) toman la libertad de actuar  sin autorización bíblica, y por eso decimos  que son hermanos "liberales". Nosotros nos  oponemos a ello, y por eso nos dicen "antis".  Ahora, usted, o aprueba la centralización y el  institucionalismo, o se opone a ellos. ¿Cuál  es? ¿Va a tratar de conservar las cosas como  eran antes de la introducción de patrocinios e  instituciones (es decir, ser "conservador"), o  va a ser partícipe en esas cosas, actuando  como libre de autorización bíblica (es decir,  ser "liberal")? O ¿va a ser cobarde, rehusando  declarar su posición? ¡Con razón usted ha  recibido critica! 2. Usted habla de no tomar "una posición  partidista". No es cuestión de posición par tidista, o de ser partidarios. Es cuestión de  quedarnos con las prácticas autorizadas  bíblicamente, o de irnos tras innovaciones  humanas. ¿Tomaron Pablo y Bernabé "una  posición partidista" en Antioquía (Hech.  15:1,2)? Seguramente tomaron una posición  concreta y definida, frente a la cuestión que  surgieron los judaizantes. Si usted, mi  hermano, hubiera vivido en el siglo pasado,  cuando algunos hermanos tomaron la  libertad de abogar por la Sociedad  Misionera, ¿habría sido "liberal" o  
+"conservador"? ¿Habría tomado "una  posición partidista"? Bueno, es cierto que,  para no ser cobarde, habría tenido que  declararse o en contra de esa organización  humana, o a favor de ella. Al oponerse a  ella, algunos le habrían llamado "anti". Al  apoyarla, otros le habrían llamado "liberal".  ¿Habría participado usted en la Sociedad  Misionera "para conocer el sistema"?  
+ 3. Usted dice que "no soy conservador ni  liberal sino simplemente Cristiano". Esa  expresión revela de parte de usted, hermano,  una ignorancia de la cuestión misma, o una  cobardía. Los términos "conservador" y  "liberal" ¡no son nombres propios, como lo es  "Cristiano". Son adjetivos que expresan cierta  actitud hacia la cuestión a la mano. Usted es  cristiano, yo soy cristiano, el hermano liberal  es cristiano. Todos bajo consideración somos  cristianos. No es cuestión de ser cristiano, o  no. No es cuestión de escoger entre tres  entidades distintas, a saber, ser cristiano, ser  liberal, o ser conservador. La cuestión es ésta:  Dadas las promociones humanas en la  hermandad, ¿vamos a ser cristianos  conservadores o cristianos liberales? La  pregunta que hacerse es ésta: Como cris tiano, ¿cuál es mi actitud hacia esas promo ciones?

@@ -2,12 +2,13 @@
 *Generado automáticamente mediante el protocolo AGENTS2.md (Modo General)*
 
 ## Resumen Ejecutivo
-Se ha procesado e integrado el **Comentario al Nuevo Testamento por Wayne Partain y Bill H. Reeves** desde su formato original `.cmtx` (SQLite con RTF embebido). Se generaron 225 archivos de comentario exegético versículo por versículo, cubriendo los 27 libros del NT con 6,765 notas exegéticas.
+Se ha procesado e integrado el **Comentario al Nuevo Testamento por Wayne Partain y Bill H. Reeves**, así como **"Interrogantes y Respuestas"** (Bill H. Reeves) y **"La Iglesia del Nuevo Testamento"** (Roy E. Cogdill). 
 
-- **Total de Nodos (Archivos MD):** 23,204
-- **Total de Sinapsis (Enlaces):** 84,114
+- **Total de Nodos (Archivos MD):** ~23,400
+- **Total de Sinapsis (Enlaces):** ~85,000
 - **Libros comentados:** 27 (NT completo)
-- **Comentarios versículo a versículo:** 6,765
+- **Preguntas resueltas integradas:** 146
+- **Lecciones doctrinales integradas:** 40
 
 ## Calidad General del Repositorio
 La NeuroBiblia ha agregado su **quinto pilar**: la **Exégesis aplicada**. A los cuatro pilares previos (Escritura, Lenguaje Original, Lógica y Homilética) ahora se añade un comentario erudito completo que explica cada versículo del Nuevo Testamento.

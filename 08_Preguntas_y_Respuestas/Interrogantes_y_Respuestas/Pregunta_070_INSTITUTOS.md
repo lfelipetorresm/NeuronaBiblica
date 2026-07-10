@@ -1,0 +1,20 @@
+---
+titulo: Pregunta 70 - INSTITUTOS
+tipo: pregunta_respuesta
+autor: Bill H. Reeves
+estado: Procesado
+etiquetas: ["#Pregunta", "#Reeves"]
+---
+
+# 70. INSTITUTOS
+
+## Interrogante
+"¿De qué manera una [[Iglesia]] local entrega  parte de su obra, cuando manda a un  hermano que se entrene en un instituto, si  este es más bien para que se prepare más y  pueda servir mejor en la Obra del Señor?"
+
+## Respuesta
+1. Si parte de la obra de la [[iglesia]] local es  entrenar a hermanos, y si un hermano de la  
+congregación es enviado a otra organización  (al instituto humano), ¿no se entrega parte de  su obra? [[Cristo]] organizó la [[iglesia]] local para  toda la obra que él quiere que se haga colecti vamente. Ahora, si la [[iglesia]] local tiene que  depender de alguna organización humana  para que sus miembros tengan lo que  necesitan, ¿que pasa con la suficiencia de la  [[iglesia]], la organización divina?  
+ 2. Lo que está pasando es que las  iglesias locales ¡no están haciendo su obra,  sino entregando gran parte de ella a las  instituciones humanas! Es más: envían parte  de su dinero a dichas instituciones para  sostenerlas. Todo esto es admisión de que  [[Cristo]] falló cuando estableció la [[iglesia]] local.  ¡No está adecuada para hacer toda su obra  designada! 3. Los hermanos que  perpetúan el institucionalismo (el soste nimiento de instituciones de parte de iglesias  de [[Cristo]]) roban a las iglesias locales de sus  jóvenes, los "entrenan", y luego participan en  colocarlos en las iglesias según su juicio, y así  llegan a controlar la hermandad. Las iglesias  que participan en esto son anémicas,  contentándose en que otros hagan la obra  que a éstas toca, y así ellas no tienen que mo lestarse. 4. La edificación (entrenamiento para  llegar a la madurez y para poder dirigir en la  obra local) es parte de la obra de la [[iglesia]]  local. Si algún individuo quiere estudiar  materia secular en las escuelas públicas y  privadas, es cosa de él. Si los llamados  "institutos para predicadores" no metieran la  mano en las tesorerías de las iglesias de  [[Cristo]], y si existieran solamente para ofrecer  educación adicional al que lo quiera, estaría  bien. Pero no es así. Las iglesias locales están  entregando parte de su responsabilidad (y  dinero) a los institutos que los hombres han  establecido (muchos siglos después del  primero, cuando tales cosas no existían), para  que lo humano supla lo que a la divina  supuestamente falte. ¿Esto es bíblico?  
+ 5. La pura verdad es que tal sistema  mata la espiritualidad y crecimiento de la  [[iglesia]] local. Las iglesias locales no están  produciendo ancianos, diáconos, maestros,  predicadores, y hermanos maduros, porque  no están ocupándose bien en la edificación.  Dependiendo de los "graduados de  institutos", las iglesias locales no se maduran  nada. El graduado, ya asegurado de una  [[iglesia]] dónde predicar, y con salario de otra  parte, comienza a ponerse "afrente de la  obra", se encarga casi de todo, y los demás se  mueren espiritualmente. El está contento,  porque sabe más que otros y tiene  sostenimiento, y los miembros están  contentos porque no tienen que crecer y  hacer nada. 6. Los hermanos liberales están  siguiendo el patrón denominacional, en el  cual las iglesias locales entregan sus jóvenes  interesados y sus cuotas a los seminarios 
+7 
+para que allí reciban la educación juzgada  necesaria por una mesa directiva en la  organización denominacional. De esta  manera la central controla a las iglesias in dividuales.   7. Un comentario adicional: Va sugerida  en su pregunta la idea de que el fin justifica  los medios ("si este es más bien para que se  prepare más y pueda servir mejor en la Obra  del Señor"). Recuérdese Rom. 3:8. ¿Cuántas  cosas no se tratan de justificar, apelando al  buen fin supuestamente logrado por ellas?  El institucionalismo no es bíblico, y por  mucho que se crea conveniente, no tiene  autorización divina.

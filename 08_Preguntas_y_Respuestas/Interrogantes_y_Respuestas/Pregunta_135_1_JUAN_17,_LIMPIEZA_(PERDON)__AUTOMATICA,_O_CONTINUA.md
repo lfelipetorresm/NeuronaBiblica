@@ -1,0 +1,24 @@
+---
+titulo: Pregunta 135 - 1 JUAN 17, LIMPIEZA (PERDON)  AUTOMATICA, O CONTINUA
+tipo: pregunta_respuesta
+autor: Bill H. Reeves
+estado: Procesado
+etiquetas: ["#Pregunta", "#Reeves"]
+---
+
+# 135. 1 JUAN 17, LIMPIEZA (PERDON)  AUTOMATICA, O CONTINUA
+
+## Interrogante
+"¿Será cierto que el perdón de los peca dos en el cristiano se da de manera automá tica?"
+
+## Respuesta
+1. Para contestar la pregunta, la res puesta es que no.  2. Hay hermanos que durante las últimas  tres décadas han estado promoviendo una  unidad nueva, en lugar de "guardar la  unidad del Espíritu", o se la de la cual el Es píritu Santo es el autor (Efes. 4:3). Quieren  extender la comunión nuestra a hermanos  liberales, a los de la [[Iglesia]] Cristiana, y últi mamente aun a ciertas denominaciones pro testantes. Para promover esta llamada  "unidad" con personas en el error, han per vertido el pasaje, 1 Juan 1:7, para que diga  que los pecados de ignorancia y de debilidad  automática y continuamente son perdonados  por [[Dios]]. Si el caso es así, no debemos con denar a los que andan en el error, pues son  ignorantes de la verdad, y por eso no son  responsables por sus pecados, y nosotros de bemos más bien comulgarles. Véase Interro gante #134 .  3. Si el pasaje enseña que el cristiano está  continuamente limpiado de [[pecado]], y esto  automáticamente, entonces se sigue que el  cristiano está pecando continuamente. Pero  el pasaje trata de quien anda habitualmente  en la luz, ¡no en el [[pecado]]! ¿Cómo puede la  persona llamarse "santo fiel" y al mismo estar  pecando continuamente?  
+ El que anda en la luz no practica el  [[pecado]] (1 Juan 3:6,9; 5:18). Pregunta Pablo,  "¿Perseveraremos en el [[pecado]]?" Luego dice,  "en ninguna manera". 
+13 
+4. 1 Juan 1:7 no dice, "la sangre de Jesu [[cristo]] su Hijo nos limpia de pecados de debi lidad y de ignorancia", sino "de todo [[pecado]]'.  ¿Por qué no son perdonados automática y  continuamente los pecados deliberados, o de  presunción? "Pero", dirá la persona, "el que  comete el [[pecado]] de debilidad o de ignoran cia está andando en la luz". Ningún [[pecado]]  es de la luz.  
+5. Consideremos el ejemplo de Moisés.  Según Heb. 3:2, era fiel en toda la casa de  [[Dios]]. ¿No andaba, pues, en la luz? Pero en  una ocasión cometió un [[pecado]] (¿de  "debilidad"?). Núm. 20:12, (le dijo Jehová)  "Por cuanto no creísteis en mí, para santifi carme delante de los hijos de Israel, por  tanto, no meteréis esta congregación en la  tierra que les he dado". El versículo 24 dice  que Moisés y Aarón fueron rebeldes al  mandamiento de [[Dios]] en esa ocasión. ¿[[Dios]]  en esta ocasión perdonó automáticamente a  Moisés por cuanto "era fiel" en toda la casa  de [[Dios]]? 6. Elcalvinismo afirma que todo [[pecado]]  del elegido es cubierto por la gracia de [[Dios]].  La persona que es de los elegidos puede mo rir en el mismo acto de fornicación, pero  siempre será salvo. De esta idea viene la doc trina de que "una vez salva la persona, siem pre salva", también llamada, la imposibilidad  de apostasía , o la perseverancia de los san tos. Hay hermanos liberales entre nosotros  que afirman que cuando menos los pecados  de debilidad o de ignorancia serán perdona dos en el mismo momento de cometerse.  
+7. Los falsos categorizan el [[pecado]].  Como los católicos hablan de pecados venia les y de mortales, de manera semejante los  hermanos falsos hablan de pecados de debili dad y de ignorancia. Todo [[pecado]] es de de bilidad; seguramente no es cometido ningún  [[pecado]] en fuerza (espiritual). Los hermanos  débiles pueden perderse (1 Cor. 8:11). Los  que cometen [[pecado]] en ignorancia siempre  tienen culpa (Levítico capítulo 4 y 5).  
+8. El cristiano no tiene que pecar, el cal vinismo al contrario. Nunca debe pecar (1  Juan 2:1). Si hace ciertas cosas, nunca caerá  jamás (2 Ped. 1:10). Pero si peca, es porque  escogió o eligió hacerlo. ¿Qué tuvo que hacer  para ser salvo el primero de los pecadores  que pecaba en ignorancia (1 Tim. 1:13-16;  Hech. 9:6,18)? [[Jesús]] en la cruz oró al Padre  que perdonara a los que le crucificaban por que no sabían lo que hacían (Luc. 23:34), pero  no automáticamente. [[Dios]] lo hizo el día de  Pentecostés para cuantos obedecieron los  términos de perdón (Hech. 2:37,38). A tales  ignorantes se les predicó el [[arrepentimiento]]  y la conversión (3:17-19).  
+9. El mismo pasaje que habla de la  sangre de Jesucristo que limpia de todo  [[pecado]] (1 Jn. 1:7) también dice que el  limpiarnos de toda maldad depende de la  confesión de nuestros pecados (v. 9).  
+10. Los falsos hermanos han adaptado  
+una forma del calvinismo (por eso los llama mos y con razón, neocalvinistas) con el fin de  tener una razón fundamental sobre la cual  justificar su "nuevo movimiento de unidad".
