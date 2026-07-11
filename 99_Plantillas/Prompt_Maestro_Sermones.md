@@ -34,6 +34,7 @@ Para procesar mi solicitud, es de **CÁRACTER OBLIGATORIO** que pases la informa
 * **Fase 6:** Construcción Homilética (Agentes Homileta y Pastor).
 * **Fase 7:** Control de Calidad (Agente Auditor).
 * **Fase 8:** Clasificación Zettelkasten.
+* **Fase 9:** Análisis Ontológico (Agente Ontólogo: Red Semántica y Metadatos).
 
 **CRITERIOS DE CALIDAD Y PUNTUACIÓN (El Auditor Interno):**
 Antes de entregar el resultado de la Fase 8, tu Auditor Interno debe calificar el producto del 0 al 100% en:
@@ -55,6 +56,7 @@ Antes de generar la salida de la Fase 8, respóndete internamente:
 
 **FORMATO DE SALIDA (ESTRUCTURA DE BOSQUEJO HOMILÉTICO OBLIGATORIA):**
 1. **El Mensaje / Estudio Final** DEBE tener estrictamente este formato (No imprimas estadísticas de auditoría ni procesos internos, imprime directamente el bosquejo):
+   - **Frontmatter YAML:** Obligatorio incluir `importancia` (Fundamental, Importante, Complementario), `dificultad` (Básico, Intermedio, Avanzado, Doctoral), y `tiempo_estimado` (en minutos).
    - **Título** (Atractivo y profundo).
    - **Subtítulo** (Explicativo).
    - **Versículo Clave**.
@@ -67,6 +69,11 @@ Antes de generar la salida de la Fase 8, respóndete internamente:
    - **Conclusión** (Breve y aplicativa).
    - **5 Preguntas de Reflexión** (Aplicación pastoral directa al corazón).
    - **Referencias Bibliográficas** (En estricto formato APA 7, incluyendo la Biblia, léxicos y autores citados).
+   - **Secciones Ontológicas:** Al final del estudio, el Agente 13 debe imprimir las siguientes secciones con enlaces bidireccionales `[[ ]]` tipificados y con pesos (1-10):
+     - `## 🧱 Dependencias (Prerrequisitos de estudio)`
+     - `## 🚀 Esta nota habilita comprender`
+     - `## 🔗 Relaciones Semánticas` (ej. Define, Refuta, Complementa)
+     - `## 📖 Textos Paralelos y Cumplimientos`
 2. Imprime las instrucciones Zettelkasten para guardar el archivo (Ruta temática: `06_Sermones_Generados/[Letra]/[Tematica]/Archivo.md`).
 
 **CHECKLIST DE VERIFICACIÓN FINAL (Comprobación Interna Oculta):**

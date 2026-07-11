@@ -6,7 +6,7 @@ Se ha procesado e integrado el **Comentario al Nuevo Testamento por Wayne Partai
 
 - **Total de Nodos (Archivos MD):** ~24,600
 - **Total de Sinapsis (Enlaces):** ~87,000
-- **Libros comentados exegéticamente:** 27 (NT) + 66 (Contexto Cultural)
+- **Libros comentados exegéticamente:** 27 (NT) + 1 (AT) + 66 (Contexto Cultural)
 - **Preguntas resueltas integradas:** 146
 - **Lecciones doctrinales integradas:** 40
 
@@ -24,15 +24,16 @@ Cada comentario enlaza al libro bíblico correspondiente mediante `[[Mateo]]`, `
 Sin cambios significativos.
 
 ## Vacíos Detectados
-- El Antiguo Testamento no tiene comentario exegético aún.
+- El Antiguo Testamento apenas inicia su comentario exegético (Levítico en progreso).
 
 ## Mejoras Propuestas
-1. Si el usuario posee un comentario al Antiguo Testamento, procesarlo para completar la cobertura.
+1. Continuar procesando y añadiendo los demás libros del Antiguo Testamento para completar la cobertura.
 2. Comenzar a generar sermones utilizando todo el arsenal: Biblia + Strong + Vine + Comentario + Lógica + Homilética.
 
 ## Índices y Diccionarios Actualizados
+- **Nuevo:** `00_Indice_Comentario_Levitico.md` en `02_Exegesis/Comentario_Levitico/`
 - **Nuevo:** `00_Indice_Comentario_Partain_Reeves.md` en `02_Exegesis/Comentario_Partain_Reeves/`
-- **Actualizado:** `000_Cerebro_MOC.md` — añadido enlace al comentario en la sección de Exégesis.
+- **Actualizado:** `000_Cerebro_MOC.md` — añadido enlace a los comentarios (NT y AT) en la sección de Exégesis.
 
 ## Ontología y Grafo Actualizado
 Nuevo pilar integrado: Exégesis Aplicada (Comentario verso por verso).

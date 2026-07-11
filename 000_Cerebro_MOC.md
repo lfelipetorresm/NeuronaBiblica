@@ -20,6 +20,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 - [[Indice_Diccionario_Vine_AT]]
 - [[Indice_Diccionario_Vine_NT]]
 - [[00_Indice_Comentario_Partain_Reeves|Comentario al NT (Partain-Reeves)]]
+- [[00_Indice_Comentario_Levitico|Comentario al AT - Levítico (Partain)]]
 
 ### 🛡️ Lógica y Razonamiento (El Escudo)
 *Las herramientas para argumentar sólidamente y refutar el error.*
@@ -48,7 +49,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 
 ---
 
-### 🤖 Perfiles Agénticos SOT (Sistema Operativo Teológico)
+### 🤖 Perfiles Agénticos SOT V3.0 (Ontología Semántica)
 *Motores de inferencia especializados para investigación bíblica doctoral.*
 - [[Prompt_Maestro_Sermones|Agente 01: El Arquitecto (Orquestador)]]
 - [[Agente_02_Exegeta|Agente 02: El Exégeta]]
@@ -62,6 +63,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 - [[Agente_10_Pastor|Agente 10: El Pastor]]
 - [[Agente_11_Editor|Agente 11: El Editor Retórico]]
 - [[Agente_12_Bibliotecario|Agente 12: Bibliotecario Zettelkasten]]
+- [[Agente_13_Ontologo|Agente 13: El Ontólogo]]
 
 ---
 
