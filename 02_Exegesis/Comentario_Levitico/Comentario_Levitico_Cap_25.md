@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Jesús]]", "[[Cristo]]", "[[Jeremías]]", "[[Sansón
 lugares: ["[[Babilonia]]", "[[Egipto]]", "[[Canaán]]"]
 doctrinas: ["[[Día De Reposo]]", "[[Jubileo]]", "[[Redención]]", "[[Benevolencia]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 75
 ---
 
 # [[Levítico]] 25
@@ -166,3 +169,26 @@ E. La dispensación de Cristo es "el año agradable del Señor", [[2 Corintios 6
 **Conclusión.**
 A. Muchos israelitas ansiosamente anticipaban el año del jubileo, porque era el año de libertad personal, de restauración de su propiedad perdida, de la reunión con sus amados, y de reposo.
 B. El jubileo muy apropiadamente prefiguraba la obra de Jesucristo, porque al obedecerle esperamos "que vengan de la presencia del Señor tiempos de refrigerio" ([[Hechos 3:19]]).
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Día de Reposo]] (Peso: 10/10) - *El concepto de descanso sabático se expande aquí del séptimo día al séptimo año (año sabático) y a las siete semanas de años (Jubileo).*
+- **Precede:** [[Redención en el Antiguo Testamento]] (Peso: 9/10) - *Comprender la función del "pariente redentor" (Goel) para entender las leyes de rescate de tierras y personas.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[El Año Agradable del Señor]] (Peso: 10/10) - *El entendimiento completo de Isaías 61 y Lucas 4 (el manifiesto mesiánico de Jesús) requiere la teología del Jubileo: liberación a los cautivos y buenas nuevas a los pobres.*
+- **Fundamenta:** [[Exilio Babilónico]] (Peso: 9/10) - *Comprender por qué el exilio duró 70 años: para que la tierra "gozara de reposo" (2 Crónicas 36:21), cobrando los años sabáticos que Israel no guardó.*
+
+## 🔗 Relaciones Semánticas
+- **Tipifica:** [[Cristo el Gran Redentor]] (Peso: 10/10) - *Así como el pariente rescataba la herencia perdida por pobreza (v. 25), Cristo pagó nuestro rescate espiritual con Su sangre (1 Pedro 1:18).*
+- **Aclara:** [[Teología de la Tierra]] (Peso: 10/10) - *La tierra de Canaán pertenece a Dios (v. 23). Israel era solo "forastero y extranjero", mayordomo de Dios. Previene el materialismo y monopolio (Isaías 5:8).*
+- **Aclara:** [[Esclavitud vs Servidumbre]] (Peso: 9/10) - *Distingue entre el esclavo extranjero y el siervo israelita empobrecido (v. 39-43). Israel ya era esclavo de Dios, no podía serlo de hombres.*
+- **Define:** [[Fe en la Providencia]] (Peso: 10/10) - *No sembrar el 7mo año requería fe en que Dios enviaría triple cosecha el 6to año (v. 20-21), prefigurando "buscad primeramente el reino" (Mateo 6:33).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Deuteronomio 15:1-11]] (Leyes paralelas sobre la remisión de deudas en el año sabático)
+- **Cumplimiento:** [[Isaías 61:1-3]] y [[Lucas 4:18-19]] (Jesús declarando el cumplimiento espiritual del Año del Jubileo)
+- **Cumplimiento:** [[2 Corintios 6:2]] (El tiempo aceptable, el día de salvación es AHORA, el jubileo espiritual de la iglesia)

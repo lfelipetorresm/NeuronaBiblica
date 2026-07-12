@@ -15,6 +15,9 @@ personajes: ["[[Jehová]]", "[[Dios]]", "[[Jesús]]", "[[Cristo]]", "[[Judas]]",
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Restitución]]", "[[Mentira]]", "[[Calumnia]]", "[[Arrepentimiento]]", "[[Perdón]]", "[[Redención]]", "[[Sacrificios]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 6
@@ -64,3 +67,26 @@ B. Entonces es importante notar que esto no se trata meramente de proveer carne 
 A. ¿Por qué era tan estricta esta ley? Para no confundir o mezclar lo [[santo]] con lo común u ordinario. Este [[sacrificio]] tuvo que ver con la [[redención]], y todos sabemos lo sagrado de este tema.
 B. Habían de quebrar (destruir) la vasija de barro porque absorbía la sangre y fue imposible separar o quitar completamente la sangre de la vasija misma. Se usaba gran precaución para distinguir entre lo [[santo]] y lo común, los usos santos y los usos comunes. Un vaso de barro usado en esta forma sagrada, nunca se pudo usar otra vez en la casa; fue quebrado y destruido.
 C. Abundan tales ilustraciones en este libro para enseñar al pueblo de [[Israel]] (y también a nosotros) el significado de la palabra "[[santo]]".
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Complementa:** [[Comentario_Levitico_Cap_05]] (Peso: 9/10) - *Continúa detallando el sacrificio por la culpa, con énfasis en el fraude relacional y la restitución.*
+- **Precede:** [[Santidad]] (Peso: 9/10) - *Entender el concepto de santidad y separación para asimilar las estrictas reglas de consumo sacerdotal.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Restitución Evangélica]] (Peso: 10/10) - *Comprender la base veterotestamentaria de la acción de Zaqueo (Lucas 19) y la orden de Pablo a Filemón.*
+- **Habilita:** [[Divorcio y Recasamiento]] (Peso: 8/10) - *Como ilustra el apunte, aplicar el principio de no permanecer en el pecado (Mateo 19) sin rectificar la situación.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Pecado contra el Prójimo]] (Peso: 10/10) - *Establece que todo fraude o mentira contra el prójimo es considerado "prevaricación contra Jehová".*
+- **Aclara:** [[Holocausto Perpetuo]] (Peso: 9/10) - *El fuego que no se apaga simboliza la eficacia perpetua del sacrificio y la consagración incesante.*
+- **Ejemplifica:** [[Separación de lo Común]] (Peso: 9/10) - *La destrucción de la vasija de barro ilustra el celo de Dios por no profanar lo santificado.*
+- **Define:** [[Calumnia]] (Peso: 8/10) - *Representación falsa, alineada con el carácter del diablo (calumniador).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Filemón 18-19]] (Pablo ofrece restituir por Onésimo)
+- **Paralelo:** [[Lucas 19:8]] (La restitución cuadruplicada de Zaqueo)
+- **Cumplimiento:** [[Hebreos 7:27]] (El sacrificio incesante cumplido de una vez por todas en Cristo)

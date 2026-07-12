@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Moisés]]", "[[Jesús]]", "[[Cristo]]", "[[Pablo]]",
 lugares: ["[[Israel]]", "[[Egipto]]", "[[Judá]]", "[[Jerusalén]]"]
 doctrinas: ["[[Santidad]]", "[[Día De Reposo]]", "[[Benevolencia]]", "[[Justicia]]", "[[Yugo Desigual]]", "[[Adivinación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 45
 ---
 
 # [[Levítico]] 19
@@ -147,3 +150,27 @@ B. Tener el santuario en reverencia era advertencia también de que el inmundo n
 **19:33, 34** -- "extranjeros fuisteis en la tierra de Egipto". Teniendo presente este pensamiento el israelita nunca oprimiría al extranjero. Hay una lección valiosa para el cristiano también, es decir, si siempre recuerda que estaba perdido en el mundo, lejos de Dios, tendrá paciencia y compasión para los que todavía están en el mundo.
 
 **19:35, 36** -- Véase el ver. 15, notas.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Santidad]] (Peso: 10/10) - *Todo el capítulo 19 es la aplicación práctica de "Santos seréis, porque santo soy yo Jehová vuestro Dios".*
+- **Precede:** [[Amor al Prójimo]] (Peso: 10/10) - *Entender que el mandamiento cumbre (Lev 19:18) abarca benevolencia, justicia, y corrección fraterna.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Ética del Reino]] (Peso: 10/10) - *Fundamenta las enseñanzas de Jesús en el Sermón del Monte y las instrucciones morales del Nuevo Testamento.*
+- **Fundamenta:** [[Benevolencia Bíblica]] (Peso: 9/10) - *Revela cómo Dios cuida a los pobres ordenando dejar los rincones de los campos y las espigas para ellos (rut).*
+
+## 🔗 Relaciones Semánticas
+- **Tipifica:** [[Yugo Desigual]] (Peso: 9/10) - *La prohibición de mezclar especies o telas (v. 19) es la base bíblica de 2 Corintios 6:14 sobre la separación del cristiano.*
+- **Aclara:** [[Ocultismo y Adivinación]] (Peso: 10/10) - *Demuestra que buscar conocimiento en astros (horóscopos), muertos o espíritus rechaza la providencia divina (v. 26, 31).*
+- **Define:** [[Reprensión Fraterna]] (Peso: 8/10) - *Razonar (reprender) al prójimo ofensor es la alternativa divina a guardar rencor en el corazón, evitando participar de su pecado (v. 17).*
+- **Contrasta:** [[Justicia Imparcial]] (Peso: 10/10) - *Condena hacer acepción de personas: pervertir la ley para favorecer al pobre es tan pecaminoso como complacer al rico (v. 15).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Mateo 22:39]] ("Amarás a tu prójimo como a ti mismo", cita directa de Levítico 19:18)
+- **Paralelo:** [[2 Corintios 6:14]] (Aplicación de no ayuntar animales/semillas diferentes: no al yugo desigual)
+- **Paralelo:** [[Deuteronomio 18:9-14]] (Lista extendida de las abominaciones de adivinación)
+- **Cumplimiento:** [[Santiago 2:1-13]] (La condenación de la acepción de personas y el deber de guardar la "ley real" del amor al prójimo)

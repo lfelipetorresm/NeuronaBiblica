@@ -15,6 +15,9 @@ personajes: ["[[Nadab]]", "[[Abiú]]", "[[Aarón]]", "[[Jehová]]", "[[Dios]]", 
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Obediencia]]", "[[Juicio]]", "[[Santidad]]", "[[Celo]]", "[[Pecado De Presunción]]", "[[Salvación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 35
 ---
 
 # [[Levítico]] 10
@@ -81,3 +84,27 @@ B. Pero "se halló que había sido quemado; y se enojó contra [[Eleazar]] e [[I
 C. "... pero a mí me han sucedido estas cosas, y si hubiera yo comido hoy del sacrificio de expiación, ¿sería esto grato a Jehová?"
 1. La razón dada por [[Aarón]] no tiene que ver con su tristeza, sino con el pecado del sacerdocio en ese día (el pecado de sus hijos, [[Nadab]] y [[Abiú]]). El comer el sacrificio no era ocasión de gozo bajo ninguna circunstancia; por lo tanto, su respuesta no tiene que ver con la falta de gozo. Pero sí hubo en su mente el pensamiento de no ser del todo dignos de comer. Se requería la completa [[santidad]] de los [[sacerdotes]]. (Esta es la interpretación de Keil y Delitzsch, y creo que es la correcta).
 D. Este capítulo es una advertencia contra los peligros relacionados con un sacerdocio ejecutado por hombres pecaminosos. Aunque fue ordenado por [[Dios]], el [[sacerdote levítico]] no era hecho divino, sino que siguió siendo muy humano.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Contrasta:** [[Comentario_Levitico_Cap_09]] (Peso: 10/10) - *El fuego del cap 9 consumió el holocausto en aprobación; el fuego del cap 10 consumió a los sacerdotes en juicio.*
+- **Define contexto:** [[Altar del Incienso]] (Peso: 9/10) - *Donde aconteció el pecado de ofrecer fuego extraño.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Adoración en la Iglesia]] (Peso: 10/10) - *El principio de la adoración (culto voluntario) frente a la obediencia estricta es fundamental para entender Colosenses 2:23 y la adoración en espíritu y verdad.*
+- **Habilita:** [[El Caso de Ananías y Safira]] (Peso: 9/10) - *Hechos 5 es el paralelo exacto en el Nuevo Pacto del inicio de la iglesia frente a este inicio del sacerdocio veterotestamentario.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Fuego Extraño]] (Peso: 10/10) - *Fuego, adoración, o práctica que Dios "nunca les mandó" (Principio regulativo de adoración).*
+- **Define:** [[Pecado de Presunción]] (Peso: 10/10) - *Pecado cometido a sabiendas y con rebeldía, sin provisión de expiación, ilustrado por Nadab y Abiú.*
+- **Ejemplifica:** [[Juicio de Dios]] (Peso: 10/10) - *Dios demanda ser santificado en los que se le acercan; si no lo es por la obediencia, lo será por el juicio consumador.*
+- **Advierte:** [[Embriaguez]] (Peso: 8/10) - *La vinculación entre el alcohol y la pérdida de capacidad para discernir lo santo de lo profano.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Hechos 5:1-11]] (Ananías y Safira muriendo ante el Señor por mentir al Espíritu Santo)
+- **Paralelo:** [[Colosenses 2:23]] (La condena al "culto voluntario" o mandamientos de hombres)
+- **Cumplimiento:** [[Hebreos 10:31]] (Horrenda cosa es caer en manos del Dios vivo)
+- **Cumplimiento:** [[Hebreos 12:28-29]] (Sirvamos a Dios con temor y reverencia, porque nuestro Dios es fuego consumidor)

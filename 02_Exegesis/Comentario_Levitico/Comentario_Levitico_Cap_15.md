@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Jesús]]"]
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Purificación]]", "[[Inmundicia]]", "[[Santidad]]", "[[Poder Divino]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Intermedio
+tiempo_estimado: 15
 ---
 
 # [[Levítico]] 15
@@ -35,3 +38,25 @@ C. El punto principal de este capítulo, como también en los capítulos 11-14 (
 **15:19-30** -- La impureza de la mujer con [[flujo de sangre]]. Compárese [[Mateo 9:20-22]]. El tocar a [[Jesús]] lo hubiera contaminado según esta ley, pero el [[poder divino]] de [[Jesús]] le sanó de su enfermedad. La extensión de la contaminación se ve en los vers. 20-23 ([[Levítico 15:20-23]]). Compárense los vers. 4-10 ([[Levítico 15:4-10]]).
 
 **15:33** -- "y para la que padece su costumbre", la función mensual normal del cuerpo femenino. El capítulo trata tanto acerca de funciones normales como de las anormales.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_11]] (Peso: 9/10) - *El capítulo 15 concluye la sección de inmundicias físicas iniciada en el cap 11.*
+- **Precede:** [[Comentario_Levitico_Cap_12]] (Peso: 10/10) - *Entender el principio de que las secreciones del cuerpo humano tipifican la muerte y el pecado.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[La Mujer con Flujo de Sangre]] (Peso: 10/10) - *Marcos 5 y Mateo 9 no se pueden entender sin saber que su condición de flujo constante la hacía perpetuamente inmunda, aislandola social y religiosamente durante 12 años.*
+- **Fundamenta:** [[Santidad del Campamento]] (Peso: 9/10) - *El propósito (v. 31) era proteger el tabernáculo de Dios de la contaminación, mostrando que la presencia divina exige pureza.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Acto Sexual en el Matrimonio]] (Peso: 9/10) - *El acto en sí no es pecado (Hebreos 13:4), la inmundicia ceremonial era producto de la emisión de fluidos vitales (simbolizando pérdida de vida/muerte).*
+- **Contrasta:** [[Ley vs Gracia]] (Peso: 10/10) - *Bajo la Ley, el toque de la mujer inmunda contaminaba a la persona sana; bajo la Gracia, el toque de la mujer inmunda a Jesús resultó en sanidad para ella, sin contaminar al Señor.*
+- **Define:** [[Inmundicia por Contacto]] (Peso: 8/10) - *La transferencia de impureza a objetos inanimados (camas, sillas), tipificando el alcance corruptor de nuestra naturaleza carnal.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[1 Samuel 21:5]] (Requisito de pureza sexual para comer el pan sagrado)
+- **Cumplimiento:** [[Mateo 9:20-22]] (La mujer de flujo de sangre tocando el manto de Jesús)
+- **Cumplimiento:** [[Hebreos 7:26]] (Cristo es santo, inocente, sin mancha, apartado de los pecadores)

@@ -15,6 +15,9 @@ personajes: ["[[Aarón]]", "[[Dios]]", "[[Jehová]]", "[[Moisés]]", "[[Cristo]]
 lugares: []
 doctrinas: ["[[Expiación]]", "[[Fe]]", "[[Salvación]]", "[[Vida Eterna]]", "[[Consagración]]", "[[Justificación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 9
@@ -52,3 +55,27 @@ D. [[Hebreos 11]] habla de personas que recibieron "buen testimonio" (de aprobac
 E. ¿Cuál es la evidencia que tenemos nosotros de que [[Dios]] nos acepta?
 1. El [[Espíritu Santo]] revela la mente de [[Dios]] ([[1 Corintios 2:10-11]]) y nos da sus instrucciones divinas. Luego nosotros, sabiendo que estamos cumpliendo con aquellas instrucciones, tenemos seguridad de que [[Dios]] nos acepta. [[Romanos 8:16]] dice, "El Espíritu mismo da testimonio a nuestro espíritu, de que somos hijos de Dios". El [[Espíritu Santo]] atestigua solamente por medio de las Escrituras: [[Hebreos 10:15-17]] (Heb. 10:15), “Y nos atestigua lo mismo el Espíritu Santo; porque después de haber dicho ([[Jeremías 31:31-33]]): 16 Este es el pacto que haré con ellos Después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones, Y en sus mentes las escribiré, 17 añade: Y nunca más me acordaré de sus pecados y transgresiones”. Y nos atestigua lo mismo el Espíritu Santo; porque después de haber dicho: 16 Este es el pacto que haré con ellos Después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones, Y en sus mentes las escribiré, 17 añade ([[Jeremías 31:34]]): Y nunca más me acordaré de sus pecados y transgresiones”. En [[Romanos 8:16]] [[Pablo]] usa el dativo que se traduce "a" en algunas versiones (Valera Revisada 1960 y otras), pero La Versión Moderna (como también The American Standard y otras versiones) dicen "con nuestro espíritu". El Espíritu revela el plan de [[salvación]] y nos dice en su palabra que el que obedece tiene [[salvación]]. Nuestro espíritu dice que hemos obedecido. Dos testigos, pues, dicen que somos hijos de [[Dios]]. El Espíritu testifica juntamente con nuestro espíritu.
 2. [[1 Juan 3:19]], "Y en esto conocemos que somos de la verdad, y aseguraremos nuestros corazones delante de El". [[1 Juan 5:13]], "Estas cosas os he escrito a vosotros que creéis en el nombre del hijo de Dios, para que sepáis que tenéis [[vida eterna]], y para que creáis en el nombre del Hijo de Dios". Así, pues, las Escrituras nos dan el testimonio de [[Dios]] que nos asegura de la [[salvación]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_08]] (Peso: 10/10) - *El octavo día (Lev 9:1) marca el fin de la consagración del sacerdocio iniciada en el cap 8.*
+- **Precede:** [[Tabernáculo]] (Peso: 9/10) - *Entender el marco en el que la gloria de Jehová desciende sobre la congregación.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Hebreos 11]] (Peso: 9/10) - *Entender cómo Dios da evidencia y testimonio de aprobación a la fe y la obediencia verdaderas.*
+- **Fundamenta:** [[Seguridad de Salvación]] (Peso: 10/10) - *Relaciona la evidencia visible del AT (fuego del cielo) con la evidencia espiritual del NT (el testimonio del Espíritu Santo en la Palabra).*
+
+## 🔗 Relaciones Semánticas
+- **Tipología:** [[Aprobación Divina]] (Peso: 10/10) - *El fuego que consume el sacrificio es la firma de Dios aceptando la ofrenda (como con Elías, David, Salomón, Gedeón).*
+- **Cumple:** [[Éxodo 40:34-38]] (Peso: 9/10) - *Es la manifestación visible de la promesa: "Jehová se aparecerá hoy a vosotros".*
+- **Aclara:** [[Bendición Sacerdotal]] (Peso: 9/10) - *Muestra cómo el sacerdote oficiaba como mediador y canal de bendición al pueblo (Números 6:22-27).*
+- **Define:** [[Testimonio del Espíritu Santo]] (Peso: 10/10) - *Clarifica que Romanos 8:16 no es una voz mística, sino la Palabra testificando junto a nuestro espíritu obediente.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Números 6:22-27]] (La bendición sacerdotal pronunciada por Aarón)
+- **Paralelo:** [[1 Reyes 18:38]] (Fuego de Jehová aprobando el sacrificio de Elías)
+- **Cumplimiento:** [[Romanos 8:16]] (El Espíritu testifica con nuestro espíritu)
+- **Cumplimiento:** [[Hebreos 10:15-17]] (El testimonio del Espíritu Santo en las Escrituras)

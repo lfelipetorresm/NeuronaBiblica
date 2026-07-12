@@ -15,6 +15,9 @@ personajes: ["[[Nadab]]", "[[Abiú]]", "[[Aarón]]", "[[Dios]]", "[[Cristo]]", "
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Expiación]]", "[[Redención]]", "[[Reconciliación]]", "[[Santidad]]", "[[Remisión]]", "[[Misericordia]]", "[[Arrepentimiento]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 45
 ---
 
 # [[Levítico]] 16
@@ -82,3 +85,27 @@ B. El animal llevado al desierto no podía volver. Los pecados que [[Dios]] perd
 -- "el extranjero", recuérdese [[Éxodo 12:38]], 48 ([[Éxodo 12:48]]).
 
 **16:31** -- "[[Día de reposo]] es para vosotros", no obstante el día de la semana. El [[día de la expiación]] caía siempre en el décimo día del séptimo mes y, por lo tanto, podía caer en cualquier día de la semana, del primer día hasta el séptimo. Si el [[día de la expiación]] cayera en el día lunes, ese lunes era "[[día de reposo]]"; lo mismo si cayera en martes, miércoles, etcétera.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_10]] (Peso: 10/10) - *El trasfondo del castigo de Nadab y Abiú (mencionados en 16:1-2) es esencial para entender la reverencia y peligro del Lugar Santísimo.*
+- **Precede:** [[Tabernáculo]] (Peso: 10/10) - *Especialmente las divisiones (Lugar Santo, Lugar Santísimo, el Velo, el Propiciatorio).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Epístola a los Hebreos]] (Peso: 10/10) - *Levítico 16 es la base absoluta para entender la argumentación central de Hebreos caps. 7, 8 y 9 sobre el sumo sacerdocio de Cristo y su entrada al cielo.*
+- **Fundamenta:** [[Expiación Sustitutiva]] (Peso: 10/10) - *Establece el doble aspecto de la expiación: la sangre rociada (propiciación hacia Dios) y el macho cabrío a Azazel (remisión o quitar los pecados).*
+
+## 🔗 Relaciones Semánticas
+- **Tipología:** [[Día de la Expiación]] (Peso: 10/10) - *Tipifica la obra completa de Cristo en la cruz y su ascensión para presentarse ante Dios por nosotros.*
+- **Contrasta:** [[Sacerdocio Levítico vs Cristo]] (Peso: 10/10) - *Aarón necesitaba lavar su propio cuerpo, quitarse sus prendas gloriosas y ofrecer por su propio pecado; Cristo era sin mancha y no requería sacrificio propio.*
+- **Define:** [[Azazel]] (Peso: 10/10) - *El macho cabrío emisario, que figura la "remoción" de los pecados a un lugar de olvido (Salmo 103:12).*
+- **Cumple:** [[Santuario Purificado]] (Peso: 9/10) - *El tabernáculo celestial también requería mejores sacrificios que los terrenales para ser purificado de nuestros pecados (Heb 9:23).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Hebreos 9:11-12]] (Cristo entrando una vez para siempre al Lugar Santísimo verdadero)
+- **Cumplimiento:** [[Hebreos 9:24-26]] (Cristo presentándose por nosotros en el cielo)
+- **Cumplimiento:** [[1 Pedro 2:24]] (Cristo llevando nuestros pecados en su cuerpo, como el macho cabrío a Azazel)
+- **Cumplimiento:** [[Hebreos 4:15]] (Cristo, sumo sacerdote sin pecado, contrastado con Aarón)

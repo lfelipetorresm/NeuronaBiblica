@@ -15,6 +15,9 @@ personajes: ["[[Jesús]]", "[[Cristo]]", "[[Dios]]"]
 lugares: ["[[Israel]]", "[[Egipto]]"]
 doctrinas: ["[[Día De Reposo]]", "[[Fiestas Solemnes]]", "[[Pascua]]", "[[Pentecostés]]", "[[Primicias]]", "[[Diezmo]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 55
 ---
 
 # [[Levítico]] 23
@@ -103,3 +106,27 @@ A. Compárese [[Nehemías 8:13-18]] (Neh. 8:15, 16).
 B. Dice Dios, "os regocijaréis"; era mandamiento para los israelitas. Dice Deut. 16:15, "y estarás verdaderamente alegre". Compárese Neh. 8:13-18. Recordemos esos textos al leer [[Filipenses 4:4-6]], "Regocijaos en el señor siempre. Otra vez digo: ¡Regocijaos!" ¿Es justo y razonable que el apóstol nos dé tal mandamiento?
 
 **23:43** -- Véase el ver. 34.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Calendario Hebreo]] (Peso: 10/10) - *Es imprescindible conocer los meses hebreos (especialmente Nisán/Abib y Tisri/Ethanim) para ubicar las Fiestas Solemnes en su contexto estacional e histórico.*
+- **Precede:** [[Día de Reposo]] (Peso: 9/10) - *Entender el doble propósito del reposo sabático: rememorar la Creación (Éxodo 20) y la liberación de la esclavitud en Egipto (Deut. 5).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Pentecostés (Nuevo Testamento)]] (Peso: 10/10) - *Hechos 2 no se entiende sin Levítico 23. La entrega del Espíritu Santo coincidió con la Fiesta de las Semanas, donde se presentaban los primeros frutos (la iglesia primitiva).*
+- **Fundamenta:** [[Cristología de las Fiestas]] (Peso: 10/10) - *Permite rastrear cómo Cristo cumplió proféticamente la Pascua (muerte), los Panes Sin Levadura (sepultura) y las Primicias (resurrección).*
+
+## 🔗 Relaciones Semánticas
+- **Tipifica:** [[Cristo nuestra Pascua]] (Peso: 10/10) - *La muerte del Cordero sin defecto (1 Corintios 5:7, Juan 1:29) para salvar a los primogénitos.*
+- **Tipifica:** [[Primicias de Resurrección]] (Peso: 10/10) - *La gavilla mecida el "día después del día de reposo" (domingo) tipifica la resurrección de Cristo, "primicias de los que durmieron" (1 Cor 15:20).*
+- **Aclara:** [[Tabernáculos y Peregrinación]] (Peso: 9/10) - *Vivir en enramadas recordaba la dependencia del pueblo en el desierto y la fidelidad de Dios (Deut 8); el cristiano moderno también es peregrino gozoso en la tierra.*
+- **Aclara:** [[Semanas vs Días de Reposo]] (Peso: 8/10) - *Distingue exegéticamente el conteo de 50 días para Pentecostés, aclarando los problemas de traducción ("sábados" vs "semanas").*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Números 28]] y [[Números 29]] (Leyes detalladas sobre los sacrificios requeridos en cada una de estas fiestas)
+- **Cumplimiento:** [[Hechos 2:1-4]] (El derramamiento del Espíritu Santo en el día exacto de la Fiesta de las Semanas)
+- **Cumplimiento:** [[1 Corintios 15:20]] (Cristo resucitado, las verdaderas primicias de la siega)
+- **Cumplimiento:** [[Filipenses 4:4]] (El gozo constante mandado al cristiano, reflejado en la ordenanza de regocijarse de los Tabernáculos)

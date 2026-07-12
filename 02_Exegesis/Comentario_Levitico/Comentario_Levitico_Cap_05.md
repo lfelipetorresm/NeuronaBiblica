@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Jehová]]", "[[Jesús]]", "[[Cristo]]", "[[Caín]]",
 lugares: ["[[Jerusalén]]", "[[Jordán]]"]
 doctrinas: ["[[Pecado]]", "[[Justicia]]", "[[Inmundicia]]", "[[Juramento]]", "[[Confesión]]", "[[Restitución]]", "[[Expiación]]", "[[Misericordia]]"]
 estado: Procesado
+importancia: Importante
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # [[Levítico]] 5
@@ -68,3 +71,26 @@ C. Nótese: "confesará aquello en que pecó". Debe confesar clara y precisament
 
 **Observación**. Es muy difícil distinguir entre los [[pecados]] referidos en [[Levítico 5:14-19]] hasta [[Levítico 6:1-7]] y los de [[Levítico 4:1-35]] hasta [[Levítico 5:13]]. La diferencia más obvia es el asunto de la [[restitución]] ([[Levítico 5:15]]). El sacrificio "por la culpa" tenía que ver con [[pecados]] que violaron los derechos de alguien: [[Levítico 5:15]], "en las cosas santas de Jehová" (los derechos de Dios); [[Levítico 6:1-7]], los derechos del prójimo; [[Números 5:5-8]] habla del "daño", "indemnización del agravio"; [[Levítico 19:20-22]], "Si un hombre yaciere con una mujer que fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada libertad ..." Es caso de violar los derechos del prójimo y se menciona aparte de los textos que hablan del adulterio; [[Levítico 14:12]], el caso del leproso es aun más difícil; si la idea de "derechos" cabe aquí también, entonces trata acerca de los derechos del leproso mismo que fueron todos perdidos al afligirse con la lepra. Lo mismo en [[Números 6:12]] cuando el nazareo fue contaminado por el contacto con un cadáver. En todos estos casos es evidente que la satisfacción se hace y que ciertos derechos se restauran. (Véase Keil & Delitzsch, Vol. II, págs. 313-317.)
 Lo que se afirmó acerca de "yerro" se aplica aquí también. El sacrificio por la culpa servía solamente en los casos de esta categoría ([[Levítico 5:15]], 17, 18).
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Complementa:** [[Comentario_Levitico_Cap_04]] (Peso: 9/10) - *El sacrificio por la culpa está estrechamente ligado al sacrificio por el pecado por yerro.*
+- **Define contexto:** [[Restitución]] (Peso: 8/10) - *Concepto clave para diferenciar la ofrenda por el pecado de la ofrenda por la culpa.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Sermón del Monte]] (Peso: 9/10) - *La enseñanza de Cristo sobre los juramentos en Mateo 5 y Mateo 23 tiene su base aquí.*
+- **Fundamenta:** [[Confesión]] (Peso: 10/10) - *El principio de que la sangre no expía a menos que haya una confesión verbal y clara del pecado cometido.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Sacrificio por la Culpa]] (Peso: 10/10) - *Sacrificio por pecados que violan derechos (de Dios o del prójimo) y exigen restitución más el 20%.*
+- **Aclara:** [[Juramento]] (Peso: 9/10) - *Distingue entre el juramento legítimo (invocar a Dios como testigo) y jurar a la ligera o con hipocresía.*
+- **Contrasta:** [[Sacrificio por el Pecado]] (Peso: 8/10) - *La ofrenda por la culpa enfatiza el daño hecho y la restitución, mientras el pecado enfatiza la ofensa contra la santidad.*
+- **Demuestra:** [[Gracia y Justicia]] (Peso: 8/10) - *Dios provee expiación incluso con harina para el extremadamente pobre, pero no pasa por alto la deuda (restitución).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Mateo 5:33-37]] (Sobre los juramentos)
+- **Cumplimiento:** [[1 Juan 1:9]] (La confesión de pecados en el Nuevo Pacto)
+- **Paralelo:** [[Lucas 19:8]] (Zaqueo restituyendo el cuádruple, excediendo la quinta parte)

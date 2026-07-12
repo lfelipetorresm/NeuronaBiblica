@@ -4,6 +4,7 @@ tipo: leccion_doctrinal
 autor: Roy E. Cogdill
 estado: Procesado
 etiquetas: ["#Doctrina", "#Iglesia"]
+palabras_clave: ["Ekklesía", "Kuriakos", "Llamamiento", "Cuerpo de Cristo", "Santidad"]
 ---
 
 # Lección I: El cuerpo que es llamado
@@ -31,3 +32,10 @@ Preguntas
  5. ¿Qué clase de carácter demanda este llamamiento?  6. ¿Por qué medio somos llamados? (1) ¿operación directa del [[Espíritu Santo]]? (2) ¿oración? o (3) ¿predicación del  
 evangelio? 
  7. ¿Cuál es la esperanza final de nuestra [[salvación]]?
+
+---
+## 🔗 Relaciones Semánticas
+- **Define:** [[Iglesia]] (Ekklesía, Kuriakos)
+- **Pertenece a:** [[Doctrina de la Iglesia]]
+- **Conceptos Relacionados:** [[Llamamiento_Divino]], [[Santidad]], [[Cuerpo_de_Cristo]]
+- **Textos Clave:** Efesios 5:23-25, 1 Pedro 2:9, 1 Corintios 1:9

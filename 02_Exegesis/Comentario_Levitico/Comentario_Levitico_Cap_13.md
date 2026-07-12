@@ -15,6 +15,9 @@ personajes: ["[[Cristo]]", "[[Jesús]]", "[[María]]", "[[Giesi]]", "[[Uzías]]"
 lugares: []
 doctrinas: ["[[Pecado]]", "[[Comunión Con Dios]]", "[[Inmundicia]]", "[[Castigo De Dios]]"]
 estado: Procesado
+importancia: Importante
+dificultad: Avanzado
+tiempo_estimado: 35
 ---
 
 # [[Levítico]] 13
@@ -68,3 +71,26 @@ B. "Vestidos rasgados ... cabeza descubierta ... embozado" eran señales de [[lu
 C. ¿Cómo nos parecería si todo pecador tuviera que gritar "¡Inmundo!"? Los [[leprosos]] tenían que reconocer que eran leprosos, pero ¿cuántos pecadores reconocen que son pecadores? Actualmente el [[pecado]] ni siquiera se clasifica como [[pecado]], porque no ofende a la mayoría de la gente. Si nadie se baña, nadie huele.
 
 **13:47-59** -- La palabra traducida "lepra" es la palabra hebrea [[tsara'ath]]. Las descripciones de lo que se llama "lepra" en los capítulos 13 y 14 ([[Levítico 13]], [[Levítico 14]]) incluyen cosas que serían designados ahora por otros nombres. La palabra hebrea es una palabra más amplia que nuestra palabra "lepra". Dice 13:55 ([[Levítico 13:55]]), "es corrosión penetrante" y probablemente se refiere al moho, [[hongo]] parásito, etc.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_12]] (Peso: 9/10) - *Continúa el desarrollo teológico de cómo las disfunciones y secreciones físicas tipifican el pecado y la muerte.*
+- **Define contexto:** [[Muerte Viviente]] (Peso: 10/10) - *Concepto indispensable para entender por qué la lepra producía luto (vestidos rasgados, cabeza descubierta).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Sanidad de Leprosos por Cristo]] (Peso: 10/10) - *Entender por qué Cristo los tocaba, por qué el leproso pedía ser "limpiado" en lugar de "sanado", y por qué Jesús los enviaba al sacerdote.*
+- **Fundamenta:** [[Disciplina en la Iglesia]] (Peso: 9/10) - *La cuarentena, escrutinio diligente del sacerdote y expulsión del leproso del campamento sientan las bases bíblicas para la disciplina y purificación de la iglesia (1 Cor 5).*
+
+## 🔗 Relaciones Semánticas
+- **Tipología:** [[Lepra Espiritual]] (Peso: 10/10) - *La lepra simboliza el pecado activo (extendiéndose) que causa descomposición, aísla de la comunión con Dios y con los hermanos.*
+- **Contrasta:** [[Sacerdocio vs Cristo]] (Peso: 10/10) - *La ley/el sacerdote sólo podía declarar el estado (descubrir el pecado), pero no curar; Cristo podía limpiar (quitar el pecado).*
+- **Aclara:** [[Rol del Sacerdote]] (Peso: 8/10) - *El sacerdote no ejercía función médica, sino una función puramente religiosa y evaluativa ante Dios.*
+- **Advierte:** [[Reconocimiento del Pecado]] (Peso: 8/10) - *La obligación del leproso de gritar "¡Inmundo!" subraya la necesidad de reconocer el pecado propio para evitar contagiar a otros.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Números 12:10]] (El castigo de lepra sobre María)
+- **Cumplimiento:** [[Mateo 8:1-4]] (Jesús limpia a un leproso con su toque)
+- **Cumplimiento:** [[1 Corintios 5:6-13]] (La necesidad de aislar la levadura/el pecado para no contaminar al cuerpo)

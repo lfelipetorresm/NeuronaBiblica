@@ -15,6 +15,9 @@ personajes: ["[[Saúl]]", "[[David]]", "[[Salomón]]", "[[Ezequías]]", "[[Dios]
 lugares: ["[[Monte Ebal]]", "[[Egipto]]", "[[Arabia]]", "[[Siria]]", "[[Jerusalén]]"]
 doctrinas: ["[[Sacrificios]]", "[[Expiación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Básico
+tiempo_estimado: 10
 ---
 
 # [[Levítico]] 3
@@ -41,3 +44,24 @@ estado: Procesado
 3. Cuando [[David]] llevó el arca a [[Jerusalén]], [[2 Samuel 6:17]].
 4. Cuando [[Salomón]] dedicó el templo, [[1 Reyes 8:63]].
 5. Cuando [[Ezequías]] hizo sus reformas, [[2 Crónicas 30:17-22]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Define contexto:** [[Comentario_Levitico_Cap_01]] (Peso: 9/10) - *El sacrificio de paz sigue el mismo procedimiento base que el holocausto (presentación, imposición de manos, sangre).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Comunión con Dios]] (Peso: 9/10) - *El sacrificio de paz era la única ofrenda donde el oferente comía de la carne, simbolizando mesa compartida y comunión con el Señor.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Sacrificio de Paz]] (Peso: 10/10)
+- **Aclara:** [[Grosura]] (Peso: 8/10) - *Explica por qué el sebo (la parte más rica) le pertenece exclusivamente a Dios.*
+- **Contrasta:** [[Holocausto]] (Peso: 7/10) - *A diferencia del holocausto, la ofrenda de paz podía ser hembra, y no se quemaba por entero.*
+- **Ejemplifica:** [[Acción de Gracias]] (Peso: 9/10) - *Los ejemplos históricos muestran que este sacrificio celebraba victorias, pactos y dedicaciones.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Levítico 7:11-34]] (La ley del sacrificio de paz)
+- **Cumplimiento:** [[Romanos 5:1]] (Justificados, tenemos paz para con Dios)
+- **Cumplimiento:** [[Efesios 2:14]] (Cristo es nuestra paz)

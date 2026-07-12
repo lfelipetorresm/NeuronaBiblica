@@ -4,6 +4,7 @@ tipo: leccion_doctrinal
 autor: Roy E. Cogdill
 estado: Procesado
 etiquetas: ["#Doctrina", "#Iglesia"]
+palabras_clave: ["Familia de Dios", "Casa de Dios", "Nuevo Nacimiento", "Adopción", "Iglesia"]
 ---
 
 # Lección II: La familia de Dios
@@ -36,3 +37,10 @@ V. Cómo venir a ser hijos de [[Dios]]:
  5. Como hijos de [[Dios]], ¿cómo debemos tratarnos unos a otros? 
  6. Qué posición ocupa [[Cristo]] en la familia de [[Dios]]?  7. ¿Qué se requiere de los hijos de [[Dios]]? 
  8. ¿Puede un hijo de [[Dios]] ser finalmente desheredado? (1 Pedro 1:1-5).
+
+---
+## 🔗 Relaciones Semánticas
+- **Define:** [[Familia de Dios]] (Casa de Dios)
+- **Pertenece a:** [[Doctrina de la Iglesia]]
+- **Conceptos Relacionados:** [[Nuevo_Nacimiento]], [[Adopción_Espiritual]], [[Comunión_de_los_Santos]]
+- **Textos Clave:** Efesios 2:19, 1 Timoteo 3:15, Gálatas 3:26-27

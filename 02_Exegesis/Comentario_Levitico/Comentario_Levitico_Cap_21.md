@@ -15,6 +15,9 @@ personajes: ["[[Aarón]]", "[[Cristo]]", "[[Jesucristo]]", "[[Elí]]", "[[David]
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Santidad]]", "[[Sacerdocio Real]]", "[[Celibato]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # [[Levítico]] 21
@@ -62,3 +65,27 @@ B. La causa de estos defectos no se tomó en cuenta. Si nació así, si fue caus
 A. Estos serían sostenidos de los sacrificios y ofrendas. "Lo muy santo" significa lo que solamente los sacerdotes habían de comer (2:3; 6:25). Los sacerdotes con defectos no se trataban como hombres inmundos en cuanto al derecho de comer con los demás, pero "no se acercará para ofrecer el pan de su Dios". No debería acercarse "tras el velo, ni se acercará al altar" (ver. 23), es decir, no podía funcionar como sacerdote.
 B. La ley de [[Cristo]] no excluye a nadie por causa de [[defectos físicos]] y hay muchos santos que, a pesar de ser ciegos, cojos, sordos, etc., siguen diariamente ofreciendo sacrificios espirituales a [[Dios]]. Hay muchas almas hermosas en cuerpos enfermos, y hay muchas almas feas en cuerpos sanos. Recuérdese [[2 Corintios 4:16]].
 **Observación.** Recordemos que [[Dios]] requería perfección en el sacerdocio. [[Jesucristo]], nuestro [[Sumo Sacerdote]], es perfecto. Nosotros nos acercamos a [[Dios]] por medio de [[Jesucristo]] ([[Hebreos 4:16]]; [[Hebreos 7:25]]; [[Hebreos 10:22]]) y [[Dios]] requiere la perfección en nosotros ([[Mateo 5:48]]; [[2 Corintios 7:1]]; [[2 Corintios 13:9-11]]; [[Santiago 1:2-4]]; [[Santiago 2:22]]).
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Santidad]] (Peso: 10/10) - *Entender el nivel de santidad requerido por Dios, ahora aplicado específicamente al sacerdocio levítico.*
+- **Precede:** [[Sacerdocio Levítico]] (Peso: 9/10) - *El trasfondo del oficio de los hijos de Aarón.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Requisitos para Ancianos]] (Peso: 10/10) - *Comprender que la demanda de una conducta intachable y familia ordenada para los sacerdotes tiene su paralelo directo en los requisitos de los obispos/ancianos (1 Tim 3, Tito 1).*
+- **Fundamenta:** [[Sacerdocio de Creyentes]] (Peso: 9/10) - *Todo el pueblo de Cristo es ahora sacerdocio santo (1 Pedro 2:5,9) y debe apartarse de la contaminación del mundo.*
+
+## 🔗 Relaciones Semánticas
+- **Tipifica:** [[Cristo el Sumo Sacerdote]] (Peso: 10/10) - *La perfección física y pureza ritual exigida al sumo sacerdote levítico apuntaba a la perfección moral absoluta de Cristo (Hebreos 7:26).*
+- **Contrasta:** [[Matrimonio vs Celibato]] (Peso: 8/10) - *La ley preveía el matrimonio sacerdotal (hasta del sumo sacerdote con virgen). Refuta doctrinas posteriores (celibato obligatorio).*
+- **Aclara:** [[Defectos Físicos y Servicio]] (Peso: 9/10) - *En el AT un defecto físico impedía oficiar; en el NT no excluye a nadie, evidenciando que lo que Dios mira hoy es la perfección moral y espiritual (2 Cor 4:16).*
+- **Aclara:** [[Testimonio Familiar]] (Peso: 10/10) - *El comportamiento de la familia (ej. hija fornicaria) deshonraba al sacerdote (v. 9), principio vigente para los siervos de Dios hoy.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[1 Timoteo 3:1-7]] (Requisitos morales y familiares de los ancianos, paralelo a los sacerdotes)
+- **Cumplimiento:** [[Hebreos 7:26]] (Tal sumo sacerdote nos convenía: santo, inocente, sin mancha)
+- **Cumplimiento:** [[1 Pedro 2:9]] (La iglesia como linaje escogido y real sacerdocio)
+- **Cumplimiento:** [[Mateo 5:48]] (Sed perfectos como vuestro Padre, el verdadero cumplimiento de la perfección sacerdotal)

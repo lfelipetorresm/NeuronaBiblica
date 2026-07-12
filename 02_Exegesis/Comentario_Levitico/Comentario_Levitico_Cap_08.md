@@ -15,6 +15,9 @@ personajes: ["[[Aarón]]", "[[Moisés]]", "[[Dios]]", "[[Jehová]]", "[[Coré]]"
 lugares: ["[[Israel]]", "[[Babilonia]]"]
 doctrinas: ["[[Consagración]]", "[[Sacerdocio]]", "[[Santidad]]", "[[Autoridad]]", "[[Bautismo]]", "[[Expiación]]", "[[Reconciliación]]", "[[Oración]]", "[[Apostasía]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 35
 ---
 
 # [[Levítico]] 8
@@ -73,3 +76,26 @@ C. Habiendo sido ordenados tan solemnemente, los sacerdotes deberían haber cont
 4. Después de volver a su tierra (habiendo pasado los 70 años en [[Babilonia]]), los sacerdotes tuvieron que despedir a las mujeres extranjeras que habían tomado ([[Esdras 10:18-44]]) y ofrecer "como ofrenda por su pecado un carnero de los rebaños por su delito".
 5. [[Malaquías 1:6-8]]; [[Malaquías 2:1-8]] - en este último libro del Antiguo Testamento aprendemos que ellos seguían corruptos, ofreciendo pan inmundo y animales defectuosos a [[Dios]].
 6. En los libros de [[Mateo]], [[Marcos]], [[Lucas]], [[Juan]] y Hechos, los sacerdotes se presentan como un cuerpo político muy corrupto. Véanse por ejemplo [[Mateo 2:1-5]]; [[Mateo 26:3-4]], 65-67; [[Juan 18:13-14]], 19-24; [[Hechos 4:6]], etc.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Tabernáculo]] (Peso: 10/10) - *Entender el mobiliario y las instrucciones dadas en Éxodo 28 y 40 que aquí se ejecutan.*
+- **Precede:** [[Sacerdocio]] (Peso: 10/10) - *Concepto básico de la mediación entre Dios y los hombres.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Epístola a los Hebreos]] (Peso: 10/10) - *Fundamento absoluto para Hebreos 4, 5 y 7. El sumo sacerdote humano (Aarón) requiere expiación por sí mismo, a diferencia de Cristo.*
+- **Habilita:** [[El Bautismo]] (Peso: 9/10) - *Establece el lavamiento sacerdotal (Lev 8:6) como sombra del bautismo (Heb 10:22, Tito 3:5) que nos consagra como sacerdotes espirituales.*
+
+## 🔗 Relaciones Semánticas
+- **Cumple:** [[Éxodo 28]] (Peso: 10/10) - *Levítico 8 es la ejecución histórica del mandamiento de consagración de vestiduras dado en Éxodo.*
+- **Contrasta:** [[Sacerdocio de Melquisedec]] (Peso: 10/10) - *Contrasta la debilidad y el pecado de Aarón con la perfección inmutable de Cristo.*
+- **Ejemplifica:** [[Consagración Total]] (Peso: 9/10) - *La sangre en la oreja, el pulgar y el pie derecho simboliza consagrar el oído (escuchar), la mano (servir) y el pie (andar) a Dios.*
+- **Evidencia:** [[Corrupción Religiosa]] (Peso: 8/10) - *A pesar de este santo inicio, la historia documenta la apostasía del sacerdocio levítico (Elí, Malaquías, sumos sacerdotes del NT).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Hebreos 5:1-4]] (Requisitos del sumo sacerdote)
+- **Paralelo:** [[Hebreos 7:26-28]] (Contraste entre el sumo sacerdote levítico y Cristo)
+- **Cumplimiento:** [[1 Pedro 2:5-9]] (El cristiano como sacerdote consagrado que anuncia las virtudes de Dios)

@@ -15,6 +15,9 @@ personajes: ["[[Jehová]]", "[[Dios]]", "[[Aarón]]", "[[Melquisedec]]", "[[Cris
 lugares: ["[[Israel]]", "[[Jerusalén]]"]
 doctrinas: ["[[Pecado]]", "[[Expiación]]", "[[Redención]]", "[[Arrepentimiento]]", "[[Sacerdocio]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 4
@@ -58,3 +61,26 @@ B. Surge aquí la pregunta, ¿cuando el jefe pecare, quién le va a llamar la at
 C. Dice el texto, "luego que conociere su pecado que cometió". Así vemos que el trabajo de hacerles conocer su [[pecado]] era importante. Compárense [[1 Timoteo 5:17-29]]; [[2 Timoteo 4:1-3]]; [[Tito 2:15]], etc.
 
 **Observación**: Aquí cabe una comparación entre [[Levítico 4:6]], 16; [[Levítico 16:14-15]] y [[Hebreos 13:11-13]], "Porque los cuerpos de aquellos animales cuya sangre a causa del pecado es introducida en el santuario por el sumo sacerdote, son quemados fuera del campamento. Por lo cual también [[Jesús]], para santificar al pueblo mediante su propia sangre, padeció fuera de la puerta. Salgamos, pues, a él, fuera del campamento, llevando su vituperio". Vemos en estos textos que la sangre introducida en el santuario tenía aun más importancia porque simbolizaba la sangre de [[Jesús]], especialmente la sangre de la [[expiación]] que fue rociada "hacia el [[propiciatorio]]" ([[Levítico 16:14]]). Y los cuerpos de estos animales fueron quemados fuera del campamento tipificando el padecimiento de [[Jesús]] fuera de la ciudad de [[Jerusalén]]. ¡Qué importante es pues estudiar el libro de [[Levítico]]!
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_01]] (Peso: 8/10) - *Entender el altar del holocausto donde también se ministra parte de esta sangre.*
+- **Define contexto:** [[Tabernáculo]] (Peso: 10/10) - *Es vital ubicar el Velo del Santuario y el Altar del Incienso para comprender dónde se rociaba la sangre por el sacerdote.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Hebreos 13:11-13]] (Peso: 10/10) - *Explica por qué Jesús tuvo que padecer "fuera de la puerta" (fuera del campamento).*
+- **Fundamenta:** [[Hebreos 7]] (Peso: 9/10) - *Muestra la debilidad del sacerdocio levítico (que debía ofrecer por sus propios pecados) frente al sacerdocio de Melquisedec.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Pecado por Yerro]] (Peso: 10/10) - *Pecado cometido por debilidad, negligencia o ignorancia, en contraste con el pecado con soberbia.*
+- **Refuta:** [[Falsa Doctrina: El pecado por ignorancia no condena]] (Peso: 9/10) - *Muestra que todo pecado mancha el alma y requiere arrepentimiento y expiación.*
+- **Ejemplifica:** [[Responsabilidad del Liderazgo]] (Peso: 9/10) - *Muestra cómo el pecado de un líder (sumo sacerdote o jefe) trae culpa sobre toda la congregación.*
+- **Tipología:** [[Muerte de Cristo]] (Peso: 10/10) - *El becerro quemado fuera del campamento es sombra directa de la crucifixión de Cristo fuera de Jerusalén.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Números 15:27-31]] (Contraste entre pecado por yerro y pecado con soberbia)
+- **Cumplimiento:** [[Hebreos 13:11-13]] (Cristo padeciendo fuera de la puerta)
+- **Cumplimiento:** [[Hebreos 7:26-28]] (Nuestro Sumo Sacerdote sin pecado)

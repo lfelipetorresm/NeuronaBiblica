@@ -15,6 +15,9 @@ personajes: ["[[Moisés]]", "[[Jacob]]", "[[Aarón]]", "[[Jesucristo]]", "[[Nada
 lugares: ["[[Egipto]]"]
 doctrinas: ["[[Expiación]]", "[[Sacerdocio]]", "[[Sacrificios]]", "[[Mediación]]", "[[Santidad]]", "[[Comunión]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # Notas sobre [[Levítico]]
@@ -146,3 +149,26 @@ A. Finalmente, si queremos entender este libro, es muy importante que veamos su 
 B. Todas las instituciones de la ley de [[Moisés]] tenían carácter mesiánico. Todo apunta directa o indirectamente hacia [[Cristo]], "el Cordero de [[Dios]] que quita los pecados del mundo" ([[Juan 1:29]]).
 
 C. Y en especial hemos de pensar en [[Cristo]] al ver la palabra "[[expiación]]", porque "El es la propiciación por nuestros pecados" ([[1 Juan 2:2]]; [[1 Juan 4:10]]). La palabra "propiciación" se usa en el Nuevo Testamento para corresponder a la palabra "[[expiación]]" en el Antiguo Testamento.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Éxodo]] (Peso: 10/10) - *Levítico es la continuación directa; sin Éxodo (la construcción del tabernáculo), Levítico (su servicio) carece de contexto.*
+- **Define contexto:** [[Tabernáculo]] (Peso: 9/10) - *Todo el libro de Levítico opera alrededor y dentro de la estructura revelada a Moisés.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Cumplimiento:** [[Hebreos]] (Peso: 10/10) - *La epístola a los Hebreos es el Levítico del Nuevo Testamento. No se entiende Hebreos sin Levítico.*
+- **Habilita:** [[Mediación]] (Peso: 8/10) - *Revela la función del mediador humano antes de entender al único Mediador (Cristo).*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Expiación]] (Peso: 10/10)
+- **Define:** [[Sacerdocio]] (Peso: 9/10)
+- **Demuestra:** [[Santidad]] (Peso: 10/10)
+- **Refuta:** [[Rito sin fe]] (Peso: 8/10) - *Los sacrificios sin corazón y fe eran inútiles (Malaquías 1, Oseas 6).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Cumplimiento:** [[Juan 1:29]] (El Cordero de Dios)
+- **Paralelo:** [[Hebreos 10:1-22]]
+- **Cumplimiento:** [[1 Juan 2:2]] (La Propiciación)

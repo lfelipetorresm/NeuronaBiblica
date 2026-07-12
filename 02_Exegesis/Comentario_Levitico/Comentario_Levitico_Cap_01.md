@@ -15,6 +15,9 @@ personajes: ["[[Moisés]]", "[[Aarón]]", "[[Abel]]", "[[Noé]]", "[[Abraham]]",
 lugares: ["[[Monte Sinaí]]", "[[Palestina]]"]
 doctrinas: ["[[Expiación]]", "[[Sacrificios]]", "[[Comunión]]", "[[Santidad]]", "[[Mediación]]", "[[Propiciación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Básico
+tiempo_estimado: 15
 ---
 
 # [[Levítico]] 1
@@ -75,3 +78,26 @@ D. Al ofrecer aceptablemente el [[holocausto]], el israelita se rendía totalmen
 **1:14** -- "aves" limpias y con hábitos sanos. Estas aves existen en abundancia en [[Palestina]], especialmente los palominos. Los hombres más pobres pueden comer por lo menos esta clase de carne; y al mismo tiempo tenían algo que ofrecer a Jehová por pobres que fuesen. "Ninguno se presentará delante de mí con las manos vacías" ([[Éxodo 23:15]]; [[Éxodo 34:20]]; [[Deuteronomio 16:16]]).
 
 **1:16** -- "cenizas" - [[Éxodo 27:3]] habla de los "calderos para recoger la ceniza" y [[Levítico 4:12]] habla de "lugar limpio donde se echan las cenizas". El cap. 6, vers. 10, 11 dicen que "cuando el fuego hubiere consumido el holocausto, apartará él las cenizas de sobre el altar, y las pondrá junto al altar. Después se quitará sus vestiduras y se pondrá otras ropas, y sacará las cenizas fuera del campamento a un lugar limpio".
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Introduccion]] (Peso: 10/10) - *Proporciona el marco general del libro y el propósito de los sacrificios.*
+- **Define contexto:** [[Tabernáculo]] (Peso: 9/10) - *Entender el Atrio y el Altar de Bronce es vital para visualizar dónde ocurren estos sacrificios.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Romanos 12:1-2]] (Peso: 10/10) - *El concepto del "sacrificio vivo" nace directamente de la entrega total exigida en el holocausto.*
+- **Habilita:** [[Hebreos 10:1-10]] (Peso: 9/10) - *Comprender por qué la sangre de los toros (Levítico 1) era ineficaz a largo plazo, apuntando al cuerpo preparado para Cristo.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Holocausto]] (Peso: 10/10)
+- **Ejemplifica:** [[Entrega Total]] (Peso: 9/10) - *El holocausto se quemaba por entero, tipificando consagración absoluta.*
+- **Refuta:** [[Culto Vacío]] (Peso: 8/10) - *Dios demanda el corazón, no solo el animal (Isaías 1, Marcos 12).*
+- **Complementa:** [[Comunión]] (Peso: 8/10) - *El sacrificio restaura la comunión rota por el pecado.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Cumplimiento:** [[Efesios 5:2]] (Cristo entregado como ofrenda y sacrificio en olor fragante)
+- **Paralelo:** [[Hebreos 9:5]] (El Propiciatorio)
+- **Cumplimiento:** [[1 Pedro 2:24]] (Llevando nuestros pecados)

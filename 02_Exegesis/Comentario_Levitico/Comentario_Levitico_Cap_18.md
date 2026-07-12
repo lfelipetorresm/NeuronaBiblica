@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Moisés]]", "[[Lea]]", "[[Raquel]]", "[[Ana]]", "[[P
 lugares: ["[[Egipto]]", "[[Canaán]]"]
 doctrinas: ["[[Inmoralidad]]", "[[Poligamia]]", "[[Homosexualidad]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 18
@@ -60,3 +63,26 @@ D. Dijo Dios a [[Abram]], [[Génesis 15:16]], "Y en la cuarta generación volver
 E. Pero Dios no hace acepción de personas. Cuando su pueblo cometió los mismos pecados, también les removió (fueron desterrados por los asirios y babilonios).
 
 **Observación sobre este capítulo:** Las leyes de Dios son buenas para el hombre como también para la gloria de Dios. Las prácticas mencionadas en este capítulo son cosas corruptas y abominables y promueven la destrucción del hombre. Son eliminadas por la enseñanza y práctica de la ley de Dios y el resultado es una gran bendición para la humanidad. Bien dijo [[Moisés]], "Y nos mandó Jehová que cumplamos todos estos estatutos, y que temamos a Jehová nuestro Dios, para que nos vaya bien todos los días, y para que nos conserve la vida, como hasta hoy" ([[Deuteronomio 6:24]]). Compárense [[Efesios 6:3]]; [[1 Pedro 3:10-12]]; [[Salmo 19:7-11]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Santidad]] (Peso: 10/10) - *Continúa el desarrollo de las leyes de santidad (separación), ahora enfocadas en la pureza moral y matrimonial.*
+- **Precede:** [[Canaán]] (Peso: 9/10) - *Entender el nivel de degradación moral e idólatra de las naciones que habitaban la tierra prometida.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[El Juicio de Dios sobre las Naciones]] (Peso: 10/10) - *Explica por qué Dios ordenó exterminar/expulsar a los cananeos: la tierra "los vomitó" por causa del incesto, bestialismo, homosexualidad y sacrificios infantiles.*
+- **Habilita:** [[Leyes de Matrimonio y Moralidad]] (Peso: 10/10) - *Provee el fundamento del Antiguo Testamento para condenar el incesto, la poligamia y la homosexualidad, reforzado en el NT.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Incesto]] (Peso: 10/10) - *Relaciones prohibidas entre parientes cercanos (descubrir la desnudez), castigadas severamente para proteger el tejido familiar.*
+- **Contrasta:** [[Homosexualidad vs Diseño Divino]] (Peso: 10/10) - *La condena a echarse con varón subraya que la sexualidad está anclada en el diseño creacional (Génesis 1:27).*
+- **Aclara:** [[Poligamia]] (Peso: 9/10) - *Demuestra cómo la poligamia siempre trajo como fruto rivalidad, sufrimiento y destrucción (casos de Jacob y David).*
+- **Aclara:** [[Moloc]] (Peso: 10/10) - *La conexión entre la idolatría pagana y el sacrificio humano (de niños en fuego), considerado la mayor aberración.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Romanos 1:18-32]] (Pablo describe la misma degeneración moral de los gentiles que mereció el castigo divino)
+- **Paralelo:** [[1 Corintios 5:1]] (El incesto condenado en la iglesia de Corinto, peor que entre gentiles)
+- **Cumplimiento:** [[1 Corintios 6:9-10]] (Los que practican estas cosas no heredarán el reino de Dios, confirmando la vigencia moral de estas prohibiciones)

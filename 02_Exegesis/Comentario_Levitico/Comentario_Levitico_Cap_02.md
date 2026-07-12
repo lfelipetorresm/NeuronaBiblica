@@ -15,6 +15,9 @@ personajes: ["[[Cristo]]", "[[Jesús]]", "[[David]]"]
 lugares: []
 doctrinas: ["[[Comunión]]", "[[Sacrificios]]", "[[Disciplina]]", "[[Pacto]]"]
 estado: Procesado
+importancia: Importante
+dificultad: Intermedio
+tiempo_estimado: 15
 ---
 
 # [[Levítico]] 2
@@ -41,3 +44,24 @@ B. En [[Marcos 9:42-50]] [[Cristo]] habla de las ocasiones de caer. Dice que nos
 1. [[Cristo]] hace conexión entre Lev. 2:13 y su enseñanza acerca de la [[sal]]. "Tened [[sal]] en vosotros mismos", porque debemos presentar el cuerpo en sacrificio vivo ([[Romanos 12:1]]).
 2. La primera parte del ver. 49 es más difícil: "Porque todos serán salados con fuego". Lo dice después de hablar del [[infierno]] (vers. 47, 48), y la palabra "Porque" conecta los dos pensamientos. En este párrafo comenzando con el ver. 42 hay dos pensamientos principales: la [[disciplina]] y el castigo eterno. Parece que [[Jesús]] está diciendo que todo el mundo será salado o con el fuego de [[disciplina]] (vers. 43-47; [[1 Pedro 1:7]]; [[1 Pedro 4:12]]; [[Lucas 12:49]]) o de otro modo con el fuego inapagable del [[infierno]].
 -- "la [[sal]] del pacto", porque era un pacto perpetuo. Dice [[Números 18:19]], "Todas las ofrendas elevadas de las cosas santas, que los hijos de [[Israel]] ofrecieron a Jehová, las he dado para ti, y para tus hijos y para tus hijas contigo, por estatuto perpetuo; [[pacto de sal]] perpetuo es delante de Jehová para ti y para tu descendencia contigo". [[2 Crónicas 13:5]], "¿No sabéis vosotros que Jehová [[Dios]] de [[Israel]] dio el reino a [[David]] sobre [[Israel]] para siempre, a él y a sus hijos, bajo [[pacto de sal]]?" La [[sal]] añadida a la ofrenda se llama la [[sal]] del pacto, porque impartía fuerza y pureza a la ofrenda y simbolizaba lo fuerte del pacto y la [[comunión]] entre [[Dios]] e [[Israel]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Complementa:** [[Comentario_Levitico_Cap_01]] (Peso: 9/10) - *La oblación se ofrecía conjuntamente con el holocausto, representando el fruto de la labor después de la entrega de la vida.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Sacerdocio del Creyente]] (Peso: 9/10) - *Los creyentes (1 Pedro 2) ofrecen ofrendas de alabanza y limosnas que suben como memorial, igual que la flor de harina.*
+- **Fundamenta:** [[Pacto de Sal]] (Peso: 8/10) - *Comprender la perpetuidad y pureza de las promesas de Dios.*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Oblación]] (Peso: 10/10) - *Ofrenda de la labor de las manos (grano, aceite, incienso).*
+- **Simboliza:** [[Pecado como Levadura]] (Peso: 9/10) - *La prohibición de levadura representa que no podemos mezclar hipocresía ni jactancia (miel) en el servicio a Dios.*
+- **Aclara:** [[Disciplina con Fuego]] (Peso: 8/10) - *Conecta la salación de la ofrenda con la purificación de los discípulos en Marcos 9.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Marcos 9:42-50]] (Tened sal en vosotros)
+- **Cumplimiento:** [[Filipenses 4:18]] (Ofrenda de olor fragante)
+- **Cumplimiento:** [[Hebreos 13:15]] (Sacrificio de alabanza, fruto de labios)

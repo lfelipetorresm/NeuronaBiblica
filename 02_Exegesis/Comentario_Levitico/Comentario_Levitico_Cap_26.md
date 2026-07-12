@@ -15,6 +15,9 @@ personajes: ["[[Moisés]]", "[[David]]", "[[Jacob]]", "[[Abraham]]", "[[Isaac]]"
 lugares: ["[[Egipto]]", "[[Canaán]]", "[[Babilonia]]", "[[Samaria]]", "[[Jerusalén]]", "[[Sodoma]]", "[[Gomorra]]"]
 doctrinas: ["[[Obediencia]]", "[[Desobediencia]]", "[[Pacto]]", "[[Idolatría]]", "[[Arrepentimiento]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 60
 ---
 
 # [[Levítico]] 26
@@ -97,3 +100,26 @@ C. El cumplimiento de esta profecía (Lev. 26:34, 35) se puede leer en [[2 Crón
 -- "reconocerán su pecado". Es interesante observar que la palabra traducida "reconocer" en este texto es la palabra traducida "gozar" en el ver. 34. Estos no solamente reconocieron su pecado, sino también reconocieron y aceptaron con gozo la corrección necesaria para humillarlos. Su corazón incircunciso por fin se humilló como resultado de los castigos severos de Dios. Lo reconocieron y lo aceptaron con gusto, porque después de arrepentirse, podían gozar del perdón y de las bendiciones de Dios. "La ira de Jehová soportaré, porque pequé contra El" ([[Miqueas 7:9]]).
 -- "Entonces yo me acordaré de mi pacto con [[Jacob]]". [[Éxodo 6:5-6]]; [[Salmo 106:45]]. Significa que ahora Dios puede proporcionarles las bendiciones prometidas a [[Abraham]], [[Isaac]] y [[Jacob]], porque se habían restaurado a su favor. "Me acordaré, y haré memoria de la tierra". Pero luego repite: "la tierra será abandonada por ellos, y gozará sus días de reposo" (vers. 34, 35).
 -- "yo no los desecharé", porque siempre habrá un remanente. A través de la historia del pueblo de Abraham, aunque a veces su existencia se amenazaba, siempre se salvó un remanente. Sin embargo, debemos tener presente que sin estos juicios de Dios no hubiera sido ni siquiera un remanente. Dice [[Pablo]] ([[Romanos 9:29]], citando [[Isaías 1:9]]), "Si el Señor de los ejércitos no nos hubiera dejado descendencia, como Sodoma habríamos venido a ser, y a Gomorra seríamos semejantes". Podemos agregar que sin los juicios y castigos de Dios, no se hubieran humillado algunos para confesar sus pecados. Pero algunos se dieron cuenta, reconocieron (con gozo) la justicia de Dios en castigarles, se humillaron delante de El y fueron salvos. Estos eran el "pequeño resto" que se salvó. Estos regresaron a su tierra después de los 70 años en Babilonia.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Pacto Sinaítico]] (Peso: 10/10) - *Entender el carácter condicional del pacto mosaico: las bendiciones y maldiciones son la cláusula de garantía (Estipulaciones del Pacto).*
+- **Precede:** [[Exilio Babilónico]] (Peso: 9/10) - *El conocimiento histórico del exilio es fundamental, ya que Levítico 26 predice detalladamente el destierro como máxima disciplina divina.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Deuteronomio 28]] (Peso: 10/10) - *El sermón profético de Moisés en el monte Ebal y Gerizim es la ampliación directa de las bendiciones y maldiciones de Levítico 26.*
+- **Fundamenta:** [[Doctrina del Remanente]] (Peso: 10/10) - *El concepto profético de que Dios no destruirá totalmente a Israel, sino que salvará a un "resto" que se arrepiente (v. 44).*
+
+## 🔗 Relaciones Semánticas
+- **Contrasta:** [[Obediencia vs Rebelión]] (Peso: 10/10) - *Las bendiciones materiales (lluvia, paz, cosechas, victoria) contraponen directamente las cinco fases de maldiciones (enfermedad, sequía, fieras, guerra, destierro).*
+- **Aclara:** [[Disciplina Progresiva]] (Peso: 9/10) - *Dios castiga "siete veces más" (v. 18, 21, 24, 28). La severidad de Dios aumenta conforme la rebeldía del pueblo se obstina.*
+- **Cumple:** [[Reposo de la Tierra]] (Peso: 10/10) - *Al negarse el pueblo a guardar los años sabáticos (Lev 25), Dios los expulsó para que la tierra "gozara de sus días de reposo" obligatoriamente (v. 34-35).*
+- **Define:** [[Arrepentimiento Genuino]] (Peso: 10/10) - *La confesión que "acepta el castigo de su iniquidad" (v. 41) permite a Dios acordarse de Su pacto con los patriarcas.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Deuteronomio 28]] (El tratado gemelo de bendiciones y maldiciones del pacto)
+- **Cumplimiento:** [[2 Crónicas 36:21]] (La tierra reposó 70 años en Babilonia para pagar los años sabáticos ignorados, cumpliendo Lev 26:34)
+- **Cumplimiento:** [[Lamentaciones 4:10]] (El cumplimiento horrendo del canibalismo pronosticado en el v. 29 durante el sitio de Jerusalén)

@@ -15,6 +15,9 @@ personajes: ["[[Aarón]]", "[[Dios]]", "[[Cristo]]"]
 lugares: ["[[Israel]]"]
 doctrinas: ["[[Santidad]]", "[[Inmundicia]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # [[Levítico]] 22
@@ -76,3 +79,26 @@ C. Aun el hombre más pobre no podía ofrecer a [[Dios]] algún animal con defec
 **22:32** -- "para que yo sea santificado en medio de los hijos de [[Israel]]". Aquí está el propósito de estos reglamentos. Recuérdese que la expresión "Yo Jehová" se encuentra 16 veces en el cap. 19.
 
 **22:33** -- "os saqué de la tierra". [[Israel]] tenía que santificarse porque Jehová era su [[Dios]], Jehová es santo, y ellos eran el pueblo de [[Dios]] que los había sacado de Egipto.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_21]] (Peso: 10/10) - *El capítulo 22 complementa las leyes para los sacerdotes, pasando de los defectos del sacerdote (Cap. 21) a los defectos de las ofrendas y el manejo de las cosas santas.*
+- **Precede:** [[Inmundicia Ceremonial]] (Peso: 9/10) - *Recordar cómo se contraía inmundicia (lepra, cadáveres, flujos) para entender por qué el sacerdote inmundo no podía comer las cosas santas.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Hacer Pecar a Otros]] (Peso: 10/10) - *Comprender la responsabilidad de quien, teniendo autoridad (como el sacerdote), induce a otros a pecar por descuido en las cosas de Dios (v. 16).*
+- **Fundamenta:** [[Dar a Dios lo Mejor]] (Peso: 10/10) - *La exigencia de animales sin defecto es la base de las amonestaciones de Malaquías 1 y de buscar primeramente el reino de Dios (Mateo 6:33).*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Cosas Santas]] (Peso: 10/10) - *La porción alimenticia reservada exclusivamente para los sacerdotes limpios y los nacidos/comprados en su casa (v. 10-11).*
+- **Define:** [[Participación Espiritual]] (Peso: 9/10) - *Así como el extranjero o huésped no podía comer cosa sagrada, solo los que nacen de nuevo en la familia de Dios participan del pan espiritual de Cristo.*
+- **Contrasta:** [[Defectos en Ofrendas]] (Peso: 10/10) - *Condena ofrecer lo ciego, cojo o enfermo (Malaquías 1:8). Darle a Dios sobras es un insulto a Su majestad.*
+- **Aclara:** [[Lavamiento Previo]] (Peso: 8/10) - *El sacerdote debía lavarse antes de comer las cosas sagradas, tipificando el bautismo antes de participar de las bendiciones en Cristo (v. 6).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Malaquías 1:8]] (La queja de Dios porque el pueblo ofrecía animales con defecto, violando Levítico 22)
+- **Cumplimiento:** [[1 Timoteo 2:8]] (Levantar manos santas sin ira, el paralelo espiritual a acercarse limpio a las cosas santas)
+- **Cumplimiento:** [[Hebreos 9:14]] (La sangre de Cristo sin mancha ofrecida a Dios)

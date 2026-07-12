@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Satanás]]", "[[Cristo]]", "[[Abraham]]", "[[Noé]]"
 lugares: ["[[Sodoma]]", "[[Gomorra]]", "[[Canaán]]"]
 doctrinas: ["[[Castigo]]", "[[Pena De Muerte]]", "[[Idolatría]]", "[[Fornicación]]", "[[Venganza De Dios]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 35
 ---
 
 # [[Levítico]] 20
@@ -72,3 +75,26 @@ B. La única maravilla es que [[Dios]] tuviera tanta paciencia y misericordia pa
 [[Cristo]] nos promete la victoria. Somos más que vencedores ([[Romanos 8:37]]). Por lo tanto, tenemos que evitar todo compromiso con el enemigo. Debemos rechazar toda oferta de paz hecha por el mundo. No podemos descansar hasta que [[Dios]] nos haya dado la victoria final. Llevamos la [[armadura]] completa y nuestra [[espada]] es el arma más poderosa en el mundo ([[Efesios 6:10-19]]; [[Hebreos 4:12]]).
 
 **Observación.** El cap. 20 no es simplemente una repetición de ciertas leyes, sino que su propósito es enfatizar la pena o el [[castigo]] debido: vers. 2, 27 - "morirá"; vers. 2, 27 - "lo apedreará"; ver. 5 - "yo pondré mi rostro contra"; vers. 5, 18 - "le cortaré de entre su pueblo"; vers. 9, 11, 12, 16, 27 - "su sangre será sobre él" (es decir, será responsable y digno del castigo que recibe); ver. 10 - "indefectiblemente serán muertos"; ver. 14 - "quemarán con fuego"; ver. 15 - "ha de ser muerto, y mataréis a la bestia"; vers. 17, 19 - "su pecado llevará"; vers. 20, 21 - "morirán sin hijos".
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_18]] (Peso: 10/10) - *El capítulo 20 repite las prohibiciones de incesto y aberraciones sexuales de Lev 18, pero añadiendo la condena o pena judicial.*
+- **Precede:** [[Castigo Divino]] (Peso: 9/10) - *Comprender que Dios usa las autoridades (en este caso el pueblo entero apedreando) como instrumentos de Su venganza.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Severidad de Dios]] (Peso: 10/10) - *Demuestra que la tolerancia hacia el pecado (cerrar los ojos, v. 4) atrae el juicio de Dios sobre toda la comunidad.*
+- **Fundamenta:** [[Disciplina Eclesiástica]] (Peso: 10/10) - *El principio de "cortar de entre el pueblo" al pecador (muerte física en el AT) es la sombra de la excomunión (1 Cor 5) en el NT.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Pena de Muerte]] (Peso: 10/10) - *Medio efectivo establecido por la sabiduría divina para frenar idolatría, brujería, incesto y perversión, extirpando el mal.*
+- **Contrasta:** [[Ley vs Gracia]] (Peso: 10/10) - *En la ley el castigo por incesto y adulterio era la muerte inmediata; en el NT hay oportunidad para arrepentimiento (1 Cor 5 / 2 Cor 2).*
+- **Aclara:** [[Venganza de Dios]] (Peso: 9/10) - *El apedreamiento público no era venganza personal (prohibida en Lev 19:18), sino la aplicación de la venganza judicial y divina.*
+- **Contrasta:** [[Pueblo Santo vs Mundo]] (Peso: 10/10) - *Dios separó a Israel de los pueblos para ser santos (v. 26). Exige enemistad total contra las prácticas del mundo.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[1 Corintios 5:1-5]] (Pablo demandando que la iglesia ejerza disciplina cortando la comunión al fornicario)
+- **Paralelo:** [[Romanos 13:4]] (El magistrado no lleva la espada en vano, es servidor de Dios para castigar al que hace el mal)
+- **Cumplimiento:** [[Romanos 1:26-27]] (Pablo reitera en el Nuevo Pacto la condenación moral sobre la homosexualidad)

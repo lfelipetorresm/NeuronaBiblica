@@ -15,6 +15,9 @@ personajes: ["[[Dios]]"]
 lugares: []
 doctrinas: ["[[Pureza]]", "[[Pecado]]", "[[Circuncisión]]", "[[Bendición]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Intermedio
+tiempo_estimado: 15
 ---
 
 # [[Levítico]] 12
@@ -29,3 +32,25 @@ C. Una explicación posible del asunto es como sigue: en la [[descomposición]] 
 **12:3** -- "Y al octavo día se [[circuncidará]] al niño". [[Génesis 17:12]] dice, "Y de edad de ocho días será [[circuncidado]] todo varón entre vosotros por vuestras generaciones; el nacido en casa, y el comprado por dinero a cualquier extranjero, que no fuere de tu linaje".
 
 **12:8** -- "Y si no tiene lo suficiente para un cordero, tomará entonces dos [[tórtolas]] o dos [[palominos]] ..." Compárese [[Lucas 2:24]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_11]] (Peso: 9/10) - *Continúa el bloque de leyes de pureza e inmundicia física.*
+- **Define contexto:** [[Circuncisión]] (Peso: 8/10) - *Entender el pacto de Génesis 17 para comprender la instrucción del octavo día.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Nacimiento de Cristo]] (Peso: 10/10) - *Lucas 2:24 documenta el cumplimiento exacto de esta ley por María, demostrando tanto su sujeción a la ley como la pobreza económica de José y María.*
+- **Prepara:** [[Leyes de Lepra e Impureza]] (Peso: 9/10) - *Asienta el principio teológico de que la inmundicia física simboliza los efectos mortales y de descomposición del pecado, vital para Levítico 13, 14 y 15.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Inmundicia por Procreación]] (Peso: 10/10) - *No implica que concebir sea pecado (es bendición, Génesis 1:28), sino que las secreciones asimilan simbólicamente la descomposición física producto del pecado.*
+- **Tipología:** [[El Pecado como Enfermedad]] (Peso: 9/10) - *La lepra y la inmundicia son sombras visibles de cómo el pecado contamina, enferma y separa al hombre de Dios.*
+- **Evidencia:** [[Misericordia en la Ley]] (Peso: 8/10) - *Dios provee una ofrenda más barata (tórtolas/palominos) para que el pobre no se quede sin purificación.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Génesis 17:12]] (El mandato de la circuncisión al octavo día)
+- **Paralelo:** [[Génesis 1:28]] (La bendición de fructificar)
+- **Cumplimiento:** [[Lucas 2:22-24]] (La purificación de María y la ofrenda de los pobres)

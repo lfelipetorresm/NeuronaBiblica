@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Jehová]]", "[[Juan]]", "[[Cristo]]", "[[Aarón]]", 
 lugares: []
 doctrinas: ["[[Sacrificios]]", "[[Acción De Gracias]]", "[[Obediencia]]", "[[Comunión]]", "[[Disciplina]]", "[[Expiación]]", "[[Diezmo]]"]
 estado: Procesado
+importancia: Importante
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # [[Levítico]] 7
@@ -57,3 +60,25 @@ B. Por lo tanto, [[1 Corintios 5]], [[Romanos 16:17]], [[Tito 3:10]], [[2 Tesalo
 **7:31-32** -- "el pecho será de [[Aarón]] y de sus hijos ... Y daréis al sacerdote para ser elevada en ofrenda, la espaldilla derecha de vuestros [[sacrificios de paz]]". La palabra "espaldilla" se traduce "pierna" en la Versión Moderna y en las mejores versiones inglesas, y la misma palabra ([[shoq]]) se traduce "pierna" aun en la Versión Valera Revisada en [[Deuteronomio 28:35]], [[Proverbios 26:7]] y [[Cantares 5:15]].
 
 **7:35** -- "Esta es la porción de [[Aarón]] y la porción de sus hijos". Dice [[Pablo]] en [[1 Corintios 9:13-14]], "¿No sabéis que los que trabajan en las cosas sagradas, comen del templo, y que los que sirven al altar, del altar participan? Así también ordenó el Señor a los que anuncian el evangelio que vivan del [[evangelio]]". El [[Espíritu Santo]] hace comparación entre las dos cosas porque las dos son ordenadas por [[Dios]]. Los judíos robaban a [[Dios]] cuando no pagaban el [[diezmo]] y no ofrendaban para el sostenimiento de los levitas y [[sacerdotes]]. Es correcto afirmar también que los miembros de la [[iglesia]] roban a [[Dios]] si no dan a la [[ofrenda]] generosamente para ayudar a los santos pobres y para sostener a los que predican el [[evangelio]]. (Compárese [[Malaquías 3:8-9]]).
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Complementa:** [[Comentario_Levitico_Cap_03]] (Peso: 10/10) - *El Capítulo 7 es la continuación directa del Capítulo 3, añadiendo regulaciones críticas (porciones sacerdotales y purificación) al sacrificio de paz.*
+- **Precede:** [[Sacerdocio]] (Peso: 8/10) - *Comprender la función del sacerdote para asimilar por qué deben ser sostenidos por las ofrendas.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Cena del Señor]] (Peso: 10/10) - *Las advertencias de no comer de la ofrenda estando inmundo (Lev. 7:20) sientan las bases de 1 Corintios 10 y 11 sobre discernir la mesa del Señor.*
+- **Fundamenta:** [[Sostenimiento del Predicador]] (Peso: 10/10) - *La porción de Aarón (el pecho mecido y la pierna) es la raíz directa del mandato apostólico de 1 Corintios 9:13-14.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Ofrenda Elevada y Mecida]] (Peso: 9/10) - *Mecer y elevar la carne representaba dedicarla a Dios primero antes de ser comida por el hombre.*
+- **Refuta:** [[Falsa Doctrina: Comunión en Pecado]] (Peso: 10/10) - *Reafirma que la comunión (participar de la mesa) exige separación del pecado; estar en inmundicia provoca la ira de Dios.*
+- **Demuestra:** [[Gracia de Dios hacia el Sacerdocio]] (Peso: 8/10) - *Muestra cómo Dios cuida las necesidades materiales de sus siervos usando las ofrendas del pueblo.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[1 Corintios 9:13-14]] (Los que sirven al altar, del altar participan)
+- **Paralelo:** [[1 Corintios 10:21]] (No podéis participar de la mesa del Señor y de los demonios)
+- **Cumplimiento:** [[1 Juan 1:5-6]] (La comunión exige andar en la luz)

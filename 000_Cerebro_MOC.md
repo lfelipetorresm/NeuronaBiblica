@@ -70,6 +70,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 ### 🗂️ Índices Operativos
 - [[00_Indice_General]]
 - [[00_Indice_Tematico]]
+- [[00_Plan_Indexacion_Maestra]] *(Tablero de Control de IA para Indexación)*
 - [[Indice_Conceptos_Vacios]] *(Conceptos teológicos pendientes de desarrollar)*
 
 ### 📁 Archivo Histórico y Materiales
@@ -78,3 +79,12 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 - [[00_Indice_Unidad]]
 - [[00_Indice_Divinidad_De_Cristo]]
 - [[00_Indice_Cualidades_Bautismo]]
+
+---
+
+### ⚙️ Protocolo de Indexación y Evitación de Duplicidad
+*Instrucciones del Arquitecto para mantener la pureza de la ontología.*
+Todo el material agregado a la Neurona Bíblica **DEBE SER INDEXADO** dinámicamente por los `.agents` (`[[AGENTS.md]]`, `[[AGENTS2.md]]`) para construir diccionarios y ontologías. 
+Sin embargo, para evitar una contaminación cíclica del conocimiento (retroalimentación de IA o redundancia), se establece la regla de **Indexación Asimétrica**:
+1. **Material Base (Nivel 1):** Todas las carpetas crudas, de exégesis, hermenéutica, doctrina y diccionarios deben indexarse de forma exhaustiva.
+2. **Material Generado (Nivel 0 - No Indexar):** Todo archivo ubicado en carpetas de salida, como `06_Sermones_Generados` o `06_Sermones_y_Bosquejos`, queda **ESTRICTAMENTE EXCLUIDO** del motor de indexación, creación de diccionarios (TAREA 2) y ontologías (TAREA 6). Los sermones utilizan la Neurona, pero no alimentan pasivamente la base conceptual.

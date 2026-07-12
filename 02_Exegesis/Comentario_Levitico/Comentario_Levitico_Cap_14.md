@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Naamán]]", "[[María]]", "[[Uzías]]", "[[Giezi]]",
 lugares: ["[[Siria]]", "[[Israel]]", "[[Canaán]]", "[[Corinto]]"]
 doctrinas: ["[[Purificación]]", "[[Substituto]]", "[[Expiación]]", "[[Restauración]]", "[[Castigo De Dios]]", "[[Misericordia De Dios]]", "[[Pecado]]", "[[Consagración]]"]
 estado: Procesado
+importancia: Importante
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 14
@@ -55,3 +58,26 @@ C. Todo [[ídolo]] debe ser "arrancado" de nuestra casa, [[Génesis 35:2]]; [[1 
 D. Aun el ojo que nos hace tropezar debe ser arrancado ([[Marcos 9:43-47]]).
 E. La [[fornicación]] tenía que ser arrancada de la casa de [[Dios]] en [[Corinto]], [[1 Corintios 5]].
 F. En cuanto a la lepra en la [[casa de Israel]], [[Dios]] dijo, "arrancar" y "derribar". En cuanto a la lepra (el [[pecado]]) en la [[casa espiritual de Dios]] (la [[iglesia]]), [[Pablo]] dijo, "quitad, pues, a ese perverso de entre vosotros" ([[1 Corintios 5:13]]).
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Comentario_Levitico_Cap_13]] (Peso: 10/10) - *El diagnóstico de la lepra precede ineludiblemente a su ley de purificación.*
+- **Precede:** [[Comentario_Levitico_Cap_08]] (Peso: 8/10) - *Las ofrendas y consagración del leproso restaurado (sangre en la oreja, pulgar) son idénticas a las del sacerdote en Lev 8.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[El Ministerio de Restauración]] (Peso: 10/10) - *Gálatas 6:1 y Santiago 5, sobre el deber del creyente de "salir" a buscar al que ha caído y restaurarlo a la comunión.*
+- **Fundamenta:** [[Sustitución Expiatoria]] (Peso: 9/10) - *El simbolismo de la avecilla inmolada y la avecilla suelta, figura clarísima del sustituto muriendo para que el ofensor viva en libertad.*
+
+## 🔗 Relaciones Semánticas
+- **Tipología:** [[Las Dos Avecillas]] (Peso: 10/10) - *Representan el sacrificio sustitutivo; una muere en lugar del leproso, y la otra es liberada viva (apunta a la justificación en Cristo y resurrección).*
+- **Cumple:** [[Purificación Integral]] (Peso: 9/10) - *Así como la lepra contamina totalmente y aísla de la casa y del cuerpo, la purificación en Cristo requiere limpieza y consagración de todo miembro.*
+- **Aclara:** [[Lepra en la Casa]] (Peso: 9/10) - *El pecado no sólo afecta al individuo, sino a la casa (la iglesia); requiere arrancar piedras (1 Corintios 5, disciplina de los perversos).*
+- **Define:** [[Libertad del Pecado]] (Peso: 10/10) - *La avecilla suelta, que vuela en libertad tras mancharse con la sangre de la inmolada.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[1 Corintios 5:13]] (La necesidad de "arrancar" la levadura/el pecado de la iglesia local)
+- **Cumplimiento:** [[Marcos 1:44]] (Cristo ordena al leproso cumplir con esta misma ley tras sanarlo)
+- **Cumplimiento:** [[Romanos 6:12-18]] (Presentar los miembros, antes inmundos, a la nueva vida santificada en Dios)

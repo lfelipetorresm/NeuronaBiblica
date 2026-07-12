@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Pablo]]", "[[Cristo]]", "[[Jesús]]", "[[Pedro]]", "
 lugares: ["[[Egipto]]", "[[Jerusalén]]", "[[Judea]]"]
 doctrinas: ["[[Santidad]]", "[[Idolatría]]", "[[Fornicación]]", "[[Expiación]]", "[[Dispensación Patriarcal]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Avanzado
+tiempo_estimado: 40
 ---
 
 # [[Levítico]] 17
@@ -97,3 +100,27 @@ A. Deberían hacer esto para evitar la profanación de la sangre, y para evitar 
 B. El cubrir la sangre era un acto de respeto semejante a la sepultura de un cuerpo.
 
 **17:15** -- "Y cualquier persona ... que comiere animal mortecino o despedazado por fiera ... será inmunda ..." Podían echarlo a los perros ([[Éxodo 22:31]]) y podían darlo o venderlo a un extranjero ([[Deuteronomio 14:21]]). Compárese [[Ezequiel 4:14]], "Y dije: ¡Ah, Señor Jehová! he aquí que mi alma no es inmunda, ni nunca desde mi juventud hasta este tiempo comí cosa mortecina ni despedazada, ni nunca en mi boca entró carne inmunda".
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Santidad]] (Peso: 10/10) - *Los capítulos 17 al 20 abordan la santidad en términos de separación de idolatría y de la impureza, requiriendo dominio del concepto central de santidad.*
+- **Precede:** [[Concilio de Jerusalén]] (Peso: 9/10) - *Hechos 15 es necesario para contextualizar el excursus del autor sobre comer sangre en la era cristiana.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[El Uso de la Sangre]] (Peso: 10/10) - *Comprender por qué la sangre es tan sagrada (es la vida dada para expiar las almas), lo cual fundamenta todo el Nuevo Testamento.*
+- **Fundamenta:** [[Idolatría y Demonios]] (Peso: 9/10) - *Revela la conexión bíblica entre el culto a ídolos, la fornicación (espiritual y carnal) y la comunión con demonios (1 Cor 10:20).*
+
+## 🔗 Relaciones Semánticas
+- **Define:** [[Valor de la Sangre]] (Peso: 10/10) - *La sangre no es alimento, es la sede de la vida (vitalidad) reservada exclusivamente por Dios para hacer expiación en el altar.*
+- **Aclara:** [[Abstenerse de Sangre]] (Peso: 10/10) - *Mandato trans-dispensacional (Patriarcal, Mosaica, Cristiana) dado no por dieta, sino por el valor representativo y sagrado de la vida/expiación.*
+- **Contrasta:** [[Sangría y Transfusiones]] (Peso: 7/10) - *Rechaza la interpretación de los testigos de Jehová, argumentando que la transfusión preserva la vida y no es alimenticia.*
+- **Aclara:** [[1 Corintios 10:25]] (Peso: 9/10) - *Distingue la libertad de comer cualquier carne (levantamiento de la dieta levítica) del mandamiento moral y perpetuo de abstenerse de sangre.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Génesis 9:3-4]] (Prohibición original de comer sangre a Noé)
+- **Paralelo:** [[Hechos 15:28-29]] (Decreto del Espíritu Santo prohibiendo el comer sangre a la iglesia gentil)
+- **Cumplimiento:** [[1 Pedro 1:18-19]] (Redimidos con la sangre preciosa de Cristo)
+- **Cumplimiento:** [[1 Corintios 10:20-21]] (No tener comunión con demonios en la cena)

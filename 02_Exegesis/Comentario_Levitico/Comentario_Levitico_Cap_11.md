@@ -15,6 +15,9 @@ personajes: ["[[Dios]]", "[[Jehová]]", "[[Juan]]"]
 lugares: ["[[Israel]]", "[[Egipto]]"]
 doctrinas: ["[[Pureza]]", "[[Santidad]]", "[[Comunión Con Dios]]", "[[Fe]]", "[[Separación]]"]
 estado: Procesado
+importancia: Fundamental
+dificultad: Intermedio
+tiempo_estimado: 25
 ---
 
 # [[Levítico]] 11
@@ -53,3 +56,27 @@ D. "para ser vuestro Dios": la relación que [[Israel]] sostenía con El.
 A. Es fácil ver cómo estas leyes harían separación entre [[Israel]] y las demás naciones. [[Israel]] no podía asociarse mucho con los paganos sin comer o tocar lo [[inmundo]].
 B. En cuanto a discernir o distinguir entre cosas limpias e inmundas, se recomienda una lectura cuidadosa de [[Filipenses 1:9-11]]; [[Hebreos 5:12-14]], etc.
 C. En cuanto a la separación de lo [[inmundo]], compárese [[2 Corintios 6:14-7:1]] ("no toquéis lo inmundo").
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Santidad]] (Peso: 10/10) - *El propósito principal del capítulo (ser santos porque Dios es santo).*
+- **Define contexto:** [[Dieta Israelita]] (Peso: 8/10) - *Para entender las limitaciones prácticas que fomentaban la separación social.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[2 Corintios 6:14-18]] (Peso: 10/10) - *El yugo desigual y el mandamiento de "no toquéis lo inmundo" nace de Levítico 11.*
+- **Fundamenta:** [[La Visión de Pedro]] (Peso: 9/10) - *Hechos 10 y la abolición de estas leyes dietéticas para permitir la comunión con los gentiles.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Separación del Mundo]] (Peso: 10/10) - *Las leyes dietéticas no eran principalmente por salud, sino para forzar la no asimilación con los pueblos cananeos e idólatras.*
+- **Define:** [[Animal Limpio]] (Peso: 9/10) - *Rumiante de pezuña hendida (tierra), aletas y escamas (agua), o aves que no comen carroña.*
+- **Tipología:** [[Vaso de Barro Destruido]] (Peso: 8/10) - *Al igual que en Levítico 6, representa la imposibilidad de purificar completamente lo que se ha contaminado sin quebrarlo, figura de la naturaleza carnal.*
+- **Refuta:** [[Racionalismo Dietético]] (Peso: 9/10) - *El texto enseña que el "qué" mandó Dios es más importante que el "por qué" (razones higiénicas); es un asunto de obediencia y fe.*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Génesis 7:2]] (La distinción ya existía en tiempos de Noé)
+- **Cumplimiento:** [[Marcos 7:19]] (Jesús declarando limpios todos los alimentos)
+- **Cumplimiento:** [[2 Corintios 6:17]] (La aplicación espiritual: separación del pecado)
+- **Cumplimiento:** [[Hebreos 5:14]] (Discernimiento espiritual entre el bien y el mal)

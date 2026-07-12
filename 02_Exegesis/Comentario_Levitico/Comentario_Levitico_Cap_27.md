@@ -15,6 +15,9 @@ personajes: ["[[Jesús]]", "[[Ananías]]", "[[Safira]]", "[[Jefté]]", "[[Samuel
 lugares: ["[[Jericó]]", "[[Horma]]"]
 doctrinas: ["[[Votos]]", "[[Diezmo]]", "[[Redención]]", "[[Anatema]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Avanzado
+tiempo_estimado: 45
 ---
 
 # [[Levítico]] 27
@@ -55,3 +58,26 @@ Aquí vemos la pena de no cumplir el voto, vers. 20, 21. El hombre que no tomaba
 **27:30** -- El diezmo, [[Números 18:27]]; [[Deuteronomio 14:22-23]]; [[Malaquías 3:8]]. "De todo lo que pasa bajo la vara", es decir, que se cuenta; con la vara cada décimo animal se marcó como posesión del Señor.
 
 **27:34** -- "para los hijos de Israel". [[Romanos 3:19]]; [[Gálatas 3:24]]; [[Hebreos 12:18]], 24 ([[Hebreos 12:24]]); [[Romanos 10:4]].
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Votos en el Antiguo Testamento]] (Peso: 9/10) - *Comprender que los votos no eran obligatorios, pero una vez hechos debían cumplirse (Ecl 5:4).*
+- **Precede:** [[Sistema de Valoración Tabernacular]] (Peso: 8/10) - *Entender el uso del siclo del santuario y cómo los sacerdotes estimaban el valor de personas, animales o tierras dedicadas a Dios.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[El Voto de Jefté]] (Peso: 10/10) - *Permite resolver la controversia de Jueces 11. Con base en las leyes de redención (Lev 27) y la abominación del sacrificio humano (Lev 18/20), se concluye la dedicación vitalicia de la hija de Jefté, no su inmolación física.*
+- **Fundamenta:** [[Diezmo vs Ofrenda]] (Peso: 10/10) - *Ayuda a distinguir entre las obligaciones legales del AT (Diezmo, primicias, anatema, v. 26-33) que no podían dedicarse porque ya eran de Dios, y las ofrendas voluntarias del NT.*
+
+## 🔗 Relaciones Semánticas
+- **Aclara:** [[Anatema]] (Peso: 10/10) - *Cosas consagradas irrevocablemente a Dios (Cherem) para uso divino o destrucción total (ej. Jericó), que no admitían redención (v. 28-29).*
+- **Contrasta:** [[Corbán (Tradición Humana)]] (Peso: 10/10) - *Contrasta la ley divina de dedicación (Lev 27) con el abuso farisaico ("Corbán") usado para evadir el deber de honrar a los padres (Marcos 7).*
+- **Define:** [[Redención Monetaria]] (Peso: 9/10) - *El principio de añadir la "quinta parte" (20%) como penalidad/interés al querer recuperar lo que ya se había prometido voluntariamente a Dios (v. 15, 31).*
+- **Tipifica:** [[Cristo el Fin de la Ley]] (Peso: 9/10) - *Estos mandamientos fueron "para los hijos de Israel" (v. 34). Con Cristo, termina la ley como ayo (Gal 3:24, Rom 10:4).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Deuteronomio 23:21-23]] (Instrucciones de no tardar en pagar el voto)
+- **Paralelo:** [[Jueces 11:30-40]] (El controvertido caso de Jefté y su hija)
+- **Cumplimiento:** [[Romanos 10:4]] (El fin de todas estas ordenanzas mosaicas en la persona de Cristo)

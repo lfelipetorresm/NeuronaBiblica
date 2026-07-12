@@ -15,6 +15,9 @@ personajes: ["[[Aarón]]", "[[Jesús]]", "[[Esteban]]", "[[Dios]]"]
 lugares: ["[[Israel]]", "[[Egipto]]"]
 doctrinas: ["[[Comunión Con Dios]]", "[[Blasfemia]]", "[[Reverencia]]"]
 estado: Procesado
+importancia: Normal
+dificultad: Intermedio
+tiempo_estimado: 20
 ---
 
 # [[Levítico]] 24
@@ -47,3 +50,27 @@ A. El énfasis aquí parece ser la aplicación de estas leyes al extranjero. "Un
 B. ¿Por qué acompañaban a los israelitas? Desde luego, porque gozaban de muchos beneficios, provisiones y protección. Por lo tanto, era del todo razonable que aceptaran las leyes que gobernaban a los israelitas. Mucha gente disfruta de los beneficios de su patria y al mismo tiempo maldicen a los gobernantes y pisotean las leyes de país. La persona que no quiere obedecer las leyes de su país no merece los beneficios del país. El gobierno que permite que los ciudadanos blasfemen a sus líderes y profanen la bandera tolera la [[anarquía]]. Recuérdese [[Romanos 13:1-7]].
 C. La acción de la congregación de apedrear al blasfemo era acción judicial. No era acción de un pueblo alborotado. Dice [[Deuteronomio 21:19-20]] que los padres de un hijo rebelde deberían sacarlo ante los ancianos de la ciudad, acusarlo, y luego todos los hombres de la ciudad deberían tomar parte en apedrearlo.
 D. Los judíos acusaron a [[Jesús]] y a [[Esteban]] de [[blasfemia]] ([[Mateo 9:3]]; [[Mateo 26:65]]; [[Juan 10:30-33]]; [[Hechos 6:11]], 13 ([[Hechos 6:13]]); [[Hechos 7:59]]) y al oír esta acusación el pueblo estaba listo para apedrearlos.
+
+---
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de estudiar esta nota, es altamente recomendado dominar:*
+- **Precede:** [[Tabernáculo y Utensilios]] (Peso: 9/10) - *Entender el mobiliario (candelero, mesa de los panes) descrito en Éxodo 25-27 para comprender su mantenimiento continuo aquí.*
+- **Precede:** [[Blasfemia]] (Peso: 9/10) - *Entender el peso de maldecir o usar en vano el Nombre de Dios (Éxodo 20:7).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este estudio te prepara para profundizar en:*
+- **Habilita:** [[Juicios del Nuevo Testamento]] (Peso: 10/10) - *Habilita comprender por qué los judíos buscaron apedrear a Jesús y a Esteban acusándolos de blasfemia (Mateo 26, Hechos 7), pues aplicaban (erróneamente a ellos) la ley de Levítico 24.*
+- **Fundamenta:** [[Comunión Continua]] (Peso: 10/10) - *La luz perenne y el pan renovado tipifican la comunión constante que la iglesia debe mantener con Cristo.*
+
+## 🔗 Relaciones Semánticas
+- **Tipifica:** [[Iglesia como Luz]] (Peso: 10/10) - *El aceite puro traído por el pueblo para mantener la luz ardiendo tipifica a la iglesia brillando en el mundo (Mateo 5:14).*
+- **Aclara:** [[Peligro del Yugo Desigual]] (Peso: 9/10) - *El hijo de la mujer israelita y el egipcio ejemplifica los conflictos y frutos amargos que surgen de los matrimonios mixtos.*
+- **Aclara:** [[Igualdad ante la Ley]] (Peso: 9/10) - *Un mismo estatuto para el natural y el extranjero (v. 22). Los beneficios de asociarse con el pueblo de Dios exigen sumisión a sus leyes.*
+- **Tipifica:** [[Disciplina Congrecional]] (Peso: 8/10) - *Toda la congregación apedreando al blasfemo encuentra su paralelo en la disciplina que ejerce toda la iglesia contra el pecador impenitente (1 Cor 5).*
+
+## 📖 Textos Paralelos y Cumplimientos
+- **Paralelo:** [[Éxodo 25:30]] y [[Éxodo 27:20-21]] (Instrucciones originales sobre el pan y el aceite)
+- **Paralelo:** [[Deuteronomio 21:19-20]] (Procedimiento similar para apedrear al hijo rebelde por la comunidad)
+- **Cumplimiento:** [[Juan 8:12]] (Jesús como la luz del mundo, cumplimiento del candelero)
+- **Cumplimiento:** [[Juan 6:35]] (Jesús como el pan de vida, el verdadero pan de la proposición)
