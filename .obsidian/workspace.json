@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Sermones_Generados/O/Ofrenda_1Cor16_Mandamiento.md",
+                "file": "000_Cerebro_MOC.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ofrenda_1Cor16_Mandamiento"
+              "title": "000_Cerebro_MOC"
             }
           }
         ]
@@ -182,6 +182,16 @@
   },
   "active": "49f41b976eb11572",
   "lastOpenFiles": [
+    "README.md",
+    "Reporte_Arquitecto.md",
+    "Sin título.canvas",
+    "06_Sermones_Generados/R/Restauracion/Hub_Restauracion_1.md",
+    "06_Sermones_Generados/R/Restauracion/El_Peligro_de_la_Restauracion_Precipitada.md",
+    "06_Sermones_Generados/P/Piedad_2Pe1_6.md",
+    "06_Sermones_Generados/P/Hub_P_1.md",
+    "06_Sermones_Generados/O/Ofrenda_1Cor16_Mandamiento.md",
+    "06_Sermones_Generados/O/Hub_O_1.md",
+    "05_Materiales/Bales_Musica_Instrumental/Hub_Bales_Musica_Instrumental_1.md",
     "05_Materiales/Bales_Musica_Instrumental/00_Indice_Bales_Musica.md",
     "05_Materiales/Bales_Musica_Instrumental/BIBLIOGRAFIA.md",
     "05_Materiales/Bales_Musica_Instrumental/CAPITULO_14.md",
@@ -199,18 +209,9 @@
     "05_Materiales/Bales_Musica_Instrumental/CAPITULO_2.md",
     "05_Materiales/Bales_Musica_Instrumental/CAPITULO_1.md",
     "05_Materiales/Bales_Musica_Instrumental/INTRODUCCION.md",
-    "05_Materiales/Bales_Musica_Instrumental/00_Prefacio.md",
     "05_Materiales/Bales_Musica_Instrumental",
     "process_pdf.py",
-    "06_Sermones_Generados/B/Bautismo/Estudio_Bautismo_SOT3.md",
-    "06_Sermones_Generados/O/Ofrenda_1Cor16_Mandamiento.md",
     "06_Sermones_Generados/O",
-    "00_Indices/Tablero_Salud_NeuroBiblia.md",
-    "00_Indices/00_Plan_Indexacion_Maestra.md",
-    "00_Indices/Hub_00_Indices_1.md",
-    "00_Indices/Protocolo_Auditoria_Incremental.md",
-    "00_Indices/00_Indice_Tematico.md",
-    "06_Sermones_Generados/P/Piedad_2Pe1_6.md",
     "06_Sermones_Generados/P",
     "scripts/audit_levitico.py",
     "scripts/soc_auditor_supremo.py",

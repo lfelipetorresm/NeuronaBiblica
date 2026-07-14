@@ -8,7 +8,6 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 
 > Este archivo fue generado por el Motor SOC para garantizar que ningún nodo quede huérfano.
 
-- [[OCULTAR]]
 - [[OCULTO, A]]
 - [[OCUPACIÓN]]
 - [[OCUPAR]]
@@ -1008,3 +1007,4 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 - [[QUITAR]]
 - [[QUITIM]]
 - [[QUITLIS]]
+- [[QUITRÓN]]

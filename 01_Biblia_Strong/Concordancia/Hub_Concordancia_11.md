@@ -8,7 +8,6 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 
 > Este archivo fue generado por el Motor SOC para garantizar que ningún nodo quede huérfano.
 
-- [[VIHUELA]]
 - [[VIL]]
 - [[VILEZA]]
 - [[VILLA]]
@@ -219,6 +218,7 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 - [[ZUZITA]]
 - [[ZÍA]]
 - [[ZÓCALO]]
+- [[_ON]]
 - [[ÁFRICA]]
 - [[ÁGAPE]]
 - [[ÁGATA]]

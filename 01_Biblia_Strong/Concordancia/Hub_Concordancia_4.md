@@ -8,7 +8,6 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 
 > Este archivo fue generado por el Motor SOC para garantizar que ningún nodo quede huérfano.
 
-- [[DETERMINAR]]
 - [[DETESTABLE]]
 - [[DETESTAR]]
 - [[DETRACCIÓN]]
@@ -1008,3 +1007,4 @@ etiquetas: ["#Hub", "#IndexacionAutomatica"]
 - [[EXCELENTE]]
 - [[EXCELENTÍSIMO]]
 - [[EXCELSO, A]]
+- [[EXCEPCIÓN]]
