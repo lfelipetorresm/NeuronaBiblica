@@ -41,3 +41,19 @@ Preguntas
  5. ¿Por medio de quién ejecutó [[Cristo]] su Autoridad? (Cite la Biblia.) 
  6. ¿Cómo serían guiados los apóstoles? 
  7. ¿Por qué vino el [[Espíritu Santo]] a los apóstoles?  8. ¿Cómo confirmaron su predicación los apóstoles?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Autoridad Biblica]] (Peso: 10/10) - *El concepto del gobierno divino por medio de Cristo (Col 3:17).*
+- **Complementa:** [[Leccion_07_El_origen_de_la_iglesia]] (Peso: 8/10) - *La vinculación entre cuándo empezó y bajo qué leyes opera.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Inspiracion del Espiritu Santo]] (Peso: 10/10) - *Cómo los apóstoles recibieron y confirmaron el Nuevo Testamento.*
+- **Amplía:** [[Leccion_09_Uso_de_las_Escrituras_del_Antiguo_Testamento]] (Peso: 9/10) - *Entender la autoridad actual para no judaizar la iglesia.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Tradicion Humana]] (Peso: 10/10) - *Si la fe fue "una vez dada a los santos" (Judas 3), no hay revelaciones modernas.*
+- **Define:** [[Cristo como Legislador]] (Peso: 10/10) - *Cristo reemplaza a Moisés en el Nuevo Pacto.*

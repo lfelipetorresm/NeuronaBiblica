@@ -50,3 +50,18 @@ Lección X -- Evangelismo
 Lección XI -- Evangelismo personal 
 Lección XII -- Edificación 
 Lección XIII -- Ministrando a los pobres
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_08_La_autoridad_de_la_iglesia]] (Peso: 9/10) - *El Nuevo Pacto como la única regla de fe actual.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Culto Escritural]] (Peso: 10/10) - *La razón por la cual no usamos instrumentos mecánicos, incienso o sacerdotes levíticos.*
+- **Amplía:** [[Justificacion por la Fe]] (Peso: 9/10) - *El peligro de buscar la justificación por las obras de la Ley (Gál 5:1-4).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Sabatismo]] (Peso: 10/10) - *El decálogo y el sábado (Col 2:14-17) fueron clavados en la cruz.*
+- **Define:** [[Proposito del Antiguo Testamento]] (Peso: 8/10) - *Escrito para nuestra enseñanza y esperanza (Rom 15:4), pero no como ley vigente.*

@@ -34,3 +34,18 @@ Preguntas
  7. Mencione algunas condiciones esenciales para el cre cimiento que a menudo omite la [[iglesia]] en sus programas de enseñanza.  8. Defínase la palabra "exhortación." 
  9. ¿Quiénes tienen la responsabilidad especial de vigilar las almas? 
  10. ¿Qué cosa es lo más difícil, enseñar y convencer o per suadir a la acción?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Mision de la Iglesia]] (Peso: 10/10) - *La segunda fase de la misión: el crecimiento interno.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Disciplina Eclesiastica]] (Peso: 9/10) - *Por qué la iglesia debe amonestar a los desordenados (1 Tes 5).*
+- **Amplía:** [[Autoridad de los Ancianos]] (Peso: 10/10) - *La responsabilidad pastoral de vigilar por las almas (Hechos 20).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Cristianismo Estancado]] (Peso: 10/10) - *La dureza para el oír como estorbo fatal (Heb 5).*
+- **Demuestra:** [[Crecimiento Espiritual]] (Peso: 10/10) - *Añadiendo virtudes (2 Pedro 1) y usando toda la armadura de Dios (Efesios 6).*

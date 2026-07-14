@@ -52,3 +52,18 @@ Lección XIX -- La organización de la [[iglesia]]
 Lección XX -- De los ancianos 
 Lección XXI -- De los diáconos 
 Lección XXII -- De los evangelistas
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_17_La_salvacion_y_la_membresia_en_la_iglesia]] (Peso: 10/10)
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Plan de Salvacion]] (Peso: 10/10) - *El proceso completo: Oír, Creer, Arrepentirse, Confesar, Bautizarse.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Salvacion solo por Fe]] (Peso: 10/10) - *Se demuestra con los ejemplos de Hechos que el bautismo es para remisión de pecados.*
+- **Refuta:** [[Bautismo del Espiritu Santo Moderno]] (Peso: 9/10) - *Las conversiones siempre incluyen obediencia humana a la predicación, no un toque milagroso directo sin la Palabra.*
+- **Define:** [[Nuevo Nacimiento]] (Peso: 10/10) - *El agua (bautismo) y el Espíritu (la enseñanza del evangelio).*

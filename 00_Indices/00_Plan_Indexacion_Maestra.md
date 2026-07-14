@@ -65,4 +65,32 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
   - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` dejada en `[/]`.
   - **Procesado:** `Leccion_01` y `Leccion_02`.
   - **Conceptos extraídos/enlazados:** Ekklesía, Kuriakos, Llamamiento, Familia de Dios, Casa de Dios, Nuevo Nacimiento.
+- **13 de Julio de 2026:** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_03` y `Leccion_04`.
+  - **Conceptos extraídos/enlazados:** Reino de Dios, Premilenialismo, Cristo como Rey, Denominacionalismo, Cristo como Cabeza.
+- **14 de Julio de 2026:** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_05`, `Leccion_06` y `Leccion_07`.
+  - **Conceptos extraídos/enlazados:** Templo de Dios, Viña del Señor, Origen de la Iglesia, Sectarismo Moderno.
+- **14 de Julio de 2026 (Parte 2):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_08`, `Leccion_09` y `Leccion_10`.
+  - **Conceptos extraídos/enlazados:** Autoridad Bíblica, Tradición Humana, Sabatismo, Sociedades Misioneras, Evangelio Social.
+- **14 de Julio de 2026 (Parte 3):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_11`, `Leccion_12` y `Leccion_13`.
+  - **Conceptos extraídos/enlazados:** Evangelismo Personal, Clero y Laicos, Cristianismo Estancado, Manejo Anti-escritural de Fondos.
+- **14 de Julio de 2026 (Parte 4):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_14`, `Leccion_15` y `Leccion_16`.
+  - **Conceptos extraídos/enlazados:** Sectarismo Cristiano, Membresía Libre, Rebelión contra Ancianos.
+- **14 de Julio de 2026 (Parte 5):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_17`, `Leccion_18` y `Leccion_19`.
+  - **Conceptos extraídos/enlazados:** Inseparabilidad Cristo-Iglesia, Plan de Salvación, Nuevo Nacimiento, Gobierno Centralizado, Sociedades Anexas.
+- **14 de Julio de 2026 (Parte 6):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_20`, `Leccion_21` y `Leccion_22`.
+  - **Conceptos extraídos/enlazados:** Jerarquía Clerical, Ancianos auto-nombrados, Junta de Diáconos, Pastor Único, Independencia del Evangelista.
 *(Añadir nuevas entradas debajo de esta línea)*

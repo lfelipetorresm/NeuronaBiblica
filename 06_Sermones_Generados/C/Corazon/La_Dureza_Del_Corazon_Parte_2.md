@@ -1,13 +1,3 @@
----
-titulo: La Dureza del Corazón (Parte 2)
-tipo: sermon_generado
-estado: finalizado
-etiquetas: ["#Sermon", "#Corazon", "#Apostasia", "#Arrepentimiento"]
-origen: IA_Arquitecto
-importancia: Fundamental
-dificultad: Intermedio
-tiempo_estimado: 35
----
 
 # La Dureza del Corazón (Parte 2)
 **El peligro silencioso en el pueblo de Dios…**
@@ -88,20 +78,6 @@ Hoy es el día. *«Entre tanto que se dice: Hoy... no endurezcáis vuestros cora
 Corre al altar de la gracia. Rinde tu orgullo, confiesa (homologéō) tu transgresión, y permite que el Espíritu devuelva la vida a tu alma. ¡Que el Señor tenga misericordia de su iglesia!
 
 ***
-
-## 🧱 Dependencias (Prerrequisitos de estudio)
-*Antes de asimilar esta doctrina, dominar:*
-- **Complementa:** [[Doctrina del Arrepentimiento]] (Peso: 10/10) - *Entender la diferencia entre remordimiento carnal (Esaú) y quebrantamiento espiritual.*
-- **Define:** [[Pōrōsis]] (Peso: 8/10) - *El concepto médico-espiritual del endurecimiento progresivo.*
-
-## 🚀 Esta nota habilita comprender
-*El dominio de este texto prepara para:*
-- **Amplía:** [[La Apostasía]] (Peso: 9/10) - *Cómo el encallecimiento de la conciencia es la antesala de la pérdida de la salvación.*
-
-## 🔗 Relaciones Semánticas
-- **Refuta:** [[Gracia Barata]] (Peso: 9/10)
-- **Refuta:** [[Justificación del Pecado por Debilidad]] (Peso: 10/10)
-- **Cumple:** [[Ezequiel 36:26]] (Corazón de carne vs piedra).
 
 ***
 

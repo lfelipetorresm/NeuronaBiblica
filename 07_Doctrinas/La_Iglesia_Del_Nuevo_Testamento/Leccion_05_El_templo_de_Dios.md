@@ -28,3 +28,19 @@ Preguntas
  10. ¿Dónde puede encontrarse el plan del templo de [[Dios]]?  11. ¿Es importante que el plan de [[Dios]] deba seguirse en la edificación de su templo hoy? 
  12. ¿Sobre qué descansa la fuerza y la resistencia del tem plo?  13. ¿Pueden ofrecerse sacrificios y culto aceptables en otro lugar que no sea el templo? 
  14. ¿Qué fase de la [[iglesia]] ha sido enfatizada en esta figura?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_04_El_cuerpo_de_Cristo]] (Peso: 8/10) - *Continúa el estudio de las metáforas de la iglesia.*
+- **Define:** [[Templo de Dios]] (Peso: 10/10) - *El lugar de la morada del Espíritu Santo.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Culto Escritural]] (Peso: 9/10) - *Si la iglesia es el templo, el culto debe ser conforme al plano divino.*
+- **Amplía:** [[Santidad del Creyente]] (Peso: 10/10) - *Los infieles no pueden ser piedras vivas del templo.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Templos Literales Modernos]] (Peso: 10/10) - *El nombre de Dios ya no está registrado en un edificio físico, sino en la iglesia.*
+- **Define:** [[Piedras Vivas]] (Peso: 9/10) - *La naturaleza de los cristianos individuales que componen el edificio espiritual.*

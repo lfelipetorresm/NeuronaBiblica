@@ -38,3 +38,19 @@ Preguntas
  4. ¿Cuál es la agencia de [[Dios]] para evangelizar el mundo?  5. ¿Cómo se demuestra esto en la parábola de los obreros en la viña? 
  6. ¿Qué significa ser la agencia que envía los obreros?  7. ¿Qué es la [[iglesia]] en relación con el apoyo de la verdad?  8. ¿En qué sentido es la [[iglesia]] el "agente edificador"?  9. Menciónense algunas de las iglesias del Nuevo Testa mento que fueron centros del evangelismo. 
  10. ¿Cuál fue el orden divino para evangelizar al mundo?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Estado de Perdicion]] (Peso: 10/10) - *La necesidad universal de salvación por el pecado (Rom 3:23).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_11_Evangelismo_personal]] (Peso: 10/10) - *La aplicación individual del mandato general de evangelizar.*
+- **Amplía:** [[Organizacion de la Iglesia]] (Peso: 8/10) - *Cómo la congregación local ejecuta su misión autónomamente.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Sociedades Misioneras]] (Peso: 9/10) - *La iglesia local es la única agencia evangelística diseñada por Dios.*
+- **Refuta:** [[Evangelio Social]] (Peso: 10/10) - *La misión primaria no es social ni política, sino salvar almas.*
+- **Define:** [[El Evangelio como Potencia]] (Peso: 10/10) - *Romanos 1:16.*

@@ -1,13 +1,3 @@
----
-titulo: El Peligro de la Restauración Precipitada (Perdón vs Calificación)
-tipo: sermon_generado
-estado: finalizado
-etiquetas: ["#Sermon", "#Restauracion", "#Disciplina", "#Perdon", "#Liderazgo"]
-origen: IA_Arquitecto
-importancia: Fundamental
-dificultad: Avanzado
-tiempo_estimado: 45
----
 
 # El Peligro de la Restauración Precipitada
 **Perdón Salvífico vs. Calificación para Liderar**
@@ -105,16 +95,3 @@ Si eres un líder de la iglesia... no cedas al sentimentalismo barato. Eres guar
 - **Dokimē (δοκιμή):** Carácter probado. El proceso o resultado de pasar por un fuego purificador, usado en la antigüedad para probar metales.
 - **Anepilēmptos (ἀνεπίλημπτος):** Irreprensible. Inatacable. Que no da lugar a que el adversario tenga un "asa" por donde agarrarlo para acusarlo moralmente.
 - **Neófito:** Recién plantado. Alguien nuevo en la fe o en una condición de inmadurez espiritual reciente.
-
-## 🧱 Dependencias (Prerrequisitos de estudio)
-*Antes de asimilar esta doctrina, dominar:*
-- **Define:** [[Doctrina del Arrepentimiento]] (Peso: 10/10) - *Entender la diferencia entre la decisión (metanoia) y los frutos a largo plazo.*
-- **Complementa:** [[Calificaciones para Liderazgo]] (Peso: 9/10) - *El análisis de Tito 1 y 1 Timoteo 3 sobre la irreprensibilidad.*
-
-## 🚀 Esta nota habilita comprender
-*El dominio de este texto prepara para:*
-- **Amplía:** [[Disciplina Eclesiastica]] (Peso: 10/10) - *Los parámetros correctos para administrar justicia y gracia en la congregación.*
-
-## 🔗 Relaciones Semánticas
-- **Refuta:** [[Sentimentalisimo Eclesiastico]] (Peso: 10/10) - *La herejía práctica de priorizar las emociones humanas sobre la santidad del púlpito.*
-- **Demuestra:** [[1 Timoteo 5:22]] (Peso: 9/10) - *El peligro de participar en pecados ajenos por ligereza pastoral.*

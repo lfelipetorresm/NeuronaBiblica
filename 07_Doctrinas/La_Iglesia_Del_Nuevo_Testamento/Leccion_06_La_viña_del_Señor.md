@@ -48,3 +48,19 @@ Introducción -- Las tres lecciones siguientes tratan del origen de la [[iglesia
 Lección VII -- El origen de la [[iglesia]] 
 Lección VIII -- La autoridad de la [[iglesia]] 
 Lección IX -- Uso de las Escrituras del Antiguo Testamento
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_05_El_templo_de_Dios]] (Peso: 7/10)
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Evangelismo Personal]] (Peso: 10/10) - *La responsabilidad de trabajar en la viña y sembrar la semilla.*
+- **Amplía:** [[Apostasia]] (Peso: 9/10) - *Las consecuencias de mezclar la semilla o dejar de dar fruto.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Sectarismo]] (Peso: 10/10) - *Mezclar la semilla con doctrinas humanas corrompe la viña.*
+- **Define:** [[La Semilla es la Palabra]] (Peso: 10/10) - *Principio fundamental del evangelio en Lucas 8:11.*
+- **Demuestra:** [[Frutos del Espiritu]] (Peso: 9/10) - *La evidencia empírica de permanecer en Cristo.*

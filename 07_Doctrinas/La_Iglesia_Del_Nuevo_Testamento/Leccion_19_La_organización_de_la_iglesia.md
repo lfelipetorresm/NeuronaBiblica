@@ -31,3 +31,19 @@ Preguntas
  6. ¿Cómo hizo la [[iglesia]] primitiva trabajo evangelístico, ayudó a los pobres, se edificó? ¿Por qué medio? 
  7. De ejemplos de cada uno de estas fases de la obra.  8. ¿Qué hay de malo con las varias "sociedades de ayuda"?  9. ¿Cómo pueden las iglesias locales cooperar en cualquiera buena obra? 
  10. ¿Bajo la supervisión de quiénes debe ser hecho todo el trabajo de la [[iglesia]]?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Concepto de Iglesia Universal y Local]] (Peso: 10/10) - *Distinguir los dos usos de la palabra Ekklesía en el Nuevo Testamento.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_20_De_los_ancianos]] (Peso: 10/10) - *El liderazgo local como única forma de gobierno congregacional.*
+- **Amplía:** [[Leccion_21_De_los_diaconos]] (Peso: 9/10)
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Gobierno Centralizado]] (Peso: 10/10) - *No existe organización de distrito, ni papado, ni sínodo universal en el Nuevo Testamento. Cada congregación es autónoma.*
+- **Refuta:** [[Sociedades Anexas]] (Peso: 10/10) - *Las organizaciones para-eclesiásticas (sociedades de damas, jóvenes) son no-escriturales, porque la iglesia local es el único medio de Dios para trabajar.*
+- **Demuestra:** [[Autonomia Local]] (Peso: 10/10) - *Gobierno independiente en cada iglesia local (Hechos 14:23).*

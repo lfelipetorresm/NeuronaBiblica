@@ -1,13 +1,3 @@
----
-titulo: La Dureza del Corazón (Parte 1)
-tipo: sermon_generado
-estado: finalizado
-etiquetas: ["#Sermon", "#Corazon", "#Apostasia", "#Mundanismo"]
-origen: IA_Arquitecto
-importancia: Fundamental
-dificultad: Intermedio
-tiempo_estimado: 40
----
 
 # La Dureza del Corazón (Parte 1)
 **El peligro silencioso en el pueblo de Dios…**
@@ -73,20 +63,6 @@ Muchos miembros desean los beneficios de la salvación, pero se niegan a soltar 
 *(Nota: El sermón continúa en la Parte 2, donde se abordarán los síntomas inequívocos, el abismo del rechazo y el camino de regreso al manantial).*
 
 ***
-
-## 🧱 Dependencias (Prerrequisitos de estudio)
-*Antes de asimilar esta doctrina, dominar:*
-- **Define:** [[Mundanismo]] (Peso: 10/10) - *Entender que el mundo no es solo el planeta, sino el sistema filosófico contrario a Dios.*
-- **Define:** [[Sitz im Leben del Siglo I]] (Peso: 8/10) - *Comprender la cultura de patronazgo, honor y vergüenza para entender Santiago 4:4.*
-
-## 🚀 Esta nota habilita comprender
-*El dominio de este texto prepara para:*
-- **Complementa:** [[La Dureza del Corazon Parte 2]] (Peso: 10/10) - *Los síntomas prácticos y el camino de restauración.*
-- **Amplía:** [[La Santidad de la Iglesia]] (Peso: 8/10) - *Cómo la pureza congregacional previene el encallecimiento colectivo.*
-
-## 🔗 Relaciones Semánticas
-- **Refuta:** [[Cristianismo Carnal]] (Peso: 10/10) - *La herejía moderna de creer que se puede tener a Cristo como Salvador pero no como Señor.*
-- **Demuestra:** [[Hebreos 3:12-13]] (Peso: 9/10) - *La urgencia del "Hoy".*
 
 ***
 

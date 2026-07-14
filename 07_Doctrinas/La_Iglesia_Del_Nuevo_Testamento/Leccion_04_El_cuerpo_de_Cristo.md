@@ -38,3 +38,19 @@ Preguntas
  5. ¿Cuáles son algunas de las obligaciones de los miembros?  6. ¿Cuántos cuerpos tiene [[Cristo]]? 
  7. ¿Qué relaciones se enfatizan en este cuadro de la [[iglesia]]?  8. ¿Cómo es edificado el cuerpo como unidad?  9. ¿Dónde se hace posible la reconciliación? 
  10. ¿Pueden gozarse la [[salvación]] y bendiciones espirituales y fuera del cuerpo de [[Cristo]]?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_03_El_reino_de_Dios]] (Peso: 9/10) - *La iglesia vista desde la perspectiva de Reino y Gobierno.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_23_La_importancia_de_la_unidad]] (Peso: 10/10) - *Si hay un solo cuerpo, la división sectaria es inconcebible.*
+- **Amplía:** [[Organizacion de la Iglesia]] (Peso: 8/10) - *Cómo operan los diversos miembros bajo la única Cabeza.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Denominacionalismo]] (Peso: 10/10) - *La multiplicidad de "cuerpos" contradice a Efesios 4:4.*
+- **Define:** [[Cristo como Cabeza]] (Peso: 10/10) - *Autoridad absoluta, exclusiva e intransferible de Cristo sobre la iglesia.*
+- **Demuestra:** [[Unidad en Cristo]] (Peso: 9/10) - *Judíos y gentiles reconciliados orgánicamente en un solo cuerpo.*

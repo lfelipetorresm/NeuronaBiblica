@@ -35,3 +35,19 @@ Preguntas
 la [[iglesia]] en Corinto (1 Cor. 6:11)? 
  9. Defina la palabra "santo". 
  10. ¿Son santos todos los cristianos?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Membresia de la Iglesia]] (Peso: 10/10) - *El concepto relacional de pertenecer al cuerpo de Cristo y a la familia de Dios.*
+- **Complementa:** [[Leccion_14_La_grandeza_y_gloria_de_la_iglesia]] (Peso: 9/10)
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_16_La_membresia_sus_responsabilidades]] (Peso: 10/10) - *Las bendiciones siempre acarrean obligaciones correlativas.*
+- **Amplía:** [[Santidad del Creyente]] (Peso: 9/10) - *Ser miembro demanda una vida de separación del pecado.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Falsa Seguridad de Salvacion]] (Peso: 8/10) - *La membresía implica santificación; sin ella, hay castigo paternal.*
+- **Demuestra:** [[Paternidad de Dios]] (Peso: 10/10) - *Vigilancia, provisión, corrección y comunión como hijos en la familia divina.*

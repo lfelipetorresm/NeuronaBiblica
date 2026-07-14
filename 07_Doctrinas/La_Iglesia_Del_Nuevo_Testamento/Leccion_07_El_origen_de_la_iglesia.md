@@ -58,3 +58,19 @@ Preguntas
  7. ¿Cómo sabe usted que el Reino no estaba en existencia durante los días de Juan el Bautista y durante el ministerio per sonal de [[Jesús]]? 
  8. ¿Cuáles fueron los linderos del principio actual del Reino?  9. ¿Qué día notable marca el principio? 
  10. Después de esta fecha, ¿cómo se habló de la [[iglesia]] o reino?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Origen de la Iglesia]] (Peso: 10/10) - *El tiempo exacto del establecimiento del Reino en Hechos 2.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Autoridad de la Iglesia]] (Peso: 10/10) - *El fundamento apostólico bajo el cual opera desde Pentecostés.*
+- **Amplía:** [[Uso del Antiguo Testamento]] (Peso: 9/10) - *Diferenciar la autoridad y vigencia de las dos dispensaciones.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Juan el Bautista Fundador]] (Peso: 10/10) - *Refutación de la doctrina bautista sobre el origen de la iglesia.*
+- **Refuta:** [[Sectarismo Moderno]] (Peso: 9/10) - *Cualquier origen fuera del día de Pentecostés o de la ciudad de Jerusalén es origen humano.*
+- **Demuestra:** [[Cumplimiento de Profecia]] (Peso: 10/10) - *La correlación exacta y perfecta con Isaías 2 y Daniel 2.*

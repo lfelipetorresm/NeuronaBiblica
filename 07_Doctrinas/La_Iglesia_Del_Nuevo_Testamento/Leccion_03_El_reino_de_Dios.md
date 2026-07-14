@@ -31,3 +31,20 @@ III. Condiciones esenciales de la ciudadanía en el reino de [[Dios]]:
  2. ¿Cuál es la naturaleza de esta forma de gobierno?  3. ¿Quién es el rey? ¿Cómo vino El a ser rey?  4. ¿Qué tan completa es su potencia y autoridad?  5. ¿Cómo venimos a ser ciudadanos del reino de [[Cristo]]?  6. Cuándo vino [[Cristo]] a ser rey? (Efes. 1:18,19).  7. ¿Qué ley rige en el reino de [[Cristo]]? 
  8. ¿Cuya autoridad debe ser exclusivamente reconocida en el reino de [[Cristo]]? 
  9. ¿Cuáles son algunas de las obligaciones de la ciudadanía?  10. ¿Cómo puede medirse el buen éxito en el reino?  11. ¿Qué será de aquellos que causan escándalo en el reino?  12. ¿Es el reino de [[Cristo]] espiritual o terrenal? (Juan 18:36).  13. ¿Hasta dónde se extiende el dominio de [[Cristo]] ahora? (Apoc. 1:5; 1 Pedro 3:22; Efes. 1:20-23).
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Reino de Dios]] (Peso: 10/10) - *El concepto del gobierno y dominio espiritual del Mesías.*
+- **Complementa:** [[Leccion_01_El_cuerpo_que_es_llamado]] (Peso: 8/10) - *La profunda conexión entre la iglesia (los llamados) y el reino.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_04_El_cuerpo_de_Cristo]] (Peso: 9/10) - *Transición hacia las metáforas orgánicas de la iglesia.*
+- **Refuta:** [[Premilenialismo]] (Peso: 10/10) - *Entender que el reino YA existe (Col 1:13) destruye la teoría de un reino futuro terrenal.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Reino Político]] (Peso: 10/10) - *El reino es espiritual, no carnal.*
+- **Define:** [[Cristo como Rey]] (Peso: 10/10) - *El trono actual de Cristo a la diestra de Dios.*
+- **Define:** [[Nuevo Nacimiento]] (Peso: 9/10) - *La condición exclusiva de entrada a la ciudadanía del reino.*

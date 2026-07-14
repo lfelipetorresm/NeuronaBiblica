@@ -38,3 +38,18 @@ Preguntas
  5. ¿Qué tan extenso es el campo para el evangelismo cris-
 tiano? 
  6. Mencione algunas de las bendiciones que recibe el ganador de almas.
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_10_Evangelismo]] (Peso: 10/10) - *El deber general de la iglesia aplicado al nivel individual.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Metodos Evangelisticos]] (Peso: 9/10) - *El ejemplo de Andrés y Felipe (Juan 1).*
+- **Amplía:** [[Responsabilidad Individual]] (Peso: 10/10) - *La parábola de los talentos (Mateo 25).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Clero y Laicos]] (Peso: 10/10) - *La falsa distinción sectaria; aquí se demuestra que TODO cristiano es un ganador de almas.*
+- **Demuestra:** [[Influencia Cristiana]] (Peso: 9/10) - *Las vidas justas como "cartas leídas" y "sal de la tierra" (Mateo 5).*

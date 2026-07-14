@@ -32,3 +32,18 @@ Preguntas
  4. Demuestre que el mismo procedimiento que hace a uno cristiano, le hace miembro de la [[iglesia]]. 
  5. ¿Donde se encuentran todas las bendiciones espirituales?  6. ¿Dónde se halla toda la plenitud de [[Cristo]]?  7. ¿Al ser miembros de la [[iglesia]], dónde se inscriben nuestros nombres? 
  8. ¿Debe el nombre de uno estar inscrito en el cielo para ser salvo?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_15_Lo_que_significa_la_membresia]] (Peso: 9/10) - *Continúa el estudio de la relación entre Cristo y el creyente.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_18_Como_venir_a_ser_miembro]] (Peso: 10/10) - *Si la salvación está solo en la iglesia, es vital saber cómo entrar en ella.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Iglesia no es escencial]] (Peso: 10/10) - *La herejía denominacional de que la iglesia es opcional. Cristo dio su sangre por ella.*
+- **Demuestra:** [[Inseparabilidad Cristo-Iglesia]] (Peso: 10/10) - *Cristo es Cabeza, la iglesia el Cuerpo. Imposible tener relación con la Cabeza sin estar en el Cuerpo.*
+- **Demuestra:** [[El Bautismo Salva]] (Peso: 9/10) - *El mismo procedimiento que perdona los pecados (fe, bautismo) es el que añade a la iglesia.*

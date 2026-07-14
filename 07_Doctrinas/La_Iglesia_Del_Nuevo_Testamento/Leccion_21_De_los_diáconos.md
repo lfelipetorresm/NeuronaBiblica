@@ -38,3 +38,17 @@ Preguntas
  2. ¿A qué ha sido limitado finalmente el término?  3. ¿Cómo habló Pablo a la [[iglesia]] de Filipos (Fil. 1:1)?  4. Contraste el significado de las palabras "diácono" y "anciano". 
  5. ¿Cuál es el trabajo de los diáconos a la luz de Hech. 6:1-6?  6. ¿Fue su trabajo de orden espiritual o temporal?  7. Enumere las cualidades de los diáconos. 
  8. Especifique las marcas negativas de estos requisitos.  9. Especifique las marcas positivas de estos requisitos.  10. Haga distinción entre los diáconos y los demás miembros de la congregación.
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_20_De_los_ancianos]] (Peso: 9/10) - *Los diáconos laboran bajo la supervisión de los ancianos.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Servicio en la Iglesia]] (Peso: 10/10) - *La naturaleza de la diakonía (servicio activo temporal/material para que el liderazgo se enfoque en lo espiritual).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Junta de Diaconos como Gobernantes]] (Peso: 10/10) - *Los diáconos no son la junta directiva ni gobiernan la iglesia; son siervos especiales elegidos para tareas específicas (Hechos 6).*
+- **Demuestra:** [[Cualidades Espirituales para Tareas Seculares]] (Peso: 9/10) - *Aunque sirvan mesas, deben estar "llenos del Espíritu Santo y sabiduría".*

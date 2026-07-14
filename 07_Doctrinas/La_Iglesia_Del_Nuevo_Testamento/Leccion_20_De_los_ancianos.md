@@ -32,3 +32,19 @@ Preguntas
  6. ¿Qué responsabilidad tienen los ancianos? 
  7. Especifique las cualidades de los ancianos. 
  8. ¿Cuál es el deber de los miembros respecto a los an cianos?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_19_La_organizacion_de_la_iglesia]] (Peso: 10/10) - *El único gobierno establecido por Dios es el de los ancianos en cada congregación local.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Autoridad Pastoral]] (Peso: 10/10) - *Comprender que Obispo, Pastor y Anciano son el mismo oficio.*
+- **Amplía:** [[Leccion_21_De_los_diaconos]] (Peso: 8/10) - *La diferencia entre los que supervisan y los que sirven (diáconos).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Jerarquia Clerical]] (Peso: 10/10) - *Refuta la idea sectaria de que un "Pastor" es distinto o superior a un "Anciano". El Nuevo Testamento usa las palabras indistintamente para el mismo oficio colegiado (pluralidad).*
+- **Refuta:** [[Ancianos auto-nombrados]] (Peso: 10/10) - *Nadie puede asumir el cargo sin cumplir estrictamente las cualidades de 1 Timoteo 3 y Tito 1.*
+- **Demuestra:** [[Pluralidad de Liderazgo]] (Peso: 10/10) - *Siempre se constituyeron "ancianos" (plural) en cada iglesia.*

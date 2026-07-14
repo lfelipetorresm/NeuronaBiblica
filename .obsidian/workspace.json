@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_2.md",
+                "file": "06_Sermones_Generados/A/Alcohol/05_Cerrando_Las_Valvulas_De_Escape.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La_Dureza_Del_Corazon_Parte_2"
+              "title": "05_Cerrando_Las_Valvulas_De_Escape"
             }
           }
         ]
@@ -182,11 +182,21 @@
   },
   "active": "49f41b976eb11572",
   "lastOpenFiles": [
-    "06_Sermones_Generados/R/Restauracion/El_Peligro_de_la_Restauracion_Precipitada.md",
+    "06_Sermones_Generados/A/Alcohol/04_No_Dados_A_Mucho_Vino.md",
+    "06_Sermones_Generados/A/Alcohol/05_Cerrando_Las_Valvulas_De_Escape.md",
+    "06_Sermones_Generados/A/Alcohol/03_El_Argumento_Logico_Y_La_Ruina_Moral.md",
+    "06_Sermones_Generados/A/Alcohol/02_La_Gradacion_Del_Pecado_Y_La_Sobriedad.md",
+    "06_Sermones_Generados/A/Alcohol/01_El_Mito_Del_Vino_Biblico.md",
+    "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_1.md",
+    "07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento/Leccion_02_La_familia_de_Dios.md",
+    "06_Sermones_Generados/A/Alcohol",
+    "06_Sermones_Generados/A",
+    "07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento/Leccion_01_El_cuerpo_que_es_llamado.md",
+    "06_Sermones_Generados/C/Cena_del_Senor/Estudio_Elementos_Cena_Santo.md",
     "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_2.md",
+    "06_Sermones_Generados/R/Restauracion/El_Peligro_de_la_Restauracion_Precipitada.md",
     "06_Sermones_Generados/R/Restauracion",
     "06_Sermones_Generados/R",
-    "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_1.md",
     "06_Sermones_Generados/M/Matrimonio/Estudio_Gen2_24_Matrimonio_A_Distancia.md",
     "06_Sermones_Generados/C/Corazon",
     "06_Sermones_Generados/S/Sermon_De_Los_Anos_A_Los_Dias.md",
@@ -197,7 +207,6 @@
     "Sermon_De_Los_Anos_A_Los_Dias.md",
     "06_Sermones_Generados/M/Matrimonio/Estudio_Mateo_19_Divorcio.md",
     "06_Sermones_Generados/I/Inspiracion_Biblica/Estudio_2_Timoteo_3_16.md",
-    "06_Sermones_Generados/C/Cena_del_Senor/Estudio_Elementos_Cena_Santo.md",
     "99_Plantillas/Perfiles_Agenticos/Agente_10_Pastor.md",
     "06_Sermones_Generados/M/Matrimonio/Estudio_Gen2_24_Dejara_Autoridad.md",
     "02_Exegesis/Exegesis_Genesis_2_24.md",
@@ -205,18 +214,9 @@
     "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_26.md",
     "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_25.md",
     "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_19.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_18.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_17.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_24.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_23.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_22.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_21.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_20.md",
     "06_Sermones_Generados/B/Bautismo",
     "06_Sermones_Generados/B",
     "06_Sermones_Generados/M/Matrimonio",
-    "06_Sermones_Generados/M",
-    "99_Plantillas/Perfiles_Agenticos",
-    "scripts/formatear_homiletica.py"
+    "06_Sermones_Generados/M"
   ]
 }

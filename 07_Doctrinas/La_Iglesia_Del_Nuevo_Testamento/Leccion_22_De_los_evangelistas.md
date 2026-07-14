@@ -43,3 +43,19 @@ Lección XXIII -- La importancia de la unidad
 Lección XXIV -- El carácter no denominacional de la [[iglesia]] Lección XXV -- El [[pecado]] de la división 
 Lección XXVI -- El plan de [[Dios]] para la unidad 
 Lección XXVII -- La unidad, una obligación individual
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Evangelismo]] (Peso: 10/10) - *El concepto de proclamador de buenas nuevas (Efesios 4:11).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Perpetuacion del Evangelio]] (Peso: 9/10) - *La entrega del conocimiento a otros que enseñarán (2 Timoteo 2:2).*
+- **Amplía:** [[Disciplina y Apostasia]] (Peso: 10/10) - *El deber del evangelista de advertir, redargüir y rechazar doctrinas falsas.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[El Evangelista como Pastor Unico]] (Peso: 10/10) - *El evangelista predica y organiza, pero NO es el "Pastor" o "Gobernante" de la congregación (eso corresponde a los ancianos).*
+- **Refuta:** [[Independencia del Evangelista]] (Peso: 10/10) - *Debe estar sujeto a una congregación local y sus ancianos, no operando como una organización para-eclesiástica.*
+- **Demuestra:** [[Dedicacion Exclusiva]] (Peso: 8/10) - *Dar todo su tiempo a la obra (1 Timoteo 4:13-16).*

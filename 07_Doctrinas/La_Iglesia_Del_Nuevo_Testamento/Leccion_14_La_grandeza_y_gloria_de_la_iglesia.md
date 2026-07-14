@@ -39,3 +39,18 @@ Preguntas
  6. ¿En quién se encuentran todas las bendiciones espirituales?  7. ¿Cómo, entonces, se pueden gozar las bendiciones espirituales? 
  8. ¿En quién reconcilió [[Cristo]] al judío y al gentil?  9. Demuestre que uno viene a formar parte del cuerpo de [[Cristo]] y es cristiano por el mismo procedimiento. 
  10. ¿Puede alguien "adherirse a la [[iglesia]]"?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_04_El_cuerpo_de_Cristo]] (Peso: 8/10) - *La conexión indivisible entre Cristo (Cabeza) y su Iglesia (Cuerpo).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Leccion_15_Lo_que_significa_la_membresia]] (Peso: 10/10) - *Si la iglesia es gloriosa, pertenecer a ella es el mayor privilegio humano.*
+- **Amplía:** [[Salvacion en la Iglesia]] (Peso: 10/10) - *Todas las bendiciones espirituales se hallan exclusivamente dentro de ella.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Sectarismo Cristiano]] (Peso: 10/10) - *La iglesia es incomparablemente mayor que las instituciones humanas o denominaciones.*
+- **Demuestra:** [[Cristo como Salvador del Cuerpo]] (Peso: 10/10) - *Efesios 5:23.*

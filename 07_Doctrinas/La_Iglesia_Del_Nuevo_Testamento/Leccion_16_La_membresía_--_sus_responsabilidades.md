@@ -30,3 +30,19 @@ VI. Fruto ha de ser llevado; la [[iglesia]] tiene una misión que cumplir; almas
  (1) ¿No debe cada cristiano ser responsable a cada congregación? 
  (2) ¿Cómo está el cristiano de "membresía libre" derrotando la misión de la [[iglesia]] local y su propósito?  3. ¿Quiénes tienen la supervisión de la [[iglesia]] a su cargo?  4. ¿A quiénes deben los miembros someterse? ¿Por qué?  5. ¿Hasta qué limite debe cada miembro participar en la obra de la [[iglesia]]? 
  6. ¿Con respecto a la paz y a la unidad, qué debe hacer uno?  7. ¿Hasta qué punto debe cada uno luchar por la unidad?  8. Concerniente a la [[iglesia]], ¿[[Cristo]] murió para establecer qué? Efes. 5:25-27. Con respecto a eso, ¿cuál es el deber del miembro?  9. ¿Cuál es el misión del cristiano respecto de los frutos?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_15_Lo_que_significa_la_membresia]] (Peso: 10/10)
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Membresia Local]] (Peso: 10/10) - *Por qué cada cristiano debe someterse a una congregación específica y a sus ancianos.*
+- **Amplía:** [[Mantenimiento de la Unidad]] (Peso: 9/10) - *El mandato de velar por la paz y apartarse de los que causan división.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Membresia Libre]] (Peso: 10/10) - *La herejía práctica de creer que se puede ser cristiano sin pertenecer y someterse a una congregación local.*
+- **Refuta:** [[Rebelion contra Ancianos]] (Peso: 10/10) - *Hebreos 13:17 exige obediencia y sujeción a la autoridad pastoral legítima.*
+- **Demuestra:** [[Participacion Activa]] (Peso: 9/10) - *Cada miembro debe dar fruto y aportar trabajo a la congregación.*

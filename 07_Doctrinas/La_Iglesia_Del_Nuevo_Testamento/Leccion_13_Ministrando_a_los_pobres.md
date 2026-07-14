@@ -45,3 +45,18 @@ Lección XIV -- La grandeza y gloria de la [[iglesia]].
 Lección XV -- Lo que significa la membresía 
 Lección XVI -- La membresía: sus responsabilidades. 
 Lección XVII -- La [[salvación]] y la membresía de la [[iglesia]]. Lección XVIII -- Como venir a ser miembro de la [[iglesia]].
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Define:** [[Mision de la Iglesia]] (Peso: 10/10) - *La tercera y última fase de su obra.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Finanzas de la Iglesia]] (Peso: 10/10) - *El plan del Nuevo Testamento para reunir fondos (1 Cor 16:1-2).*
+- **Amplía:** [[Amor Cristiano]] (Peso: 9/10) - *La base motivacional de todo servicio.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Manejo Anti-escritural de Fondos]] (Peso: 10/10) - *Refuta el uso de rifas, diezmos modernos y colectas externas en favor del tesoro común congregacional.*
+- **Demuestra:** [[Cooperacion Congregacional]] (Peso: 8/10) - *Cómo las iglesias locales colaboraban autónomamente (2 Cor 8).*
