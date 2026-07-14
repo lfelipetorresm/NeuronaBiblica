@@ -6,13 +6,18 @@ Este documento sirve como un mapa de navegación por toda la bóveda, reflejando
 
 ---
 
-## 📊 Estado Actual del Zettelkasten (Nivel Profesional)
-
-Actualmente, el **Sistema Operativo de Conocimiento (SOC)** de la NeuroBiblia rige sobre una infraestructura masiva de datos teológicos, alcanzando el **NIVEL 5.0 • MADUREZ HIPER-CONECTADA**.
-
-- 🪨 **Nodos (Documentos):** `49,237` archivos Markdown activos (exégesis, diccionarios, sermones).
-- 🔗 **Sinapsis (Enlaces):** `~357,000` conexiones semánticas y backlinks.
-- 🎯 **Cohesión Estructural:** `98.5%` de accesibilidad sin huérfanos lógicos, gracias a los Hubs Maestros generados dinámicamente.
+<div align="center">
+  <h2>Un Zettelkasten Teológico de Nivel Profesional</h2>
+  
+  <p>
+    <img src="https://img.shields.io/badge/NODOS-49,237-007ec6?style=for-the-badge&logo=obsidian&logoColor=white" alt="Nodos" />
+    <img src="https://img.shields.io/badge/SINAPSIS-357,000-4c1?style=for-the-badge&logo=share&logoColor=white" alt="Sinapsis" />
+    <img src="https://img.shields.io/badge/COHESI%C3%93N-98.5%25-ffcc00?style=for-the-badge&logo=target&logoColor=black" alt="Cohesión" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/ESTADO-NIVEL_5.0_%E2%80%A2_MADUREZ_HIPER--CONECTADA-800080?style=for-the-badge" alt="Estado" />
+  </p>
+</div>
 
 ---
 
