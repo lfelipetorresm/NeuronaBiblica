@@ -93,4 +93,16 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
   - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
   - **Procesado:** `Leccion_20`, `Leccion_21` y `Leccion_22`.
   - **Conceptos extraídos/enlazados:** Jerarquía Clerical, Ancianos auto-nombrados, Junta de Diáconos, Pastor Único, Independencia del Evangelista.
+- **14 de Julio de 2026 (Parte 7):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_23`, `Leccion_24` y `Leccion_25`.
+  - **Conceptos extraídos/enlazados:** Pluralismo Religioso, Unidad por la Verdad, Restauracionismo vs Protestantismo, Nombres y Credos Humanos, El Valor del Cisma, Ecumenismo Ciego.
+- **14 de Julio de 2026 (Parte 8):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_26`, `Leccion_27` y `Leccion_28`.
+  - **Conceptos extraídos/enlazados:** Las Siete Unidades, Unión sin Doctrina, Inmutabilidad de la Fe, Individualismo Religioso, Misticismo y Especulación, Sustitutos Humanos en la Religión, Ecumenismo Institucional.
+- **14 de Julio de 2026 (Parte 9):** Sesión de 30 minutos (Simulada).
+  - **Estado:** Carpeta `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento` continúa en `[/]`.
+  - **Procesado:** `Leccion_29`, `Leccion_30` y `Leccion_31`.
+  - **Conceptos extraídos/enlazados:** Nombre Escritural, Sectarismo por Nombres, Día del Señor, Adoración en Espíritu, Elementos del Culto (Cena, Canto, Oración, Contribución), Enseñanza Escritural, Credos Humanos vs Biblia, Conversión.
 *(Añadir nuevas entradas debajo de esta línea)*

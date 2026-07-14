@@ -43,3 +43,18 @@ Preguntas
  8. ¿Qué debe conservarse para retener la peculiaridad del pueblo de [[Dios]], la [[iglesia]]? 
  9. ¿Cuál debe ser la actitud de los cristianos hacia los com promisos mundanos? 
  10. Señale algunas maneras de perder toda pretensión para identificarse como [[iglesia]] del Nuevo Testamento.
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_07_El_origen_de_la_iglesia]] (Peso: 9/10) - *El patrón original dado en Pentecostés.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Apologetica de la Restauracion]] (Peso: 10/10) - *Cómo usar la Biblia como "caña de medir" (Apoc 11:1) para identificar a la verdadera iglesia hoy.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Sustitutos Humanos en la Religion]] (Peso: 10/10) - *La justificación de sectas por "hacer buenas obras", lo cual deshonra a Dios si no se hace según Su modelo.*
+- **Refuta:** [[Ecumenismo Institucional]] (Peso: 10/10) - *Aliar a la iglesia con movimientos políticos o sociales, perdiendo su identidad de "Nación Santa".*
+- **Demuestra:** [[Autoridad Exclusiva del Nuevo Testamento]] (Peso: 10/10) - *El mandato de Moisés aplicado a la iglesia: "Mira y haz todas las cosas conforme al modelo" (Heb 8:5).*

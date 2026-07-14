@@ -55,3 +55,10 @@ La frase *"no dados a mucho vino"* no es el pase libre de la carne para beber li
 - **Falacia de la Implicación Contraria:** Error lógico que consiste en asumir falsamente que si se prohíbe un extremo (ej. "mucho"), automáticamente se está autorizando la acción en un grado menor (ej. "poco").
 - **Hermenéutica Consistente:** Principio de interpretación bíblica que exige que la explicación de un pasaje oscuro o aislado no puede entrar en contradicción directa con pasajes claros (como el mandato a la sobriedad absoluta en 1 Timoteo 3:2).
 - **Sobriedad (Nefaleos):** Estado bioquímico y mental de lucidez total, libre de toda alteración inducida por toxinas o sustancias embriagantes.
+
+### Bibliografía
+
+Keener, C. S., & Walton, J. H. (2016). *Comentario del contexto cultural de la Biblia: Nuevo Testamento*. Editorial Mundo Hispano.
+Partain, W., & Reeves, C. (s.f.). *Notas sobre el Nuevo Testamento*. (Material de estudio, Bóveda Neurona Bíblica).
+Sociedades Bíblicas Unidas. (1960). *La Santa Biblia, Reina-Valera 1960*. Sociedades Bíblicas Unidas.
+Trench, R. C. (2004). *Sinónimos del Nuevo Testamento*. Editorial Clie.

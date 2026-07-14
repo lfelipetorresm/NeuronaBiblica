@@ -56,3 +56,10 @@ La lógica y la exégesis de las Escrituras desmienten rotundamente que la Bibli
 - **Nefaleos:** Adjetivo griego que significa "sobrio", libre de toda influencia embriagante o tóxica. Estado de total lucidez mental.
 - **Potois:** Palabra griega (usada en 1 Pedro 4:3) que denota la participación en bebidas sociales o reuniones para tomar, independientemente del nivel de embriaguez alcanzado. Distinto de la borrachera extrema.
 - **Lascivia / Disolución:** La pérdida de los frenos morales; entregarse a los impulsos sin sentir vergüenza. Un efecto comprobado del consumo de alcohol.
+
+### Bibliografía
+
+Keener, C. S., & Walton, J. H. (2016). *Comentario del contexto cultural de la Biblia: Nuevo Testamento*. Editorial Mundo Hispano.
+Partain, W., & Reeves, C. (s.f.). *Notas sobre el Nuevo Testamento*. (Material de estudio, Bóveda Neurona Bíblica).
+Sociedades Bíblicas Unidas. (1960). *La Santa Biblia, Reina-Valera 1960*. Sociedades Bíblicas Unidas.
+Trench, R. C. (2004). *Sinónimos del Nuevo Testamento*. Editorial Clie.

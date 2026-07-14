@@ -34,3 +34,17 @@ Preguntas
  (3) ¿Cuáles tres puntos esenciales omiten?  5. ¿Qué hay de erróneo en la idea de una "unión orgánica y división espiritual"? 
  6. ¿De qué manera muestran los "Avivamientos de unión" que el denominacionalismo es un grave error? 
  7. ¿Qué se hace un lado siempre en los "avivamientos de unión?"
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_23_La_importancia_de_la_unidad]] (Peso: 10/10) - *Por qué la unidad es un mandato divino.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Apologetica de las Siete Unidades]] (Peso: 10/10) - *Efesios 4 como la plataforma divina e innegociable para la unidad (un Dios, un Señor, una fe, un bautismo, un cuerpo, una esperanza, un Espíritu).*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Union sin Doctrina]] (Peso: 10/10) - *La herejía de los "avivamientos de unión" que ignoran las diferencias doctrinales en pro de una unión emocional y orgánica.*
+- **Demuestra:** [[Inmutabilidad de la Fe]] (Peso: 10/10) - *La unidad divina requiere una sola fe y un solo bautismo, invalidando las conclusiones de que "todas las iglesias son buenas".*

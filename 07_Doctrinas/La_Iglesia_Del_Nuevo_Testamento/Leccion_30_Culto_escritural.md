@@ -8,7 +8,7 @@ etiquetas: ["#Doctrina", "#Iglesia"]
 
 # Lección XXX: Culto escritural
 
-I. El día del Señor (Apoc. 1:10). 
+I. El [[día del Señor]] (Apoc. 1:10). 
  1. ¿El sábado? No. (a) El sábado fue dado a los judíos a causa de su liberación de Egipto (Deut. 5:15). 
  (b) [[Dios]] dijo que cesaría (Oseas 2:11). 
  (c) Pablo dijo que había cesado con la crucifixión de [[Cristo]] juntamente con la ley que fue enclavada en la cruz (Col. 2:13-17).
@@ -21,7 +21,7 @@ II. El espíritu de su culto:
  5. Nuestros corazones deben estar en nuestra adoración (Mat. 15:7,9). 
  6. Los corintios, a causa de su división, carnalidad y frivoli dad, no pudieron adorar a [[Dios]] con su corazón y fueron conde nados por Pablo (1 Cor. 11:17,34). 
 III. Las partes componentes del culto, conforme al plan del Nuevo Testamento: 
- 1. La cena del Señor en el primer día de la semana (Hech. 20:7). Se reunieron para observarla (1 Cor. 11:23-26). Reci bieron instrucciones de [[Cristo]] por medio de Pablo para hacerlo así.  2. Canto (Col. 3:16; Efes. 5:19). Esta es la única música que se considera en el plan del Nuevo Testamento. 
+ 1. La [[cena del Señor]] en el primer día de la semana (Hech. 20:7). Se reunieron para observarla (1 Cor. 11:23-26). Recibieron instrucciones de [[Cristo]] por medio de Pablo para hacerlo así.  2. [[Canto]] (Col. 3:16; Efes. 5:19). Esta es la única música que se considera en el plan del Nuevo Testamento. 
  3. La oración (Hech. 2:42; 1 Tim. 2:1,8). 
  4. Comunión, contribuyendo para el tesoro conforme [[Dios]] les prospera (1 Cor. 16. 16:1,2; Hech. 2.42). 
  5. Predicando y enseñando la palabra de [[Dios]] (Hech. 20:7; 2:42). 

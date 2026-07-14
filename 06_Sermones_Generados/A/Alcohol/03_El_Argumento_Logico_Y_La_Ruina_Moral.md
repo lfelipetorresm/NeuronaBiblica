@@ -49,3 +49,10 @@ El uso de la razón revela que no hay un solo argumento lógico o teológico sos
 - **Causalidad Lógica:** Principio de la razón que establece que todo efecto tiene una causa. El alcoholismo (efecto) tiene como causa inexcusable la bebida social (causa).
 - **Subterfugio Lógico:** Excusa o razonamiento engañoso utilizado para evadir una responsabilidad o justificar un comportamiento incorrecto.
 - **Ley de Tropezadero:** Principio ético cristiano donde un creyente restringe voluntariamente sus libertades para no inducir al pecado o a la ruina espiritual a un hermano más débil.
+
+### Bibliografía
+
+Keener, C. S., & Walton, J. H. (2016). *Comentario del contexto cultural de la Biblia: Nuevo Testamento*. Editorial Mundo Hispano.
+Partain, W., & Reeves, C. (s.f.). *Notas sobre el Nuevo Testamento*. (Material de estudio, Bóveda Neurona Bíblica).
+Sociedades Bíblicas Unidas. (1960). *La Santa Biblia, Reina-Valera 1960*. Sociedades Bíblicas Unidas.
+Trench, R. C. (2004). *Sinónimos del Nuevo Testamento*. Editorial Clie.

@@ -36,3 +36,18 @@ Preguntas
  6. ¿Hasta qué punto está obligado uno a guardar la unidad del Espíritu? 
  7. ¿Cómo podrá la sana palabra crear la unidad?  8. ¿Cómo deben ser tratadas las cuestiones necias?  9. ¿En qué forma promueve la división las interpretaciones privadas?
  10. ¿Cómo mantendrá la unidad el "hablar las mismas cosas"?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_24_El_caracter_no-denominacional_de_la_iglesia]] (Peso: 9/10) - *Entender el modelo no denominacional es base para ver por qué la división es pecado.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Disciplina de la Iglesia]] (Peso: 10/10) - *El mandato apostólico de "marcar y evitar" a quienes causan divisiones.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[El Valor del Cisma por Motivos Personales]] (Peso: 10/10) - *La idea de que dividirse por preferencias personales o disputas menores es aceptable; es obra de la carne (Gál. 5).*
+- **Refuta:** [[Compañerismo Incondicional]] (Peso: 10/10) - *La herejía (Ecumenismo ciego) de recibir a herejes o divisores en nombre del amor (2 Juan 9-11).*
+- **Demuestra:** [[Pureza Doctrinal como Base de la Unidad]] (Peso: 10/10) - *La unidad no se logra por sentimentalismo, sino limitándose a la enseñanza apostólica para hablar "la misma cosa".*

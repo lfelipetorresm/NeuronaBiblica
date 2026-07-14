@@ -23,7 +23,7 @@ II. ¿Cuál fue el nombre dado por [[Dios]] que se usó en los días del Nuevo T
  2. Aceptado por Pablo (Hech. 26:28,29). 
  3. Glorificad a [[Dios]] en este nombre (1 Pedro 4:14-16). Un nombre digno (Sant. 2:7). 
  4. Los nombres empleados a la [[iglesia]], en general: la [[iglesia]] de [[Dios]] (1 Cor 1:2). Iglesias de [[Cristo]] (Rom. 16:16).  (1) En sus diferentes fases es llamada: 
-(a) reino de [[Dios]] (Mat. 13:31,33,44,45). (b) cuerpo de [[Cristo]] (Efes. 1:22,23; Col. 1:18). (c) casa de [[Dios]] (1 Tim. 3:15, 16).  5. Nombres aplicados a los miembros individualmente:  (1) Cristianos (Hech. 11:26). 
+(a) [[reino de Dios]] (Mat. 13:31,33,44,45). (b) [[cuerpo de Cristo]] (Efes. 1:22,23; Col. 1:18). (c) [[casa de Dios]] (1 Tim. 3:15, 16).  5. Nombres aplicados a los miembros individualmente:  (1) [[Cristianos]] (Hech. 11:26). 
  (2) Santos (Fil. 4:21). 
  (3) Discípulos (Hech. 16:1; 20:7). 
  (4) Hermanos (Col 1:2). Estos nombres son individuales y nunca se aplican en la Escritura a la [[iglesia]]. Por lo tanto, la [[iglesia]] no puede, escrituralmente, ser llamada "La [[Iglesia]] Cris tiana". 

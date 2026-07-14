@@ -27,3 +27,19 @@ Preguntas
  1. ¿Por qué cosa oró [[Jesús]] tan fervientemente?  2. ¿Cuál es el alcance de la unidad por la que El oró?  3. Dénse la implicación y aplicación de su oración por la unidad. 
  4. ¿Cuál es la petición común que se incluye en la oración de los líderes denominacionales? 
  5. ¿Qué mandó Pablo y exhortó que hicieran los corintios?  6. ¿Cual es la fuerza de la palabra "os ruego"?  7. ¿Quién autorizó la unidad entre los creyentes en [[Cristo]]?  8. ¿Cómo puede la unidad asegurarse y mantenerse?  9. Señale el argumento de Pablo contra las sectas y divisiones.  10. ¿Cómo anula la división la oración del Señor?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_04_El_cuerpo_de_Cristo]] (Peso: 10/10) - *Como el Cuerpo es uno, la iglesia debe ser una sin división.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Apologetica de la Unidad]] (Peso: 10/10) - *Usar Juan 17 como arma apologética frente a los defensores de las denominaciones.*
+- **Amplía:** [[Leccion_24_El_caracter_no-denominacional_de_la_iglesia]] (Peso: 9/10) - *La conexión entre la oración por la unidad y el carácter singular de la iglesia.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Pluralismo Religioso Aceptable]] (Peso: 10/10) - *La idea de que tener "muchas iglesias diferentes" es una bendición; Juan 17 muestra que produce infidelidad en el mundo.*
+- **Refuta:** [[Cristianismo Sectario]] (Peso: 10/10) - *El seguir nombres humanos (de Pablo, de Apolos) en lugar de honrar el señorío de Cristo.*
+- **Demuestra:** [[Unidad por la Verdad]] (Peso: 10/10) - *La paz no se compra sacrificando la verdad; la unidad se logra al hablar "una misma cosa" en base a la Palabra.*

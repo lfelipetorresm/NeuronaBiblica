@@ -49,3 +49,18 @@ Lección XXXII -- Enseñanza escritural
 Lección XXXIII -- La pureza de la [[iglesia]] 
 Lección XXXIV -- La [[iglesia]] y la mundanalidad 
 Lección XXXV -- La disciplina de la [[iglesia]]
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_25_El_pecado_de_la_division]] (Peso: 10/10) - *Por qué la división destruye el trabajo y misión de la iglesia.*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Desarrollo del Caracter Cristiano]] (Peso: 9/10) - *El papel del dominio propio, control de la lengua y humildad para mantener la iglesia unida.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[Individualismo Religioso]] (Peso: 10/10) - *El orgullo y egoísmo que prioriza la voluntad humana ("hacer lo que yo creo") por encima de la unidad del Cuerpo.*
+- **Refuta:** [[Misticismo y Especulacion]] (Peso: 10/10) - *El uso de enseñanzas caprichosas que causan contiendas (Tito 3:9-11).*
+- **Demuestra:** [[Cooperacion Congregacional]] (Peso: 10/10) - *El esfuerzo activo que requiere el vínculo de la paz para poder evangelizar al mundo con éxito.*

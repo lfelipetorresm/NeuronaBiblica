@@ -61,3 +61,10 @@ La posición de la Iglesia de Cristo es, y debe ser, la de una santidad radical.
 - **Levadura / Fermento:** En tipología bíblica, símbolo consistente del pecado, la corrupción y la falsa doctrina (Mateo 16:6, 1 Corintios 5:6-8). Estaba prohibida en la Pascua.
 - **Nazareo (Voto de):** Consagración especial a Dios descrita en Números 6, que incluía la prohibición total de consumir cualquier producto derivado de la vid, incluso uvas frescas o pasas. (Ej. Juan el Bautista).
 - **Oinopotes:** Término despectivo usado por los fariseos para acusar falsamente a Jesús de ser un "bebedor de vino" o borracho.
+
+### Bibliografía
+
+Keener, C. S., & Walton, J. H. (2016). *Comentario del contexto cultural de la Biblia: Nuevo Testamento*. Editorial Mundo Hispano.
+Partain, W., & Reeves, C. (s.f.). *Notas sobre el Nuevo Testamento*. (Material de estudio, Bóveda Neurona Bíblica).
+Sociedades Bíblicas Unidas. (1960). *La Santa Biblia, Reina-Valera 1960*. Sociedades Bíblicas Unidas.
+Trench, R. C. (2004). *Sinónimos del Nuevo Testamento*. Editorial Clie.

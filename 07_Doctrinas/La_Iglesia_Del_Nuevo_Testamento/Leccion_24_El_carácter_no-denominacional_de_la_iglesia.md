@@ -41,3 +41,18 @@ Preguntas
  7. ¿Cómo se puede asegurar el cristianismo 
 no-denominacional? 
  8. ¿A expensas de qué existen ahora las denominaciones?  9. ¿Qué es lo que los líderes denominacionales rechazan?  10. ¿Cómo adulteran las denominaciones el Nuevo Testamento?
+
+***
+
+## 🧱 Dependencias (Prerrequisitos de estudio)
+*Antes de asimilar esta doctrina, dominar:*
+- **Complementa:** [[Leccion_23_La_importancia_de_la_unidad]] (Peso: 10/10) - *La unidad demanda rechazar el concepto de denominación (fracción o parte).*
+
+## 🚀 Esta nota habilita comprender
+*El dominio de este texto prepara para:*
+- **Amplía:** [[Restauracionismo vs Protestantismo]] (Peso: 10/10) - *La diferencia entre restaurar la iglesia original frente a reformar una denominación existente.*
+
+## 🔗 Relaciones Semánticas
+- **Refuta:** [[La Iglesia como Conjunto de Denominaciones]] (Peso: 10/10) - *La herejía ecuménica de que todas las denominaciones juntas conforman "la iglesia". La iglesia universal es un solo cuerpo con fieles individuales añadidos por Dios.*
+- **Refuta:** [[Nombres y Credos Humanos]] (Peso: 10/10) - *El uso de manuales eclesiásticos, credos y nombres sectarios viola la autoridad de Cristo.*
+- **Demuestra:** [[Autonomia Local]] (Peso: 10/10) - *La única organización de la iglesia en el NT es la congregación local independiente.*

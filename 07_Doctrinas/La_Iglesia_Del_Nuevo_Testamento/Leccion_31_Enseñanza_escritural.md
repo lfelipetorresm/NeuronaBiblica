@@ -19,7 +19,7 @@ II. La enseñanza de [[Cristo]] y los apóstoles, el único y suficiente credo d
  4. Proporciona todas las cosas que pertenecen a la vida y a la piedad (2 Pedro 1:3,4). 
  5. La [[fe]] una vez por todas entregada a los santos (Judas 3).
  6. Una [[fe]] (Efes. 4:5). 
- 7. "Habléis todos una misma cosa" (1 Cor. 1:10). III. Objeciones a los credos humanos: 
+ 7. "Habléis todos una misma cosa" (1 Cor. 1:10). III. Objeciones a los [[credos humanos]]: 
  1. Hechos por los hombres, luego son falibles e imperfectos.  2. No llenan las necesidades de la humanidad, por tanto, in suficientes. 
  3. Deben ser revisados con frecuencia, luego no tienen per manencia. 
  4. Ninguna autoridad que los sustente, luego, no se pueden sostener. 

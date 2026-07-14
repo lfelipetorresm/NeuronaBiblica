@@ -57,3 +57,10 @@ El uso de la razón aplasta el argumento principal de los defensores de la bebid
 - **Falacia de Falsa Equivalencia:** Un error lógico que ocurre cuando se afirma que dos cosas distintas son iguales porque comparten una característica superficial (en este caso, compartir la palabra "vino", aunque sus componentes químicos sean distintos).
 - **Hermenéutica:** La ciencia y los principios de la interpretación correcta de los textos bíblicos.
 - **Oinos:** Palabra griega traducida como "vino" en el Nuevo Testamento. Podía referirse tanto al jugo de uva fresco (mosto) como al jugo fermentado, el cual culturalmente se diluía fuertemente con agua para el consumo humano.
+
+### Bibliografía
+
+Keener, C. S., & Walton, J. H. (2016). *Comentario del contexto cultural de la Biblia: Nuevo Testamento*. Editorial Mundo Hispano.
+Partain, W., & Reeves, C. (s.f.). *Notas sobre el Nuevo Testamento*. (Material de estudio, Bóveda Neurona Bíblica).
+Sociedades Bíblicas Unidas. (1960). *La Santa Biblia, Reina-Valera 1960*. Sociedades Bíblicas Unidas.
+Trench, R. C. (2004). *Sinónimos del Nuevo Testamento*. Editorial Clie.
